@@ -184,4 +184,21 @@
 2017-04-10 01-26-38| <> Your ship doesn't support more of this turret type.
 2017-04-10 01-26-39| <> Your ship doesn't support more of this turret type.
 2017-04-10 01-26-41| <> You don't have any of this turret.
-2017-04-10 01-26-55| 
+2017-04-10 01-26-55| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-10 01-34-49| UDP closed
+2017-04-10 01-34-49| Client UDP: Connection closed
+2017-04-10 01-34-49| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-10 01-34-49| UDP closed
+2017-04-10 01-34-49| Client UDP: Connection closed
+2017-04-10 01-34-51| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-10 01-34-51| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-10 01-34-52| Server shutdown successful.
+2017-04-10 01-34-52| UDP closed
+2017-04-10 01-34-52| Client UDP: Connection closed
+2017-04-10 01-34-53| Exiting client.
+2017-04-10 01-34-53| Exited client main loop.
+2017-04-10 01-34-53| Waiting for Online polling threads
+2017-04-10 01-34-53| Online polling threads finished
+2017-04-10 01-34-53| Waiting for LAN polling threads
+2017-04-10 01-34-53| LAN polling threads finished
+2017-04-10 01-34-53| Stopping local server ...

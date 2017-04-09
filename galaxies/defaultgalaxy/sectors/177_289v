@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="8" numWrecks="0" numAsteroids="527" numStations="3" influence="28.5510006" factionIndex="2000870">
+<view numCrafts="9" numWrecks="0" numAsteroids="527" numStations="3" influence="28.5510006" factionIndex="2000870">
 	<coordinates x="177" y="289"/>
 	<titles>
 		<title str="Trading Post"/>
@@ -12,7 +12,7 @@
 		<coordinates x="185" y="291"/>
 	</wormholes>
 	<shipNumbers>
-		<ships n="7" faction="2000870"/>
-		<ships n="1" faction="2001031"/>
+		<ships n="1" faction="2000587"/>
+		<ships n="8" faction="2000870"/>
 	</shipNumbers>
 </view>
