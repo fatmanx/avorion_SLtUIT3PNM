@@ -120,4 +120,6 @@
 2017-04-10 00-25-04| <Server> More strange subspace signals, they're getting stronger.
 2017-04-10 00-25-07| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-10 00-25-17| <> Jump route calculated.
-2017-04-10 00-26-04| 
+2017-04-10 00-26-04| <Server> A small group of alien ships appeared!
+2017-04-10 00-29-06| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (152:237), someone help, please!
+2017-04-10 00-29-06| 
