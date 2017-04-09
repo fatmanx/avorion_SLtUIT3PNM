@@ -389,4 +389,14 @@
 2017-04-10 00-47-38| scheduled save for sector (157:264), 0x5f48f0b0, entities: 1381
 2017-04-10 00-47-38| saving sector (157:264)
 2017-04-10 00-47-38| sector (157:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_264"
-2017-04-10 00-48-05| 
+2017-04-10 00-48-05| starting event alienattack
+2017-04-10 00-48-58| scheduled save for sector (157:264), 0x5f48f0b0, entities: 1402
+2017-04-10 00-48-58| saving sector (157:264)
+2017-04-10 00-48-58| sector (157:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_264"
+2017-04-10 00-48-58| Player fatmanone moved to sector (157:264)from (159:260) server time taken for change: 430ms
+2017-04-10 00-48-58| scheduled save for sector (159:260), 0xe0c8270, entities: 2560
+2017-04-10 00-48-58| saving sector (159:260)
+2017-04-10 00-48-59| sector (159:260) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_260"
+2017-04-10 00-48-59| scheduled save for sector (156:266), 0xe0c8900, entities: 1272
+2017-04-10 00-48-59| saving sector (156:266)
+2017-04-10 00-48-59| 

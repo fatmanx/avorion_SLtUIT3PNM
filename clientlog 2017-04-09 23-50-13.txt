@@ -143,4 +143,5 @@
 2017-04-10 00-47-26| <Gate Control> You paid 695 credits passage fee.
 2017-04-10 00-47-26| <Object Detector> Valuable objects detected.
 2017-04-10 00-47-36| <> You have no sector selected.
-2017-04-10 00-48-06| 
+2017-04-10 00-48-06| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-10 00-48-58| 
