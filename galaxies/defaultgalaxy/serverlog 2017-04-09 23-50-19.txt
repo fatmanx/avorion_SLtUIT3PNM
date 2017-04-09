@@ -507,4 +507,17 @@
 2017-04-10 00-56-58| sector (156:266) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\156_266"
 2017-04-10 00-56-58| saving sector (162:266)
 2017-04-10 00-56-58| sector (162:266) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_266"
-2017-04-10 00-59-25| 
+2017-04-10 00-59-25| starting event piratehunter
+2017-04-10 01-00-19| Triggered saving of all server data.
+2017-04-10 01-00-20| scheduled save for sector (158:269), 0x5f48ea20, entities: 19
+2017-04-10 01-00-20| saving sector (158:269)
+2017-04-10 01-00-20| sector (158:269) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_269"
+2017-04-10 01-00-20| scheduled save for sector (158:275), 0xe0c7be0, entities: 3
+2017-04-10 01-00-20| saving sector (158:275)
+2017-04-10 01-00-20| sector (158:275) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_275"
+2017-04-10 01-00-20| scheduled save for sector (159:274), 0xdc91490, entities: 871
+2017-04-10 01-00-20| saving sector (159:274)
+2017-04-10 01-00-20| sector (159:274) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_274"
+2017-04-10 01-00-20| scheduled save for sector (161:274), 0x2a7490c0, entities: 1221
+2017-04-10 01-00-20| saving sector (161:274)
+2017-04-10 01-00-20| 

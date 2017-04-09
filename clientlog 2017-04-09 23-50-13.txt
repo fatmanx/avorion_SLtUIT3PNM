@@ -151,4 +151,5 @@
 2017-04-10 00-51-58| <Gate Control> You paid 659 credits passage fee.
 2017-04-10 00-52-06| <Server> A group of alien ships warped in!
 2017-04-10 00-56-03| <Equipment Dock> You must be docked to the station to buy items.
-2017-04-10 00-59-25| 
+2017-04-10 00-59-25| <Server> Pirates are attacking the sector!
+2017-04-10 01-00-55| 
