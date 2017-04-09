@@ -688,4 +688,10 @@
 2017-04-10 01-20-20| saving sector (178:279)
 2017-04-10 01-20-21| sector (178:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\178_279"
 2017-04-10 01-22-35| No xsotan attacks in neutral zones.
-2017-04-10 01-22-35| 
+2017-04-10 01-22-35| starting event alienattack
+2017-04-10 01-26-00| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 01-26-00| Creating sector at (174:293)
+2017-04-10 01-26-00| Generating new content for sector (174:293)
+2017-04-10 01-26-12| scheduled save for sector (174:293), 0x2787c0f0, entities: 1003
+2017-04-10 01-26-12| saving sector (174:293)
+2017-04-10 01-26-13| 

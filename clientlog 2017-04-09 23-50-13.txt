@@ -178,4 +178,5 @@
 2017-04-10 01-18-40| <> Your ship doesn't support more of this turret type.
 2017-04-10 01-18-40| <> Your ship doesn't support more of this turret type.
 2017-04-10 01-24-05| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
-2017-04-10 01-24-05| 
+2017-04-10 01-24-05| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
+2017-04-10 01-26-00| 
