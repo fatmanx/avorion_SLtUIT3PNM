@@ -153,4 +153,6 @@
 2017-04-10 00-56-03| <Equipment Dock> You must be docked to the station to buy items.
 2017-04-10 00-59-25| <Server> Pirates are attacking the sector!
 2017-04-10 01-00-55| <The Ueiuviuy> We thank you for taking care of those ships. We transferred a reward to your account.
-2017-04-10 01-03-12| 
+2017-04-10 01-03-12| <Gate Control> You paid 137 credits passage fee.
+2017-04-10 01-04-14| <Gate Control> You paid 214 credits passage fee.
+2017-04-10 01-04-54| 
