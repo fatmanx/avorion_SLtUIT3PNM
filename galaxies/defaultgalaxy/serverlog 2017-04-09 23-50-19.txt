@@ -686,4 +686,6 @@
 2017-04-10 01-20-20| sector (175:281) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\175_281"
 2017-04-10 01-20-20| scheduled save for sector (178:279), 0x1bd65b10, entities: 2558
 2017-04-10 01-20-20| saving sector (178:279)
-2017-04-10 01-20-21| 
+2017-04-10 01-20-21| sector (178:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\178_279"
+2017-04-10 01-22-35| No xsotan attacks in neutral zones.
+2017-04-10 01-22-35| 
