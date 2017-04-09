@@ -259,4 +259,18 @@
 2017-04-10 00-23-05| Creating sector at (164:241)
 2017-04-10 00-23-05| scheduled save for sector (164:241), 0x2a7490c0, entities: 0
 2017-04-10 00-23-05| saving sector (164:241)
-2017-04-10 00-23-05| 
+2017-04-10 00-23-05| sector (164:241) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\164_241"
+2017-04-10 00-24-17| <> Jump route calculated.
+2017-04-10 00-24-18| scheduled save for sector (164:241), 0x2a7490c0, entities: 21
+2017-04-10 00-24-18| saving sector (164:241)
+2017-04-10 00-24-18| sector (164:241) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\164_241"
+2017-04-10 00-24-18| Player fatmanone moved to sector (164:241)from (154:209) server time taken for change: 14ms
+2017-04-10 00-24-18| scheduled save for sector (154:209), 0x224ddbf0, entities: 1218
+2017-04-10 00-24-18| saving sector (154:209)
+2017-04-10 00-24-18| sector (154:209) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\154_209"
+2017-04-10 00-24-29| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 00-24-29| Creating sector at (173:273)
+2017-04-10 00-24-29| Generating new content for sector (173:273)
+2017-04-10 00-24-31| scheduled save for sector (173:273), 0xe4ae140, entities: 1530
+2017-04-10 00-24-31| saving sector (173:273)
+2017-04-10 00-24-31| 
