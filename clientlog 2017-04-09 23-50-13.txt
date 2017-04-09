@@ -156,4 +156,7 @@
 2017-04-10 01-03-12| <Gate Control> You paid 137 credits passage fee.
 2017-04-10 01-04-14| <Gate Control> You paid 214 credits passage fee.
 2017-04-10 01-04-54| <Gate Control> You paid 539 credits passage fee.
-2017-04-10 01-06-00| 
+2017-04-10 01-06-00| <Gate Control> You paid 667 credits passage fee.
+2017-04-10 01-06-39| <> You have no sector selected.
+2017-04-10 01-06-40| <> You have no sector selected.
+2017-04-10 01-06-44| 
