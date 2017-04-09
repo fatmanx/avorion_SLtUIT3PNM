@@ -1,4 +1,4 @@
 :label
 git add -A & git commit -m "%date% %time%"
-SLEEP 60
+millisleep 60000
 GOTO label
