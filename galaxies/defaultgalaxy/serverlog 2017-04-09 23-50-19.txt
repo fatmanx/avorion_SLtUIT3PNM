@@ -220,4 +220,24 @@
 2017-04-10 00-20-20| sector (150:174) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\150_174"
 2017-04-10 00-20-20| scheduled save for sector (155:203), 0x27c018c0, entities: 1950
 2017-04-10 00-20-20| saving sector (155:203)
-2017-04-10 00-20-20| 
+2017-04-10 00-20-20| sector (155:203) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_203"
+2017-04-10 00-20-59| <> Jump route calculated.
+2017-04-10 00-21-01| scheduled save for sector (155:203), 0x27c018c0, entities: 1971
+2017-04-10 00-21-01| saving sector (155:203)
+2017-04-10 00-21-02| sector (155:203) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_203"
+2017-04-10 00-21-02| Player fatmanone moved to sector (155:203)from (149:173) server time taken for change: 487ms
+2017-04-10 00-21-02| scheduled save for sector (149:173), 0xb2c6f40, entities: 1028
+2017-04-10 00-21-02| saving sector (149:173)
+2017-04-10 00-21-02| scheduled save for sector (160:204), 0x27c00ba0, entities: 3
+2017-04-10 00-21-02| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-10 00-21-02| saving sector (160:204)
+2017-04-10 00-21-02| sector (160:204) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\160_204"
+2017-04-10 00-21-03| scheduled save for sector (152:202), 0x27c01230, entities: 650
+2017-04-10 00-21-03| saving sector (152:202)
+2017-04-10 00-21-03| sector (152:202) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\152_202"
+2017-04-10 00-21-03| scheduled save for sector (155:199), 0x1bb5df80, entities: 346
+2017-04-10 00-21-03| saving sector (155:199)
+2017-04-10 00-21-03| sector (155:199) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_199"
+2017-04-10 00-21-03| scheduled save for sector (154:209), 0x224ddbf0, entities: 1240
+2017-04-10 00-21-03| saving sector (154:209)
+2017-04-10 00-21-03| 

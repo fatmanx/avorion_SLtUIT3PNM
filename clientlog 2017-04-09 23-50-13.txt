@@ -110,4 +110,5 @@
 2017-04-10 00-04-07| <> Jump route calculated.
 2017-04-10 00-16-20| <Server> Pirates are attacking the sector!
 2017-04-10 00-19-05| <The Ai'xquireah> Thank you for defeating those pirates. You have our endless gratitude.
-2017-04-10 00-19-53| 
+2017-04-10 00-19-53| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 00-20-59| 
