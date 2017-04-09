@@ -146,4 +146,6 @@
 2017-04-10 00-48-06| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-10 00-48-58| <Gate Control> You paid 609 credits passage fee.
 2017-04-10 00-49-59| <Gate Control> You paid 302 credits passage fee.
-2017-04-10 00-50-39| 
+2017-04-10 00-50-39| <Gate Control> You paid 479 credits passage fee.
+2017-04-10 00-51-06| <Server> The signals are growing stronger.
+2017-04-10 00-51-58| 
