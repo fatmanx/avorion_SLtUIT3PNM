@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="675" numStations="10" influence="95.1699905" factionIndex="2001208">
+	<coordinates x="182" y="296"/>
+	<titles>
+		<title str="Military Outpost"/>
+		<title str="${good} Ranch ${size}">
+			<arg key="size">XL</arg>
+			<arg key="good">Cattle</arg>
+			<arg key="plural">Cattle</arg>
+			<arg key="prefix">Cattle /* prefix */</arg>
+		</title>
+		<title str="Biotope"/>
+		<title str="Trading Post"/>
+		<title str="Equipment Dock"/>
+		<title str="${good} Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="plural">Rockets</arg>
+			<arg key="prefix">Rocket /* prefix */</arg>
+			<arg key="good">Rocket</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Antigrav Unit</arg>
+			<arg key="prefix">Antigrav Unit /* prefix */</arg>
+			<arg key="size">XL</arg>
+			<arg key="plural">Antigrav Units</arg>
+		</title>
+		<title str="Repair Dock"/>
+		<title str="Shipyard"/>
+	</titles>
+	<wormholes>
+		<coordinates x="185" y="291"/>
+		<coordinates x="182" y="300"/>
+		<coordinates x="174" y="293"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="6" faction="2001208"/>
+	</shipNumbers>
+</view>
