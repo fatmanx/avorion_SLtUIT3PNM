@@ -135,4 +135,7 @@
 2017-04-10 00-40-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
 2017-04-10 00-40-46| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
 2017-04-10 00-42-24| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
-2017-04-10 00-42-34| 
+2017-04-10 00-42-34| <Mobile Merchant Aeqviiniir> Hello Everybody! Mobile Merchant Aeqviiniir here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-10 00-45-06| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 00-45-28| <> The jump route is still being calculated.
+2017-04-10 00-45-30| 

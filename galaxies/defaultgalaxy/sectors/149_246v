@@ -5,8 +5,8 @@
 		<title str="Scrapyard"/>
 	</titles>
 	<wormholes>
-		<coordinates x="153" y="246"/>
 		<coordinates x="147" y="244"/>
+		<coordinates x="153" y="246"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="1" faction="2000379"/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="2" numWrecks="8" numAsteroids="1124" numStations="1" influence="9.5170002" factionIndex="15">
+<view numCrafts="2" numWrecks="3" numAsteroids="1124" numStations="1" influence="9.5170002" factionIndex="15">
 	<coordinates x="161" y="241"/>
 	<titles>
 		<title str="Smuggler Hideout"/>
 	</titles>
 	<wormholes/>
 	<shipNumbers>
-		<ships n="1" faction="1"/>
 		<ships n="1" faction="6"/>
+		<ships n="1" faction="2000379"/>
 	</shipNumbers>
 </view>

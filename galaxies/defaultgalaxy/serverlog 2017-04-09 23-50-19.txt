@@ -336,4 +336,26 @@
 2017-04-10 00-40-20| scheduled save for sector (161:241), 0x2a749750, entities: 1166
 2017-04-10 00-40-20| saving sector (161:241)
 2017-04-10 00-40-20| sector (161:241) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\161_241"
-2017-04-10 00-42-34| 
+2017-04-10 00-42-34| starting event spawntravellingmerchant
+2017-04-10 00-45-06| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 00-45-07| scheduled save for sector (153:246), 0xe0c7550, entities: 355
+2017-04-10 00-45-07| saving sector (153:246)
+2017-04-10 00-45-07| sector (153:246) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_246"
+2017-04-10 00-45-28| <> The jump route is still being calculated.
+2017-04-10 00-45-30| <> Jump route calculated.
+2017-04-10 00-45-31| scheduled save for sector (153:246), 0xe0c7550, entities: 360
+2017-04-10 00-45-31| saving sector (153:246)
+2017-04-10 00-45-31| sector (153:246) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_246"
+2017-04-10 00-45-31| Player fatmanone moved to sector (153:246)from (161:241) server time taken for change: 171ms
+2017-04-10 00-45-31| scheduled save for sector (161:241), 0x2a749750, entities: 1156
+2017-04-10 00-45-31| saving sector (161:241)
+2017-04-10 00-45-31| scheduled save for sector (153:239), 0x2a7490c0, entities: 39
+2017-04-10 00-45-31| sector (161:241) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\161_241"
+2017-04-10 00-45-31| saving sector (153:239)
+2017-04-10 00-45-31| sector (153:239) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_239"
+2017-04-10 00-45-32| scheduled save for sector (149:246), 0xe0c7be0, entities: 1272
+2017-04-10 00-45-32| saving sector (149:246)
+2017-04-10 00-45-32| scheduled save for sector (159:255), 0x4eccd040, entities: 1345
+2017-04-10 00-45-33| sector (149:246) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_246"
+2017-04-10 00-45-33| saving sector (159:255)
+2017-04-10 00-45-33| 
