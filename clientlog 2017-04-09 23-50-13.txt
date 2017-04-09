@@ -128,4 +128,5 @@
 2017-04-10 00-34-27| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
 2017-04-10 00-35-21| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
 2017-04-10 00-35-54| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
-2017-04-10 00-36-43| 
+2017-04-10 00-36-43| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
+2017-04-10 00-37-46| 
