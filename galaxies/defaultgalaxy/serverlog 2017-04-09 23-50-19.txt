@@ -388,4 +388,5 @@
 2017-04-10 00-47-36| <> You have no sector selected.
 2017-04-10 00-47-38| scheduled save for sector (157:264), 0x5f48f0b0, entities: 1381
 2017-04-10 00-47-38| saving sector (157:264)
-2017-04-10 00-47-38| 
+2017-04-10 00-47-38| sector (157:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_264"
+2017-04-10 00-48-05| 
