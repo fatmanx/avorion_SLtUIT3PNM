@@ -162,4 +162,13 @@
 2017-04-10 01-06-44| <Gate Control> You paid 468 credits passage fee.
 2017-04-10 01-07-24| <Gate Control> You paid 2511 credits passage fee.
 2017-04-10 01-07-24| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-10 01-07-24| 
+2017-04-10 01-07-24| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-10 01-17-20| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-17-20| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-17-20| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-17-20| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-17-21| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-17-21| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-17-21| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-17-21| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-18-04| 
