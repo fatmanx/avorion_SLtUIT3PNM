@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+	<template accumulateHealth="true" convex="true">
+		<item parent="-1" index="0" maxDurability="231.110199" currentDurability="231.110199">
+			<block lowerX="-1.27040005" lowerY="-1.27040005" lowerZ="-6.02036381" upperX="1.27040005" upperY="1.27040005" upperZ="-3.47956395" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="1" maxDurability="165.5" currentDurability="165.5">
+			<block lowerX="-0.749998987" lowerY="-0.75" lowerZ="-3.47957802" upperX="0.749998987" upperY="0.75" upperZ="-1.97957599" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="1" index="2" maxDurability="152" currentDurability="152">
+			<block lowerX="-1.24999595" lowerY="-1.25" lowerZ="-1.97954798" upperX="1.25000095" upperY="1.25" upperZ="0.520454884" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="2" index="3" maxDurability="89.5" currentDurability="89.5">
+			<block lowerX="-0.74999398" lowerY="-0.75" lowerZ="0.520452499" upperX="0.750004113" upperY="0.75" upperZ="2.02045393" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="3" index="4" maxDurability="76" currentDurability="76">
+			<block lowerX="-1.24999297" lowerY="-1.25" lowerZ="2.02036095" upperX="1.25000405" upperY="1.25" upperZ="4.52036381" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="4" index="5" maxDurability="13.5" currentDurability="13.5">
+			<block lowerX="-0.749991417" lowerY="-0.75" lowerZ="4.5203619" upperX="0.750006676" upperY="0.75" upperZ="6.02036381" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+	</template>
+	<template accumulateHealth="true" convex="true">
+		<item parent="-1" index="0" maxDurability="79.1882172" currentDurability="79.1882172">
+			<block lowerX="-1.27040005" lowerY="-2.5704391" lowerZ="-2.02039409" upperX="1.27040005" upperY="-0.0296387691" upperZ="0.520406187" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="1" maxDurability="13.5" currentDurability="13.5">
+			<block lowerX="-0.749998987" lowerY="-2.05003905" lowerZ="0.520391822" upperX="0.749998987" upperY="-0.550038815" upperZ="2.02039409" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="2" maxDurability="0.0260000005" currentDurability="0.0260000005">
+			<block lowerX="0.75" lowerY="-0.0295919199" lowerZ="-0.799993813" upperX="0.850000024" upperY="2.57040811" upperZ="-0.699993789" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="3" maxDurability="0.0260000005" currentDurability="0.0260000005">
+			<block lowerX="-0.850000024" lowerY="-0.0296224393" lowerZ="6.21005893e-006" upperX="-0.75" upperY="2.57037807" upperZ="0.1000062" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="4" maxDurability="0.0260000005" currentDurability="0.0260000005">
+			<block lowerX="-0.850000024" lowerY="-0.0295614004" lowerZ="-1.59999394" upperX="-0.75" upperY="2.5704391" upperZ="-1.49999404" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+	</template>
+	<template accumulateHealth="true" convex="true">
+		<item parent="-1" index="0" maxDurability="108" currentDurability="108">
+			<block lowerX="-1.24998105" lowerY="-1.25001502" lowerZ="-2.00000095" upperX="1.25001597" upperY="1.24998498" upperZ="0.500001371" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="1" maxDurability="13.5" currentDurability="13.5">
+			<block lowerX="-0.749978781" lowerY="-0.750015318" lowerZ="0.499998987" upperX="0.750019312" upperY="0.749984682" upperZ="2.00000095" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="2" maxDurability="8" currentDurability="8">
+			<block lowerX="-3.24998498" lowerY="-1.00001502" lowerZ="-1.75" upperX="-1.24998498" upperY="0.999984682" upperZ="0.25" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="3" maxDurability="8" currentDurability="8">
+			<block lowerX="1.24998498" lowerY="-1.00001502" lowerZ="-1.75" upperX="3.24998498" upperY="0.999984682" upperZ="0.25" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="4" maxDurability="8" currentDurability="8">
+			<block lowerX="-0.999982595" lowerY="1.25004601" lowerZ="-1.75" upperX="1.00001705" upperY="3.25004601" upperZ="0.250000209" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="5" maxDurability="8" currentDurability="8">
+			<block lowerX="-0.999982595" lowerY="-3.25004601" lowerZ="-1.75" upperX="1.00001705" upperY="-1.25004601" upperZ="0.250000209" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+	</template>
+	<template accumulateHealth="true" convex="true">
+		<item parent="-1" index="0" maxDurability="110" currentDurability="110">
+			<block lowerX="-1.24999297" lowerY="-1.25001502" lowerZ="-1.99996901" upperX="1.25000405" upperY="1.24998498" upperZ="0.500033081" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="1" maxDurability="8" currentDurability="8">
+			<block lowerX="-0.999994397" lowerY="1.25004601" lowerZ="-1.74996901" upperX="1.00000596" upperY="3.25004601" upperZ="0.250031888" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="2" maxDurability="8" currentDurability="8">
+			<block lowerX="-0.999994397" lowerY="-3.25004601" lowerZ="-1.74996901" upperX="1.00000596" upperY="-1.25004601" upperZ="0.250031888" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="3" maxDurability="13.5" currentDurability="13.5">
+			<block lowerX="-0.749994397" lowerY="-0.750015318" lowerZ="0.499969989" upperX="0.750005603" upperY="0.749984682" upperZ="1.99996901" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="4" maxDurability="9" currentDurability="9">
+			<block lowerX="-2.25" lowerY="-0.750015318" lowerZ="-1.49996901" upperX="-1.25" upperY="0.749984682" upperZ="3.19480896e-005" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="5" maxDurability="9" currentDurability="9">
+			<block lowerX="1.25" lowerY="-0.750015318" lowerZ="-1.49996901" upperX="2.25" upperY="0.749984682" upperZ="3.19480896e-005" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+	</template>
+	<template accumulateHealth="true" convex="true">
+		<item parent="-1" index="0" maxDurability="95.1102219" currentDurability="95.1102219">
+			<block lowerX="-1.27040005" lowerY="-1.27040005" lowerZ="-1.02037001" upperX="1.27040005" upperY="1.27040005" upperZ="1.52042997" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="1" maxDurability="13.5" currentDurability="13.5">
+			<block lowerX="-0.749998987" lowerY="-0.75" lowerZ="1.52041495" upperX="0.749998987" upperY="0.75" upperZ="3.02041698" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="2" maxDurability="16" currentDurability="16">
+			<block lowerX="-1" lowerY="-1" lowerZ="-3.02041698" upperX="1" upperY="1" upperZ="-1.02041698" index="1" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+	</template>
+	<template accumulateHealth="true" convex="true">
+		<item parent="-1" index="0" maxDurability="260.610199" currentDurability="260.610199">
+			<block lowerX="0.4795928" lowerY="-1.27040005" lowerZ="-6.02036381" upperX="3.02039289" upperY="1.27040005" upperZ="-3.47956395" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="1" maxDurability="165.5" currentDurability="165.5">
+			<block lowerX="0.999993801" lowerY="-0.75" lowerZ="-3.47957802" upperX="2.49999189" upperY="0.75" upperZ="-1.97957599" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="4" maxDurability="29.5" currentDurability="29.5">
+			<block lowerX="-1.02039301" lowerY="-0.75" lowerZ="-5.49996424" upperX="0.479607105" upperY="0.75" upperZ="-3.999964" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="1" index="2" maxDurability="152" currentDurability="152">
+			<block lowerX="0.499996901" lowerY="-1.25" lowerZ="-1.97954798" upperX="2.99999404" upperY="1.25" upperZ="0.520454884" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="4" index="5" maxDurability="16" currentDurability="16">
+			<block lowerX="-3.02039289" lowerY="-1" lowerZ="-5.74996424" upperX="-1.02039301" upperY="1" upperZ="-3.749964" index="1" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="2" index="3" maxDurability="89.5" currentDurability="89.5">
+			<block lowerX="0.999998927" lowerY="-0.75" lowerZ="0.520452499" upperX="2.4999969" upperY="0.75" upperZ="2.02045393" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="3" index="6" maxDurability="76" currentDurability="76">
+			<block lowerX="0.499999493" lowerY="-1.25" lowerZ="2.02036095" upperX="2.99999595" upperY="1.25" upperZ="4.52036381" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="6" index="7" maxDurability="13.5" currentDurability="13.5">
+			<block lowerX="1.00000095" lowerY="-0.75" lowerZ="4.5203619" upperX="2.5" upperY="0.75" upperZ="6.02036381" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+	</template>
+	<template accumulateHealth="true" convex="true">
+		<item parent="-1" index="0" maxDurability="92" currentDurability="92">
+			<block lowerX="-1.24998105" lowerY="-1.25" lowerZ="-2.00000095" upperX="1.25001597" upperY="1.25" upperZ="0.500001371" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="1" maxDurability="13.5" currentDurability="13.5">
+			<block lowerX="-0.749978721" lowerY="-0.75" lowerZ="0.499998987" upperX="0.750019372" upperY="0.75" upperZ="2.00000095" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="2" maxDurability="8" currentDurability="8">
+			<block lowerX="-3.24998498" lowerY="-1" lowerZ="-1.75" upperX="-1.24998498" upperY="1" upperZ="0.25" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="3" maxDurability="8" currentDurability="8">
+			<block lowerX="1.24998498" lowerY="-1" lowerZ="-1.75" upperX="3.24998498" upperY="1" upperZ="0.25" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+	</template>
+	<template accumulateHealth="true" convex="true">
+		<item parent="-1" index="0" maxDurability="92.6102219" currentDurability="92.6102219">
+			<block lowerX="-1.27041495" lowerY="-1.27041495" lowerZ="-1.27030802" upperX="1.27038503" upperY="1.27038503" upperZ="1.27049196" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="1" maxDurability="4.5" currentDurability="4.5">
+			<block lowerX="-0.750015318" lowerY="1.27037001" lowerZ="-0.749908388" upperX="0.749984682" upperY="1.77037001" upperZ="0.750091612" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="2" maxDurability="4.5" currentDurability="4.5">
+			<block lowerX="-0.750015318" lowerY="-1.77037001" lowerZ="-0.749908388" upperX="0.749984682" upperY="-1.27037001" upperZ="0.750091612" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="3" maxDurability="4.5" currentDurability="4.5">
+			<block lowerX="-0.750015318" lowerY="-0.750015318" lowerZ="-1.77041602" upperX="0.749984682" upperY="0.749984682" upperZ="-1.27041602" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="4" maxDurability="4.5" currentDurability="4.5">
+			<block lowerX="-0.750015318" lowerY="-0.750015318" lowerZ="1.27041602" upperX="0.749984682" upperY="0.749984682" upperZ="1.77041602" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="5" maxDurability="4.5" currentDurability="4.5">
+			<block lowerX="-1.770401" lowerY="-0.750015318" lowerZ="-0.749908388" upperX="-1.270401" upperY="0.749984682" upperZ="0.750091612" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+		<item parent="0" index="6" maxDurability="4.5" currentDurability="4.5">
+			<block lowerX="1.270401" lowerY="-0.750015318" lowerZ="-0.749908388" upperX="1.770401" upperY="0.749984682" upperZ="0.750091612" index="0" material="0" look="1" up="3" color="ffbfaea3"/>
+		</item>
+	</template>
+</templates>

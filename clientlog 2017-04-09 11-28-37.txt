@@ -1,0 +1,521 @@
+2017-04-09 11-28-37| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-09 11-28-37| Enabled Traces: 
+2017-04-09 11-28-37| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-09 11-28-37| CPU: GenuineIntel 8 Cores
+2017-04-09 11-28-37| Init Steamworks...Installed Steam exception handler
+2017-04-09 11-28-37| Init Steamworks... ok
+2017-04-09 11-28-37| Init Steamworks ok
+2017-04-09 11-28-37| Init SDL2... ok
+2017-04-09 11-28-37| Getting display mode... ok
+2017-04-09 11-28-37| Current display mode: 1920 x 1080
+2017-04-09 11-28-37| Creating settings... loading... setting language... ok
+2017-04-09 11-28-37| Creating client window...Creating normal window
+2017-04-09 11-28-37| Detected 2 displays
+2017-04-09 11-28-37| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-09 11-28-37| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-09 11-28-37| Using display 0
+2017-04-09 11-28-37| Creating window, x: 0, y: 0, w: 1600, h: 900... ok
+2017-04-09 11-28-38| GetDrawableSize: 1600 900
+2017-04-09 11-28-38| GetWindowSize: 1600 900
+2017-04-09 11-28-38| Creating GL context... ok
+2017-04-09 11-28-38| Setting window mode Windowed... ok
+2017-04-09 11-28-38| Creating client window ok
+2017-04-09 11-28-38| Init rendering... starting rendering... initialize...OpenGL Context Information:
+2017-04-09 11-28-38| Version: 4.5
+2017-04-09 11-28-38| VersionString: 4.5.0 NVIDIA 378.49
+2017-04-09 11-28-38| Vendor: NVIDIA Corporation
+2017-04-09 11-28-38| Renderer: GeForce GTX 760/PCIe/SSE2
+2017-04-09 11-28-38| GLSL Version: 4.50 NVIDIA
+2017-04-09 11-28-38| GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+2017-04-09 11-28-38| GL_MAX_VERTEX_UNIFORM_VECTORS: 1024
+2017-04-09 11-28-38| GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+2017-04-09 11-28-38| GL_MAX_ELEMENTS_INDICES: 1048576
+2017-04-09 11-28-38| GL_MAX_ELEMENTS_VERTICES: 1048576
+2017-04-09 11-28-38| GL_MAX_RENDERBUFFER_SIZE: 16384
+2017-04-09 11-28-38| GL_MAX_TEXTURE_SIZE: 16384
+2017-04-09 11-28-38| GL_MAX_VERTEX_ATTRIBS: 16
+2017-04-09 11-28-38| GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+2017-04-09 11-28-38| Init GLEW... ok
+2017-04-09 11-28-38| Init Debug Message Callback... ok
+2017-04-09 11-28-38| Set VSync... ok
+2017-04-09 11-28-38| Secure BackBuffer... ok
+2017-04-09 11-28-38| Init Canvas...Create canvas of size 2262 x 1272... ok
+2017-04-09 11-28-38| Init Canvas ok
+2017-04-09 11-28-38| Init Refraction Texture... ok
+2017-04-09 11-28-38| Init Post Processing... ok
+2017-04-09 11-28-38| Init Debug Renderers... ok
+2017-04-09 11-28-38| DepthTexturesSupported: yes
+2017-04-09 11-28-38| IntVertexAttributesSupported: yes
+2017-04-09 11-28-38| DeferredSupported: yes
+2017-04-09 11-28-38| LowSpecGPUDetected: no
+2017-04-09 11-28-38| Rendering initialized
+2017-04-09 11-28-38| Init rendering ok
+2017-04-09 11-28-38| Check problematic drivers... ok
+2017-04-09 11-28-38| Init shader level... ok
+2017-04-09 11-28-38| Init loading screen... ok
+2017-04-09 11-28-38| Draw first loading screen... draw... ok
+2017-04-09 11-28-38| Init SFX... ok
+2017-04-09 11-28-38| Init Input... ok
+2017-04-09 11-28-38| Init GameInput... ok
+2017-04-09 11-28-38| Init Main Menu... ok
+2017-04-09 11-28-39| Init Music... ok
+2017-04-09 11-28-39| Apply loaded settings... ok
+2017-04-09 11-28-39| Adjust settings to GPU... ok
+2017-04-09 11-28-39| Client initialized
+2017-04-09 11-28-39| Received stats and achievements from Steam
+2017-04-09 11-28-39| STAT_PIRATES_DESTROYED: 36i
+2017-04-09 11-28-39| STAT_XSOTAN_DESTROYED: 17i
+2017-04-09 11-28-39| STAT_CIVIL_SHIPS_DESTROYED: 0i
+2017-04-09 11-28-39| STAT_SHIPS_DESTROYED: 0i
+2017-04-09 11-28-39| STAT_STATIONS_DESTROYED: 0i
+2017-04-09 11-28-39| STAT_RESOURCES_MINED: 15353i
+2017-04-09 11-28-39| STAT_GOODS_TRADED: 63i
+2017-04-09 11-28-39| STAT_GOODS_SOLD: 0i
+2017-04-09 11-28-39| STAT_GOODS_BOUGHT: 63i
+2017-04-09 11-28-39| STAT_GATES_USED: 35i
+2017-04-09 11-28-39| STAT_WORMHOLES_USED: 0i
+2017-04-09 11-28-39| STAT_JUMPS_USED: 18i
+2017-04-09 11-28-39| STAT_SECTORS_DISCOVERED: 45i
+2017-04-09 11-28-39| STAT_SECTORS_TRAVELED: 197.443f
+2017-04-09 11-28-39| STAT_METERS_FLOWN: 3499146i
+2017-04-09 11-29-34| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-09 11-29-34| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-09 11-29-35| Waiting for Online polling threads
+2017-04-09 11-29-35| Online polling threads finished
+2017-04-09 11-29-35| Waiting for LAN polling threads
+2017-04-09 11-29-35| LAN polling threads finished
+2017-04-09 11-29-35| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 11-29-38| remote address: ip, init: steam
+2017-04-09 11-29-38| Connecting to server at 127.0.0.1:27000
+2017-04-09 11-29-38| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 11-29-38| Initiating connection with server ID 90108013166003200
+2017-04-09 11-29-42| Authentication successful!
+2017-04-09 11-29-46| <Server> Player fatmanone joined the galaxy
+2017-04-09 11-34-58| <Shipyard> Thank you for your purchase. Your ship will be ready in about 16 minutes, 25 seconds.
+2017-04-09 11-38-28| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\x.xml"
+2017-04-09 11-38-53| <Server> Your Ship x has been destroyed!
+2017-04-09 11-38-53| <S.I.I.> Insurance Fraud detected. You won't receive any payments for x.
+2017-04-09 11-39-10| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-09 11-42-09| <Server> More strange subspace signals, they're getting stronger.
+2017-04-09 11-43-09| <Server> A small group of alien ships appeared!
+2017-04-09 11-45-01| <Server> Pirates are attacking the sector!
+2017-04-09 11-51-35| <> You have no sector selected.
+2017-04-09 11-52-07| <> You have no sector selected.
+2017-04-09 11-57-24| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave4.xml"
+2017-04-09 11-57-41| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\sss.xml"
+2017-04-09 12-00-45| <Server> Your Ship sss has been destroyed!
+2017-04-09 12-00-45| <S.I.I.> Insurance Fraud detected. You won't receive any payments for sss.
+2017-04-09 12-03-33| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-04-02| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-06-20| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave5.xml"
+2017-04-09 12-06-31| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-07-19| <Unkown> This is a distress call! Our position is (179:405) We are under attack by pirates, please help!
+2017-04-09 12-07-19| <> You have received a distress signal by an unknown source.
+2017-04-09 12-07-31| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s2.xml"
+2017-04-09 12-10-44| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-10-48| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-10-50| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s2.xml"
+2017-04-09 12-11-42| <Shipyard> You need more sergeants.
+2017-04-09 12-11-57| <> You need more lieutenants.
+2017-04-09 12-11-57| <> You need more lieutenants.
+2017-04-09 12-11-57| <> You need more lieutenants.
+2017-04-09 12-11-58| <> You need more lieutenants.
+2017-04-09 12-11-58| <> You need more lieutenants.
+2017-04-09 12-14-44| <Resource Depot> You need more commanders.
+2017-04-09 12-14-45| <Resource Depot> You need more commanders.
+2017-04-09 12-15-02| <> You need more sergeants.
+2017-04-09 12-15-02| <> You need more sergeants.
+2017-04-09 12-15-02| <> You need more sergeants.
+2017-04-09 12-15-02| <> You need more sergeants.
+2017-04-09 12-15-03| <> You need more sergeants.
+2017-04-09 12-15-04| <> You need more sergeants.
+2017-04-09 12-15-04| <> You need more sergeants.
+2017-04-09 12-15-05| <> You need more sergeants.
+2017-04-09 12-15-05| <> You need more sergeants.
+2017-04-09 12-15-05| <> You need more sergeants.
+2017-04-09 12-15-23| <> You need more lieutenants.
+2017-04-09 12-15-26| <> You need more commanders.
+2017-04-09 12-15-40| <Resource Depot> You need more commanders.
+2017-04-09 12-15-41| <Resource Depot> You need more commanders.
+2017-04-09 12-16-02| <> You need more lieutenants.
+2017-04-09 12-16-04| <> You need more commanders.
+2017-04-09 12-17-15| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s2.xml"
+2017-04-09 12-18-02| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-18-07| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s2.xml"
+2017-04-09 12-18-54| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-09 12-19-49| <Repair Dock> You need more generals.
+2017-04-09 12-19-49| <Repair Dock> You need more generals.
+2017-04-09 12-19-50| <Repair Dock> You need more generals.
+2017-04-09 12-20-00| <Repair Dock> You need more lieutenants.
+2017-04-09 12-20-54| <Repair Dock> You need more generals.
+2017-04-09 12-20-56| <Repair Dock> You need more generals.
+2017-04-09 12-20-57| <Repair Dock> You need more generals.
+2017-04-09 12-21-54| <Server> The signals are growing stronger.
+2017-04-09 12-22-54| <Server> A group of alien ships warped in!
+2017-04-09 12-23-48| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-24-03| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-24-21| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-25-40| <> You don't have any of this turret.
+2017-04-09 12-25-58| <> Your ship doesn't support more of this turret type.
+2017-04-09 12-25-58| <> Your ship doesn't support more of this turret type.
+2017-04-09 12-26-04| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave6.xml"
+2017-04-09 12-26-06| <> You don't have any of this turret.
+2017-04-09 12-27-14| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-28-47| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-29-19| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-30-10| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-30-56| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-31-12| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-31-25| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-34-44| <Mobile Turret Merchant Arqei> Hello Everybody! Mobile Turret Merchant Arqei here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-09 12-39-27| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-40-24| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-40-36| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-42-07| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-42-21| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 12-42-23| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-43-02| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-43-24| <> The jump route is still being calculated.
+2017-04-09 12-43-24| <> Jump route calculated.
+2017-04-09 12-43-45| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-44-06| <> Jump route calculated.
+2017-04-09 12-44-16| <> You need 1977 Titanium
+2017-04-09 12-44-16| <> You need 1977 Titanium
+2017-04-09 12-44-17| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-44-35| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-44-56| <> Jump route calculated.
+2017-04-09 12-44-58| <> Your hyperdrive still needs 4 seconds to recharge.
+2017-04-09 12-45-00| <> Your hyperdrive still needs 2 seconds to recharge.
+2017-04-09 12-45-16| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-45-35| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-09 12-45-37| <> Jump route calculated.
+2017-04-09 12-45-50| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-46-10| <> Jump route calculated.
+2017-04-09 12-46-18| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-46-28| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-46-49| <> Jump route calculated.
+2017-04-09 12-47-04| <> Your ship is facing in the wrong direction.
+2017-04-09 12-47-32| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-47-53| <> Jump route calculated.
+2017-04-09 12-47-58| <> Your ship is facing in the wrong direction.
+2017-04-09 12-47-58| <> Your ship is facing in the wrong direction.
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-47-59| Create Entity Message discarded: wrong sector
+2017-04-09 12-48-34| <Server> More strange subspace signals, they're getting stronger.
+2017-04-09 12-49-01| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-49-22| <> Jump route calculated.
+2017-04-09 12-49-34| <Server> A small group of alien ships appeared!
+2017-04-09 12-49-43| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-50-05| <> Jump route calculated.
+2017-04-09 12-50-19| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-50-28| <> Jump route calculated.
+2017-04-09 12-50-46| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-51-32| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-53-04| <> You have no sector selected.
+2017-04-09 12-53-12| <Gate Control> You paid 1058 credits passage fee.
+2017-04-09 12-53-29| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-53-50| <> Jump route calculated.
+2017-04-09 12-53-59| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 12-54-08| <> Jump route calculated.
+2017-04-09 12-54-27| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-55-21| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-55-49| <> You have no sector selected.
+2017-04-09 12-55-52| <> You have no sector selected.
+2017-04-09 12-57-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 12-57-50| <> You have no sector selected.
+2017-04-09 12-58-43| <> You have no sector selected.
+2017-04-09 13-01-47| <> Your ship doesn't support more of this turret type.
+2017-04-09 13-01-47| <> Your ship doesn't support more of this turret type.
+2017-04-09 13-02-45| <> You have no sector selected.
+2017-04-09 13-02-46| <> You have no sector selected.
+2017-04-09 13-02-47| <> You have no sector selected.
+2017-04-09 13-04-21| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-05-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-05-47| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 13-05-50| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-07-03| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-07-50| <> You have no sector selected.
+2017-04-09 13-08-06| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-09-04| <Server> Pirates are attacking the sector!
+2017-04-09 13-10-51| <> You have no sector selected.
+2017-04-09 13-11-27| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 13-11-27| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 13-11-28| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 13-11-28| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 13-11-28| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 13-11-29| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 13-13-37| <> Your ship doesn't support more of this turret type.
+2017-04-09 13-13-37| <> Your ship doesn't support more of this turret type.
+2017-04-09 13-15-00| <> You don't have any of this turret.
+2017-04-09 13-15-04| <> You don't have any of this turret.
+2017-04-09 13-15-55| <> You have no sector selected.
+2017-04-09 13-19-29| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (174:316) ... help!
+2017-04-09 13-19-29| <> You have received a distress signal by an unknown source.
+2017-04-09 13-20-19| <> Your ship has no captain!
+2017-04-09 13-23-00| <> You need more sergeants.
+2017-04-09 13-23-00| <> You need more sergeants.
+2017-04-09 13-23-01| <> You need more sergeants.
+2017-04-09 13-23-01| <> You need more sergeants.
+2017-04-09 13-27-57| <> You must place the turret on a block made of Titanium or better.
+2017-04-09 13-27-57| <> You must place the turret on a block made of Titanium or better.
+2017-04-09 13-27-58| <> You must place the turret on a block made of Titanium or better.
+2017-04-09 13-27-58| <> You must place the turret on a block made of Titanium or better.
+2017-04-09 13-28-03| <> You don't have any of this turret.
+2017-04-09 13-28-05| <> You don't have any of this turret.
+2017-04-09 13-28-05| <> You don't have any of this turret.
+2017-04-09 13-28-24| <> You don't have any of this turret.
+2017-04-09 13-28-38| <> Your ship doesn't support more of this turret type.
+2017-04-09 13-28-38| <> Your ship doesn't support more of this turret type.
+2017-04-09 13-28-38| <> Your ship doesn't support more of this turret type.
+2017-04-09 13-28-38| <> Your ship doesn't support more of this turret type.
+2017-04-09 13-28-47| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-31-58| <> You have no sector selected.
+2017-04-09 13-33-13| <> You have no sector selected.
+2017-04-09 13-33-14| <> You have no sector selected.
+2017-04-09 13-33-39| <> You have no sector selected.
+2017-04-09 13-34-50| <> You don't have any of this turret.
+2017-04-09 13-36-01| <> You have no sector selected.
+2017-04-09 13-36-02| <> You have no sector selected.
+2017-04-09 13-36-03| <> You have no sector selected.
+2017-04-09 13-36-03| <> You have no sector selected.
+2017-04-09 13-36-03| <> You have no sector selected.
+2017-04-09 13-36-04| <> You have no sector selected.
+2017-04-09 13-40-53| <The Xiujlaoc'zao> We thank you for taking care of those ships. We transferred a reward to your account.
+2017-04-09 13-41-20| <> You have no sector selected.
+2017-04-09 13-41-22| <> You have no sector selected.
+2017-04-09 13-42-09| <> You have no sector selected.
+2017-04-09 13-43-23| <> You have no sector selected.
+2017-04-09 13-43-24| <> You have no sector selected.
+2017-04-09 13-45-24| <Everlasting Sun 2 Military Outpost> Thank you for taking care of this scum. We transferred the reward to your account.
+2017-04-09 13-46-50| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-47-01| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-09 13-50-00| <Server> More strange subspace signals, they're getting stronger.
+2017-04-09 13-50-01| <> You don't have any of this turret.
+2017-04-09 13-50-09| <> You don't have any of this turret.
+2017-04-09 13-50-21| <> You don't have any of this turret.
+2017-04-09 13-50-27| <> You don't have any of this turret.
+2017-04-09 13-50-29| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-51-00| <Server> A small group of alien ships appeared!
+2017-04-09 13-51-43| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-52-14| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-54-09| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 13-55-22| <> You have no sector selected.
+2017-04-09 13-57-07| <Server> Pirates are attacking the sector!
+2017-04-09 13-57-43| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 13-57-53| <> Jump route calculated.
+2017-04-09 13-58-23| <Smuggler> Deliver the goods to (126:287)
+2017-04-09 14-00-46| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 14-01-08| <> Jump route calculated.
+2017-04-09 14-01-09| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s22.xml"
+2017-04-09 14-01-23| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 14-01-45| <> Jump route calculated.
+2017-04-09 14-02-05| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 14-02-27| <> Jump route calculated.
+2017-04-09 14-02-30| <Mobile Resource Merchant Weltraumputze> Hello Everybody! Mobile Resource Merchant Weltraumputze here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-09 14-03-02| <Mobile Resource Merchant> You must be closer to the ship to trade.
+2017-04-09 14-03-44| <Mobile Resource Merchant> You must be closer to the ship to trade.
+2017-04-09 14-03-49| <Mobile Resource Merchant> You must be closer to the ship to trade.
+2017-04-09 14-03-50| <Mobile Resource Merchant> You must be closer to the ship to trade.
+2017-04-09 14-03-50| <Mobile Resource Merchant> You must be closer to the ship to trade.
+2017-04-09 14-03-50| <Mobile Resource Merchant> You must be closer to the ship to trade.
+2017-04-09 14-09-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave7.xml"
+2017-04-09 14-09-24| Unlocked achievement BUILD_SHIELD_GENERATOR
+2017-04-09 14-14-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave7.xml"
+2017-04-09 14-19-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave7.xml"
+2017-04-09 14-21-24| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-21-41| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-01| <Server> 2 crewmen died due to insufficient life support!
+2017-04-09 14-22-11| <Server> 2 crewmen died due to insufficient life support!
+2017-04-09 14-22-31| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-31| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-32| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-32| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-32| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-32| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-38| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-38| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-42| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-59| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-22-59| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-23-00| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-23-00| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-23-00| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-23-00| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-23-15| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-24-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave7.xml"
+2017-04-09 14-25-16| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s23.xml"
+2017-04-09 14-26-21| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s23.xml"
+2017-04-09 14-26-54| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s23.xml"
+2017-04-09 14-27-51| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-30-20| <> You need 27746661 credits.
+2017-04-09 14-30-20| <> You need 27746661 credits.
+2017-04-09 14-30-20| <> You need 27746661 credits.
+2017-04-09 14-30-20| <> You need 27746661 credits.
+2017-04-09 14-30-45| Unlocked achievement COLLECT_BILLION_CREDITS
+2017-04-09 14-31-04| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s23.xml"
+2017-04-09 14-31-40| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (156:307) ... help!
+2017-04-09 14-31-40| <> You have received a distress signal by an unknown source.
+2017-04-09 14-32-49| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s23.xml"
+2017-04-09 14-33-31| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s23.xml"
+2017-04-09 14-34-54| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s23.xml"
+2017-04-09 14-36-11| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s23.xml"
+2017-04-09 14-41-01| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-41-11| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-41-20| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave8.xml"
+2017-04-09 14-41-53| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-42-03| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-43-01| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-43-09| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-43-22| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-43-46| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-44-19| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 14-44-30| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s24.xml"
+2017-04-09 14-45-04| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s24.xml"
+2017-04-09 14-45-35| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 14-45-45| <> The jump route is still being calculated.
+2017-04-09 14-45-47| <> The jump route is still being calculated.
+2017-04-09 14-45-54| <> The jump route is still being calculated.
+2017-04-09 14-45-55| <> The jump route is still being calculated.
+2017-04-09 14-45-56| <> The jump route is still being calculated.
+2017-04-09 14-45-56| <> The jump route is still being calculated.
+2017-04-09 14-45-56| <> The jump route is still being calculated.
+2017-04-09 14-46-11| <> The jump route is still being calculated.
+2017-04-09 14-46-13| <> Jump route calculated.
+2017-04-09 14-47-18| <Biotope> You need more lieutenants.
+2017-04-09 14-47-27| <> You need more commanders.
+2017-04-09 14-47-27| <> You need more commanders.
+2017-04-09 14-47-28| <> You need more commanders.
+2017-04-09 14-48-13| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-09 14-48-26| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-26| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-28| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-28| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-31| <> You need more lieutenants.
+2017-04-09 14-48-32| <> You need more lieutenants.
+2017-04-09 14-48-32| <> You need more lieutenants.
+2017-04-09 14-48-32| <> You need more lieutenants.
+2017-04-09 14-48-33| <> You need more lieutenants.
+2017-04-09 14-48-34| <> You need more lieutenants.
+2017-04-09 14-48-40| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-40| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-40| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-41| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-41| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-41| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-42| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-42| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-42| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-42| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-43| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-43| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-43| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-43| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-44| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-44| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-45| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-48| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-48| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-49| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-49| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-58| <> You don't have enough unemployed crewmen.
+2017-04-09 14-48-58| <> You don't have enough unemployed crewmen.
+2017-04-09 14-49-44| <> You don't have enough unemployed crewmen.
+2017-04-09 14-50-41| <Gate Control> You paid 753 credits passage fee.
+2017-04-09 14-51-12| <Server> More strange subspace signals, they're getting stronger.
+2017-04-09 14-52-12| <Server> A small group of alien ships appeared!
+2017-04-09 14-52-27| <> You need more commanders.
+2017-04-09 14-52-27| <> You need more commanders.
+2017-04-09 14-52-27| <> You need more commanders.
+2017-04-09 14-54-37| <Gate Control> You paid 306 credits passage fee.
+2017-04-09 14-54-45| Warning, can't keep up, skipping 1 frames...
+2017-04-09 14-55-58| <${good} Factory ${size}> You need more lieutenants.
+2017-04-09 14-56-11| <> You need more commanders.
+2017-04-09 14-56-13| <> You need more commanders.
+2017-04-09 14-57-47| <Tesla Coil Factory ${size}> You must be docked to the station to hire crewmembers.
+2017-04-09 15-00-35| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 15-03-32| <> You don't have any of this turret.
+2017-04-09 15-03-37| <> You don't have any of this turret.
+2017-04-09 15-03-43| <> You don't have any of this turret.
+2017-04-09 15-03-54| <> You don't have any of this turret.
+2017-04-09 15-04-15| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave9.xml"
+2017-04-09 15-04-16| <> You don't have any of this turret.
+2017-04-09 15-04-21| <> You don't have any of this turret.
+2017-04-09 15-04-33| <> You don't have any of this turret.
+2017-04-09 15-05-53| <Server> Pirates are attacking the sector!
+2017-04-09 15-06-09| <> Your ship doesn't support more of this turret type.
+2017-04-09 15-06-09| <> Your ship doesn't support more of this turret type.
+2017-04-09 15-06-10| <> Your ship doesn't support more of this turret type.
+2017-04-09 15-06-10| <> Your ship doesn't support more of this turret type.
+2017-04-09 15-06-13| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s25.xml"
+2017-04-09 15-08-23| <The Reaneel> We thank you for taking care of those ships. We transferred a reward to your account.
+2017-04-09 15-09-20| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 15-09-20| UDP closed
+2017-04-09 15-09-20| Client UDP: Connection closed
+2017-04-09 15-09-20| UDP closed
+2017-04-09 15-09-20| Client UDP: Connection closed
+2017-04-09 15-09-21| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-09 15-09-21| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 15-09-22| Server shutdown successful.
+2017-04-09 15-09-22| UDP closed
+2017-04-09 15-09-22| Client UDP: Connection closed
+2017-04-09 15-09-23| Exiting client.
+2017-04-09 15-09-23| Exited client main loop.
+2017-04-09 15-09-23| Waiting for Online polling threads
+2017-04-09 15-09-23| Online polling threads finished
+2017-04-09 15-09-23| Waiting for LAN polling threads
+2017-04-09 15-09-23| LAN polling threads finished
+2017-04-09 15-09-23| Stopping local server ...

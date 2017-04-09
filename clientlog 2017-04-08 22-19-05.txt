@@ -1,0 +1,413 @@
+2017-04-08 22-19-05| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-08 22-19-05| Enabled Traces: 
+2017-04-08 22-19-05| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-08 22-19-05| CPU: GenuineIntel 8 Cores
+2017-04-08 22-19-05| Init Steamworks...Installed Steam exception handler
+2017-04-08 22-19-05| Init Steamworks... ok
+2017-04-08 22-19-05| Init Steamworks ok
+2017-04-08 22-19-05| Init SDL2... ok
+2017-04-08 22-19-05| Getting display mode... ok
+2017-04-08 22-19-05| Current display mode: 1920 x 1080
+2017-04-08 22-19-05| Creating settings... loading... setting language... ok
+2017-04-08 22-19-05| Creating client window...Creating normal window
+2017-04-08 22-19-05| Detected 2 displays
+2017-04-08 22-19-05| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-08 22-19-05| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-08 22-19-05| Using display 0
+2017-04-08 22-19-05| Creating window, x: 0, y: 0, w: 1600, h: 900... ok
+2017-04-08 22-19-05| GetDrawableSize: 1600 900
+2017-04-08 22-19-05| GetWindowSize: 1600 900
+2017-04-08 22-19-05| Creating GL context... ok
+2017-04-08 22-19-05| Setting window mode Windowed... ok
+2017-04-08 22-19-05| Creating client window ok
+2017-04-08 22-19-05| Init rendering... starting rendering... initialize...OpenGL Context Information:
+2017-04-08 22-19-05| Version: 4.5
+2017-04-08 22-19-05| VersionString: 4.5.0 NVIDIA 378.49
+2017-04-08 22-19-05| Vendor: NVIDIA Corporation
+2017-04-08 22-19-05| Renderer: GeForce GTX 760/PCIe/SSE2
+2017-04-08 22-19-05| GLSL Version: 4.50 NVIDIA
+2017-04-08 22-19-05| GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+2017-04-08 22-19-05| GL_MAX_VERTEX_UNIFORM_VECTORS: 1024
+2017-04-08 22-19-05| GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+2017-04-08 22-19-05| GL_MAX_ELEMENTS_INDICES: 1048576
+2017-04-08 22-19-05| GL_MAX_ELEMENTS_VERTICES: 1048576
+2017-04-08 22-19-05| GL_MAX_RENDERBUFFER_SIZE: 16384
+2017-04-08 22-19-05| GL_MAX_TEXTURE_SIZE: 16384
+2017-04-08 22-19-05| GL_MAX_VERTEX_ATTRIBS: 16
+2017-04-08 22-19-05| GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+2017-04-08 22-19-05| Init GLEW... ok
+2017-04-08 22-19-05| Init Debug Message Callback... ok
+2017-04-08 22-19-05| Set VSync... ok
+2017-04-08 22-19-05| Secure BackBuffer... ok
+2017-04-08 22-19-05| Init Canvas...Create canvas of size 2262 x 1272... ok
+2017-04-08 22-19-05| Init Canvas ok
+2017-04-08 22-19-05| Init Refraction Texture... ok
+2017-04-08 22-19-05| Init Post Processing... ok
+2017-04-08 22-19-05| Init Debug Renderers... ok
+2017-04-08 22-19-05| DepthTexturesSupported: yes
+2017-04-08 22-19-05| IntVertexAttributesSupported: yes
+2017-04-08 22-19-05| DeferredSupported: yes
+2017-04-08 22-19-05| LowSpecGPUDetected: no
+2017-04-08 22-19-05| Rendering initialized
+2017-04-08 22-19-05| Init rendering ok
+2017-04-08 22-19-05| Check problematic drivers... ok
+2017-04-08 22-19-05| Init shader level... ok
+2017-04-08 22-19-05| Init loading screen... ok
+2017-04-08 22-19-05| Draw first loading screen... draw... ok
+2017-04-08 22-19-05| Init SFX... ok
+2017-04-08 22-19-05| Init Input... ok
+2017-04-08 22-19-05| Init GameInput... ok
+2017-04-08 22-19-05| Init Main Menu... ok
+2017-04-08 22-19-06| Init Music... ok
+2017-04-08 22-19-06| Apply loaded settings... ok
+2017-04-08 22-19-06| Adjust settings to GPU... ok
+2017-04-08 22-19-06| Client initialized
+2017-04-08 22-19-06| Received stats and achievements from Steam
+2017-04-08 22-19-06| STAT_PIRATES_DESTROYED: 10i
+2017-04-08 22-19-06| STAT_XSOTAN_DESTROYED: 7i
+2017-04-08 22-19-06| STAT_CIVIL_SHIPS_DESTROYED: 0i
+2017-04-08 22-19-06| STAT_SHIPS_DESTROYED: 0i
+2017-04-08 22-19-06| STAT_STATIONS_DESTROYED: 0i
+2017-04-08 22-19-06| STAT_RESOURCES_MINED: 2844i
+2017-04-08 22-19-06| STAT_GOODS_TRADED: 63i
+2017-04-08 22-19-06| STAT_GOODS_SOLD: 0i
+2017-04-08 22-19-06| STAT_GOODS_BOUGHT: 63i
+2017-04-08 22-19-06| STAT_GATES_USED: 0i
+2017-04-08 22-19-06| STAT_WORMHOLES_USED: 0i
+2017-04-08 22-19-06| STAT_JUMPS_USED: 8i
+2017-04-08 22-19-06| STAT_SECTORS_DISCOVERED: 7i
+2017-04-08 22-19-06| STAT_SECTORS_TRAVELED: 16.8306f
+2017-04-08 22-19-06| STAT_METERS_FLOWN: 636175i
+2017-04-08 22-19-14| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-08 22-19-14| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-08 22-19-15| Waiting for Online polling threads
+2017-04-08 22-19-15| Online polling threads finished
+2017-04-08 22-19-15| Waiting for LAN polling threads
+2017-04-08 22-19-15| LAN polling threads finished
+2017-04-08 22-19-15| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 22-19-17| remote address: ip, init: steam
+2017-04-08 22-19-17| Connecting to server at 127.0.0.1:27000
+2017-04-08 22-19-17| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 22-19-17| Initiating connection with server ID 90108003267323908
+2017-04-08 22-19-21| Authentication successful!
+2017-04-08 22-19-24| <Server> Player fatmanone joined the galaxy
+2017-04-08 22-19-25| <Object Detector> Valuable objects detected.
+2017-04-08 22-26-24| <Gate Control> You paid 57 credits passage fee.
+2017-04-08 22-26-24| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-08 22-26-24| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-08 22-33-57| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 22-34-06| <> Jump route calculated.
+2017-04-08 22-46-26| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 22-47-05| <Mobile Equipment Merchant Yadnaxua> Hello Everybody! Mobile Equipment Merchant Yadnaxua here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-08 22-48-15| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 22-48-25| <> Jump route calculated.
+2017-04-08 22-48-32| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 22-48-40| <> Jump route calculated.
+2017-04-08 22-48-42| <> Your hyperdrive still needs 18 seconds to recharge.
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-49-06| Create Entity Message discarded: wrong sector
+2017-04-08 22-50-37| <> You have no sector selected.
+2017-04-08 22-51-02| <> You have no sector selected.
+2017-04-08 22-51-03| <> You have no sector selected.
+2017-04-08 22-52-25| <> You cannot build a turret at this place. You cannot build a turret onto a thruster.
+2017-04-08 22-52-25| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-52-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-52-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-52-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-52-51| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-52-52| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-52-52| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-52-52| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-52-53| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-52-53| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-53-10| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-53-11| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-53-12| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 22-54-23| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-08 22-54-57| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-54-57| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-54-59| <> Your ship doesn't support more of this turret type.
+2017-04-08 22-54-59| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 22-57-22| <Server> More strange subspace signals, they're getting stronger.
+2017-04-08 22-58-22| <Server> A small group of alien ships appeared!
+2017-04-08 22-59-44| <> You have no sector selected.
+2017-04-08 23-00-54| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (182:409), someone help, please!
+2017-04-08 23-00-54| <> You have received a distress signal by an unknown source.
+2017-04-08 23-02-58| <> You have no sector selected.
+2017-04-08 23-03-02| <> You have no sector selected.
+2017-04-08 23-05-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 23-10-53| <> Your ship doesn't support more of this turret type.
+2017-04-08 23-10-54| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 23-12-01| <> This sector is out of reach with this ship.
+2017-04-08 23-12-12| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 23-12-16| <> The jump route is still being calculated.
+2017-04-08 23-12-17| <> The jump route is still being calculated.
+2017-04-08 23-12-21| <> The jump route is still being calculated.
+2017-04-08 23-12-22| <> Jump route calculated.
+2017-04-08 23-12-51| <Gate Control> You paid 146 credits passage fee.
+2017-04-08 23-12-52| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-08 23-12-52| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-08 23-13-51| <Repair Dock> You can't be more than 1km away to repair your ship.
+2017-04-08 23-15-57| <Gate Control> You paid 98 credits passage fee.
+2017-04-08 23-21-46| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-08 23-23-39| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 23-23-47| <> Jump route calculated.
+2017-04-08 23-24-02| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 23-24-11| <> Jump route calculated.
+2017-04-08 23-24-13| <> Your hyperdrive still needs 9 seconds to recharge.
+2017-04-08 23-24-16| <> Your hyperdrive still needs 5 seconds to recharge.
+2017-04-08 23-24-19| <> Your hyperdrive still needs 3 seconds to recharge.
+2017-04-08 23-24-45| <Server> The signals are growing stronger.
+2017-04-08 23-25-42| <Gate Control> You paid 15 credits passage fee.
+2017-04-08 23-25-42| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-08 23-25-42| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-08 23-25-46| <Server> A group of alien ships warped in!
+2017-04-08 23-29-29| <Unkown> This is a distress call! Our position is (173:422) We are under attack by pirates, please help!
+2017-04-08 23-29-29| <> You have received a distress signal by an unknown source.
+2017-04-08 23-31-23| <Gate Control> You paid 27 credits passage fee.
+2017-04-08 23-31-23| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-08 23-31-23| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-08 23-34-58| <Gate Control> You paid 22 credits passage fee.
+2017-04-08 23-36-26| <Server> Pirates are attacking the sector!
+2017-04-08 23-36-27| <Gate Control> You paid 7 credits passage fee.
+2017-04-08 23-36-36| <Gate Control> You paid 7 credits passage fee.
+2017-04-08 23-38-41| <The Aam States> We thank you for taking care of those ships. We transferred a reward to your account.
+2017-04-08 23-39-25| <> Your ship doesn't support more of this turret type.
+2017-04-08 23-41-46| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 23-44-04| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 23-44-24| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 23-44-30| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 23-44-37| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 23-44-58| <> Your ship doesn't support more of this turret type.
+2017-04-08 23-44-58| <> Your ship doesn't support more of this turret type.
+2017-04-08 23-45-38| <> You don't have any of this turret.
+2017-04-08 23-45-50| <> You don't have any of this turret.
+2017-04-08 23-45-57| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 23-46-45| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 23-47-22| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 23-47-42| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 23-48-35| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 23-48-45| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 23-48-51| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-08 23-49-03| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 23-49-22| <> You don't have any of this turret.
+2017-04-08 23-49-24| <> You don't have any of this turret.
+2017-04-08 23-49-24| <> You don't have any of this turret.
+2017-04-08 23-49-36| <> You don't have any of this turret.
+2017-04-08 23-49-54| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 23-50-35| <> Your ship doesn't support more of this turret type.
+2017-04-08 23-50-35| <> Your ship doesn't support more of this turret type.
+2017-04-08 23-50-42| <> You cannot build a turret at this place. You cannot build a turret onto a thruster.
+2017-04-08 23-50-42| <> You cannot build a turret at this place. You cannot build a turret onto a thruster.
+2017-04-08 23-51-50| <Server> More strange subspace signals, they're getting stronger.
+2017-04-08 23-51-54| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 23-52-17| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 23-52-50| <Server> A small group of alien ships appeared!
+2017-04-08 23-53-28| <Military Outpost> You must be docked to the station to hire crewmembers.
+2017-04-08 23-53-29| <Military Outpost> You must be docked to the station to hire crewmembers.
+2017-04-08 23-55-11| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 23-57-21| <Server> Pirates are attacking the sector!
+2017-04-08 23-59-22| <The Aam States> Thank you for defeating those pirates. You have our endless gratitude.
+2017-04-08 23-59-22| <> You have no sector selected.
+2017-04-09 00-01-32| <Gate Control> You paid 2 credits passage fee.
+2017-04-09 00-02-11| <Gate Control> You paid 13 credits passage fee.
+2017-04-09 00-04-38| <Gate Control> You paid 10 credits passage fee.
+2017-04-09 00-07-39| <> This sector is out of reach with this ship.
+2017-04-09 00-07-44| <> This sector is out of reach with this ship.
+2017-04-09 00-07-51| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-07-55| <Server> Pirates are attacking the sector!
+2017-04-09 00-08-01| <> Jump route calculated.
+2017-04-09 00-09-16| <> Your ship is facing in the wrong direction.
+2017-04-09 00-09-55| <The Aam States> Thank you for defeating those pirates. You have our endless gratitude.
+2017-04-09 00-11-07| <Gate Control> You paid 1 credits passage fee.
+2017-04-09 00-14-26| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-14-35| <> Jump route calculated.
+2017-04-09 00-14-50| <Gate Control> You paid 311 credits passage fee.
+2017-04-09 00-16-10| <Gate Control> You paid 105 credits passage fee.
+2017-04-09 00-16-31| <> This sector is out of reach with this ship.
+2017-04-09 00-16-37| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-16-40| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-16-42| <> You are already in this sector
+2017-04-09 00-16-49| <> Jump route calculated.
+2017-04-09 00-17-13| <Gate Control> You paid 218 credits passage fee.
+2017-04-09 00-17-18| <> This sector is out of reach with this ship.
+2017-04-09 00-18-06| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (166:396), someone help, please!
+2017-04-09 00-18-06| <> You have received a distress signal by an unknown source.
+2017-04-09 00-18-33| <Gate Control> You paid 587 credits passage fee.
+2017-04-09 00-19-36| <Gate Control> You paid 287 credits passage fee.
+2017-04-09 00-19-36| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 00-19-36| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 00-20-49| <Gate Control> You paid 297 credits passage fee.
+2017-04-09 00-21-08| <> This sector is out of reach with this ship.
+2017-04-09 00-22-11| <Gate Control> You paid 167 credits passage fee.
+2017-04-09 00-22-44| <Gate Control> You paid 187 credits passage fee.
+2017-04-09 00-23-21| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-09 00-23-27| <> You need more sergeants.
+2017-04-09 00-23-28| <> You need more sergeants.
+2017-04-09 00-23-29| <> You need more sergeants.
+2017-04-09 00-24-19| <> This sector is out of reach with this ship.
+2017-04-09 00-24-38| <${good} Extractor ${size}> You need more sergeants.
+2017-04-09 00-26-19| <Gate Control> You paid 134 credits passage fee.
+2017-04-09 00-27-12| <Gate Control> You paid 136 credits passage fee.
+2017-04-09 00-27-20| <> This sector is out of reach with this ship.
+2017-04-09 00-27-57| <Gate Control> You paid 310 credits passage fee.
+2017-04-09 00-28-01| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-09 00-28-51| <Gate Control> You paid 272 credits passage fee.
+2017-04-09 00-29-45| <Gate Control> You paid 235 credits passage fee.
+2017-04-09 00-30-59| <Server> More strange subspace signals, they're getting stronger.
+2017-04-09 00-31-21| <> This sector is out of reach with this ship.
+2017-04-09 00-31-59| <Server> A small group of alien ships appeared!
+2017-04-09 00-33-57| <> You don't have any of this turret.
+2017-04-09 00-34-24| <> You don't have any of this turret.
+2017-04-09 00-34-29| <> Your ship doesn't support more of this turret type.
+2017-04-09 00-34-29| <> Your ship doesn't support more of this turret type.
+2017-04-09 00-34-31| <> Your ship doesn't support more of this turret type.
+2017-04-09 00-34-31| <> Your ship doesn't support more of this turret type.
+2017-04-09 00-34-34| <> Your ship doesn't support more of this turret type.
+2017-04-09 00-34-34| <> Your ship doesn't support more of this turret type.
+2017-04-09 00-35-02| <Mobile Turret Merchant Bauizauy> Hello Everybody! Mobile Turret Merchant Bauizauy here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-09 00-35-48| <Mobile Turret Merchant> You must be closer to the ship to buy items.
+2017-04-09 00-35-55| <> This sector is out of reach with this ship.
+2017-04-09 00-36-23| <Mobile Turret Merchant> You must be closer to the ship to buy items.
+2017-04-09 00-36-23| <Mobile Turret Merchant> You must be closer to the ship to buy items.
+2017-04-09 00-36-24| <Mobile Turret Merchant> You must be closer to the ship to buy items.
+2017-04-09 00-36-41| <Mobile Turret Merchant> You must be closer to the ship to buy items.
+2017-04-09 00-38-05| <> Your ship doesn't support more of this turret type.
+2017-04-09 00-38-05| <> Your ship doesn't support more of this turret type.
+2017-04-09 00-38-28| <> You don't have any of this turret.
+2017-04-09 00-39-11| <> You don't have any of this turret.
+2017-04-09 00-39-56| <> Your ship doesn't support more of this turret type.
+2017-04-09 00-40-13| <> You don't have any of this turret.
+2017-04-09 00-41-44| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-09 00-42-24| <Gate Control> You paid 399 credits passage fee.
+2017-04-09 00-43-03| <Gate Control> You paid 618 credits passage fee.
+2017-04-09 00-43-04| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 00-43-04| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 00-43-41| <> This sector is out of reach with this ship.
+2017-04-09 00-43-59| <Gate Control> You paid 166 credits passage fee.
+2017-04-09 00-44-11| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-44-21| <> Jump route calculated.
+2017-04-09 00-44-24| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-09 00-44-26| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-09 00-44-45| <> There are rifts in the space-time continuum blocking access to this sector.
+2017-04-09 00-45-27| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 00-45-32| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 00-45-39| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 00-45-41| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-09 00-46-59| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-09 00-47-25| <Server> The signals are growing stronger.
+2017-04-09 00-47-55| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-09 00-48-15| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-48-16| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-48-26| <Server> A group of alien ships warped in!
+2017-04-09 00-48-26| <> Jump route calculated.
+2017-04-09 00-48-42| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-48-51| <> Jump route calculated.
+2017-04-09 00-49-01| <Gate Control> You paid 166 credits passage fee.
+2017-04-09 00-49-02| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 00-49-02| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 00-49-06| <> Your hyperdrive still needs 4 seconds to recharge.
+2017-04-09 00-49-35| <Gate Control> You paid 554 credits passage fee.
+2017-04-09 00-50-16| <Gate Control> You paid 618 credits passage fee.
+2017-04-09 00-50-17| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 00-50-17| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 00-51-01| <Gate Control> You paid 397 credits passage fee.
+2017-04-09 00-53-06| <Gate Control> You paid 250 credits passage fee.
+2017-04-09 00-54-42| <> The crew of your ship 's1' was paid.
+2017-04-09 00-55-09| <Gate Control> You paid 1058 credits passage fee.
+2017-04-09 00-55-40| <Military Outpost> Their location is (170:325).
+2017-04-09 00-56-39| <Gate Control> You paid 527 credits passage fee.
+2017-04-09 00-56-51| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-57-01| <> Jump route calculated.
+2017-04-09 00-57-11| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 00-57-20| <> Jump route calculated.
+2017-04-09 00-59-20| <> You have no sector selected.
+2017-04-09 01-01-03| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-01-03| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-01-04| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-01-04| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-01-04| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-01-19| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-09 01-01-21| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-09 01-01-22| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-09 01-01-23| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-09 01-01-24| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-09 01-02-30| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-02-31| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-02-31| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-04-14| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-09 01-04-14| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-09 01-04-15| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-09 01-04-15| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-09 01-05-09| <> You have no sector selected.
+2017-04-09 01-05-09| <> You have no sector selected.
+2017-04-09 01-05-10| <> You have no sector selected.
+2017-04-09 01-05-11| <> You have no sector selected.
+2017-04-09 01-06-07| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-06-08| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-06-09| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-06-51| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-06-52| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-06-52| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-06-53| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-06-53| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-07-36| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-07-36| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-09 01-07-47| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-09 01-07-49| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-09 01-08-40| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-08-40| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-09-36| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-09-36| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-09-37| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-09-37| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-09-38| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-09 01-09-58| <> Your ship was destroyed and you'll be returned to your reconstruction site.
+2017-04-09 01-09-58| <Server> Your Ship s1 has been destroyed!
+2017-04-09 01-10-06| <> You were destroyed and returned to your reconstruction site.
+2017-04-09 01-10-22| Exited client main loop.
+2017-04-09 01-10-22| UDP closed
+2017-04-09 01-10-22| Client UDP: Connection closed
+2017-04-09 01-10-22| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 01-10-23| UDP closed
+2017-04-09 01-10-23| Client UDP: Connection closed
+2017-04-09 01-10-23| Stopping local server ...
+2017-04-09 01-10-24| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-09 01-10-24| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 01-10-24| Server shutdown successful.
+2017-04-09 01-10-24| UDP closed
+2017-04-09 01-10-24| Client UDP: Connection closed

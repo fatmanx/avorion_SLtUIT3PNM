@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<auto_-1484702180134863301 accumulateHealth="true" convex="false">
+	<item parent="-1" index="0" maxDurability="315027" currentDurability="314995.25">
+		<block lowerX="-1" lowerY="-1" lowerZ="-1" upperX="1" upperY="1" upperZ="1" index="1" material="1" look="1" up="3" color="ffbfaea3"/>
+	</item>
+	<item parent="6" index="149" maxDurability="72250.125" currentDurability="72239.4844">
+		<block lowerX="-1" lowerY="0" lowerZ="1.50000191" upperX="1" upperY="3" upperZ="15" index="6" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="0" index="2" maxDurability="120076.336" currentDurability="120076.336">
+		<block lowerX="-3" lowerY="-1" lowerZ="-1" upperX="-1" upperY="1" upperZ="12.5000019" index="51" material="6" look="1" up="3" color="ffa3bfa3"/>
+	</item>
+	<item parent="0" index="3" maxDurability="164265.109" currentDurability="164265.109">
+		<block lowerX="1" lowerY="-1" lowerZ="-1" upperX="3" upperY="1" upperZ="12.5000019" index="51" material="6" look="1" up="3" color="ffa3bfa3"/>
+	</item>
+	<item parent="149" index="150" maxDurability="36677.2266" currentDurability="36677.2266">
+		<block lowerX="-1" lowerY="2.99999905" lowerZ="1.50000191" upperX="1" upperY="5.99999905" upperZ="15" index="6" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="2" index="5" maxDurability="109585.57" currentDurability="109585.57">
+		<block lowerX="-3" lowerY="1" lowerZ="1.5" upperX="-1" upperY="3" upperZ="15.0000019" index="6" material="6" look="1" up="3" color="ffa3bfa3"/>
+	</item>
+	<item parent="3" index="6" maxDurability="75814.8438" currentDurability="75814.8438">
+		<block lowerX="1" lowerY="1" lowerZ="1.5" upperX="3" upperY="3" upperZ="15.0000019" index="6" material="6" look="1" up="3" color="ffa3bfa3"/>
+	</item>
+	<item parent="5" index="151" maxDurability="29165.6953" currentDurability="29165.6953">
+		<block lowerX="-3" lowerY="0" lowerZ="-11.9999971" upperX="-1" upperY="3" upperZ="1.50000095" index="52" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="0" index="152" maxDurability="30637.5469" currentDurability="30615.7969">
+		<block lowerX="1" lowerY="0" lowerZ="-11.9999971" upperX="3" upperY="3" upperZ="1.50000095" index="52" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="152" index="154" maxDurability="1471.85205" currentDurability="1464.49683">
+		<block lowerX="-0.999999762" lowerY="0" lowerZ="-11.2499981" upperX="1.00000024" upperY="3" upperZ="-0.249998093" index="53" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="5" index="155" maxDurability="77959.5078" currentDurability="77927.0156">
+		<block lowerX="-5.00000095" lowerY="0" lowerZ="-3.74999809" upperX="-3.00000095" upperY="3" upperZ="7.25" index="52" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="3" index="156" maxDurability="77959.5078" currentDurability="77959.5078">
+		<block lowerX="3.00000095" lowerY="0" lowerZ="-3.74999809" upperX="5.00000095" upperY="3" upperZ="7.25" index="52" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="155" index="157" maxDurability="77583.6172" currentDurability="77572.7422">
+		<block lowerX="-9.50000191" lowerY="0" lowerZ="-2.74999905" upperX="-5.00000191" upperY="3" upperZ="8.25000095" index="52" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="156" index="158" maxDurability="77583.6172" currentDurability="77583.6172">
+		<block lowerX="5.00000191" lowerY="0" lowerZ="-2.74999905" upperX="9.50000191" upperY="3" upperZ="8.25000095" index="52" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="150" index="159" maxDurability="2232.01025" currentDurability="2226.80786">
+		<block lowerX="-2.50000191" lowerY="2.99999905" lowerZ="1.25000095" upperX="-1.00000191" upperY="5.99999905" upperZ="12.250001" index="14" material="6" look="5" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="149" index="160" maxDurability="1127.672" currentDurability="1107.79602">
+		<block lowerX="1.00000191" lowerY="2.99999905" lowerZ="1.25000095" upperX="2.50000191" upperY="5.99999905" upperZ="12.250001" index="14" material="6" look="4" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="154" index="177" maxDurability="1095.96143" currentDurability="1070.3761">
+		<block lowerX="-2.16666675" lowerY="3" lowerZ="-11.3055544" upperX="2.16666722" upperY="6.66666698" upperZ="0.805558205" index="15" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="157" index="190" maxDurability="66862.1875" currentDurability="66862.1875">
+		<block lowerX="-13.833334" lowerY="-0.833332062" lowerZ="-2.30555534" upperX="-9.50000191" upperY="2.83333206" upperZ="9.80555725" index="54" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="158" index="191" maxDurability="65068.1641" currentDurability="64959.4141">
+		<block lowerX="9.50000191" lowerY="-0.833332062" lowerZ="-2.30555534" upperX="13.833334" upperY="2.83333206" upperZ="9.80555725" index="54" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="190" index="192" maxDurability="63972.2031" currentDurability="63863.4609">
+		<block lowerX="-18.1666641" lowerY="-0.833332539" lowerZ="-2.30555534" upperX="-13.8333321" upperY="2.83333254" upperZ="9.80555725" index="7" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="191" index="193" maxDurability="63972.2031" currentDurability="63972.2031">
+		<block lowerX="13.8333321" lowerY="-0.833332539" lowerZ="-2.30555534" upperX="18.1666641" upperY="2.83333254" upperZ="9.80555725" index="7" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="159" index="198" maxDurability="1104.33838" currentDurability="1104.33838">
+		<block lowerX="-6.22463989" lowerY="2.66666508" lowerZ="-3.34903145" upperX="-2.50000381" upperY="6.33333302" upperZ="10.8490334" index="55" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="6" index="199" maxDurability="1104.33838" currentDurability="1066.58789">
+		<block lowerX="2.50000381" lowerY="2.66666508" lowerZ="-3.34903145" upperX="6.22463989" upperY="6.33333302" upperZ="10.8490334" index="55" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="190" index="202" maxDurability="1794.02344" currentDurability="1794.02344">
+		<block lowerX="-15.1666679" lowerY="2.83333302" lowerZ="-0.749999046" upperX="-5.16666794" upperY="6.33333302" upperZ="8.25000095" index="13" material="6" look="5" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="158" index="203" maxDurability="1794.02344" currentDurability="1785.02234">
+		<block lowerX="5.16666794" lowerY="2.83333302" lowerZ="-0.749999046" upperX="15.1666679" upperY="6.33333302" upperZ="8.25000095" index="13" material="6" look="4" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="151" index="220" maxDurability="28704.375" currentDurability="28704.375">
+		<block lowerX="-18" lowerY="-0.75" lowerZ="-15.2499981" upperX="-3" upperY="2.75" upperZ="-3.24999809" index="3" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="152" index="221" maxDurability="14352.1875" currentDurability="14304.8086">
+		<block lowerX="3" lowerY="-0.75" lowerZ="-15.2499981" upperX="18" upperY="2.75" upperZ="-3.24999809" index="3" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="220" index="222" maxDurability="14352.1875" currentDurability="14352.1875">
+		<block lowerX="-16" lowerY="2.75" lowerZ="-15.2499981" upperX="-1" upperY="6.25" upperZ="-3.24999809" index="3" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="152" index="223" maxDurability="14352.1875" currentDurability="14352.1875">
+		<block lowerX="1" lowerY="2.75" lowerZ="-15.2499981" upperX="16" upperY="6.25" upperZ="-3.24999809" index="3" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="158" index="224" maxDurability="9875.67188" currentDurability="9875.67188">
+		<block lowerX="1.50000191" lowerY="-3" lowerZ="-1.49999905" upperX="10.0000019" upperY="0" upperZ="7.00000095" index="5" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="2" index="225" maxDurability="9875.67188" currentDurability="9875.67188">
+		<block lowerX="-10.0000019" lowerY="-3" lowerZ="-1.49999905" upperX="-1.50000191" upperY="0" upperZ="7.00000095" index="5" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="157" index="226" maxDurability="9875.67188" currentDurability="9851.98242">
+		<block lowerX="-11.0000019" lowerY="-0.5" lowerZ="8.25" upperX="-2.50000191" upperY="2.5" upperZ="16.75" index="6" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="3" index="227" maxDurability="9875.67188" currentDurability="9875.67188">
+		<block lowerX="2.50000191" lowerY="-0.5" lowerZ="8.25" upperX="11.0000019" upperY="2.5" upperZ="16.75" index="6" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="192" index="232" maxDurability="62876.2461" currentDurability="62876.2461">
+		<block lowerX="-17.9999981" lowerY="2.83333206" lowerZ="-12.25" upperX="-13.9999981" upperY="5.83333206" upperZ="7.75000191" index="54" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="193" index="233" maxDurability="1366.87512" currentDurability="1366.87512">
+		<block lowerX="13.9999981" lowerY="2.83333206" lowerZ="-12.25" upperX="17.9999981" upperY="5.83333206" upperZ="7.75000191" index="54" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="232" index="234" maxDurability="61509.3711" currentDurability="61509.3711">
+		<block lowerX="-38" lowerY="2.33333206" lowerZ="-14" upperX="-18" upperY="5.33333206" upperZ="8.50000191" index="100" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="193" index="235" maxDurability="30754.6895" currentDurability="30754.6895">
+		<block lowerX="18" lowerY="2.33333206" lowerZ="-14" upperX="38" upperY="5.33333206" upperZ="8.50000191" index="100" material="6" look="0" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="234" index="236" maxDurability="30754.6816" currentDurability="30754.6816">
+		<block lowerX="-38" lowerY="-0.666667461" lowerZ="-13.9999981" upperX="-18" upperY="2.33333206" upperZ="8.5" index="100" material="6" look="1" up="2" color="ffbc9f9f"/>
+	</item>
+	<item parent="193" index="237" maxDurability="30754.6816" currentDurability="30754.6816">
+		<block lowerX="18" lowerY="-0.666667461" lowerZ="-13.9999981" upperX="38" upperY="2.33333206" upperZ="8.5" index="100" material="6" look="0" up="2" color="ffbc9f9f"/>
+	</item>
+	<item parent="149" index="238" maxDurability="30754.666" currentDurability="30754.666">
+		<block lowerX="-11.2499866" lowerY="-0.999999046" lowerZ="14.9999962" upperX="11.2499866" upperY="1.99999905" upperZ="35.0000191" index="100" material="6" look="4" up="2" color="ffbc9f9f"/>
+	</item>
+	<item parent="150" index="239" maxDurability="30754.6562" currentDurability="30754.6562">
+		<block lowerX="-11.2499847" lowerY="4" lowerZ="15" upperX="11.2499847" upperY="6.99999809" upperZ="35.0000191" index="100" material="6" look="4" up="3" color="ffbc9f9f"/>
+	</item>
+</auto_-1484702180134863301>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="10" numWrecks="0" numAsteroids="0" numStations="4" influence="38.0680008" factionIndex="2001124">
+	<coordinates x="174" y="414"/>
+	<titles>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Energy Container</arg>
+			<arg key="plural">Energy Containers</arg>
+			<arg key="prefix">Energy Container /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Laser Heads</arg>
+			<arg key="good">Laser Head</arg>
+			<arg key="size">M</arg>
+			<arg key="prefix">Laser Head /* prefix */</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Electro Magnet /* prefix */</arg>
+			<arg key="plural">Electro Magnets</arg>
+			<arg key="size">M</arg>
+			<arg key="good">Electro Magnet</arg>
+		</title>
+		<title str="Resource Depot"/>
+	</titles>
+	<wormholes>
+		<coordinates x="176" y="413"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="9" faction="2001124"/>
+		<ships n="1" faction="2001281"/>
+	</shipNumbers>
+</view>

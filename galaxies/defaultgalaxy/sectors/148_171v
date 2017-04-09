@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="10" numWrecks="0" numAsteroids="1042" numStations="6" influence="57.1019974" factionIndex="2000252">
+	<coordinates x="148" y="171"/>
+	<titles>
+		<title str="Trading Post"/>
+		<title str="${good} Factory ${size}">
+			<arg key="size">S</arg>
+			<arg key="prefix">Medical Supplies /* prefix */</arg>
+			<arg key="good">Medical Supplies</arg>
+			<arg key="plural">Medical Supplies</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Gauss Rail</arg>
+			<arg key="prefix">Gauss Rail /* prefix */</arg>
+			<arg key="good">Gauss Rail</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Energy Tube /* prefix */</arg>
+			<arg key="good">Energy Tube</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Energy Tubes</arg>
+		</title>
+		<title str="Turret Factory"/>
+		<title str="Resource Depot"/>
+	</titles>
+	<wormholes>
+		<coordinates x="142" y="177"/>
+		<coordinates x="149" y="173"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="9" faction="2000252"/>
+		<ships n="1" faction="2000438"/>
+	</shipNumbers>
+</view>

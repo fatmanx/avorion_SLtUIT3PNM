@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="5" numWrecks="0" numAsteroids="271" numStations="5" influence="47.5849991" factionIndex="2000252">
+	<coordinates x="155" y="173"/>
+	<titles>
+		<title str="Trading Post"/>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="good">Gold</arg>
+			<arg key="plural">Gold</arg>
+			<arg key="prefix">Gold /* prefix */</arg>
+			<arg key="size">L</arg>
+		</title>
+		<title str="Turret Factory"/>
+		<title str="Solar Power Plant ${size}">
+			<arg key="good">Energy Cell</arg>
+			<arg key="plural">Energy Cells</arg>
+			<arg key="prefix">Energy Cell /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Solar Power Plant ${size}">
+			<arg key="plural">Energy Cells</arg>
+			<arg key="prefix">Energy Cell /* prefix */</arg>
+			<arg key="good">Energy Cell</arg>
+			<arg key="size">S</arg>
+		</title>
+	</titles>
+	<wormholes>
+		<coordinates x="159" y="174"/>
+		<coordinates x="150" y="174"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="5" faction="2000252"/>
+	</shipNumbers>
+</view>

@@ -1,0 +1,357 @@
+2017-04-08 00-27-30| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-08 00-27-30| Enabled Traces: 
+2017-04-08 00-27-30| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-08 00-27-30| CPU: GenuineIntel 8 Cores
+2017-04-08 00-27-30| Init Steamworks...Installed Steam exception handler
+2017-04-08 00-27-30| Init Steamworks... ok
+2017-04-08 00-27-30| Init Steamworks ok
+2017-04-08 00-27-30| Init SDL2... ok
+2017-04-08 00-27-30| Getting display mode... ok
+2017-04-08 00-27-30| Current display mode: 1920 x 1080
+2017-04-08 00-27-30| Creating settings... loading...Old client.ini version 0.0 detected. Self: Beta 0.11 r7857. Ignoring.
+2017-04-08 00-27-30|  setting language... ok
+2017-04-08 00-27-30| Creating client window...Creating borderless window
+2017-04-08 00-27-30| Detected 2 displays
+2017-04-08 00-27-30| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-08 00-27-30| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-08 00-27-30| Using display 0
+2017-04-08 00-27-30| Creating window, x: 0, y: 0, w: 1920, h: 1080... ok
+2017-04-08 00-27-30| GetDrawableSize: 1920 1080
+2017-04-08 00-27-30| GetWindowSize: 1920 1080
+2017-04-08 00-27-30| Creating GL context... ok
+2017-04-08 00-27-30| Setting window mode WindowedSeamless... ok
+2017-04-08 00-27-30| Creating client window ok
+2017-04-08 00-27-30| Init rendering... starting rendering... initialize...OpenGL Context Information:
+2017-04-08 00-27-30| Version: 4.5
+2017-04-08 00-27-30| VersionString: 4.5.0 NVIDIA 378.49
+2017-04-08 00-27-30| Vendor: NVIDIA Corporation
+2017-04-08 00-27-30| Renderer: GeForce GTX 760/PCIe/SSE2
+2017-04-08 00-27-30| GLSL Version: 4.50 NVIDIA
+2017-04-08 00-27-30| GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+2017-04-08 00-27-30| GL_MAX_VERTEX_UNIFORM_VECTORS: 1024
+2017-04-08 00-27-30| GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+2017-04-08 00-27-30| GL_MAX_ELEMENTS_INDICES: 1048576
+2017-04-08 00-27-30| GL_MAX_ELEMENTS_VERTICES: 1048576
+2017-04-08 00-27-30| GL_MAX_RENDERBUFFER_SIZE: 16384
+2017-04-08 00-27-30| GL_MAX_TEXTURE_SIZE: 16384
+2017-04-08 00-27-30| GL_MAX_VERTEX_ATTRIBS: 16
+2017-04-08 00-27-30| GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+2017-04-08 00-27-30| Init GLEW... ok
+2017-04-08 00-27-30| Init Debug Message Callback... ok
+2017-04-08 00-27-30| Set VSync... ok
+2017-04-08 00-27-30| Secure BackBuffer... ok
+2017-04-08 00-27-30| Init Canvas...Create canvas of size 1920 x 1080... ok
+2017-04-08 00-27-30| Init Canvas ok
+2017-04-08 00-27-30| Init Refraction Texture... ok
+2017-04-08 00-27-30| Init Post Processing... ok
+2017-04-08 00-27-30| Init Debug Renderers... ok
+2017-04-08 00-27-30| DepthTexturesSupported: yes
+2017-04-08 00-27-30| IntVertexAttributesSupported: yes
+2017-04-08 00-27-30| DeferredSupported: yes
+2017-04-08 00-27-30| LowSpecGPUDetected: no
+2017-04-08 00-27-30| Rendering initialized
+2017-04-08 00-27-30| Init rendering ok
+2017-04-08 00-27-30| Check problematic drivers... ok
+2017-04-08 00-27-30| Init shader level... ok
+2017-04-08 00-27-30| Init loading screen... ok
+2017-04-08 00-27-30| Draw first loading screen... draw... ok
+2017-04-08 00-27-30| Init SFX... ok
+2017-04-08 00-27-30| Init Input... ok
+2017-04-08 00-27-30| Init GameInput... ok
+2017-04-08 00-27-30| Init Main Menu... ok
+2017-04-08 00-27-31| Init Music... ok
+2017-04-08 00-27-31| Apply loaded settings... ok
+2017-04-08 00-27-31| Adjust settings to GPU... ok
+2017-04-08 00-27-31| Client initialized
+2017-04-08 00-27-31| Received stats and achievements from Steam
+2017-04-08 00-27-31| STAT_PIRATES_DESTROYED: 0i
+2017-04-08 00-27-31| STAT_XSOTAN_DESTROYED: 0i
+2017-04-08 00-27-31| STAT_CIVIL_SHIPS_DESTROYED: 0i
+2017-04-08 00-27-31| STAT_SHIPS_DESTROYED: 0i
+2017-04-08 00-27-31| STAT_STATIONS_DESTROYED: 0i
+2017-04-08 00-27-31| STAT_RESOURCES_MINED: 0i
+2017-04-08 00-27-31| STAT_GOODS_TRADED: 0i
+2017-04-08 00-27-31| STAT_GOODS_SOLD: 0i
+2017-04-08 00-27-31| STAT_GOODS_BOUGHT: 0i
+2017-04-08 00-27-31| STAT_GATES_USED: 0i
+2017-04-08 00-27-31| STAT_WORMHOLES_USED: 0i
+2017-04-08 00-27-31| STAT_JUMPS_USED: 0i
+2017-04-08 00-27-31| STAT_SECTORS_DISCOVERED: 0i
+2017-04-08 00-27-31| STAT_SECTORS_TRAVELED: 0f
+2017-04-08 00-27-31| STAT_METERS_FLOWN: 0i
+2017-04-08 00-27-58| Create canvas of size 3840 x 2160... ok
+2017-04-08 00-28-50| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --seed q4MzlgFfaj23452 --difficulty -2 --infinite-resources 0 --collision-damage 1 --same-start-sector 1 --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-08 00-28-50| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-08 00-28-57| Waiting for Online polling threads
+2017-04-08 00-28-57| Online polling threads finished
+2017-04-08 00-28-57| Waiting for LAN polling threads
+2017-04-08 00-28-57| LAN polling threads finished
+2017-04-08 00-28-57| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 00-28-57| remote address: ip, init: steam
+2017-04-08 00-28-57| Connecting to server at 127.0.0.1:27000
+2017-04-08 00-28-57| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 00-28-57| Initiating connection with server ID 90107983431465988
+2017-04-08 00-29-02| Authentication successful!
+2017-04-08 00-29-05| <Server> Player fatmanone created!
+2017-04-08 00-29-05| <Server> Player fatmanone joined the galaxy
+2017-04-08 00-30-21| Create canvas of size 2715 x 1527... ok
+2017-04-08 00-38-16| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave.xml"
+2017-04-08 00-38-58| <> You need 175 Iron
+2017-04-08 00-39-00| <> You need 175 Iron
+2017-04-08 00-39-08| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s1.xml"
+2017-04-08 00-41-04| <> You have no sector selected.
+2017-04-08 00-43-36| <> This sector is out of reach with this ship.
+2017-04-08 00-43-52| <> This sector is out of reach with this ship.
+2017-04-08 00-43-58| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 00-44-07| <> Jump route calculated.
+2017-04-08 00-46-17| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 00-46-21| <> The jump route is still being calculated.
+2017-04-08 00-46-22| <> The jump route is still being calculated.
+2017-04-08 00-46-26| <> Jump route calculated.
+2017-04-08 00-46-27| Create Entity Message discarded: wrong sector
+2017-04-08 00-46-27| Create Entity Message discarded: wrong sector
+2017-04-08 00-46-27| Create Entity Message discarded: wrong sector
+2017-04-08 00-46-27| Create Entity Message discarded: wrong sector
+2017-04-08 00-46-32| <> You have no sector selected.
+2017-04-08 00-46-32| Unlocked achievement FINISH_TUTORIAL
+2017-04-08 00-47-52| <Unkown> This is a distress call! Our position is (176:406) We are under attack by pirates, please help!
+2017-04-08 00-47-52| <> You have received a distress signal by an unknown source.
+2017-04-08 00-51-18| <> You need 135 Iron
+2017-04-08 00-51-19| <> You need 135 Iron
+2017-04-08 00-51-19| <> You need 135 Iron
+2017-04-08 00-51-20| <> You need 135 Iron
+2017-04-08 00-51-20| <> You need 135 Iron
+2017-04-08 00-51-20| <> You need 135 Iron
+2017-04-08 00-51-21| <> You need 135 Iron
+2017-04-08 00-51-23| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s1.xml"
+2017-04-08 00-54-28| <Resource Depot> You must be docked to the station to hire crewmembers.
+2017-04-08 00-54-29| <Resource Depot> You must be docked to the station to hire crewmembers.
+2017-04-08 00-55-20| <Resource Depot> You must be docked to the station to hire crewmembers.
+2017-04-08 00-55-22| <Resource Depot> You must be docked to the station to hire crewmembers.
+2017-04-08 00-55-23| <Resource Depot> You must be docked to the station to hire crewmembers.
+2017-04-08 00-55-25| <Resource Depot> You must be docked to the station to hire crewmembers.
+2017-04-08 00-57-09| <Resource Depot> You need more sergeants.
+2017-04-08 00-57-10| <Resource Depot> You need more sergeants.
+2017-04-08 01-04-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s1.xml"
+2017-04-08 01-05-51| <> You don't have any of this turret.
+2017-04-08 01-06-09| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-06-10| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-06-11| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-06-12| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-07-23| <Server> Pirates are attacking the sector!
+2017-04-08 01-08-02| <Resource Depot> You must be docked to the station to hire crewmembers.
+2017-04-08 01-08-46| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s1.xml"
+2017-04-08 01-09-44| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-08 01-12-43| <Server> More strange subspace signals, they're getting stronger.
+2017-04-08 01-13-37| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-08 01-13-38| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-08 01-13-38| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-08 01-13-39| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-08 01-13-39| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
+2017-04-08 01-13-40| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-04-08 01-13-43| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-04-08 01-13-43| <Server> A small group of alien ships appeared!
+2017-04-08 01-13-45| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-08 01-13-46| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-08 01-13-47| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-08 01-13-47| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-08 01-13-48| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-08 01-13-48| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-08 01-13-49| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-08 01-13-49| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-08 01-13-50| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-50| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-50| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-51| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-51| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-51| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-52| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-52| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-52| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-52| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-53| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-53| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-53| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-53| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-53| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-54| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-54| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-13-54| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-08 01-14-26| <Resource Depot> You need more sergeants.
+2017-04-08 01-14-33| <Resource Depot> You need more sergeants.
+2017-04-08 01-14-35| <Resource Depot> You need more sergeants.
+2017-04-08 01-14-36| <Resource Depot> You need more sergeants.
+2017-04-08 01-14-47| <Resource Depot> You need more sergeants.
+2017-04-08 01-20-48| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-08 01-23-47| <Server> The signals are growing stronger.
+2017-04-08 01-24-47| <Server> A group of alien ships warped in!
+2017-04-08 01-31-02| <Server> Pirates are attacking the sector!
+2017-04-08 01-33-12| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave2.xml"
+2017-04-08 01-35-56| <> You need 260 Titanium
+2017-04-08 01-35-57| <> You need 260 Titanium
+2017-04-08 01-35-57| <> You need 260 Titanium
+2017-04-08 01-36-22| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-36-23| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-36-24| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-36-26| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s12.xml"
+2017-04-08 01-43-08| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s12.xml"
+2017-04-08 01-44-21| <Mobile Turret Merchant Qoodfeb> Hello Everybody! Mobile Turret Merchant Qoodfeb here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-08 01-45-36| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-45-38| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-45-38| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-45-38| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-46-44| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 01-46-44| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 01-46-45| <> You cannot build this. The block overlaps too much with another block.
+2017-04-08 01-47-27| <> This sector is out of reach with this ship.
+2017-04-08 01-47-40| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 01-47-49| <> Jump route calculated.
+2017-04-08 01-47-53| <> You have no sector selected.
+2017-04-08 01-50-06| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s12.xml"
+2017-04-08 01-50-25| <> This sector is out of reach with this ship.
+2017-04-08 01-50-39| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 01-50-45| <> The jump route is still being calculated.
+2017-04-08 01-50-45| <> The jump route is still being calculated.
+2017-04-08 01-50-48| <> The jump route is still being calculated.
+2017-04-08 01-50-48| <> The jump route is still being calculated.
+2017-04-08 01-50-49| <> Jump route calculated.
+2017-04-08 01-51-12| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 01-51-18| <> The jump route is still being calculated.
+2017-04-08 01-51-19| <> The jump route is still being calculated.
+2017-04-08 01-51-20| <> Jump route calculated.
+2017-04-08 01-51-21| <> Your hyperdrive still needs 7 seconds to recharge.
+2017-04-08 01-51-21| <> Your hyperdrive still needs 6 seconds to recharge.
+2017-04-08 01-51-22| <> Your hyperdrive still needs 5 seconds to recharge.
+2017-04-08 01-51-23| <> Your hyperdrive still needs 5 seconds to recharge.
+2017-04-08 01-51-23| <> Your hyperdrive still needs 4 seconds to recharge.
+2017-04-08 01-51-24| <> Your hyperdrive still needs 4 seconds to recharge.
+2017-04-08 01-51-24| <> Your hyperdrive still needs 4 seconds to recharge.
+2017-04-08 01-51-24| <> Your hyperdrive still needs 4 seconds to recharge.
+2017-04-08 01-51-25| <> Your hyperdrive still needs 3 seconds to recharge.
+2017-04-08 01-51-25| <> Your hyperdrive still needs 3 seconds to recharge.
+2017-04-08 01-51-25| <> Your hyperdrive still needs 3 seconds to recharge.
+2017-04-08 01-51-26| <> Your hyperdrive still needs 2 seconds to recharge.
+2017-04-08 01-51-26| <> Your hyperdrive still needs 2 seconds to recharge.
+2017-04-08 01-51-26| <> Your hyperdrive still needs 2 seconds to recharge.
+2017-04-08 01-51-26| <> Your hyperdrive still needs 1 seconds to recharge.
+2017-04-08 01-51-27| <> Your hyperdrive still needs 1 seconds to recharge.
+2017-04-08 01-51-29| <> You have no sector selected.
+2017-04-08 01-51-34| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (195:407) ... help!
+2017-04-08 01-51-34| <> You have received a distress signal by an unknown source.
+2017-04-08 01-54-11| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-54-23| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-54-24| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-54-24| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-54-24| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-54-32| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-54-33| <> Your ship doesn't support more of this turret type.
+2017-04-08 01-56-43| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 01-56-46| <> The jump route is still being calculated.
+2017-04-08 01-56-46| <> The jump route is still being calculated.
+2017-04-08 01-56-47| <> The jump route is still being calculated.
+2017-04-08 01-56-47| <> The jump route is still being calculated.
+2017-04-08 01-56-52| <> Jump route calculated.
+2017-04-08 01-56-53| <> Your ship is facing in the wrong direction.
+2017-04-08 01-56-54| <> Your ship is facing in the wrong direction.
+2017-04-08 01-56-55| <> Your ship is facing in the wrong direction.
+2017-04-08 01-56-55| <> Your ship is facing in the wrong direction.
+2017-04-08 01-57-07| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 01-57-16| <> Jump route calculated.
+2017-04-08 01-57-27| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s12.xml"
+2017-04-08 01-57-29| <> Your hyperdrive still needs 5 seconds to recharge.
+2017-04-08 01-57-32| <> Your hyperdrive still needs 2 seconds to recharge.
+2017-04-08 01-57-32| <> Your hyperdrive still needs 2 seconds to recharge.
+2017-04-08 01-57-33| <> Your hyperdrive still needs 1 seconds to recharge.
+2017-04-08 01-57-33| <> Your ship is facing in the wrong direction.
+2017-04-08 01-57-34| <> Your ship is facing in the wrong direction.
+2017-04-08 01-57-35| <> Your ship is facing in the wrong direction.
+2017-04-08 01-57-35| <> Your ship is facing in the wrong direction.
+2017-04-08 01-57-41| <> You have no sector selected.
+2017-04-08 02-00-21| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-08 02-00-30| <> Jump route calculated.
+2017-04-08 02-01-48| <Server> Pirates are attacking the sector!
+2017-04-08 02-02-19| <Server> Your Ship s1 has been destroyed!
+2017-04-08 02-02-19| <> Your ship was destroyed and you'll be returned to your reconstruction site.
+2017-04-08 02-02-19| Unlocked achievement RAPID_DECONSTRUCTION
+2017-04-08 02-02-25| <> You were destroyed and returned to your reconstruction site.
+2017-04-08 02-02-52| UDP closed
+2017-04-08 02-02-52| Client UDP: Connection closed
+2017-04-08 02-02-52| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 02-02-53| UDP closed
+2017-04-08 02-02-53| Client UDP: Connection closed
+2017-04-08 02-02-53| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-08 02-02-53| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 02-02-54| Server shutdown successful.
+2017-04-08 02-02-54| UDP closed
+2017-04-08 02-02-54| Client UDP: Connection closed
+2017-04-08 02-02-58| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-08 02-02-58| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-08 02-02-58| Waiting for Online polling threads
+2017-04-08 02-02-58| Online polling threads finished
+2017-04-08 02-02-58| Waiting for LAN polling threads
+2017-04-08 02-02-58| LAN polling threads finished
+2017-04-08 02-02-58| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 02-02-58| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 02-02-58| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-08 02-03-01| remote address: ip, init: steam
+2017-04-08 02-03-01| Connecting to server at 127.0.0.1:27000
+2017-04-08 02-03-01| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 02-03-01| Initiating connection with server ID 90107984321063938
+2017-04-08 02-03-05| Authentication successful!
+2017-04-08 02-03-07| <Server> Player fatmanone joined the galaxy
+2017-04-08 02-05-12| Unlocked achievement BARREL_ROLL
+2017-04-08 02-05-17| <> You have no sector selected.
+2017-04-08 02-05-17| <> You have no sector selected.
+2017-04-08 02-05-18| <> You have no sector selected.
+2017-04-08 02-05-18| <> You have no sector selected.
+2017-04-08 02-05-19| <> You have no sector selected.
+2017-04-08 02-05-19| <> You have no sector selected.
+2017-04-08 02-11-42| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave3.xml"
+2017-04-08 02-14-46| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 02-15-01| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-02| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-25| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-27| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-08 02-18-22| <Server> Pirates are attacking the sector!
+2017-04-08 02-18-26| <Server> More strange subspace signals, they're getting stronger.
+2017-04-08 02-18-28| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 02-19-12| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-14| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-19| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-20| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-20| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-21| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-21| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-22| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-27| <Server> A small group of alien ships appeared!
+2017-04-08 02-19-41| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-42| <Resource Depot> You need more sergeants.
+2017-04-08 02-19-43| <Resource Depot> You need more sergeants.
+2017-04-08 02-20-17| <> You need more sergeants.
+2017-04-08 02-20-18| <> You need more sergeants.
+2017-04-08 02-23-06| <> You have no sector selected.
+2017-04-08 02-23-14| <> You have no sector selected.
+2017-04-08 02-23-28| <> You have no sector selected.
+2017-04-08 02-26-29| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s13.xml"
+2017-04-08 02-26-50| UDP closed
+2017-04-08 02-26-50| Client UDP: Connection closed
+2017-04-08 02-26-50| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 02-26-50| UDP closed
+2017-04-08 02-26-50| Client UDP: Connection closed
+2017-04-08 02-26-51| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-08 02-26-51| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-08 02-26-52| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-08 02-26-52| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 02-26-52| Server shutdown successful.
+2017-04-08 02-26-52| UDP closed
+2017-04-08 02-26-52| Client UDP: Connection closed
+2017-04-08 02-26-53| Exiting client.
+2017-04-08 02-26-53| Exited client main loop.
+2017-04-08 02-26-53| Waiting for Online polling threads
+2017-04-08 02-26-53| Online polling threads finished
+2017-04-08 02-26-53| Waiting for LAN polling threads
+2017-04-08 02-26-53| LAN polling threads finished
+2017-04-08 02-26-53| Stopping local server ...

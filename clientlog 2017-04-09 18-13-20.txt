@@ -1,0 +1,598 @@
+2017-04-09 18-13-20| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-09 18-13-20| Enabled Traces: 
+2017-04-09 18-13-20| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-09 18-13-20| CPU: GenuineIntel 8 Cores
+2017-04-09 18-13-20| Init Steamworks...Installed Steam exception handler
+2017-04-09 18-13-20| Init Steamworks... ok
+2017-04-09 18-13-20| Init Steamworks ok
+2017-04-09 18-13-20| Init SDL2... ok
+2017-04-09 18-13-20| Getting display mode... ok
+2017-04-09 18-13-20| Current display mode: 1920 x 1080
+2017-04-09 18-13-20| Creating settings... loading... setting language... ok
+2017-04-09 18-13-20| Creating client window...Creating normal window
+2017-04-09 18-13-20| Detected 2 displays
+2017-04-09 18-13-20| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-09 18-13-20| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-09 18-13-20| Using display 0
+2017-04-09 18-13-20| Creating window, x: 0, y: 0, w: 1600, h: 900... ok
+2017-04-09 18-13-20| GetDrawableSize: 1600 900
+2017-04-09 18-13-20| GetWindowSize: 1600 900
+2017-04-09 18-13-20| Creating GL context... ok
+2017-04-09 18-13-20| Setting window mode Windowed... ok
+2017-04-09 18-13-20| Creating client window ok
+2017-04-09 18-13-20| Init rendering... starting rendering... initialize...OpenGL Context Information:
+2017-04-09 18-13-20| Version: 4.5
+2017-04-09 18-13-20| VersionString: 4.5.0 NVIDIA 378.49
+2017-04-09 18-13-20| Vendor: NVIDIA Corporation
+2017-04-09 18-13-20| Renderer: GeForce GTX 760/PCIe/SSE2
+2017-04-09 18-13-20| GLSL Version: 4.50 NVIDIA
+2017-04-09 18-13-20| GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+2017-04-09 18-13-20| GL_MAX_VERTEX_UNIFORM_VECTORS: 1024
+2017-04-09 18-13-20| GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+2017-04-09 18-13-20| GL_MAX_ELEMENTS_INDICES: 1048576
+2017-04-09 18-13-20| GL_MAX_ELEMENTS_VERTICES: 1048576
+2017-04-09 18-13-20| GL_MAX_RENDERBUFFER_SIZE: 16384
+2017-04-09 18-13-20| GL_MAX_TEXTURE_SIZE: 16384
+2017-04-09 18-13-20| GL_MAX_VERTEX_ATTRIBS: 16
+2017-04-09 18-13-20| GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+2017-04-09 18-13-20| Init GLEW... ok
+2017-04-09 18-13-20| Init Debug Message Callback... ok
+2017-04-09 18-13-20| Set VSync... ok
+2017-04-09 18-13-20| Secure BackBuffer... ok
+2017-04-09 18-13-20| Init Canvas...Create canvas of size 2262 x 1272... ok
+2017-04-09 18-13-20| Init Canvas ok
+2017-04-09 18-13-20| Init Refraction Texture... ok
+2017-04-09 18-13-20| Init Post Processing... ok
+2017-04-09 18-13-20| Init Debug Renderers... ok
+2017-04-09 18-13-20| DepthTexturesSupported: yes
+2017-04-09 18-13-20| IntVertexAttributesSupported: yes
+2017-04-09 18-13-20| DeferredSupported: yes
+2017-04-09 18-13-20| LowSpecGPUDetected: no
+2017-04-09 18-13-20| Rendering initialized
+2017-04-09 18-13-20| Init rendering ok
+2017-04-09 18-13-20| Check problematic drivers... ok
+2017-04-09 18-13-20| Init shader level... ok
+2017-04-09 18-13-20| Init loading screen... ok
+2017-04-09 18-13-20| Draw first loading screen... draw... ok
+2017-04-09 18-13-20| Init SFX... ok
+2017-04-09 18-13-21| Init Input... ok
+2017-04-09 18-13-21| Init GameInput... ok
+2017-04-09 18-13-21| Init Main Menu... ok
+2017-04-09 18-13-21| Init Music... ok
+2017-04-09 18-13-21| Apply loaded settings... ok
+2017-04-09 18-13-21| Adjust settings to GPU... ok
+2017-04-09 18-13-21| Client initialized
+2017-04-09 18-13-21| Received stats and achievements from Steam
+2017-04-09 18-13-21| STAT_PIRATES_DESTROYED: 50i
+2017-04-09 18-13-21| STAT_XSOTAN_DESTROYED: 22i
+2017-04-09 18-13-21| STAT_CIVIL_SHIPS_DESTROYED: 0i
+2017-04-09 18-13-21| STAT_SHIPS_DESTROYED: 0i
+2017-04-09 18-13-21| STAT_STATIONS_DESTROYED: 0i
+2017-04-09 18-13-21| STAT_RESOURCES_MINED: 15353i
+2017-04-09 18-13-21| STAT_GOODS_TRADED: 64i
+2017-04-09 18-13-21| STAT_GOODS_SOLD: 1i
+2017-04-09 18-13-21| STAT_GOODS_BOUGHT: 63i
+2017-04-09 18-13-21| STAT_GATES_USED: 38i
+2017-04-09 18-13-21| STAT_WORMHOLES_USED: 0i
+2017-04-09 18-13-21| STAT_JUMPS_USED: 34i
+2017-04-09 18-13-21| STAT_SECTORS_DISCOVERED: 58i
+2017-04-09 18-13-21| STAT_SECTORS_TRAVELED: 343.699f
+2017-04-09 18-13-21| STAT_METERS_FLOWN: 6903858i
+2017-04-09 18-13-26| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-09 18-13-26| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-09 18-13-27| Waiting for Online polling threads
+2017-04-09 18-13-27| Online polling threads finished
+2017-04-09 18-13-27| Waiting for LAN polling threads
+2017-04-09 18-13-27| LAN polling threads finished
+2017-04-09 18-13-27| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 18-13-29| remote address: ip, init: steam
+2017-04-09 18-13-29| Connecting to server at 127.0.0.1:27000
+2017-04-09 18-13-29| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 18-13-29| Initiating connection with server ID 90108022688941062
+2017-04-09 18-13-33| Authentication successful!
+2017-04-09 18-13-37| <Server> Player fatmanone joined the galaxy
+2017-04-09 18-15-27| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 18-16-13| <> Jump route calculated.
+2017-04-09 18-16-18| <> The crew of your ship 's2' was paid.
+2017-04-09 18-16-30| <> Your ship is facing in the wrong direction.
+2017-04-09 18-16-50| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 18-17-36| <> Jump route calculated.
+2017-04-09 18-17-58| <> You need more sergeants.
+2017-04-09 18-17-58| <> You need more sergeants.
+2017-04-09 18-17-58| <> You need more sergeants.
+2017-04-09 18-18-03| <> You need more lieutenants.
+2017-04-09 18-18-06| <> You need more lieutenants.
+2017-04-09 18-18-09| <> You need more commanders.
+2017-04-09 18-18-09| <> You need more commanders.
+2017-04-09 18-18-10| <> You need more commanders.
+2017-04-09 18-18-45| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-09 18-19-05| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 18-19-10| <> The jump route is still being calculated.
+2017-04-09 18-19-41| <> The jump route is still being calculated.
+2017-04-09 18-20-03| <> Jump route calculated.
+2017-04-09 18-20-22| <> This sector is out of reach with this ship.
+2017-04-09 18-20-24| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 18-20-32| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 18-20-59| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 18-21-36| <> Jump route calculated.
+2017-04-09 18-21-44| <Server> There are lots and lots of subspace signals! Careful!
+2017-04-09 18-22-45| <Server> A large group of alien ships appeared!
+2017-04-09 18-25-33| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 18-25-37| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 18-25-52| <> The jump route is still being calculated.
+2017-04-09 18-26-16| <> The jump route is still being calculated.
+2017-04-09 18-26-17| <> The jump route is still being calculated.
+2017-04-09 18-26-19| <> Jump route calculated.
+2017-04-09 18-26-23| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-09 18-27-06| <Gate Control> You paid 1438 credits passage fee.
+2017-04-09 18-27-21| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-27-53| <Gate Control> You paid 1031 credits passage fee.
+2017-04-09 18-27-53| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 18-27-53| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 18-28-35| <Gate Control> You paid 1528 credits passage fee.
+2017-04-09 18-29-06| <Gate Control> You paid 1353 credits passage fee.
+2017-04-09 18-29-22| <Server> The subspace signals are getting too strong for your scanners. Brace yourself!
+2017-04-09 18-29-43| <Gate Control> You paid 3211 credits passage fee.
+2017-04-09 18-30-23| <Server> Danger! A large fleet of alien ships appeared!
+2017-04-09 18-30-25| <Gate Control> You paid 752 credits passage fee.
+2017-04-09 18-30-46| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-31-47| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-32-10| <Gate Control> You paid 477 credits passage fee.
+2017-04-09 18-32-36| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-32-47| <Scrapyard> You bought a 60 minutes salvaging license.
+2017-04-09 18-32-47| <Scrapyard> The Teilei Conglomerate cannot be held reliable for any damage to ships or deaths caused by salvaging.
+2017-04-09 18-33-13| <> You have no sector selected.
+2017-04-09 18-33-36| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-33-46| <> You don't have any of this turret.
+2017-04-09 18-34-30| <Mobile Turret Merchant Ye'ia> Hello Everybody! Mobile Turret Merchant Ye'ia here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-09 18-34-37| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-35-37| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-36-38| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-37-38| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-38-38| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-39-39| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-40-39| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-41-39| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-42-40| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-43-40| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-44-41| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-45-12| <Server> Pirates are attacking the sector!
+2017-04-09 18-45-41| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-46-41| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-47-42| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-48-42| <The Teilei Conglomerate> Thank you for taking care of those pirates. We transferred a reward to your account.
+2017-04-09 18-48-42| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-49-43| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-50-43| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-51-35| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-09 18-51-43| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-52-44| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-53-44| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-54-34| <Server> The signals are growing stronger.
+2017-04-09 18-54-45| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-55-35| <Server> A group of alien ships warped in!
+2017-04-09 18-55-45| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-56-46| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-57-37| <> You don't have any of this turret.
+2017-04-09 18-57-46| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-57-54| <> You don't have any of this turret.
+2017-04-09 18-57-59| <> You don't have any of this turret.
+2017-04-09 18-58-07| <> You don't have any of this turret.
+2017-04-09 18-58-15| <> You don't have any of this turret.
+2017-04-09 18-58-46| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 18-59-47| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-00-47| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-01-48| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-02-41| <> You don't have any of this turret.
+2017-04-09 19-02-48| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-02-51| <> You don't have any of this turret.
+2017-04-09 19-03-04| <> You don't have any of this turret.
+2017-04-09 19-03-09| <> You don't have any of this turret.
+2017-04-09 19-03-15| <> Your ship doesn't support more of this turret type.
+2017-04-09 19-03-15| <> Your ship doesn't support more of this turret type.
+2017-04-09 19-03-48| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-04-49| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-05-43| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 19-05-49| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-06-19| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s25.xml"
+2017-04-09 19-06-50| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-06-51| <> You don't have enough unemployed crewmen.
+2017-04-09 19-07-36| <Server> Pirates are attacking the sector!
+2017-04-09 19-07-50| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-08-21| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (160:229) ... help!
+2017-04-09 19-08-21| <> You have received a distress signal by an unknown source.
+2017-04-09 19-08-51| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-09-51| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-10-21| <The Teilei Conglomerate> We thank you for taking care of those ships. We transferred a reward to your account.
+2017-04-09 19-10-51| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-11-52| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-12-04| <> You cannot build a turret at this place. The turret is not entirely on the block.
+2017-04-09 19-12-05| <> You cannot build a turret at this place. The turret is not entirely on the block.
+2017-04-09 19-12-06| <> You don't have any of this turret.
+2017-04-09 19-12-35| <> You don't have any of this turret.
+2017-04-09 19-12-52| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-13-53| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-14-53| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-15-54| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-16-54| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-17-54| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-18-55| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-19-06| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-09 19-19-55| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-20-56| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-21-56| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-22-05| <Server> More strange subspace signals, they're getting stronger.
+2017-04-09 19-22-56| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-23-06| <Server> A small group of alien ships appeared!
+2017-04-09 19-23-10| <> You don't have any of this turret.
+2017-04-09 19-23-57| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-24-57| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-25-58| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-26-58| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-27-15| <> Your ship doesn't support more of this turret type.
+2017-04-09 19-27-15| <> Your ship doesn't support more of this turret type.
+2017-04-09 19-27-23| <> You don't have any of this turret.
+2017-04-09 19-27-55| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-09 19-27-58| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-28-59| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-29-14| <Server> Pirates are attacking the sector!
+2017-04-09 19-29-59| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-30-47| <Scrapyard> Your salvaging license will run out in 2 minutes. Renew it immediately and save yourself some trouble!
+2017-04-09 19-31-00| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-31-29| <The Teilei Conglomerate> We thank you for taking care of those ships. We transferred a reward to your account.
+2017-04-09 19-31-47| <Scrapyard> Your salvaging license will run out in 60 seconds. Renew it NOW and save yourself some trouble!
+2017-04-09 19-32-00| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-32-17| <Scrapyard> Your salvaging license will run out in 30 seconds. Renew it and save yourself some trouble!
+2017-04-09 19-32-27| <Scrapyard> Your salvaging license will run out in 20 seconds.
+2017-04-09 19-32-27| <Scrapyard> Your salvaging license will run out in 20 seconds.
+2017-04-09 19-32-36| <Scrapyard> Your salvaging license will run out in 10 seconds.
+2017-04-09 19-32-36| <Scrapyard> Your salvaging license will run out in 10 seconds.
+2017-04-09 19-32-46| <Scrapyard> Your salvaging license expired. You may no longer salvage in this area.
+2017-04-09 19-33-00| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-34-01| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-35-01| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-35-16| <Scrapyard> You need more commanders.
+2017-04-09 19-35-19| <Scrapyard> You need more commanders.
+2017-04-09 19-35-22| <Scrapyard> You need more commanders.
+2017-04-09 19-35-29| <> You need more commanders.
+2017-04-09 19-35-31| <> You need more commanders.
+2017-04-09 19-35-44| <> You need more sergeants.
+2017-04-09 19-35-44| <> You need more sergeants.
+2017-04-09 19-35-44| <> You need more sergeants.
+2017-04-09 19-35-44| <> You need more sergeants.
+2017-04-09 19-35-47| <> You need more lieutenants.
+2017-04-09 19-35-48| <> You need more lieutenants.
+2017-04-09 19-35-49| <> You need more commanders.
+2017-04-09 19-35-50| <> You need more commanders.
+2017-04-09 19-36-02| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-36-02| <> You need more sergeants.
+2017-04-09 19-36-03| <> You need more sergeants.
+2017-04-09 19-36-04| <> You need more sergeants.
+2017-04-09 19-37-02| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-09 19-37-15| <Gate Control> You paid 386 credits passage fee.
+2017-04-09 19-38-13| <Gate Control> You paid 274 credits passage fee.
+2017-04-09 19-39-37| <Gate Control> You paid 274 credits passage fee.
+2017-04-09 19-40-01| <Gate Control> You paid 1685 credits passage fee.
+2017-04-09 19-40-01| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 19-40-01| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-09 19-42-04| <Repair Dock> You need more sergeants.
+2017-04-09 19-42-42| <> You need more commanders.
+2017-04-09 19-42-42| <> You need more commanders.
+2017-04-09 19-42-43| <> You need more commanders.
+2017-04-09 19-42-44| <> You need more lieutenants.
+2017-04-09 19-42-44| <> You need more lieutenants.
+2017-04-09 19-43-24| <Trading Post> You must be docked to the station to hire crewmembers.
+2017-04-09 19-44-36| <Trading Post> You need more generals.
+2017-04-09 19-44-38| <Trading Post> You need more generals.
+2017-04-09 19-44-59| <Trading Post> You need more commanders.
+2017-04-09 19-45-18| <Trading Post> You need more commanders.
+2017-04-09 19-45-18| <Trading Post> You need more commanders.
+2017-04-09 19-45-19| <Trading Post> You need more commanders.
+2017-04-09 19-45-22| <Trading Post> You need more commanders.
+2017-04-09 19-45-23| <Trading Post> You need more commanders.
+2017-04-09 19-45-31| <Trading Post> You need more commanders.
+2017-04-09 19-45-35| <Trading Post> You need more commanders.
+2017-04-09 19-45-36| <Trading Post> You need more commanders.
+2017-04-09 19-45-42| <Trading Post> You need more generals.
+2017-04-09 19-45-47| <Trading Post> You need more generals.
+2017-04-09 19-45-47| <Trading Post> You need more generals.
+2017-04-09 19-46-23| <Trading Post> You need more generals.
+2017-04-09 19-50-05| <Repair Dock> You must be docked to the station to hire crewmembers.
+2017-04-09 19-50-08| <Repair Dock> You must be docked to the station to hire crewmembers.
+2017-04-09 19-52-03| <Trading Post> You must be docked to the station to hire crewmembers.
+2017-04-09 20-01-06| <Mobile Merchant Hiapkui> Hello Everybody! Mobile Merchant Hiapkui here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-09 20-02-48| <Resource Depot> You need more sergeants.
+2017-04-09 20-03-15| <> You need more sergeants.
+2017-04-09 20-03-15| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-03-16| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-04-59| <> You need more sergeants.
+2017-04-09 20-05-00| <> You need more sergeants.
+2017-04-09 20-05-00| <> You need more sergeants.
+2017-04-09 20-05-01| <> You need more sergeants.
+2017-04-09 20-05-01| <> You need more sergeants.
+2017-04-09 20-05-01| <> You need more sergeants.
+2017-04-09 20-05-01| <> You need more sergeants.
+2017-04-09 20-05-07| <> You don't have enough unemployed crewmen.
+2017-04-09 20-07-28| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 20-07-40| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 20-07-42| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s25.xml"
+2017-04-09 20-08-29| <> You cannot build this. The block overlaps too much with another block.
+2017-04-09 20-08-31| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s25.xml"
+2017-04-09 20-09-17| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 20-09-35| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 20-09-43| <> The jump route is still being calculated.
+2017-04-09 20-09-44| <> Jump route calculated.
+2017-04-09 20-09-55| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-09 20-10-14| <Server> Pirates are attacking the sector!
+2017-04-09 20-11-59| <The Iabfriipia'> Thank you for taking care of those pirates. We transferred a reward to your account.
+2017-04-09 20-12-29| <Equipment Dock> You must be docked to the station to buy items.
+2017-04-09 20-12-54| <Server> The signals are growing stronger.
+2017-04-09 20-13-55| <Server> A group of alien ships warped in!
+2017-04-09 20-21-33| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (161:217) ... help!
+2017-04-09 20-21-33| <> You have received a distress signal by an unknown source.
+2017-04-09 20-23-41| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s25.xml"
+2017-04-09 20-24-17| <Equipment Dock> You must be docked to the station to hire crewmembers.
+2017-04-09 20-26-13| <> You don't have any of this turret.
+2017-04-09 20-26-27| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-26-27| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-26-28| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-26-28| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-26-28| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-26-28| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-26-40| <> You don't have any of this turret.
+2017-04-09 20-26-53| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-26-53| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-27-41| <Server> Pirates are attacking the sector!
+2017-04-09 20-28-13| <> You don't have any of this turret.
+2017-04-09 20-28-21| <> You don't have any of this turret.
+2017-04-09 20-28-21| <> You don't have any of this turret.
+2017-04-09 20-28-47| <> You don't have any of this turret.
+2017-04-09 20-28-51| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-09 20-29-13| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-13| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-14| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-14| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-15| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-15| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-34| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-35| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-35| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-35| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-38| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-38| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-39| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-39| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-40| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-40| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-42| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-42| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-43| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-43| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-43| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-43| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-29-51| <> You don't have any of this turret.
+2017-04-09 20-30-17| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-30-17| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-30-18| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-30-18| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-30-27| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave10.xml"
+2017-04-09 20-30-50| <> You don't have any of this turret.
+2017-04-09 20-30-56| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-30-57| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-30-57| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-30-57| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-31-03| <> You don't have any of this turret.
+2017-04-09 20-31-30| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-31-32| <> Your ship doesn't support more of this turret type.
+2017-04-09 20-31-32| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-09 20-33-29| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-09 20-34-06| <Gate Control> You paid 901 credits passage fee.
+2017-04-09 20-34-15| Warning, can't keep up, skipping 1 frames...
+2017-04-09 20-35-09| <Gate Control> You paid 604 credits passage fee.
+2017-04-09 20-35-57| <Gate Control> You paid 2282 credits passage fee.
+2017-04-09 20-36-28| <Server> More strange subspace signals, they're getting stronger.
+2017-04-09 20-36-37| <Gate Control> You paid 541 credits passage fee.
+2017-04-09 20-37-28| <Server> A small group of alien ships appeared!
+2017-04-09 20-38-45| <Gate Control> You paid 1299 credits passage fee.
+2017-04-09 20-39-54| <Gate Control> You paid 1152 credits passage fee.
+2017-04-09 20-39-59| <> You have no sector selected.
+2017-04-09 20-40-48| <Gate Control> You paid 285 credits passage fee.
+2017-04-09 20-41-32| <Equipment Dock> You must be docked to the station to buy items.
+2017-04-09 20-49-38| <Gate Control> You paid 453 credits passage fee.
+2017-04-09 20-50-27| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 20-50-37| <> The jump route is still being calculated.
+2017-04-09 20-50-56| <> The jump route is still being calculated.
+2017-04-09 20-50-58| <> The jump route is still being calculated.
+2017-04-09 20-51-16| <> The jump route is still being calculated.
+2017-04-09 20-51-25| <> Jump route calculated.
+2017-04-09 20-51-38| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 20-52-38| <> Jump route calculated.
+2017-04-09 20-53-21| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s25.xml"
+2017-04-09 20-53-39| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 20-53-41| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-09 20-54-39| <> Jump route calculated.
+2017-04-09 20-55-47| Unlocked achievement ENTER_CENTRAL_GALAXY
+2017-04-09 20-56-21| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 20-56-40| <Server> The subspace signals are getting too strong for your scanners. Brace yourself!
+2017-04-09 20-57-32| <> Jump route calculated.
+2017-04-09 20-57-42| <Server> Danger! A large fleet of alien ships appeared!
+2017-04-09 20-59-41| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-41| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-46| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-46| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-47| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-47| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-47| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-47| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-48| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-48| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-49| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-49| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-49| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-49| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-50| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-50| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-51| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-51| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-53| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-53| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 20-59-53| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 20-59-53| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 21-00-00| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-09 21-00-00| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-09 21-00-23| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 21-01-02| <> The jump route is still being calculated.
+2017-04-09 21-01-35| <> Jump route calculated.
+2017-04-09 21-01-51| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 21-02-46| <> The jump route is still being calculated.
+2017-04-09 21-03-00| <> Jump route calculated.
+2017-04-09 21-04-17| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s25.xml"
+2017-04-09 21-04-39| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 21-05-46| <> The jump route is still being calculated.
+2017-04-09 21-05-49| <> Jump route calculated.
+2017-04-09 21-06-12| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s25.xml"
+2017-04-09 21-06-33| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 21-06-37| <> The jump route is still being calculated.
+2017-04-09 21-07-05| <> The jump route is still being calculated.
+2017-04-09 21-07-06| <> The jump route is still being calculated.
+2017-04-09 21-07-07| <> The jump route is still being calculated.
+2017-04-09 21-07-12| <> Jump route calculated.
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Create Entity Message discarded: wrong sector
+2017-04-09 21-07-14| Unlocked achievement ENTER_SECTOR_0_0
+2017-04-09 21-07-15| <> The guardian is starting to channel the black hole's energy!
+2017-04-09 21-07-29| error constructing Plan: entity with index 77 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-29| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-29| error constructing Plan: entity with index 78 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-29| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-30| error constructing Plan: entity with index 79 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-30| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-30| error constructing Plan: entity with index 80 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-30| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-30| error constructing Plan: entity with index 81 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-30| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-30| error constructing Plan: entity with index 82 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-30| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-31| error constructing Plan: entity with index 83 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-31| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-31| error constructing Plan: entity with index 84 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-31| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-31| error constructing Plan: entity with index 85 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-31| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-31| error constructing Plan: entity with index 86 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-31| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-32| error constructing Plan: entity with index 87 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-32| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-32| error constructing Plan: entity with index 88 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-32| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-32| error constructing Plan: entity with index 89 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-32| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-32| error constructing Plan: entity with index 90 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-32| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-07-33| error constructing Plan: entity with index 91 doesn't exist at 	[C]:-1: in function Plan
+2017-04-09 21-07-33| 	data/scripts/entity/story/wormholeguardian.lua:352: in function ?
+2017-04-09 21-13-19| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s25.xml"
+2017-04-09 21-13-31| <> You don't have enough unemployed crewmen.
+2017-04-09 21-13-31| <> You don't have enough unemployed crewmen.
+2017-04-09 21-13-31| <> You don't have enough unemployed crewmen.
+2017-04-09 21-16-18| <> The crew of your ship 's2' was paid.
+2017-04-09 21-19-47| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 21-20-02| <> Jump route calculated.
+2017-04-09 21-20-39| UDP closed
+2017-04-09 21-20-39| Client UDP: Connection closed
+2017-04-09 21-20-39| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 21-20-39| UDP closed
+2017-04-09 21-20-39| Client UDP: Connection closed
+2017-04-09 21-20-40| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-09 21-20-40| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 21-20-41| Server shutdown successful.
+2017-04-09 21-20-41| UDP closed
+2017-04-09 21-20-41| Client UDP: Connection closed
+2017-04-09 21-20-43| Exiting client.
+2017-04-09 21-20-43| Exited client main loop.
+2017-04-09 21-20-43| Waiting for Online polling threads
+2017-04-09 21-20-43| Online polling threads finished
+2017-04-09 21-20-43| Waiting for LAN polling threads
+2017-04-09 21-20-43| LAN polling threads finished
+2017-04-09 21-20-43| Stopping local server ...

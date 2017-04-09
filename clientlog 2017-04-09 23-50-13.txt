@@ -1,0 +1,110 @@
+2017-04-09 23-50-13| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-09 23-50-13| Enabled Traces: 
+2017-04-09 23-50-13| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-09 23-50-13| CPU: GenuineIntel 8 Cores
+2017-04-09 23-50-13| Init Steamworks...Installed Steam exception handler
+2017-04-09 23-50-13| Init Steamworks... ok
+2017-04-09 23-50-13| Init Steamworks ok
+2017-04-09 23-50-13| Init SDL2... ok
+2017-04-09 23-50-13| Getting display mode... ok
+2017-04-09 23-50-13| Current display mode: 1920 x 1080
+2017-04-09 23-50-13| Creating settings... loading... setting language... ok
+2017-04-09 23-50-13| Creating client window...Creating normal window
+2017-04-09 23-50-13| Detected 2 displays
+2017-04-09 23-50-13| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-09 23-50-13| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-09 23-50-13| Using display 0
+2017-04-09 23-50-13| Creating window, x: 0, y: 0, w: 1600, h: 900... ok
+2017-04-09 23-50-13| GetDrawableSize: 1600 900
+2017-04-09 23-50-13| GetWindowSize: 1600 900
+2017-04-09 23-50-13| Creating GL context... ok
+2017-04-09 23-50-13| Setting window mode Windowed... ok
+2017-04-09 23-50-13| Creating client window ok
+2017-04-09 23-50-13| Init rendering... starting rendering... initialize...OpenGL Context Information:
+2017-04-09 23-50-13| Version: 4.5
+2017-04-09 23-50-13| VersionString: 4.5.0 NVIDIA 378.49
+2017-04-09 23-50-13| Vendor: NVIDIA Corporation
+2017-04-09 23-50-13| Renderer: GeForce GTX 760/PCIe/SSE2
+2017-04-09 23-50-13| GLSL Version: 4.50 NVIDIA
+2017-04-09 23-50-13| GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+2017-04-09 23-50-13| GL_MAX_VERTEX_UNIFORM_VECTORS: 1024
+2017-04-09 23-50-13| GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+2017-04-09 23-50-13| GL_MAX_ELEMENTS_INDICES: 1048576
+2017-04-09 23-50-13| GL_MAX_ELEMENTS_VERTICES: 1048576
+2017-04-09 23-50-13| GL_MAX_RENDERBUFFER_SIZE: 16384
+2017-04-09 23-50-13| GL_MAX_TEXTURE_SIZE: 16384
+2017-04-09 23-50-13| GL_MAX_VERTEX_ATTRIBS: 16
+2017-04-09 23-50-13| GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+2017-04-09 23-50-13| Init GLEW... ok
+2017-04-09 23-50-13| Init Debug Message Callback... ok
+2017-04-09 23-50-13| Set VSync... ok
+2017-04-09 23-50-13| Secure BackBuffer... ok
+2017-04-09 23-50-13| Init Canvas...Create canvas of size 2262 x 1272... ok
+2017-04-09 23-50-13| Init Canvas ok
+2017-04-09 23-50-13| Init Refraction Texture... ok
+2017-04-09 23-50-13| Init Post Processing... ok
+2017-04-09 23-50-13| Init Debug Renderers... ok
+2017-04-09 23-50-13| DepthTexturesSupported: yes
+2017-04-09 23-50-13| IntVertexAttributesSupported: yes
+2017-04-09 23-50-13| DeferredSupported: yes
+2017-04-09 23-50-13| LowSpecGPUDetected: no
+2017-04-09 23-50-13| Rendering initialized
+2017-04-09 23-50-13| Init rendering ok
+2017-04-09 23-50-13| Check problematic drivers... ok
+2017-04-09 23-50-13| Init shader level... ok
+2017-04-09 23-50-13| Init loading screen... ok
+2017-04-09 23-50-13| Draw first loading screen... draw... ok
+2017-04-09 23-50-13| Init SFX... ok
+2017-04-09 23-50-13| Init Input... ok
+2017-04-09 23-50-13| Init GameInput... ok
+2017-04-09 23-50-13| Init Main Menu... ok
+2017-04-09 23-50-14| Init Music... ok
+2017-04-09 23-50-14| Apply loaded settings... ok
+2017-04-09 23-50-14| Adjust settings to GPU... ok
+2017-04-09 23-50-14| Client initialized
+2017-04-09 23-50-14| Received stats and achievements from Steam
+2017-04-09 23-50-14| STAT_PIRATES_DESTROYED: 64i
+2017-04-09 23-50-14| STAT_XSOTAN_DESTROYED: 31i
+2017-04-09 23-50-14| STAT_CIVIL_SHIPS_DESTROYED: 0i
+2017-04-09 23-50-14| STAT_SHIPS_DESTROYED: 0i
+2017-04-09 23-50-14| STAT_STATIONS_DESTROYED: 0i
+2017-04-09 23-50-14| STAT_RESOURCES_MINED: 28755i
+2017-04-09 23-50-14| STAT_GOODS_TRADED: 64i
+2017-04-09 23-50-14| STAT_GOODS_SOLD: 1i
+2017-04-09 23-50-14| STAT_GOODS_BOUGHT: 63i
+2017-04-09 23-50-14| STAT_GATES_USED: 59i
+2017-04-09 23-50-14| STAT_WORMHOLES_USED: 0i
+2017-04-09 23-50-14| STAT_JUMPS_USED: 55i
+2017-04-09 23-50-14| STAT_SECTORS_DISCOVERED: 96i
+2017-04-09 23-50-14| STAT_SECTORS_TRAVELED: 986.11f
+2017-04-09 23-50-14| STAT_METERS_FLOWN: 9978145i
+2017-04-09 23-50-19| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-09 23-50-19| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-09 23-50-19| Waiting for Online polling threads
+2017-04-09 23-50-19| Online polling threads finished
+2017-04-09 23-50-19| Waiting for LAN polling threads
+2017-04-09 23-50-19| LAN polling threads finished
+2017-04-09 23-50-19| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 23-50-19| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 23-50-22| remote address: ip, init: steam
+2017-04-09 23-50-22| Connecting to server at 127.0.0.1:27000
+2017-04-09 23-50-22| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-09 23-50-22| Initiating connection with server ID 90108029568993284
+2017-04-09 23-50-26| Authentication successful!
+2017-04-09 23-50-30| <Server> Player fatmanone joined the galaxy
+2017-04-09 23-51-02| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 23-52-14| <> Jump route calculated.
+2017-04-09 23-53-34| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
+2017-04-09 23-53-48| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 23-55-00| <> Jump route calculated.
+2017-04-09 23-56-22| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 23-57-35| <> Jump route calculated.
+2017-04-09 23-58-05| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-09 23-59-17| <> Jump route calculated.
+2017-04-10 00-00-33| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 00-00-40| <> The crew of your ship 's2' was paid.
+2017-04-10 00-01-45| <> Jump route calculated.
+2017-04-10 00-02-05| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 00-03-18| <> Jump route calculated.
+2017-04-10 00-03-33| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 00-04-07| 

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Administration>
+	<administration>
+		<defaultAuthorizationGroup>
+			<commands>
+				<command name="help"/>
+				<command name="invite"/>
+				<command name="join"/>
+				<command name="leader"/>
+				<command name="leave"/>
+				<command name="players"/>
+				<command name="seed"/>
+				<command name="selfinfo"/>
+				<command name="suicide"/>
+				<command name="version"/>
+				<command name="w"/>
+				<command name="whisper"/>
+			</commands>
+		</defaultAuthorizationGroup>
+		<authorizationGroups>
+			<group name="Moderators">
+				<commands>
+					<command name="ban"/>
+					<command name="banip"/>
+					<command name="blacklist"/>
+					<command name="echo"/>
+					<command name="give"/>
+					<command name="groups"/>
+					<command name="kick"/>
+					<command name="like"/>
+					<command name="playerinfo"/>
+					<command name="run"/>
+					<command name="save"/>
+					<command name="status"/>
+					<command name="teleport"/>
+					<command name="unban"/>
+					<command name="unbanip"/>
+					<command name="whitelist"/>
+				</commands>
+				<users/>
+			</group>
+		</authorizationGroups>
+		<administrators>
+			<admin name="admin" id="76561197970945365"/>
+		</administrators>
+	</administration>
+</Administration>

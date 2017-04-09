@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="0" numWrecks="0" numAsteroids="0" numStations="0" influence="0" factionIndex="0">
+	<coordinates x="171" y="408"/>
+	<titles/>
+	<wormholes>
+		<coordinates x="172" y="408"/>
+		<coordinates x="165" y="407"/>
+	</wormholes>
+	<shipNumbers/>
+</view>

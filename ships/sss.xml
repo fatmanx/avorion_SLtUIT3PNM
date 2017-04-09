@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<auto_-2413870449851222389 accumulateHealth="true" convex="false">
+	<item parent="-1" index="0" maxDurability="194.061462" currentDurability="194.061462">
+		<block lowerX="-1.10502791" lowerY="-0.583067775" lowerZ="-15.9953165" upperX="1.10502791" upperY="2.1441958" upperZ="-11.1967411" index="52" material="1" look="1" up="3" color="ffcccccc"/>
+	</item>
+	<item parent="0" index="432" maxDurability="172.333191" currentDurability="172.333191">
+		<block lowerX="-1.10502791" lowerY="-1.30528998" lowerZ="-15.9953165" upperX="1.10502791" upperY="-0.583067775" upperZ="-11.1967411" index="8" material="1" look="1" up="3" color="ffcccccc"/>
+	</item>
+</auto_-2413870449851222389>

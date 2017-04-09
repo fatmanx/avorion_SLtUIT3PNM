@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="505" numStations="1" influence="9.5170002" factionIndex="2000252">
+	<coordinates x="150" y="185"/>
+	<titles>
+		<title str="Military Outpost"/>
+	</titles>
+	<wormholes>
+		<coordinates x="152" y="187"/>
+		<coordinates x="144" y="186"/>
+		<coordinates x="153" y="179"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="3" faction="4"/>
+		<ships n="3" faction="2000252"/>
+	</shipNumbers>
+</view>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="11" numWrecks="0" numAsteroids="183" numStations="10" influence="95.1699905" factionIndex="2000160">
+	<coordinates x="169" y="400"/>
+	<titles>
+		<title str="Equipment Dock"/>
+		<title str="Trading Post"/>
+		<title str="Repair Dock"/>
+		<title str="Shipyard"/>
+		<title str="Resource Depot"/>
+		<title str="${good} Manufacturer ${size}">
+			<arg key="good">Plastic</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Plastic /* prefix */</arg>
+			<arg key="plural">Plastic</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="good">Protein</arg>
+			<arg key="prefix">Protein /* prefix */</arg>
+			<arg key="plural">Protein</arg>
+		</title>
+		<title str="${good} Collector ${size}">
+			<arg key="size">M</arg>
+			<arg key="prefix">Water /* prefix */</arg>
+			<arg key="plural">Water</arg>
+			<arg key="good">Water</arg>
+		</title>
+		<title str="Research Station"/>
+		<title str="Military Outpost"/>
+	</titles>
+	<wormholes>
+		<coordinates x="170" y="393"/>
+		<coordinates x="167" y="403"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="10" faction="2000160"/>
+		<ships n="1" faction="2000628"/>
+	</shipNumbers>
+</view>

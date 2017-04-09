@@ -1,0 +1,111 @@
+2017-04-08 15-32-39| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-08 15-32-39| Enabled Traces: 
+2017-04-08 15-32-39| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-08 15-32-39| CPU: GenuineIntel 8 Cores
+2017-04-08 15-32-39| Init Steamworks...Installed Steam exception handler
+2017-04-08 15-32-39| Init Steamworks... ok
+2017-04-08 15-32-39| Init Steamworks ok
+2017-04-08 15-32-39| Init SDL2... ok
+2017-04-08 15-32-39| Getting display mode... ok
+2017-04-08 15-32-39| Current display mode: 1920 x 1080
+2017-04-08 15-32-39| Creating settings... loading... setting language... ok
+2017-04-08 15-32-39| Creating client window...Creating borderless window
+2017-04-08 15-32-39| Detected 2 displays
+2017-04-08 15-32-39| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-08 15-32-39| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-08 15-32-39| Using display 0
+2017-04-08 15-32-39| Creating window, x: 0, y: 0, w: 1920, h: 1080... ok
+2017-04-08 15-32-40| GetDrawableSize: 1920 1080
+2017-04-08 15-32-40| GetWindowSize: 1920 1080
+2017-04-08 15-32-40| Creating GL context... ok
+2017-04-08 15-32-40| Setting window mode WindowedSeamless... ok
+2017-04-08 15-32-40| Creating client window ok
+2017-04-08 15-32-40| Init rendering... starting rendering... initialize...OpenGL Context Information:
+2017-04-08 15-32-40| Version: 4.5
+2017-04-08 15-32-40| VersionString: 4.5.0 NVIDIA 378.49
+2017-04-08 15-32-40| Vendor: NVIDIA Corporation
+2017-04-08 15-32-40| Renderer: GeForce GTX 760/PCIe/SSE2
+2017-04-08 15-32-40| GLSL Version: 4.50 NVIDIA
+2017-04-08 15-32-40| GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+2017-04-08 15-32-40| GL_MAX_VERTEX_UNIFORM_VECTORS: 1024
+2017-04-08 15-32-40| GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+2017-04-08 15-32-40| GL_MAX_ELEMENTS_INDICES: 1048576
+2017-04-08 15-32-40| GL_MAX_ELEMENTS_VERTICES: 1048576
+2017-04-08 15-32-40| GL_MAX_RENDERBUFFER_SIZE: 16384
+2017-04-08 15-32-40| GL_MAX_TEXTURE_SIZE: 16384
+2017-04-08 15-32-40| GL_MAX_VERTEX_ATTRIBS: 16
+2017-04-08 15-32-40| GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+2017-04-08 15-32-40| Init GLEW... ok
+2017-04-08 15-32-40| Init Debug Message Callback... ok
+2017-04-08 15-32-40| Set VSync... ok
+2017-04-08 15-32-40| Secure BackBuffer... ok
+2017-04-08 15-32-40| Init Canvas...Create canvas of size 2715 x 1527... ok
+2017-04-08 15-32-40| Init Canvas ok
+2017-04-08 15-32-40| Init Refraction Texture... ok
+2017-04-08 15-32-40| Init Post Processing... ok
+2017-04-08 15-32-40| Init Debug Renderers... ok
+2017-04-08 15-32-40| DepthTexturesSupported: yes
+2017-04-08 15-32-40| IntVertexAttributesSupported: yes
+2017-04-08 15-32-40| DeferredSupported: yes
+2017-04-08 15-32-40| LowSpecGPUDetected: no
+2017-04-08 15-32-40| Rendering initialized
+2017-04-08 15-32-40| Init rendering ok
+2017-04-08 15-32-40| Check problematic drivers... ok
+2017-04-08 15-32-40| Init shader level... ok
+2017-04-08 15-32-40| Init loading screen... ok
+2017-04-08 15-32-40| Draw first loading screen... draw... ok
+2017-04-08 15-32-40| Init SFX... ok
+2017-04-08 15-32-40| Init Input... ok
+2017-04-08 15-32-40| Init GameInput... ok
+2017-04-08 15-32-40| Init Main Menu... ok
+2017-04-08 15-32-41| Init Music... ok
+2017-04-08 15-32-41| Apply loaded settings... ok
+2017-04-08 15-32-41| Adjust settings to GPU... ok
+2017-04-08 15-32-41| Client initialized
+2017-04-08 15-32-41| Received stats and achievements from Steam
+2017-04-08 15-32-41| STAT_PIRATES_DESTROYED: 9i
+2017-04-08 15-32-41| STAT_XSOTAN_DESTROYED: 3i
+2017-04-08 15-32-41| STAT_CIVIL_SHIPS_DESTROYED: 0i
+2017-04-08 15-32-41| STAT_SHIPS_DESTROYED: 0i
+2017-04-08 15-32-41| STAT_STATIONS_DESTROYED: 0i
+2017-04-08 15-32-41| STAT_RESOURCES_MINED: 2544i
+2017-04-08 15-32-41| STAT_GOODS_TRADED: 63i
+2017-04-08 15-32-41| STAT_GOODS_SOLD: 0i
+2017-04-08 15-32-41| STAT_GOODS_BOUGHT: 63i
+2017-04-08 15-32-41| STAT_GATES_USED: 0i
+2017-04-08 15-32-41| STAT_WORMHOLES_USED: 0i
+2017-04-08 15-32-41| STAT_JUMPS_USED: 8i
+2017-04-08 15-32-41| STAT_SECTORS_DISCOVERED: 7i
+2017-04-08 15-32-41| STAT_SECTORS_TRAVELED: 16.8306f
+2017-04-08 15-32-41| STAT_METERS_FLOWN: 433178i
+2017-04-08 15-32-46| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-08 15-32-46| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-08 15-32-47| Waiting for Online polling threads
+2017-04-08 15-32-47| Online polling threads finished
+2017-04-08 15-32-47| Waiting for LAN polling threads
+2017-04-08 15-32-47| LAN polling threads finished
+2017-04-08 15-32-47| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 15-32-49| remote address: ip, init: steam
+2017-04-08 15-32-49| Connecting to server at 127.0.0.1:27000
+2017-04-08 15-32-49| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 15-32-49| Initiating connection with server ID 90107995625346056
+2017-04-08 15-32-53| Authentication successful!
+2017-04-08 15-32-56| <Server> Player fatmanone joined the galaxy
+2017-04-08 15-33-06| <> You have no sector selected.
+2017-04-08 15-33-34| UDP closed
+2017-04-08 15-33-34| Client UDP: Connection closed
+2017-04-08 15-33-34| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 15-33-34| UDP closed
+2017-04-08 15-33-34| Client UDP: Connection closed
+2017-04-08 15-33-35| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-08 15-33-35| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 15-33-35| Server shutdown successful.
+2017-04-08 15-33-35| UDP closed
+2017-04-08 15-33-35| Client UDP: Connection closed
+2017-04-08 15-33-36| Exiting client.
+2017-04-08 15-33-36| Exited client main loop.
+2017-04-08 15-33-36| Waiting for Online polling threads
+2017-04-08 15-33-36| Online polling threads finished
+2017-04-08 15-33-36| Waiting for LAN polling threads
+2017-04-08 15-33-36| LAN polling threads finished
+2017-04-08 15-33-36| Stopping local server ...

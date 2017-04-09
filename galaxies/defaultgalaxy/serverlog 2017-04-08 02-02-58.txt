@@ -1,0 +1,136 @@
+2017-04-08 02-02-58| Enabled Traces: 
+2017-04-08 02-02-58| Avorion server Beta 0.11 r7857 running on Windows 7 starting up in "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy"
+2017-04-08 02-02-58| CPU: GenuineIntel 8 Cores
+2017-04-08 02-02-58| name: fatmanone's Server
+2017-04-08 02-02-58| seed: q4MzlgFfaj23452
+2017-04-08 02-02-58| port: 27000
+2017-04-08 02-02-58| max online players: 10
+2017-04-08 02-02-58| save interval: 600
+2017-04-08 02-02-58| broadcast interval: 5
+2017-04-08 02-02-58| max loaded sector time: 300
+2017-04-08 02-02-58| weak update: yes
+2017-04-08 02-02-58| worker threads: 7
+2017-04-08 02-02-58| generator threads: 2
+2017-04-08 02-02-58| difficulty: Easy
+2017-04-08 02-02-58| infiniteResources: no
+2017-04-08 02-02-58| collision: 1
+2017-04-08 02-02-58| access list: Blacklist
+2017-04-08 02-02-58| public: no
+2017-04-08 02-02-58| authentication: no
+2017-04-08 02-02-58| listed: no
+2017-04-08 02-02-58| steam networking: yes
+2017-04-08 02-02-58| server will exit once all admins logged out.
+2017-04-08 02-02-58| administrators: 'admin' 
+2017-04-08 02-02-58| Initializing sector database...
+2017-04-08 02-02-58| Initializing faction database...
+2017-04-08 02-02-58| Starting up 7 worker threads...
+2017-04-08 02-02-58| Loading jumping entities... 
+2017-04-08 02-02-58| Loading groups...
+2017-04-08 02-02-58| Galaxy initialized.
+2017-04-08 02-02-58| Listed server version: 0.11.0.7857
+2017-04-08 02-02-58| Game Port: 27000
+2017-04-08 02-02-58| Steam Port: 27021
+2017-04-08 02-02-58| Steam Query Port: 27020
+2017-04-08 02-02-58| Query Port: 27003
+2017-04-08 02-02-58| 
+2017-04-08 02-02-58| Server UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-08 02-02-58| Installed Steam exception handler
+2017-04-08 02-03-00| Server connected to Steam successfully
+2017-04-08 02-03-01| Server is not VAC Secure!
+2017-04-08 02-03-01| Game Server Steam ID: 90107984321063938
+2017-04-08 02-03-02| OnP2PSessionRequest from 76561197970945365
+2017-04-08 02-03-05| [Authentication not Enabled] New client: 76561197970945365
+2017-04-08 02-03-05| Client accepted: 76561197970945365
+2017-04-08 02-03-05| Connection to player established
+2017-04-08 02-03-05| Connection accepted from 192.168.1.3:0
+2017-04-08 02-03-07| <Server> Player fatmanone joined the galaxy
+2017-04-08 02-03-07| Player logged in: fatmanone, index: 1
+2017-04-08 02-03-08| scheduled save for sector (184:410), 0x4fa85c0, entities: 1341
+2017-04-08 02-03-08| saving sector (184:410)
+2017-04-08 02-03-08| player events roughly every 12.42 minutes
+2017-04-08 02-03-08| scheduled save for sector (184:410), 0x4fa85c0, entities: 1341
+2017-04-08 02-03-08| saving sector (184:410)
+2017-04-08 02-03-08| sector (184:410) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_410"
+2017-04-08 02-03-08| sector (184:410) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_410"
+2017-04-08 02-03-08| Player fatmanone moved to sector (184:410) server time taken for change: 388ms
+2017-04-08 02-03-09| scheduled save for sector (191:407), 0xa9e8730, entities: 1358
+2017-04-08 02-03-09| saving sector (191:407)
+2017-04-08 02-03-09| scheduled save for sector (176:413), 0xad2f470, entities: 788
+2017-04-08 02-03-09| sector (191:407) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\191_407"
+2017-04-08 02-03-09| saving sector (176:413)
+2017-04-08 02-03-09| sector (176:413) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\176_413"
+2017-04-08 02-05-17| <> You have no sector selected.
+2017-04-08 02-05-17| <> You have no sector selected.
+2017-04-08 02-05-18| <> You have no sector selected.
+2017-04-08 02-05-18| <> You have no sector selected.
+2017-04-08 02-05-19| <> You have no sector selected.
+2017-04-08 02-05-19| <> You have no sector selected.
+2017-04-08 02-12-58| Triggered saving of all server data.
+2017-04-08 02-12-58| scheduled save for sector (176:413), 0xad2f470, entities: 792
+2017-04-08 02-12-58| saving sector (176:413)
+2017-04-08 02-12-58| sector (176:413) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\176_413"
+2017-04-08 02-12-58| scheduled save for sector (184:410), 0x4fa85c0, entities: 1340
+2017-04-08 02-12-58| saving sector (184:410)
+2017-04-08 02-12-59| sector (184:410) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_410"
+2017-04-08 02-12-59| scheduled save for sector (191:407), 0xa9e8730, entities: 1363
+2017-04-08 02-12-59| saving sector (191:407)
+2017-04-08 02-12-59| sector (191:407) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\191_407"
+2017-04-08 02-15-01| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-02| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-25| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-26| <> Your ship doesn't support more of this turret type.
+2017-04-08 02-15-26| starting event alienattack
+2017-04-08 02-20-17| <> You need more sergeants.
+2017-04-08 02-20-18| <> You need more sergeants.
+2017-04-08 02-22-58| Triggered saving of all server data.
+2017-04-08 02-22-58| scheduled save for sector (176:413), 0xad2f470, entities: 789
+2017-04-08 02-22-58| saving sector (176:413)
+2017-04-08 02-22-58| sector (176:413) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\176_413"
+2017-04-08 02-22-58| scheduled save for sector (184:410), 0x4fa85c0, entities: 1357
+2017-04-08 02-22-59| saving sector (184:410)
+2017-04-08 02-22-59| sector (184:410) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_410"
+2017-04-08 02-22-59| scheduled save for sector (191:407), 0xa9e8730, entities: 1346
+2017-04-08 02-22-59| saving sector (191:407)
+2017-04-08 02-22-59| sector (191:407) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\191_407"
+2017-04-08 02-23-06| <> You have no sector selected.
+2017-04-08 02-23-14| <> You have no sector selected.
+2017-04-08 02-23-28| <> You have no sector selected.
+2017-04-08 02-25-29| starting event fakedistresssignal
+2017-04-08 02-26-49| <Server> Player fatmanone left the galaxy
+2017-04-08 02-26-49| Player logged off: fatmanone, index: 1: 
+2017-04-08 02-26-49| Server is shutting down.
+2017-04-08 02-26-49| Saving settings...
+2017-04-08 02-26-49| Saving script values...
+2017-04-08 02-26-49| Saving factions...
+2017-04-08 02-26-50| Saving sectors...
+2017-04-08 02-26-50| Saving jumping ships...
+2017-04-08 02-26-50| scheduled save for sector (0:0), 0x22e3b0, entities: 0
+2017-04-08 02-26-50| saving sector (0:0)
+2017-04-08 02-26-50| sector (0:0) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\jumps.dat"
+2017-04-08 02-26-50| Saving groups...
+2017-04-08 02-26-50| Saving settings...
+2017-04-08 02-26-50| waiting for unfinished sector generation jobs...
+2017-04-08 02-26-50| waiting for unfinished sector save jobs...
+2017-04-08 02-26-50| scheduled save for sector (176:413), 0xad2f470, entities: 790
+2017-04-08 02-26-50| saving sector (176:413)
+2017-04-08 02-26-50| sector (176:413) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\176_413"
+2017-04-08 02-26-50| scheduled save for sector (184:410), 0x4fa85c0, entities: 1368
+2017-04-08 02-26-50| saving sector (184:410)
+2017-04-08 02-26-50| Received valid shutdown message, shutting down.
+2017-04-08 02-26-50| sector (184:410) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_410"
+2017-04-08 02-26-50| scheduled save for sector (191:407), 0xa9e8730, entities: 1343
+2017-04-08 02-26-50| saving sector (191:407)
+2017-04-08 02-26-50| sector (191:407) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\191_407"
+2017-04-08 02-26-50| shutting down networking...
+2017-04-08 02-26-50| UDP closed
+2017-04-08 02-26-50| Server UDP: Connection closed
+2017-04-08 02-26-50| cleaning up communicators...
+2017-04-08 02-26-50| waiting for unfinished sector generation jobs...
+2017-04-08 02-26-50| waiting for unfinished sector save jobs...
+2017-04-08 02-26-50| shutting down galaxy...
+2017-04-08 02-26-50| shutting down faction database...
+2017-04-08 02-26-51| shutting down sector database...
+2017-04-08 02-26-52| cleaning up timers...
+2017-04-08 02-26-52| Server shutdown successful.
