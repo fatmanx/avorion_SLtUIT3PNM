@@ -254,4 +254,9 @@
 2017-04-10 00-22-03| scheduled save for sector (148:207), 0x49ce0770, entities: 900
 2017-04-10 00-22-03| saving sector (148:207)
 2017-04-10 00-22-03| sector (148:207) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_207"
-2017-04-10 00-22-04| 
+2017-04-10 00-22-04| starting event alienattack
+2017-04-10 00-23-05| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 00-23-05| Creating sector at (164:241)
+2017-04-10 00-23-05| scheduled save for sector (164:241), 0x2a7490c0, entities: 0
+2017-04-10 00-23-05| saving sector (164:241)
+2017-04-10 00-23-05| 
