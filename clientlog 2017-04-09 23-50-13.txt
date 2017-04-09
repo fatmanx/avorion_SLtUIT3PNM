@@ -122,4 +122,6 @@
 2017-04-10 00-25-17| <> Jump route calculated.
 2017-04-10 00-26-04| <Server> A small group of alien ships appeared!
 2017-04-10 00-29-06| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (152:237), someone help, please!
-2017-04-10 00-29-06| 
+2017-04-10 00-29-06| <> You have received a distress signal by an unknown source.
+2017-04-10 00-33-28| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
+2017-04-10 00-33-50| 
