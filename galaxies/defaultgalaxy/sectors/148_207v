@@ -2,18 +2,7 @@
 <view numCrafts="9" numWrecks="0" numAsteroids="612" numStations="6" influence="57.1019974" factionIndex="2001620">
 	<coordinates x="148" y="207"/>
 	<titles>
-		<title str="${good} Factory ${size}">
-			<arg key="good">Force Generator</arg>
-			<arg key="size">L</arg>
-			<arg key="plural">Force Generators</arg>
-			<arg key="prefix">Force Generator /* prefix */</arg>
-		</title>
-		<title str="Accelerator Factory ${size}">
-			<arg key="prefix">Neutron Accelerator /* prefix */</arg>
-			<arg key="size">M</arg>
-			<arg key="plural">Neutron Accelerators</arg>
-			<arg key="good">Neutron Accelerator</arg>
-		</title>
+		<title str="Trading Post"/>
 		<title str="${good} Factory ${size}">
 			<arg key="plural">Drills</arg>
 			<arg key="prefix">Drill /* prefix */</arg>
@@ -32,11 +21,22 @@
 			<arg key="good">Satellite</arg>
 			<arg key="size">L</arg>
 		</title>
-		<title str="Trading Post"/>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Force Generator</arg>
+			<arg key="size">L</arg>
+			<arg key="plural">Force Generators</arg>
+			<arg key="prefix">Force Generator /* prefix */</arg>
+		</title>
+		<title str="Accelerator Factory ${size}">
+			<arg key="prefix">Neutron Accelerator /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="plural">Neutron Accelerators</arg>
+			<arg key="good">Neutron Accelerator</arg>
+		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="145" y="207"/>
 		<coordinates x="152" y="202"/>
+		<coordinates x="145" y="207"/>
 		<coordinates x="154" y="209"/>
 	</wormholes>
 	<shipNumbers>
