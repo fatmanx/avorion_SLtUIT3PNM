@@ -179,4 +179,9 @@
 2017-04-10 01-18-40| <> Your ship doesn't support more of this turret type.
 2017-04-10 01-24-05| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
 2017-04-10 01-24-05| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
-2017-04-10 01-26-00| 
+2017-04-10 01-26-00| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-10 01-26-29| <> Jump route calculated.
+2017-04-10 01-26-38| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-26-39| <> Your ship doesn't support more of this turret type.
+2017-04-10 01-26-41| <> You don't have any of this turret.
+2017-04-10 01-26-55| 
