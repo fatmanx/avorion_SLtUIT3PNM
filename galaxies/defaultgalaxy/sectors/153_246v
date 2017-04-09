@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="8" numWrecks="0" numAsteroids="93" numStations="7" influence="66.6189957" factionIndex="2000379">
+<view numCrafts="13" numWrecks="0" numAsteroids="93" numStations="7" influence="66.6189957" factionIndex="2000379">
 	<coordinates x="153" y="246"/>
 	<titles>
 		<title str="Turret Factory"/>
@@ -41,6 +41,6 @@
 		<coordinates x="149" y="246"/>
 	</wormholes>
 	<shipNumbers>
-		<ships n="8" faction="2000379"/>
+		<ships n="13" faction="2000379"/>
 	</shipNumbers>
 </view>
