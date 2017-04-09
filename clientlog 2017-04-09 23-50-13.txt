@@ -119,4 +119,5 @@
 2017-04-10 00-24-29| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-10 00-25-04| <Server> More strange subspace signals, they're getting stronger.
 2017-04-10 00-25-07| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-10 00-25-17| 
+2017-04-10 00-25-17| <> Jump route calculated.
+2017-04-10 00-26-04| 
