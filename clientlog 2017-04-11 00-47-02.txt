@@ -112,4 +112,6 @@
 2017-04-11 00-57-35| <Gate Control> You paid 210 credits passage fee.
 2017-04-11 00-58-51| <Gate Control> You paid 389 credits passage fee.
 2017-04-11 00-59-30| <Gate Control> You paid 283 credits passage fee.
-2017-04-11 00-59-59| 
+2017-04-11 00-59-59| <Gate Control> You paid 505 credits passage fee.
+2017-04-11 01-00-51| <Gate Control> You paid 303 credits passage fee.
+2017-04-11 01-01-13| 
