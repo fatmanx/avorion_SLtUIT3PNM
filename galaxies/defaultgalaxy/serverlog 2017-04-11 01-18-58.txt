@@ -59,4 +59,5 @@
 2017-04-11 01-20-01| Generating new content for sector (171:378)
 2017-04-11 01-20-02| scheduled save for sector (171:378), 0xb85d640, entities: 1266
 2017-04-11 01-20-02| saving sector (171:378)
-2017-04-11 01-20-03| 
+2017-04-11 01-20-03| sector (171:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_378"
+2017-04-11 01-20-35| 
