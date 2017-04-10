@@ -180,4 +180,6 @@
 2017-04-11 02-38-08| <> You don't have any of this turret.
 2017-04-11 02-38-30| <> You don't have any of this turret.
 2017-04-11 02-38-33| <> You don't have any of this turret.
-2017-04-11 02-38-40| 
+2017-04-11 02-38-40| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-11 02-39-06| <Server> Pirates are attacking the sector!
+2017-04-11 02-39-12| 
