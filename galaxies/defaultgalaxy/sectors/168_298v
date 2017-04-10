@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="2130" numStations="8" influence="76.135994" factionIndex="2001031">
+	<coordinates x="168" y="298"/>
+	<titles>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="prefix">Silver /* prefix */</arg>
+			<arg key="good">Silver</arg>
+			<arg key="plural">Silver</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="good">Silver</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Silver</arg>
+			<arg key="prefix">Silver /* prefix */</arg>
+		</title>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="plural">Gold</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Gold /* prefix */</arg>
+			<arg key="good">Gold</arg>
+		</title>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="good">Gold</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Gold</arg>
+			<arg key="prefix">Gold /* prefix */</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="good">Cink</arg>
+			<arg key="plural">Cink</arg>
+			<arg key="prefix">Cink /* prefix */</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="plural">Gold</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Gold</arg>
+			<arg key="prefix">Gold /* prefix */</arg>
+		</title>
+		<title str="Trading Post"/>
+	</titles>
+	<wormholes>
+		<coordinates x="168" y="300"/>
+		<coordinates x="170" y="296"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="6" faction="2001031"/>
+	</shipNumbers>
+</view>
