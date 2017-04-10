@@ -329,4 +329,9 @@
 2017-04-11 01-02-13| Creating sector at (173:364)
 2017-04-11 01-02-13| scheduled save for sector (173:364), 0x207cbbc0, entities: 0
 2017-04-11 01-02-13| saving sector (173:364)
-2017-04-11 01-02-13| 
+2017-04-11 01-02-13| sector (173:364) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\173_364"
+2017-04-11 01-02-35| scheduled save for sector (169:312), 0x207ca180, entities: 952
+2017-04-11 01-02-35| saving sector (169:312)
+2017-04-11 01-02-35| sector (169:312) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_312"
+2017-04-11 01-02-59| <> Jump route calculated.
+2017-04-11 01-03-00| 
