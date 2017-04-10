@@ -186,4 +186,5 @@
 2017-04-11 02-40-05| <The Nuinea Republic> Thank you for defeating those pirates. You have our endless gratitude.
 2017-04-11 02-51-14| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-11 02-51-33| <> The jump route is still being calculated.
-2017-04-11 02-51-36| 
+2017-04-11 02-51-36| <> Jump route calculated.
+2017-04-11 02-53-15| 
