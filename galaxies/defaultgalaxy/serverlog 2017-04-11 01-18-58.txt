@@ -187,4 +187,6 @@
 2017-04-11 01-48-59| sector (172:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_378"
 2017-04-11 01-50-47| <> You don't have any of this turret.
 2017-04-11 01-50-56| <> You don't have any of this turret.
-2017-04-11 01-51-19| 
+2017-04-11 01-51-19| <> You don't have any of this turret.
+2017-04-11 01-51-38| <> You don't have any of this turret.
+2017-04-11 01-52-14| 

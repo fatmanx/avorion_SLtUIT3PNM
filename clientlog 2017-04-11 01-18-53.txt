@@ -130,4 +130,6 @@
 2017-04-11 01-49-40| <Object Detector> Valuable objects detected.
 2017-04-11 01-50-47| <> You don't have any of this turret.
 2017-04-11 01-50-56| <> You don't have any of this turret.
-2017-04-11 01-51-19| 
+2017-04-11 01-51-19| <> You don't have any of this turret.
+2017-04-11 01-51-38| <> You don't have any of this turret.
+2017-04-11 01-52-14| 
