@@ -64,4 +64,16 @@
 2017-04-11 00-47-20| scheduled save for sector (182:296), 0x1a4269c0, entities: 1049
 2017-04-11 00-47-20| saving sector (182:296)
 2017-04-11 00-47-20| sector (182:296) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_296"
-2017-04-11 00-48-01| 
+2017-04-11 00-48-01| <> You have no sector selected.
+2017-04-11 00-48-22| scheduled save for sector (171:294), 0xb1f3280, entities: 737
+2017-04-11 00-48-22| saving sector (171:294)
+2017-04-11 00-48-22| sector (171:294) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_294"
+2017-04-11 00-48-22| Player fatmanone moved to sector (171:294)from (174:293) server time taken for change: 200ms
+2017-04-11 00-48-22| Creating sector at (170:296)
+2017-04-11 00-48-22| scheduled save for sector (174:293), 0x6242360, entities: 1028
+2017-04-11 00-48-22| saving sector (174:293)
+2017-04-11 00-48-22| Generating new content for sector (170:296)
+2017-04-11 00-48-22| sector (174:293) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_293"
+2017-04-11 00-48-25| scheduled save for sector (170:296), 0xb786150, entities: 206
+2017-04-11 00-48-25| saving sector (170:296)
+2017-04-11 00-48-26| 

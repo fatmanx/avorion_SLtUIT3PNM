@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="5" numWrecks="0" numAsteroids="0" numStations="5" influence="47.5849991" factionIndex="2001031">
+	<coordinates x="170" y="296"/>
+	<titles>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Wine</arg>
+			<arg key="plural">Wine</arg>
+			<arg key="prefix">Wine /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Servos</arg>
+			<arg key="good">Servo</arg>
+			<arg key="prefix">Servo /* prefix */</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Turbine /* prefix */</arg>
+			<arg key="plural">Turbines</arg>
+			<arg key="good">Turbine</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="good">Spices</arg>
+			<arg key="size">L</arg>
+			<arg key="plural">Spices</arg>
+			<arg key="prefix">Spices /* prefix */</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Servo /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="plural">Servos</arg>
+			<arg key="good">Servo</arg>
+		</title>
+	</titles>
+	<wormholes>
+		<coordinates x="168" y="298"/>
+		<coordinates x="171" y="294"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="5" faction="2001031"/>
+	</shipNumbers>
+</view>
