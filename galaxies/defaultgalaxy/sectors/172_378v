@@ -36,10 +36,10 @@
 		<title str="Trading Post"/>
 	</titles>
 	<wormholes>
-		<coordinates x="171" y="377"/>
-		<coordinates x="176" y="376"/>
-		<coordinates x="171" y="378"/>
 		<coordinates x="173" y="387"/>
+		<coordinates x="176" y="376"/>
+		<coordinates x="171" y="377"/>
+		<coordinates x="171" y="378"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="8" faction="2000628"/>
