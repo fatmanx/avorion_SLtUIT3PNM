@@ -114,4 +114,6 @@
 2017-04-11 00-59-30| <Gate Control> You paid 283 credits passage fee.
 2017-04-11 00-59-59| <Gate Control> You paid 505 credits passage fee.
 2017-04-11 01-00-51| <Gate Control> You paid 303 credits passage fee.
-2017-04-11 01-01-13| 
+2017-04-11 01-01-13| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-11 01-01-57| <> Jump route calculated.
+2017-04-11 01-02-13| 
