@@ -88,4 +88,17 @@
 2017-04-11 00-49-38| sector (171:294) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_294"
 2017-04-11 00-49-44| scheduled save for sector (168:298), 0xb785ac0, entities: 2244
 2017-04-11 00-49-44| saving sector (168:298)
-2017-04-11 00-49-44| 
+2017-04-11 00-49-44| sector (168:298) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\168_298"
+2017-04-11 00-50-22| scheduled save for sector (168:298), 0xb785ac0, entities: 2267
+2017-04-11 00-50-22| saving sector (168:298)
+2017-04-11 00-50-22| sector (168:298) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\168_298"
+2017-04-11 00-50-22| Player fatmanone moved to sector (168:298)from (170:296) server time taken for change: 587ms
+2017-04-11 00-50-22| Creating sector at (168:300)
+2017-04-11 00-50-22| scheduled save for sector (170:296), 0xb786150, entities: 218
+2017-04-11 00-50-22| saving sector (170:296)
+2017-04-11 00-50-22| Generating new content for sector (168:300)
+2017-04-11 00-50-22| sector (170:296) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\170_296"
+2017-04-11 00-50-26| Warning, can't keep up, skipping 1 frames...
+2017-04-11 00-50-31| scheduled save for sector (168:300), 0x3f2c1fe0, entities: 1275
+2017-04-11 00-50-31| saving sector (168:300)
+2017-04-11 00-50-31| 
