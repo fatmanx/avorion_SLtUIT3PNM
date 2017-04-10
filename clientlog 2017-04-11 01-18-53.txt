@@ -126,4 +126,5 @@
 2017-04-11 01-46-07| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
 2017-04-11 01-46-07| 	data/scripts/entity/craftorders.lua:27: in function ?
 2017-04-11 01-48-58| <Object Detector> Valuable objects detected.
-2017-04-11 01-49-34| 
+2017-04-11 01-49-34| <Object Detector> Valuable objects detected.
+2017-04-11 01-49-40| 
