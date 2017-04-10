@@ -183,4 +183,7 @@
 2017-04-11 02-38-40| <> You cannot build a turret at this place. There is already a turret at this position.
 2017-04-11 02-39-06| <Server> Pirates are attacking the sector!
 2017-04-11 02-39-12| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
-2017-04-11 02-40-05| 
+2017-04-11 02-40-05| <The Nuinea Republic> Thank you for defeating those pirates. You have our endless gratitude.
+2017-04-11 02-51-14| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-11 02-51-33| <> The jump route is still being calculated.
+2017-04-11 02-51-36| 
