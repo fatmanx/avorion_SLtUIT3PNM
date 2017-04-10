@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="6" numWrecks="0" numAsteroids="682" numStations="10" influence="85.6529922" factionIndex="2001031">
+<view numCrafts="9" numWrecks="0" numAsteroids="682" numStations="10" influence="85.6529922" factionIndex="2001031">
 	<coordinates x="166" y="314"/>
 	<titles>
 		<title str="Repair Dock"/>
@@ -29,6 +29,6 @@
 		<coordinates x="168" y="314"/>
 	</wormholes>
 	<shipNumbers>
-		<ships n="6" faction="2001031"/>
+		<ships n="9" faction="2001031"/>
 	</shipNumbers>
 </view>

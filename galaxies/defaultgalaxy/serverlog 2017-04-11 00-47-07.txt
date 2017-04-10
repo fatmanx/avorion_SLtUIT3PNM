@@ -338,4 +338,26 @@
 2017-04-11 01-03-51| scheduled save for sector (167:312), 0x207c4c30, entities: 384
 2017-04-11 01-03-51| saving sector (167:312)
 2017-04-11 01-03-51| sector (167:312) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\167_312"
-2017-04-11 01-04-03| 
+2017-04-11 01-04-03| <> Your hyperdrive still needs 31 seconds to recharge.
+2017-04-11 01-04-25| <> Your hyperdrive still needs 9 seconds to recharge.
+2017-04-11 01-04-30| scheduled save for sector (166:314), 0xb786150, entities: 908
+2017-04-11 01-04-30| saving sector (166:314)
+2017-04-11 01-04-30| sector (166:314) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\166_314"
+2017-04-11 01-04-41| scheduled save for sector (173:364), 0x207cbbc0, entities: 23
+2017-04-11 01-04-41| saving sector (173:364)
+2017-04-11 01-04-41| sector (173:364) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\173_364"
+2017-04-11 01-04-41| Player fatmanone moved to sector (173:364)from (175:344) server time taken for change: 19ms
+2017-04-11 01-04-41| scheduled save for sector (175:344), 0x3f2bf880, entities: 0
+2017-04-11 01-04-41| saving sector (175:344)
+2017-04-11 01-04-41| sector (175:344) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\175_344"
+2017-04-11 01-04-59| scheduled save for sector (168:314), 0xb785430, entities: 4
+2017-04-11 01-04-59| saving sector (168:314)
+2017-04-11 01-04-59| sector (168:314) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\168_314"
+2017-04-11 01-04-59| scheduled save for sector (169:317), 0xb787500, entities: 3
+2017-04-11 01-04-59| saving sector (169:317)
+2017-04-11 01-04-59| sector (169:317) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_317"
+2017-04-11 01-05-04| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-11 01-05-04| scheduled save for sector (176:365), 0x5724f160, entities: 234
+2017-04-11 01-05-04| saving sector (176:365)
+2017-04-11 01-05-04| sector (176:365) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\176_365"
+2017-04-11 01-05-15| 
