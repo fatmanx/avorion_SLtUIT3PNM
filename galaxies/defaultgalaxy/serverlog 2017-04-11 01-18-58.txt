@@ -195,4 +195,14 @@
 2017-04-11 01-53-38| <> Your ship doesn't support more of this turret type.
 2017-04-11 01-53-39| <> Your ship doesn't support more of this turret type.
 2017-04-11 01-53-39| <> Your ship doesn't support more of this turret type.
-2017-04-11 01-58-19| 
+2017-04-11 01-58-19| starting event alienattack
+2017-04-11 01-58-59| Triggered saving of all server data.
+2017-04-11 01-58-59| scheduled save for sector (171:377), 0x1526e6f0, entities: 758
+2017-04-11 01-58-59| saving sector (171:377)
+2017-04-11 01-58-59| sector (171:377) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_377"
+2017-04-11 01-58-59| scheduled save for sector (171:378), 0xb85d640, entities: 1345
+2017-04-11 01-58-59| saving sector (171:378)
+2017-04-11 01-58-59| sector (171:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_378"
+2017-04-11 01-58-59| scheduled save for sector (172:378), 0x13d6dd90, entities: 526
+2017-04-11 01-58-59| saving sector (172:378)
+2017-04-11 01-58-59| 
