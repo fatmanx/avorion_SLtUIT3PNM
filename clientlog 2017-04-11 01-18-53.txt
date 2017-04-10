@@ -106,4 +106,6 @@
 2017-04-11 01-35-06| <Server> Pirates are attacking the sector!
 2017-04-11 01-35-46| <Mobile Equipment Merchant Iitpridyij> Hello Everybody! Mobile Equipment Merchant Iitpridyij here. I'll be here for the next 15 minutes. Come look at my merchandise!
 2017-04-11 01-36-20| <The Nuinea Republic> We thank you for taking care of those ships. We transferred a reward to your account.
-2017-04-11 01-39-56| 
+2017-04-11 01-39-56| <> You have no sector selected.
+2017-04-11 01-40-53| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (161:382), someone help, please!
+2017-04-11 01-40-53| 
