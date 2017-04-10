@@ -120,4 +120,8 @@
 2017-04-11 02-38-30| <> You don't have any of this turret.
 2017-04-11 02-38-33| <> You don't have any of this turret.
 2017-04-11 02-38-40| <> You cannot build a turret at this place. There is already a turret at this position.
-2017-04-11 02-39-06| 
+2017-04-11 02-39-06| starting event piratehunter
+2017-04-11 02-44-47| Triggered saving of all server data.
+2017-04-11 02-44-48| scheduled save for sector (167:370), 0xcadb6e0, entities: 134
+2017-04-11 02-44-48| saving sector (167:370)
+2017-04-11 02-44-48| 
