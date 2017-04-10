@@ -96,4 +96,5 @@
 2017-04-11 02-27-19| Player fatmanone moved to sector (167:370)from (168:370) server time taken for change: 40ms
 2017-04-11 02-27-19| scheduled save for sector (168:370), 0x106e1cd0, entities: 0
 2017-04-11 02-27-19| saving sector (168:370)
-2017-04-11 02-27-19| 
+2017-04-11 02-27-19| sector (168:370) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\168_370"
+2017-04-11 02-27-42| 
