@@ -2,12 +2,6 @@
 <view numCrafts="10" numWrecks="11" numAsteroids="1290" numStations="6" influence="57.1019974" factionIndex="2001031">
 	<coordinates x="177" y="321"/>
 	<titles>
-		<title str="${good} Factory ${size}">
-			<arg key="plural">Computation Mainframes</arg>
-			<arg key="size">L</arg>
-			<arg key="prefix">Computation Mainframe /* prefix */</arg>
-			<arg key="good">Computation Mainframe</arg>
-		</title>
 		<title str="Tesla Coil Factory ${size}">
 			<arg key="plural">Military Tesla Coils</arg>
 			<arg key="size">S</arg>
@@ -26,13 +20,19 @@
 			<arg key="good">Fusion Generator</arg>
 			<arg key="size">M</arg>
 		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Computation Mainframes</arg>
+			<arg key="size">L</arg>
+			<arg key="prefix">Computation Mainframe /* prefix */</arg>
+			<arg key="good">Computation Mainframe</arg>
+		</title>
 		<title str="Turret Factory"/>
 		<title str="Resource Depot"/>
 	</titles>
 	<wormholes>
 		<coordinates x="181" y="319"/>
-		<coordinates x="175" y="324"/>
 		<coordinates x="172" y="318"/>
+		<coordinates x="175" y="324"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="10" faction="2001031"/>
