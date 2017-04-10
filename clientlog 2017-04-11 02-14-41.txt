@@ -98,4 +98,78 @@
 2017-04-11 02-25-27| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-11 02-25-48| <> Jump route calculated.
 2017-04-11 02-26-24| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-11 02-26-31| 
+2017-04-11 02-26-31| <> Jump route calculated.
+2017-04-11 02-26-43| <> Your hyperdrive still needs 34 seconds to recharge.
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-17| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-18| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
+2017-04-11 02-27-19| 
