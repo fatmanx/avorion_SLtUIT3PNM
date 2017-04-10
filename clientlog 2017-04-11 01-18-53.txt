@@ -100,4 +100,6 @@
 2017-04-11 01-28-12| <Gate Control> You paid 56 credits passage fee.
 2017-04-11 01-29-25| <Gate Control> You paid 79 credits passage fee.
 2017-04-11 01-29-25| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-11 01-29-25| 
+2017-04-11 01-29-25| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-11 01-30-40| <Gate Control> You paid 57 credits passage fee.
+2017-04-11 01-30-40| 
