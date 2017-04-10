@@ -122,4 +122,6 @@
 2017-04-11 01-04-03| <> Your hyperdrive still needs 31 seconds to recharge.
 2017-04-11 01-04-25| <> Your hyperdrive still needs 9 seconds to recharge.
 2017-04-11 01-05-04| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-11 01-05-15| 
+2017-04-11 01-05-15| <> Jump route calculated.
+2017-04-11 01-10-12| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-11 01-10-20| 
