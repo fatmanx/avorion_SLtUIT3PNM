@@ -124,4 +124,5 @@
 2017-04-11 01-05-04| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-11 01-05-15| <> Jump route calculated.
 2017-04-11 01-10-12| <Server> Your sensors picked up a short burst of subspace signals.
-2017-04-11 01-10-20| 
+2017-04-11 01-10-20| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-11 01-10-28| 
