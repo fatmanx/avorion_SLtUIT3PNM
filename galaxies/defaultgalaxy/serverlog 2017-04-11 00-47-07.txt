@@ -152,4 +152,25 @@
 2017-04-11 00-53-47| sector (168:300) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\168_300"
 2017-04-11 00-53-49| scheduled save for sector (170:304), 0x207cbbc0, entities: 1070
 2017-04-11 00-53-49| saving sector (170:304)
-2017-04-11 00-53-49| 
+2017-04-11 00-53-49| sector (170:304) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\170_304"
+2017-04-11 00-54-30| scheduled save for sector (170:304), 0x207cbbc0, entities: 1093
+2017-04-11 00-54-30| saving sector (170:304)
+2017-04-11 00-54-31| sector (170:304) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\170_304"
+2017-04-11 00-54-31| Player fatmanone moved to sector (170:304)from (167:302) server time taken for change: 344ms
+2017-04-11 00-54-31| Creating sector at (169:312)
+2017-04-11 00-54-31| Creating sector at (172:303)
+2017-04-11 00-54-31| scheduled save for sector (167:302), 0x3f2c1950, entities: 1061
+2017-04-11 00-54-31| saving sector (167:302)
+2017-04-11 00-54-31| Generating new content for sector (169:312)
+2017-04-11 00-54-31| Generating new content for sector (172:303)
+2017-04-11 00-54-31| sector (167:302) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\167_302"
+2017-04-11 00-54-33| scheduled save for sector (169:312), 0x207ca180, entities: 950
+2017-04-11 00-54-33| saving sector (169:312)
+2017-04-11 00-54-33| sector (169:312) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_312"
+2017-04-11 00-54-38| scheduled save for sector (174:293), 0x6242360, entities: 1050
+2017-04-11 00-54-38| saving sector (174:293)
+2017-04-11 00-54-38| sector (174:293) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_293"
+2017-04-11 00-54-39| scheduled save for sector (172:303), 0x207c8740, entities: 223
+2017-04-11 00-54-39| saving sector (172:303)
+2017-04-11 00-54-39| sector (172:303) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_303"
+2017-04-11 00-54-56| 

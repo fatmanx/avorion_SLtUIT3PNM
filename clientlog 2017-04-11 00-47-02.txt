@@ -101,4 +101,6 @@
 2017-04-11 00-52-22| <> You have no sector selected.
 2017-04-11 00-52-54| <> You have no sector selected.
 2017-04-11 00-53-46| <Gate Control> You paid 227 credits passage fee.
-2017-04-11 00-53-53| 
+2017-04-11 00-53-53| <> You have no sector selected.
+2017-04-11 00-54-30| <Gate Control> You paid 359 credits passage fee.
+2017-04-11 00-54-56| 
