@@ -97,4 +97,7 @@
 2017-04-11 01-22-06| <Server> The signals are growing stronger.
 2017-04-11 01-22-08| <Object Detector> Valuable objects detected.
 2017-04-11 01-23-06| <Server> A group of alien ships warped in!
-2017-04-11 01-28-12| 
+2017-04-11 01-28-12| <Gate Control> You paid 56 credits passage fee.
+2017-04-11 01-29-25| <Gate Control> You paid 79 credits passage fee.
+2017-04-11 01-29-25| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-11 01-29-25| 
