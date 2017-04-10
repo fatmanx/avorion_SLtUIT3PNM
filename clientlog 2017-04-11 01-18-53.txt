@@ -140,4 +140,5 @@
 2017-04-11 01-53-39| <> Your ship doesn't support more of this turret type.
 2017-04-11 01-53-39| <> Your ship doesn't support more of this turret type.
 2017-04-11 01-53-56| <Server> Pirates are attacking the sector!
-2017-04-11 01-56-11| 
+2017-04-11 01-56-11| <The Nuinea Republic> Thank you for taking care of those pirates. We transferred a reward to your account.
+2017-04-11 01-58-20| 
