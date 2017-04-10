@@ -103,4 +103,6 @@
 2017-04-11 01-29-25| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-11 01-30-40| <Gate Control> You paid 57 credits passage fee.
 2017-04-11 01-30-40| <Object Detector> Valuable objects detected.
-2017-04-11 01-35-06| 
+2017-04-11 01-35-06| <Server> Pirates are attacking the sector!
+2017-04-11 01-35-46| <Mobile Equipment Merchant Iitpridyij> Hello Everybody! Mobile Equipment Merchant Iitpridyij here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-11 01-36-20| 
