@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="5" numWrecks="0" numAsteroids="726" numStations="11" influence="104.686989" factionIndex="2001031">
+	<coordinates x="167" y="302"/>
+	<titles>
+		<title str="Repair Dock"/>
+		<title str="Resource Depot"/>
+		<title str="Equipment Dock"/>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Gauss Rail</arg>
+			<arg key="plural">Gauss Rail</arg>
+			<arg key="size">M</arg>
+			<arg key="prefix">Gauss Rail /* prefix */</arg>
+		</title>
+		<title str="Shipyard"/>
+		<title str="Trading Post"/>
+		<title str="Gas Collector ${size}">
+			<arg key="good">Oxygen</arg>
+			<arg key="prefix">Oxygen /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Oxygen</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">S</arg>
+			<arg key="good">Food Bar</arg>
+			<arg key="plural">Food Bars</arg>
+			<arg key="prefix">Food Bar /* prefix */</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="good">Wheat</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Wheat</arg>
+			<arg key="prefix">Wheat /* prefix */</arg>
+		</title>
+		<title str="Casino"/>
+		<title str="Military Outpost"/>
+	</titles>
+	<wormholes>
+		<coordinates x="168" y="300"/>
+		<coordinates x="170" y="304"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="5" faction="2001031"/>
+	</shipNumbers>
+</view>
