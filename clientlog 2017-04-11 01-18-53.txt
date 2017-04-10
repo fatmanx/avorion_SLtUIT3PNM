@@ -135,4 +135,8 @@
 2017-04-11 01-52-14| <> You don't have any of this turret.
 2017-04-11 01-52-42| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave11.xml"
 2017-04-11 01-53-07| <> You don't have any of this turret.
-2017-04-11 01-53-38| 
+2017-04-11 01-53-38| <> Your ship doesn't support more of this turret type.
+2017-04-11 01-53-38| <> Your ship doesn't support more of this turret type.
+2017-04-11 01-53-39| <> Your ship doesn't support more of this turret type.
+2017-04-11 01-53-39| <> Your ship doesn't support more of this turret type.
+2017-04-11 01-53-56| 
