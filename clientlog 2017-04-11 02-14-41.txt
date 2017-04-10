@@ -95,4 +95,7 @@
 2017-04-11 02-15-01| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-11 02-17-58| <Server> The signals are growing stronger.
 2017-04-11 02-18-58| <Server> A group of alien ships warped in!
-2017-04-11 02-25-27| 
+2017-04-11 02-25-27| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-11 02-25-48| <> Jump route calculated.
+2017-04-11 02-26-24| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-11 02-26-31| 
