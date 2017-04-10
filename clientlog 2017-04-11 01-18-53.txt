@@ -95,4 +95,5 @@
 2017-04-11 01-20-01| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-11 01-20-35| <> Jump route calculated.
 2017-04-11 01-22-06| <Server> The signals are growing stronger.
-2017-04-11 01-22-08| 
+2017-04-11 01-22-08| <Object Detector> Valuable objects detected.
+2017-04-11 01-23-06| 
