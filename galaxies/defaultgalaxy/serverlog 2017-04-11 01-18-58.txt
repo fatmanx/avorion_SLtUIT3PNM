@@ -189,4 +189,7 @@
 2017-04-11 01-50-56| <> You don't have any of this turret.
 2017-04-11 01-51-19| <> You don't have any of this turret.
 2017-04-11 01-51-38| <> You don't have any of this turret.
-2017-04-11 01-52-14| 
+2017-04-11 01-52-14| <> You don't have any of this turret.
+2017-04-11 01-53-07| <> You don't have any of this turret.
+2017-04-11 01-53-38| <> Your ship doesn't support more of this turret type.
+2017-04-11 01-53-38| 
