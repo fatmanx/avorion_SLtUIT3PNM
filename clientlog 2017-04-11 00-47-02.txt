@@ -118,4 +118,5 @@
 2017-04-11 01-01-57| <> Jump route calculated.
 2017-04-11 01-02-13| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-11 01-02-59| <> Jump route calculated.
-2017-04-11 01-03-00| 
+2017-04-11 01-03-00| <> Your hyperdrive still needs 94 seconds to recharge.
+2017-04-11 01-04-03| 
