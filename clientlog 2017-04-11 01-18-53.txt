@@ -93,4 +93,6 @@
 2017-04-11 01-19-06| <Server> Player fatmanone joined the galaxy
 2017-04-11 01-19-08| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-11 01-20-01| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-11 01-20-35| 
+2017-04-11 01-20-35| <> Jump route calculated.
+2017-04-11 01-22-06| <Server> The signals are growing stronger.
+2017-04-11 01-22-08| 

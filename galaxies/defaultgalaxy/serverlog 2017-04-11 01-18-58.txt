@@ -60,4 +60,21 @@
 2017-04-11 01-20-02| scheduled save for sector (171:378), 0xb85d640, entities: 1266
 2017-04-11 01-20-02| saving sector (171:378)
 2017-04-11 01-20-03| sector (171:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_378"
-2017-04-11 01-20-35| 
+2017-04-11 01-20-35| <> Jump route calculated.
+2017-04-11 01-22-08| scheduled save for sector (171:378), 0xb85d640, entities: 1296
+2017-04-11 01-22-08| saving sector (171:378)
+2017-04-11 01-22-08| sector (171:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_378"
+2017-04-11 01-22-08| Player fatmanone moved to sector (171:378)from (175:364) server time taken for change: 287ms
+2017-04-11 01-22-08| Creating sector at (172:378)
+2017-04-11 01-22-08| Creating sector at (171:377)
+2017-04-11 01-22-08| scheduled save for sector (175:364), 0x5f0a0c0, entities: 874
+2017-04-11 01-22-08| saving sector (175:364)
+2017-04-11 01-22-08| Generating new content for sector (172:378)
+2017-04-11 01-22-08| Generating new content for sector (171:377)
+2017-04-11 01-22-08| sector (175:364) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\175_364"
+2017-04-11 01-22-12| scheduled save for sector (171:377), 0x1526e6f0, entities: 723
+2017-04-11 01-22-12| saving sector (171:377)
+2017-04-11 01-22-13| sector (171:377) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_377"
+2017-04-11 01-22-14| scheduled save for sector (172:378), 0x13d6dd90, entities: 504
+2017-04-11 01-22-14| saving sector (172:378)
+2017-04-11 01-22-14| 
