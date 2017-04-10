@@ -93,4 +93,5 @@
 2017-04-11 02-14-58| <Server> Player fatmanone joined the galaxy
 2017-04-11 02-14-58| <Object Detector> Valuable objects detected.
 2017-04-11 02-15-01| <Server> Your sensors picked up short bursts of subspace signals.
-2017-04-11 02-17-58| 
+2017-04-11 02-17-58| <Server> The signals are growing stronger.
+2017-04-11 02-18-58| 
