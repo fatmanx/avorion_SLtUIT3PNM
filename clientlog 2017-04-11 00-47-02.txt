@@ -88,4 +88,7 @@
 2017-04-11 00-47-10| remote address: ip, init: steam
 2017-04-11 00-47-10| Connecting to server at 127.0.0.1:27000
 2017-04-11 00-47-10| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
-2017-04-11 00-47-10| 
+2017-04-11 00-47-10| Initiating connection with server ID 90108060283695106
+2017-04-11 00-47-14| Authentication successful!
+2017-04-11 00-47-17| <Server> Player fatmanone joined the galaxy
+2017-04-11 00-48-01| 

@@ -39,4 +39,29 @@
 2017-04-11 00-47-09| Server connected to Steam successfully
 2017-04-11 00-47-09| Server is not VAC Secure!
 2017-04-11 00-47-09| Game Server Steam ID: 90108060283695106
-2017-04-11 00-47-10| 
+2017-04-11 00-47-10| OnP2PSessionRequest from 76561197970945365
+2017-04-11 00-47-14| [Authentication not Enabled] New client: 76561197970945365
+2017-04-11 00-47-14| Client accepted: 76561197970945365
+2017-04-11 00-47-14| Connection to player established
+2017-04-11 00-47-14| Connection accepted from 192.168.1.3:0
+2017-04-11 00-47-17| <Server> Player fatmanone joined the galaxy
+2017-04-11 00-47-17| Player logged in: fatmanone, index: 1
+2017-04-11 00-47-18| scheduled save for sector (174:293), 0x6242360, entities: 1070
+2017-04-11 00-47-18| saving sector (174:293)
+2017-04-11 00-47-18| player events roughly every 13.12 minutes
+2017-04-11 00-47-18| scheduled save for sector (174:293), 0x6242360, entities: 1070
+2017-04-11 00-47-18| saving sector (174:293)
+2017-04-11 00-47-18| sector (174:293) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_293"
+2017-04-11 00-47-19| sector (174:293) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_293"
+2017-04-11 00-47-19| Player fatmanone moved to sector (174:293) server time taken for change: 480ms
+2017-04-11 00-47-19| Warning, can't keep up, skipping 1 frames...
+2017-04-11 00-47-19| scheduled save for sector (171:294), 0xb1f3280, entities: 716
+2017-04-11 00-47-19| saving sector (171:294)
+2017-04-11 00-47-20| sector (171:294) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_294"
+2017-04-11 00-47-20| scheduled save for sector (177:289), 0x1abae130, entities: 692
+2017-04-11 00-47-20| saving sector (177:289)
+2017-04-11 00-47-20| sector (177:289) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_289"
+2017-04-11 00-47-20| scheduled save for sector (182:296), 0x1a4269c0, entities: 1049
+2017-04-11 00-47-20| saving sector (182:296)
+2017-04-11 00-47-20| sector (182:296) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_296"
+2017-04-11 00-48-01| 

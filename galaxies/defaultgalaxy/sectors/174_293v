@@ -2,30 +2,17 @@
 <view numCrafts="11" numWrecks="10" numAsteroids="700" numStations="12" influence="104.686989" factionIndex="2001031">
 	<coordinates x="174" y="293"/>
 	<titles>
-		<title str="Resource Depot"/>
 		<title str="Shipyard"/>
+		<title str="Resource Depot"/>
 		<title str="Repair Dock"/>
-		<title str="Research Station"/>
-		<title str="Military Outpost"/>
+		<title str="Trading Post"/>
+		<title str="Equipment Dock"/>
+		<title str="Trading Post"/>
 		<title str="Solar Power Plant ${size}">
 			<arg key="plural">Energy Cells</arg>
 			<arg key="prefix">Energy Cell /* prefix */</arg>
 			<arg key="good">Energy Cell</arg>
 			<arg key="size">L</arg>
-		</title>
-		<title str="Equipment Dock"/>
-		<title str="${good} Farm ${size}">
-			<arg key="good">Crystal</arg>
-			<arg key="size">L</arg>
-			<arg key="prefix">Crystal /* prefix */</arg>
-			<arg key="plural">Crystals</arg>
-		</title>
-		<title str="Trading Post"/>
-		<title str="${good} Factory ${size}">
-			<arg key="prefix">Steel Tube /* prefix */</arg>
-			<arg key="plural">Steel Tubes</arg>
-			<arg key="size">XL</arg>
-			<arg key="good">Steel Tube</arg>
 		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="good">Plasma Cell</arg>
@@ -33,11 +20,24 @@
 			<arg key="prefix">Plasma Cell /* prefix */</arg>
 			<arg key="size">S</arg>
 		</title>
-		<title str="Trading Post"/>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Steel Tube /* prefix */</arg>
+			<arg key="plural">Steel Tubes</arg>
+			<arg key="size">XL</arg>
+			<arg key="good">Steel Tube</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="good">Crystal</arg>
+			<arg key="size">L</arg>
+			<arg key="prefix">Crystal /* prefix */</arg>
+			<arg key="plural">Crystals</arg>
+		</title>
+		<title str="Research Station"/>
+		<title str="Military Outpost"/>
 	</titles>
 	<wormholes>
-		<coordinates x="182" y="296"/>
 		<coordinates x="171" y="294"/>
+		<coordinates x="182" y="296"/>
 		<coordinates x="177" y="289"/>
 	</wormholes>
 	<shipNumbers>
