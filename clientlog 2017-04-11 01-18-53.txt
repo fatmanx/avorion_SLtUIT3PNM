@@ -144,4 +144,21 @@
 2017-04-11 01-58-20| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-11 02-00-09| <Object Detector> Valuable objects detected.
 2017-04-11 02-00-14| <Object Detector> Valuable objects detected.
-2017-04-11 02-00-25| 
+2017-04-11 02-00-25| <Object Detector> Valuable objects detected.
+2017-04-11 02-01-12| UDP closed
+2017-04-11 02-01-12| Client UDP: Connection closed
+2017-04-11 02-01-12| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-11 02-01-13| UDP closed
+2017-04-11 02-01-13| Client UDP: Connection closed
+2017-04-11 02-01-13| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-11 02-01-13| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-11 02-01-14| Server shutdown successful.
+2017-04-11 02-01-14| UDP closed
+2017-04-11 02-01-14| Client UDP: Connection closed
+2017-04-11 02-01-15| Exiting client.
+2017-04-11 02-01-15| Exited client main loop.
+2017-04-11 02-01-15| Waiting for Online polling threads
+2017-04-11 02-01-15| Online polling threads finished
+2017-04-11 02-01-15| Waiting for LAN polling threads
+2017-04-11 02-01-15| LAN polling threads finished
+2017-04-11 02-01-15| Stopping local server ...
