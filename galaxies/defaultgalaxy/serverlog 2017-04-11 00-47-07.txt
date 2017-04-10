@@ -1,0 +1,42 @@
+2017-04-11 00-47-07| Enabled Traces: 
+2017-04-11 00-47-07| Avorion server Beta 0.11 r7857 running on Windows 7 starting up in "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy"
+2017-04-11 00-47-07| CPU: GenuineIntel 8 Cores
+2017-04-11 00-47-07| name: fatmanone's Server
+2017-04-11 00-47-07| seed: q4MzlgFfaj23452
+2017-04-11 00-47-07| port: 27000
+2017-04-11 00-47-07| max online players: 10
+2017-04-11 00-47-07| save interval: 600
+2017-04-11 00-47-07| broadcast interval: 5
+2017-04-11 00-47-07| max loaded sector time: 300
+2017-04-11 00-47-07| weak update: yes
+2017-04-11 00-47-07| worker threads: 7
+2017-04-11 00-47-07| generator threads: 2
+2017-04-11 00-47-07| difficulty: Easy
+2017-04-11 00-47-07| infiniteResources: no
+2017-04-11 00-47-07| collision: 1
+2017-04-11 00-47-07| access list: Blacklist
+2017-04-11 00-47-07| public: no
+2017-04-11 00-47-07| authentication: no
+2017-04-11 00-47-07| listed: no
+2017-04-11 00-47-07| steam networking: yes
+2017-04-11 00-47-07| server will exit once all admins logged out.
+2017-04-11 00-47-07| administrators: 'admin' 
+2017-04-11 00-47-07| Initializing sector database...
+2017-04-11 00-47-07| Initializing faction database...
+2017-04-11 00-47-07| Starting up 7 worker threads...
+2017-04-11 00-47-07| Loading jumping entities... 
+2017-04-11 00-47-07| Loaded 10 jumping entities.
+2017-04-11 00-47-07| Loading groups...
+2017-04-11 00-47-07| Galaxy initialized.
+2017-04-11 00-47-07| Listed server version: 0.11.0.7857
+2017-04-11 00-47-07| Game Port: 27000
+2017-04-11 00-47-07| Steam Port: 27021
+2017-04-11 00-47-07| Steam Query Port: 27020
+2017-04-11 00-47-07| Query Port: 27003
+2017-04-11 00-47-07| 
+2017-04-11 00-47-07| Server UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-11 00-47-07| Installed Steam exception handler
+2017-04-11 00-47-09| Server connected to Steam successfully
+2017-04-11 00-47-09| Server is not VAC Secure!
+2017-04-11 00-47-09| Game Server Steam ID: 90108060283695106
+2017-04-11 00-47-10| 
