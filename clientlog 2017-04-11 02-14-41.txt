@@ -188,4 +188,6 @@
 2017-04-11 02-51-33| <> The jump route is still being calculated.
 2017-04-11 02-51-36| <> Jump route calculated.
 2017-04-11 02-53-15| <Server> Your sensors picked up a short burst of subspace signals.
-2017-04-11 02-54-52| 
+2017-04-11 02-54-52| <Shipyard> Thank you for your purchase. Your ship will be ready in about 4 hours, 16 minutes.
+2017-04-11 02-56-14| <Server> More strange subspace signals, they're getting stronger.
+2017-04-11 02-56-35| 
