@@ -97,4 +97,13 @@
 2017-04-11 02-27-19| scheduled save for sector (168:370), 0x106e1cd0, entities: 0
 2017-04-11 02-27-19| saving sector (168:370)
 2017-04-11 02-27-19| sector (168:370) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\168_370"
-2017-04-11 02-27-42| 
+2017-04-11 02-27-42| starting event fakedistresssignal
+2017-04-11 02-30-50| scheduled save for sector (171:378), 0x62811b0, entities: 1321
+2017-04-11 02-30-50| saving sector (171:378)
+2017-04-11 02-30-50| scheduled save for sector (171:377), 0x11a85b40, entities: 733
+2017-04-11 02-30-50| sector (171:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_378"
+2017-04-11 02-30-50| saving sector (171:377)
+2017-04-11 02-30-50| scheduled save for sector (172:378), 0x12842200, entities: 526
+2017-04-11 02-30-50| sector (171:377) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_377"
+2017-04-11 02-30-50| saving sector (172:378)
+2017-04-11 02-30-50| 
