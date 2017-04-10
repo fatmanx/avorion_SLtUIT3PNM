@@ -114,4 +114,9 @@
 2017-04-11 02-34-47| scheduled save for sector (167:370), 0xcadb6e0, entities: 119
 2017-04-11 02-34-47| saving sector (167:370)
 2017-04-11 02-34-47| sector (167:370) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\167_370"
-2017-04-11 02-35-28| 
+2017-04-11 02-35-28| <> The crew of your ship 's2' was paid.
+2017-04-11 02-38-00| <> You don't have any of this turret.
+2017-04-11 02-38-08| <> You don't have any of this turret.
+2017-04-11 02-38-30| <> You don't have any of this turret.
+2017-04-11 02-38-33| <> You don't have any of this turret.
+2017-04-11 02-38-40| 

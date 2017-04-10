@@ -175,4 +175,9 @@
 2017-04-11 02-27-19| Create Entity Message discarded: wrong sector
 2017-04-11 02-27-42| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (159:363), someone help, please!
 2017-04-11 02-27-42| <> You have received a distress signal by an unknown source.
-2017-04-11 02-35-29| 
+2017-04-11 02-35-29| <> The crew of your ship 's2' was paid.
+2017-04-11 02-38-00| <> You don't have any of this turret.
+2017-04-11 02-38-08| <> You don't have any of this turret.
+2017-04-11 02-38-30| <> You don't have any of this turret.
+2017-04-11 02-38-33| <> You don't have any of this turret.
+2017-04-11 02-38-40| 
