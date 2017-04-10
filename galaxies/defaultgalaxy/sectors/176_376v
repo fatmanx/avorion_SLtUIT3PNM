@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="840" numStations="7" influence="66.6189957" factionIndex="2000628">
+	<coordinates x="176" y="376"/>
+	<titles>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Laser Compressors</arg>
+			<arg key="prefix">Laser Compressor /* prefix */</arg>
+			<arg key="good">Laser Compressor</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="size">M</arg>
+			<arg key="plural">Cocoa</arg>
+			<arg key="prefix">Cocoa /* prefix */</arg>
+			<arg key="good">Cocoa</arg>
+		</title>
+		<title str="Trading Post"/>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Microchips</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Microchip</arg>
+			<arg key="prefix">Microchip /* prefix */</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Laser Compressor</arg>
+			<arg key="plural">Laser Compressors</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Laser Compressor /* prefix */</arg>
+		</title>
+		<title str="Turret Factory"/>
+		<title str="Resource Depot"/>
+	</titles>
+	<wormholes>
+		<coordinates x="172" y="378"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="6" faction="2000628"/>
+	</shipNumbers>
+</view>
