@@ -35,6 +35,7 @@
 	</wormholes>
 	<shipNumbers>
 		<ships n="1" faction="2000870"/>
-		<ships n="10" faction="2001208"/>
+		<ships n="1" faction="2001031"/>
+		<ships n="9" faction="2001208"/>
 	</shipNumbers>
 </view>
