@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="5" numWrecks="0" numAsteroids="682" numStations="10" influence="85.6529922" factionIndex="2001031">
+	<coordinates x="166" y="314"/>
+	<titles>
+		<title str="Repair Dock"/>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Food</arg>
+			<arg key="prefix">Food /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Food</arg>
+		</title>
+		<title str="Trading Post"/>
+		<title str="Resource Depot"/>
+		<title str="Habitat"/>
+		<title str="Shipyard"/>
+		<title str="Trading Post"/>
+		<title str="Equipment Dock"/>
+		<title str="Military Outpost"/>
+		<title str="${good} Factory ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Nanobots</arg>
+			<arg key="prefix">Nanobot /* prefix */</arg>
+			<arg key="good">Nanobot</arg>
+		</title>
+	</titles>
+	<wormholes>
+		<coordinates x="169" y="317"/>
+		<coordinates x="167" y="312"/>
+		<coordinates x="168" y="314"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="5" faction="2001031"/>
+	</shipNumbers>
+</view>
