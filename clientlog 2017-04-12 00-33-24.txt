@@ -286,4 +286,6 @@
 2017-04-12 02-36-17| <> You cannot build a turret at this place. There is already a turret at this position.
 2017-04-12 02-36-55| <> You don't have any of this turret.
 2017-04-12 02-36-59| <> You don't have any of this turret.
-2017-04-12 02-37-31| 
+2017-04-12 02-37-31| <> You don't have any of this turret.
+2017-04-12 02-39-21| <> You have no sector selected.
+2017-04-12 02-39-22| 
