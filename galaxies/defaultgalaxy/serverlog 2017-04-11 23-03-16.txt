@@ -145,4 +145,8 @@
 2017-04-11 23-33-17| scheduled save for sector (158:178), 0x1be9ff60, entities: 200
 2017-04-11 23-33-17| saving sector (158:178)
 2017-04-11 23-33-17| sector (158:178) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_178"
-2017-04-11 23-40-51| 
+2017-04-11 23-40-51| starting event alienattack
+2017-04-11 23-43-17| Triggered saving of all server data.
+2017-04-11 23-43-17| scheduled save for sector (158:178), 0x1be9ff60, entities: 184
+2017-04-11 23-43-17| saving sector (158:178)
+2017-04-11 23-43-17| 
