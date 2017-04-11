@@ -325,4 +325,17 @@
 2017-04-12 02-20-18| <> You cannot build a turret at this place. There is already a turret at this position.
 2017-04-12 02-21-17| fatmanone's Ship was destroyed by fatmanone in sector (165:378)
 2017-04-12 02-21-17| fatmanone's Ship was destroyed by fatmanone in sector (165:378)
-2017-04-12 02-21-17| 
+2017-04-12 02-21-17| fatmanone's Ship was destroyed by fatmanone in sector (165:378)
+2017-04-12 02-23-31| Triggered saving of all server data.
+2017-04-12 02-23-31| scheduled save for sector (159:376), 0x10e630b0, entities: 1317
+2017-04-12 02-23-31| saving sector (159:376)
+2017-04-12 02-23-32| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 02-23-32| scheduled save for sector (165:378), 0x62fae70, entities: 955
+2017-04-12 02-23-32| saving sector (165:378)
+2017-04-12 02-23-32| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 02-23-32| scheduled save for sector (165:389), 0xad8f270, entities: 1055
+2017-04-12 02-23-32| saving sector (165:389)
+2017-04-12 02-23-32| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-12 02-23-32| scheduled save for sector (169:375), 0xb2b8d10, entities: 357
+2017-04-12 02-23-32| saving sector (169:375)
+2017-04-12 02-23-32| 
