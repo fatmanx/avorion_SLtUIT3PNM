@@ -302,4 +302,5 @@
 2017-04-12 02-51-23| <Gate Control> You paid 0 credits passage fee.
 2017-04-12 02-51-58| <The Nuinea Republic> We're under attack! Call in reinforcements, NOW!
 2017-04-12 02-51-58| <The Nuinea Republic> This sector is under attack by another faction!
-2017-04-12 02-52-02| 
+2017-04-12 02-52-02| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-12 02-53-02| 
