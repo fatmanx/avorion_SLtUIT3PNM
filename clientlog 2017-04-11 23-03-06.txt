@@ -333,4 +333,9 @@
 2017-04-12 00-23-04| <> Your ship doesn't support more of this turret type.
 2017-04-12 00-23-05| <> Your ship doesn't support more of this turret type.
 2017-04-12 00-23-16| <> You don't have any of this turret.
-2017-04-12 00-23-48| 
+2017-04-12 00-23-48| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
+2017-04-12 00-25-18| <Server> Moving player fatmanone to sector (165:378).
+2017-04-12 00-25-24| Entity 583 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
+2017-04-12 00-25-24| Entity 584 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
+2017-04-12 00-25-24| Entity 585 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
+2017-04-12 00-25-24| 
