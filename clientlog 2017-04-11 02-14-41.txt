@@ -204,4 +204,5 @@
 2017-04-11 03-05-23| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
 2017-04-11 03-05-23| 	data/scripts/entity/craftorders.lua:27: in function ?
 2017-04-11 03-06-10| <> You have no sector selected.
-2017-04-11 03-06-21| 
+2017-04-11 03-06-21| <> You have no sector selected.
+2017-04-11 03-07-28| 
