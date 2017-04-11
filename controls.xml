@@ -133,7 +133,7 @@
 			<binding name="Mail Window" action="91" primaryKey="108" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
 			<binding name="DebugScript" action="92" primaryKey="1073741885" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
 			<binding name="Swap Controls" action="120" primaryKey="1073741883" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
-			<binding name="Show Console" action="121" primaryKey="39" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
+			<binding name="Show Console" action="121" primaryKey="39" primaryDevice="0" secondaryKey="96" secondaryDevice="0"/>
 			<binding name="Build Slot 1" action="130" primaryKey="49" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
 			<binding name="Build Slot 2" action="131" primaryKey="50" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
 			<binding name="Build Slot 3" action="132" primaryKey="51" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
