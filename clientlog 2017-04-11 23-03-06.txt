@@ -313,4 +313,5 @@
 2017-04-11 23-50-39| <Server> More strange subspace signals, they're getting stronger.
 2017-04-11 23-51-39| <Server> A small group of alien ships appeared!
 2017-04-11 23-52-13| <> You don't have any of this turret.
-2017-04-11 23-53-29| 
+2017-04-11 23-53-29| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-11 23-56-38| 
