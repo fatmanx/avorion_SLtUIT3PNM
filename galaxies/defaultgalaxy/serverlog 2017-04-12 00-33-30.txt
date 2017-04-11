@@ -407,4 +407,35 @@
 2017-04-12 02-51-29| scheduled save for sector (157:381), 0xb2b93a0, entities: 1292
 2017-04-12 02-51-29| saving sector (157:381)
 2017-04-12 02-51-29| sector (157:381) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_381"
-2017-04-12 02-51-53| 
+2017-04-12 02-51-53| player witnessed the battle the first time, but didn't choose a side yet
+2017-04-12 02-53-31| Triggered saving of all server data.
+2017-04-12 02-53-32| scheduled save for sector (157:381), 0xb2b93a0, entities: 1299
+2017-04-12 02-53-32| saving sector (157:381)
+2017-04-12 02-53-32| sector (157:381) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_381"
+2017-04-12 02-53-32| scheduled save for sector (158:374), 0xb2b5f20, entities: 815
+2017-04-12 02-53-32| saving sector (158:374)
+2017-04-12 02-53-32| sector (158:374) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_374"
+2017-04-12 02-53-32| scheduled save for sector (159:376), 0x10e630b0, entities: 1585
+2017-04-12 02-53-32| saving sector (159:376)
+2017-04-12 02-53-32| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 02-53-32| scheduled save for sector (165:378), 0x62fae70, entities: 1003
+2017-04-12 02-53-32| saving sector (165:378)
+2017-04-12 02-53-32| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 02-53-32| scheduled save for sector (165:389), 0xad8f270, entities: 1045
+2017-04-12 02-53-32| saving sector (165:389)
+2017-04-12 02-53-33| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-12 02-53-33| scheduled save for sector (169:375), 0xb2b8d10, entities: 358
+2017-04-12 02-53-33| saving sector (169:375)
+2017-04-12 02-53-33| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
+2017-04-12 02-53-55| error constructing Entity: Entity with index 1301 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 02-53-55| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 02-53-55| error constructing Entity: Entity with index 1301 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 02-53-55| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 02-53-55| error constructing Entity: Entity with index 1301 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 02-53-55| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 02-54-02| error constructing Entity: Entity with index 1636 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 02-54-02| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 02-54-02| error constructing Entity: Entity with index 1636 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 02-54-02| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 02-54-06| error constructing Entity: Entity with index 1763 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 02-54-06| 

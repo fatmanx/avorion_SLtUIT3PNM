@@ -303,4 +303,10 @@
 2017-04-12 02-51-58| <The Nuinea Republic> We're under attack! Call in reinforcements, NOW!
 2017-04-12 02-51-58| <The Nuinea Republic> This sector is under attack by another faction!
 2017-04-12 02-52-02| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
-2017-04-12 02-53-02| 
+2017-04-12 02-53-02| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-12 02-53-18| <Server> Pirates are attacking the sector!
+2017-04-12 02-54-03| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-12 02-54-04| <Scrapyard> Salvaging or damaging wreckages in this sector is illegal. Please buy a salvaging license.
+2017-04-12 02-54-04| <Scrapyard> You need a salvaging license for this sector.
+2017-04-12 02-54-04| <Scrapyard> Salvaging wreckages in this sector is forbidden. Please buy a salvaging license.
+2017-04-12 02-54-04| 
