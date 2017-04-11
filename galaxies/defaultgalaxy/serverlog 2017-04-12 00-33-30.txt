@@ -319,4 +319,7 @@
 2017-04-12 02-13-32| scheduled save for sector (169:375), 0xb2b8d10, entities: 364
 2017-04-12 02-13-32| saving sector (169:375)
 2017-04-12 02-13-32| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
-2017-04-12 02-19-55| 
+2017-04-12 02-19-55| <> You don't have any of this turret.
+2017-04-12 02-20-03| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-12 02-20-11| <> You don't have any of this turret.
+2017-04-12 02-20-18| 
