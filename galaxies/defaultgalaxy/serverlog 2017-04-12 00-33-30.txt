@@ -358,4 +358,6 @@
 2017-04-12 02-33-32| scheduled save for sector (169:375), 0xb2b8d10, entities: 369
 2017-04-12 02-33-32| saving sector (169:375)
 2017-04-12 02-33-32| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
-2017-04-12 02-33-56| 
+2017-04-12 02-33-56| <> You don't have any of this turret.
+2017-04-12 02-34-57| <> You don't have any of this turret.
+2017-04-12 02-35-00| 
