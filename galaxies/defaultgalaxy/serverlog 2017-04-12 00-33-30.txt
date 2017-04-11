@@ -299,4 +299,10 @@
 2017-04-12 02-04-16| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 02-04-21| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 02-04-23| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 02-07-24| 
+2017-04-12 02-07-24| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 02-11-07| <> Turret could not be found.
+2017-04-12 02-11-11| <> Turret could not be found.
+2017-04-12 02-11-44| bad crewman
+2017-04-12 02-11-44| bad crewman
+2017-04-12 02-11-50| bad crewman
+2017-04-12 02-11-50| 
