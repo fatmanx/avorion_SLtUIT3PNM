@@ -372,4 +372,18 @@
 2017-04-12 02-37-31| <> You don't have any of this turret.
 2017-04-12 02-39-21| <> You have no sector selected.
 2017-04-12 02-39-22| <> You have no sector selected.
-2017-04-12 02-40-25| 
+2017-04-12 02-40-25| <> You have no sector selected.
+2017-04-12 02-43-31| Triggered saving of all server data.
+2017-04-12 02-43-31| scheduled save for sector (159:376), 0x10e630b0, entities: 1324
+2017-04-12 02-43-31| saving sector (159:376)
+2017-04-12 02-43-32| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 02-43-32| scheduled save for sector (165:378), 0x62fae70, entities: 955
+2017-04-12 02-43-32| saving sector (165:378)
+2017-04-12 02-43-32| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 02-43-32| scheduled save for sector (165:389), 0xad8f270, entities: 1075
+2017-04-12 02-43-32| saving sector (165:389)
+2017-04-12 02-43-32| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-12 02-43-32| scheduled save for sector (169:375), 0xb2b8d10, entities: 371
+2017-04-12 02-43-32| saving sector (169:375)
+2017-04-12 02-43-32| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
+2017-04-12 02-43-39| 

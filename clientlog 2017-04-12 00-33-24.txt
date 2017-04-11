@@ -289,4 +289,5 @@
 2017-04-12 02-37-31| <> You don't have any of this turret.
 2017-04-12 02-39-21| <> You have no sector selected.
 2017-04-12 02-39-22| <> You have no sector selected.
-2017-04-12 02-40-25| 
+2017-04-12 02-40-25| <> You have no sector selected.
+2017-04-12 02-43-40| 
