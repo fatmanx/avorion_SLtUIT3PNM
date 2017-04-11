@@ -386,4 +386,6 @@
 2017-04-12 02-43-32| scheduled save for sector (169:375), 0xb2b8d10, entities: 371
 2017-04-12 02-43-32| saving sector (169:375)
 2017-04-12 02-43-32| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
-2017-04-12 02-43-39| 
+2017-04-12 02-43-39| starting event alienattack
+2017-04-12 02-47-28| <> You cannot build a turret at this place. The turret is not entirely on the block.
+2017-04-12 02-47-28| 

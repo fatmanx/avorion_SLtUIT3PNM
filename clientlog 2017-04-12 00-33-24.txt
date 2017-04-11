@@ -294,4 +294,7 @@
 2017-04-12 02-44-25| <Server> Pirates are attacking the sector!
 2017-04-12 02-44-26| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
 2017-04-12 02-45-39| <The Nuinea Republic> We thank you for taking care of those ships. We transferred a reward to your account.
-2017-04-12 02-46-39| 
+2017-04-12 02-46-39| <Server> The signals are growing stronger.
+2017-04-12 02-47-28| <> You cannot build a turret at this place. The turret is not entirely on the block.
+2017-04-12 02-47-28| <> You cannot build a turret at this place. The turret is not entirely on the block.
+2017-04-12 02-47-39| 
