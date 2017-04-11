@@ -388,4 +388,23 @@
 2017-04-12 02-43-32| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-12 02-43-39| starting event alienattack
 2017-04-12 02-47-28| <> You cannot build a turret at this place. The turret is not entirely on the block.
-2017-04-12 02-47-28| 
+2017-04-12 02-47-28| <> You cannot build a turret at this place. The turret is not entirely on the block.
+2017-04-12 02-51-19| <> You have no sector selected.
+2017-04-12 02-51-23| scheduled save for sector (159:376), 0x10e630b0, entities: 1347
+2017-04-12 02-51-23| saving sector (159:376)
+2017-04-12 02-51-24| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 02-51-24| Player fatmanone moved to sector (159:376)from (165:378) server time taken for change: 607ms
+2017-04-12 02-51-24| Creating sector at (157:381)
+2017-04-12 02-51-24| Creating sector at (158:374)
+2017-04-12 02-51-24| scheduled save for sector (165:378), 0x62fae70, entities: 1008
+2017-04-12 02-51-24| saving sector (165:378)
+2017-04-12 02-51-24| Generating new content for sector (157:381)
+2017-04-12 02-51-24| Generating new content for sector (158:374)
+2017-04-12 02-51-24| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 02-51-25| scheduled save for sector (158:374), 0xb2b5f20, entities: 807
+2017-04-12 02-51-25| saving sector (158:374)
+2017-04-12 02-51-25| sector (158:374) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_374"
+2017-04-12 02-51-29| scheduled save for sector (157:381), 0xb2b93a0, entities: 1292
+2017-04-12 02-51-29| saving sector (157:381)
+2017-04-12 02-51-29| sector (157:381) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_381"
+2017-04-12 02-51-53| 
