@@ -188,4 +188,13 @@
 2017-04-12 01-36-13| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-36-15| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-36-18| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 01-36-47| 
+2017-04-12 01-36-47| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-36-51| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-37-28| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-37-29| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-37-29| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-37-34| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-37-34| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-37-39| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-37-39| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-37-39| 
