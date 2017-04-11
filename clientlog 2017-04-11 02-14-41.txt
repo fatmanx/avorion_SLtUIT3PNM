@@ -192,4 +192,14 @@
 2017-04-11 02-56-14| <Server> More strange subspace signals, they're getting stronger.
 2017-04-11 02-56-35| <Repair Dock> You must be docked to the station to hire crewmembers.
 2017-04-11 02-57-14| <Server> A small group of alien ships appeared!
-2017-04-11 02-59-19| 
+2017-04-11 02-59-19|     PredefinedSpecs(0, glm::vec3(1.13107, 0.904857, 0.793968), Color(0xffea8e51), Color(0xffea8e51), Color(0xffea7a51), 12, 6, 0.160279, 0.784837),
+2017-04-11 03-05-18| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-18| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-05-19| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-19| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-05-21| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-21| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-05-23| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-23| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-05-23| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-23| 

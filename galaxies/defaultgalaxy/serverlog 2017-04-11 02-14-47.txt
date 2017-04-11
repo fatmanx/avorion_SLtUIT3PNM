@@ -167,4 +167,32 @@
 2017-04-11 02-54-48| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-11 02-56-36| scheduled save for sector (167:370), 0xcadb6e0, entities: 53
 2017-04-11 02-56-36| saving sector (167:370)
-2017-04-11 02-56-36| 
+2017-04-11 02-56-36| sector (167:370) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\167_370"
+2017-04-11 03-04-47| Triggered saving of all server data.
+2017-04-11 03-04-48| scheduled save for sector (159:376), 0x21842510, entities: 1325
+2017-04-11 03-04-48| saving sector (159:376)
+2017-04-11 03-04-48| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-11 03-04-48| scheduled save for sector (165:378), 0x62811b0, entities: 1002
+2017-04-11 03-04-48| saving sector (165:378)
+2017-04-11 03-04-48| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-11 03-04-48| scheduled save for sector (165:389), 0x1abc74e0, entities: 1056
+2017-04-11 03-04-48| saving sector (165:389)
+2017-04-11 03-04-48| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-11 03-04-48| scheduled save for sector (169:375), 0xb973840, entities: 393
+2017-04-11 03-04-48| saving sector (169:375)
+2017-04-11 03-04-48| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
+2017-04-11 03-05-18| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-18| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-05-18| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-05-19| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-19| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-05-19| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-05-21| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-21| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-05-21| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-05-23| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-23| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-05-23| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-05-23| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-05-23| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-05-23| 
