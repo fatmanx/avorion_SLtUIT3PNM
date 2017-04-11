@@ -290,4 +290,6 @@
 2017-04-12 02-39-21| <> You have no sector selected.
 2017-04-12 02-39-22| <> You have no sector selected.
 2017-04-12 02-40-25| <> You have no sector selected.
-2017-04-12 02-43-40| 
+2017-04-12 02-43-40| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-12 02-44-25| <Server> Pirates are attacking the sector!
+2017-04-12 02-44-26| 
