@@ -300,4 +300,9 @@
 2017-04-11 03-32-01| <> You don't have any of this turret.
 2017-04-11 03-32-01| <> You don't have any of this turret.
 2017-04-11 03-32-04| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
-2017-04-11 03-38-36| 
+2017-04-11 03-38-36| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-11 03-39-52| <Equipment Dock> You must be docked to the station to buy items.
+2017-04-11 03-39-52| <Equipment Dock> You must be docked to the station to buy items.
+2017-04-11 03-39-52| <Equipment Dock> You must be docked to the station to buy items.
+2017-04-11 03-39-52| <Equipment Dock> You must be docked to the station to buy items.
+2017-04-11 03-39-52| 
