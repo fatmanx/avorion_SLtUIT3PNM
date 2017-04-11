@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<auto_-8934235785003451512 accumulateHealth="true" convex="false">
-	<item parent="-1" index="0" maxDurability="466.592773" currentDurability="466.592773">
+<auto_3835126950366198488 accumulateHealth="true" convex="false">
+	<item parent="-1" index="0" maxDurability="47.9873047" currentDurability="47.9473038">
 		<block lowerX="-1" lowerY="-1" lowerZ="-1" upperX="1" upperY="1" upperZ="1" index="1" material="1" look="1" up="3" color="ffbfaea3"/>
 	</item>
-	<item parent="154" index="282" maxDurability="42.7148438" currentDurability="42.7148438">
-		<block lowerX="-0.749999762" lowerY="0.75" lowerZ="-11.7499981" upperX="0.750000238" upperY="1.25" upperZ="-11.2499981" index="8" material="5" look="1" up="3" color="ffbfada3"/>
-	</item>
-	<item parent="0" index="154" maxDurability="418.605469" currentDurability="418.605469">
-		<block lowerX="-0.999999762" lowerY="0" lowerZ="-11.2499981" upperX="1.00000024" upperY="3" upperZ="-0.249998093" index="53" material="6" look="1" up="3" color="ffbc9f9f"/>
-	</item>
-</auto_-8934235785003451512>
+</auto_3835126950366198488>
