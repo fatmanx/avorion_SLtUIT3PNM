@@ -314,4 +314,5 @@
 2017-04-11 23-51-39| <Server> A small group of alien ships appeared!
 2017-04-11 23-52-13| <> You don't have any of this turret.
 2017-04-11 23-53-29| <> You cannot build a turret at this place. There is already a turret at this position.
-2017-04-11 23-56-38| 
+2017-04-11 23-56-38| <Server> Pirates are attacking the sector!
+2017-04-12 00-04-38| 
