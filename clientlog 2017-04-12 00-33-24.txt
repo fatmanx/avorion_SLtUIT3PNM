@@ -227,4 +227,9 @@
 2017-04-12 01-50-32| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-50-32| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-51-30| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 01-51-37| 
+2017-04-12 01-51-37| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-52-43| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-52-46| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-52-46| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (165:366), someone help, please!
+2017-04-12 01-52-46| <> You have received a distress signal by an unknown source.
+2017-04-12 01-52-48| 
