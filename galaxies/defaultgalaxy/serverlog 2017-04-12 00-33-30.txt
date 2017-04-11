@@ -243,4 +243,5 @@
 2017-04-12 01-43-54| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-43-55| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-44-40| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 01-44-47| 
+2017-04-12 01-44-47| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-45-09| 
