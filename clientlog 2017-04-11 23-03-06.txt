@@ -114,4 +114,6 @@
 2017-04-11 23-15-38| <> You cannot build a turret at this place. There is already a turret at this position.
 2017-04-11 23-15-50| <> You cannot build a turret at this place. There is already a turret at this position.
 2017-04-11 23-16-12| <Server> Pirates are attacking the sector!
-2017-04-11 23-16-24| 
+2017-04-11 23-16-24| <> You don't have any of this turret.
+2017-04-11 23-18-52| <> You don't have any of this turret.
+2017-04-11 23-19-05| 
