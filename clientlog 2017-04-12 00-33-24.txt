@@ -320,4 +320,5 @@
 2017-04-12 02-56-42| <> You don't have enough unemployed crewmen.
 2017-04-12 02-56-42| <> You don't have enough unemployed crewmen.
 2017-04-12 02-57-38| <Gate Control> You paid 0 credits passage fee.
-2017-04-12 02-58-05| 
+2017-04-12 02-58-05| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-12 02-58-41| 
