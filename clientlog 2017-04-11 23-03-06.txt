@@ -308,4 +308,5 @@
 2017-04-11 23-33-03| <> You have received a distress signal by an unknown source.
 2017-04-11 23-40-52| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-11 23-43-51| <Server> The signals are growing stronger.
-2017-04-11 23-44-52| 
+2017-04-11 23-44-52| <Server> A group of alien ships warped in!
+2017-04-11 23-47-40| 
