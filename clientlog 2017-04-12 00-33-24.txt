@@ -234,4 +234,5 @@
 2017-04-12 01-52-46| <> You have received a distress signal by an unknown source.
 2017-04-12 01-52-48| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-54-52| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
-2017-04-12 01-58-32| 
+2017-04-12 01-58-32| <The Nuinea Republic> Thank you for defeating those pirates. You have our endless gratitude.
+2017-04-12 02-00-06| 
