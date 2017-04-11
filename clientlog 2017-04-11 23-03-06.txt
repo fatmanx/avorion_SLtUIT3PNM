@@ -319,4 +319,6 @@
 2017-04-12 00-10-10| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
 2017-04-12 00-11-02| <Mobile Equipment Merchant Oadxoeas> Hello Everybody! Mobile Equipment Merchant Oadxoeas here. I'll be here for the next 15 minutes. Come look at my merchandise!
 2017-04-12 00-12-17| <Mobile Equipment Merchant> You must be closer to the ship to buy items.
-2017-04-12 00-17-39| 
+2017-04-12 00-17-39| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
+2017-04-12 00-19-00| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (159:186), someone help, please!
+2017-04-12 00-19-00| 
