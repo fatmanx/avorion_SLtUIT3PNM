@@ -250,4 +250,42 @@
 2017-04-11 03-16-11| <Server> A large group of alien ships appeared!
 2017-04-11 03-18-17| <> You have no sector selected.
 2017-04-11 03-23-15| <Mobile Merchant Oaiyop'> Hello Everybody! Mobile Merchant Oaiyop' here. I'll be here for the next 15 minutes. Come look at my merchandise!
-2017-04-11 03-27-26| 
+2017-04-11 03-27-26| <Server> Pirates are attacking the sector!
+2017-04-11 03-28-06| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-04-11 03-28-06| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-04-11 03-28-10| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-04-11 03-28-10| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-04-11 03-28-11| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-12| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-12| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-13| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-13| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-13| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-13| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-14| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-14| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-14| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-14| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-14| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-15| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-15| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-16| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-11 03-28-16| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-16| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-16| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-16| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-17| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-17| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-17| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-18| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-18| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-18| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-19| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-19| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-19| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-19| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-19| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-20| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-20| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-20| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-11 03-28-21| 
