@@ -311,4 +311,6 @@
 2017-04-12 02-54-04| <Scrapyard> Salvaging wreckages in this sector is forbidden. Please buy a salvaging license.
 2017-04-12 02-54-04| <Scrapyard> You need a salvaging license for this sector.
 2017-04-12 02-54-18| <The Nuinea Republic> Thank you for defeating those pirates. You have our endless gratitude.
-2017-04-12 02-54-44| 
+2017-04-12 02-54-44| <Gate Control> You paid 0 credits passage fee.
+2017-04-12 02-55-19| <The Nuinea Republic> We're under attack! Call in reinforcements, NOW!
+2017-04-12 02-55-19| 
