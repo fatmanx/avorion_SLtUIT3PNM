@@ -161,4 +161,5 @@
 2017-04-12 00-03-17| Triggered saving of all server data.
 2017-04-12 00-03-17| scheduled save for sector (158:178), 0x1be9ff60, entities: 141
 2017-04-12 00-03-17| saving sector (158:178)
-2017-04-12 00-03-17| 
+2017-04-12 00-03-17| sector (158:178) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_178"
+2017-04-12 00-11-02| 
