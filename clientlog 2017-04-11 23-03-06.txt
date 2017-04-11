@@ -338,4 +338,5 @@
 2017-04-12 00-25-24| Entity 583 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
 2017-04-12 00-25-24| Entity 584 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
 2017-04-12 00-25-24| Entity 585 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
-2017-04-12 00-25-24| 
+2017-04-12 00-25-24| Entity 586 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
+2017-04-12 00-29-34| 
