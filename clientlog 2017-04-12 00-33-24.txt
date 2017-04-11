@@ -135,4 +135,5 @@
 2017-04-12 01-22-04| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-23-38| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-23-45| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s32.xml"
-2017-04-12 01-23-59| 
+2017-04-12 01-23-59| <Server> The signals are growing stronger.
+2017-04-12 01-24-59| 
