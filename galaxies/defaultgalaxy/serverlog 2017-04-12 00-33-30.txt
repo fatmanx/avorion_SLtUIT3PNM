@@ -466,4 +466,12 @@
 2017-04-12 02-56-23| saving sector (169:375)
 2017-04-12 02-56-23| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-12 02-56-42| <> You don't have enough unemployed crewmen.
-2017-04-12 02-56-42| 
+2017-04-12 02-56-42| <> You don't have enough unemployed crewmen.
+2017-04-12 02-57-38| scheduled save for sector (159:376), 0x10e630b0, entities: 1535
+2017-04-12 02-57-38| saving sector (159:376)
+2017-04-12 02-57-39| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 02-57-39| Player fatmanone moved to sector (159:376)from (158:374) server time taken for change: 659ms
+2017-04-12 02-57-39| scheduled save for sector (158:374), 0xb2b5f20, entities: 1064
+2017-04-12 02-57-39| saving sector (158:374)
+2017-04-12 02-57-39| sector (158:374) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_374"
+2017-04-12 02-57-50| 
