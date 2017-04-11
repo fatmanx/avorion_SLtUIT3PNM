@@ -332,4 +332,5 @@
 2017-04-12 00-23-04| <> Your ship doesn't support more of this turret type.
 2017-04-12 00-23-04| <> Your ship doesn't support more of this turret type.
 2017-04-12 00-23-05| <> Your ship doesn't support more of this turret type.
-2017-04-12 00-23-16| 
+2017-04-12 00-23-16| <> You don't have any of this turret.
+2017-04-12 00-23-48| 
