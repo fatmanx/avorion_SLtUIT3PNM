@@ -74,4 +74,19 @@
 2017-04-11 23-11-52| <> You don't have any of this turret.
 2017-04-11 23-11-59| <> You don't have any of this turret.
 2017-04-11 23-12-04| <> You cannot build a turret at this place. There is already a turret at this position.
-2017-04-11 23-13-00| 
+2017-04-11 23-13-00| <> You don't have any of this turret.
+2017-04-11 23-13-16| Triggered saving of all server data.
+2017-04-11 23-13-17| scheduled save for sector (146:175), 0x1c015040, entities: 3
+2017-04-11 23-13-17| saving sector (146:175)
+2017-04-11 23-13-17| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
+2017-04-11 23-13-17| scheduled save for sector (148:171), 0x1be9de90, entities: 1305
+2017-04-11 23-13-17| saving sector (148:171)
+2017-04-11 23-13-17| sector (148:171) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_171"
+2017-04-11 23-13-17| scheduled save for sector (149:173), 0x614eeb0, entities: 1241
+2017-04-11 23-13-17| saving sector (149:173)
+2017-04-11 23-13-17| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-11 23-13-17| scheduled save for sector (150:174), 0x1c00e0b0, entities: 979
+2017-04-11 23-13-17| saving sector (150:174)
+2017-04-11 23-13-18| sector (150:174) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\150_174"
+2017-04-11 23-13-21| <> You don't have any of this turret.
+2017-04-11 23-13-55| 
