@@ -1,0 +1,60 @@
+2017-04-11 23-03-06| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-11 23-03-06| Enabled Traces: 
+2017-04-11 23-03-06| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-11 23-03-06| CPU: GenuineIntel 8 Cores
+2017-04-11 23-03-06| Init Steamworks...Installed Steam exception handler
+2017-04-11 23-03-06| Init Steamworks... ok
+2017-04-11 23-03-07| Init Steamworks ok
+2017-04-11 23-03-07| Init SDL2... ok
+2017-04-11 23-03-07| Getting display mode... ok
+2017-04-11 23-03-07| Current display mode: 1920 x 1080
+2017-04-11 23-03-07| Creating settings... loading... setting language... ok
+2017-04-11 23-03-07| Creating client window...Creating normal window
+2017-04-11 23-03-07| Detected 2 displays
+2017-04-11 23-03-07| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-11 23-03-07| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-11 23-03-07| Using display 0
+2017-04-11 23-03-07| Creating window, x: 0, y: 0, w: 1600, h: 900... ok
+2017-04-11 23-03-07| GetDrawableSize: 1600 900
+2017-04-11 23-03-07| GetWindowSize: 1600 900
+2017-04-11 23-03-07| Creating GL context... ok
+2017-04-11 23-03-07| Setting window mode Windowed... ok
+2017-04-11 23-03-07| Creating client window ok
+2017-04-11 23-03-07| Init rendering... starting rendering... initialize...OpenGL Context Information:
+2017-04-11 23-03-07| Version: 4.5
+2017-04-11 23-03-07| VersionString: 4.5.0 NVIDIA 378.49
+2017-04-11 23-03-07| Vendor: NVIDIA Corporation
+2017-04-11 23-03-07| Renderer: GeForce GTX 760/PCIe/SSE2
+2017-04-11 23-03-07| GLSL Version: 4.50 NVIDIA
+2017-04-11 23-03-07| GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+2017-04-11 23-03-07| GL_MAX_VERTEX_UNIFORM_VECTORS: 1024
+2017-04-11 23-03-07| GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+2017-04-11 23-03-07| GL_MAX_ELEMENTS_INDICES: 1048576
+2017-04-11 23-03-07| GL_MAX_ELEMENTS_VERTICES: 1048576
+2017-04-11 23-03-07| GL_MAX_RENDERBUFFER_SIZE: 16384
+2017-04-11 23-03-07| GL_MAX_TEXTURE_SIZE: 16384
+2017-04-11 23-03-07| GL_MAX_VERTEX_ATTRIBS: 16
+2017-04-11 23-03-07| GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+2017-04-11 23-03-07| Init GLEW... ok
+2017-04-11 23-03-07| Init Debug Message Callback... ok
+2017-04-11 23-03-07| Set VSync... ok
+2017-04-11 23-03-07| Secure BackBuffer... ok
+2017-04-11 23-03-07| Init Canvas...Create canvas of size 2262 x 1272... ok
+2017-04-11 23-03-07| Init Canvas ok
+2017-04-11 23-03-07| Init Refraction Texture... ok
+2017-04-11 23-03-07| Init Post Processing... ok
+2017-04-11 23-03-07| Init Debug Renderers... ok
+2017-04-11 23-03-07| DepthTexturesSupported: yes
+2017-04-11 23-03-07| IntVertexAttributesSupported: yes
+2017-04-11 23-03-07| DeferredSupported: yes
+2017-04-11 23-03-07| LowSpecGPUDetected: no
+2017-04-11 23-03-07| Rendering initialized
+2017-04-11 23-03-07| Init rendering ok
+2017-04-11 23-03-07| Check problematic drivers... ok
+2017-04-11 23-03-07| Init shader level... ok
+2017-04-11 23-03-07| Init loading screen... ok
+2017-04-11 23-03-07| Draw first loading screen... draw... ok
+2017-04-11 23-03-07| Init SFX... ok
+2017-04-11 23-03-07| Init Input... ok
+2017-04-11 23-03-07| Init GameInput... ok
+2017-04-11 23-03-07| 
