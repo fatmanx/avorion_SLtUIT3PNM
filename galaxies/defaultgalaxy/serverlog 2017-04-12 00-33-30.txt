@@ -247,4 +247,9 @@
 2017-04-12 01-45-09| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-47-34| starting event piratehunter
 2017-04-12 01-47-42| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 01-47-43| 
+2017-04-12 01-47-43| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-47-55| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-47-58| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-48-29| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-48-32| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-48-45| 
