@@ -131,4 +131,5 @@
 2017-04-12 01-15-08| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s32.xml"
 2017-04-12 01-17-56| <The Nuinea Republic> Thank you for taking care of those pirates. We transferred a reward to your account.
 2017-04-12 01-20-21| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s32.xml"
-2017-04-12 01-21-00| 
+2017-04-12 01-21-00| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-12 01-22-04| 
