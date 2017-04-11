@@ -369,4 +369,7 @@
 2017-04-11 03-31-27| <> You cannot build a turret at this place. There is already a turret at this position.
 2017-04-11 03-31-37| <> You don't have any of this turret.
 2017-04-11 03-31-47| starting event convoidistresssignal
-2017-04-11 03-31-49| 
+2017-04-11 03-31-49| <> You don't have any of this turret.
+2017-04-11 03-32-00| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-11 03-32-01| <> You don't have any of this turret.
+2017-04-11 03-32-01| 
