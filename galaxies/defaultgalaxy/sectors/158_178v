@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="4" numWrecks="99" numAsteroids="0" numStations="0" influence="0" factionIndex="0">
+<view numCrafts="3" numWrecks="62" numAsteroids="0" numStations="0" influence="0" factionIndex="0">
 	<coordinates x="158" y="178"/>
 	<titles/>
 	<wormholes/>
 	<shipNumbers>
 		<ships n="1" faction="1"/>
-		<ships n="3" faction="4"/>
+		<ships n="2" faction="14"/>
 	</shipNumbers>
 </view>
