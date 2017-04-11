@@ -73,4 +73,8 @@
 2017-04-12 00-39-22| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 00-39-45| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 00-40-02| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 00-40-17| 
+2017-04-12 00-40-17| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 00-42-34| starting event alienattack
+2017-04-12 00-43-31| Triggered saving of all server data.
+2017-04-12 00-43-31| scheduled save for sector (159:376), 0x10e630b0, entities: 1324
+2017-04-12 00-43-31| 
