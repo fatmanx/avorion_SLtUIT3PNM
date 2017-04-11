@@ -139,4 +139,5 @@
 2017-04-12 01-24-59| <Server> A group of alien ships warped in!
 2017-04-12 01-26-06| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s32.xml"
 2017-04-12 01-27-03| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 01-27-17| 
+2017-04-12 01-27-17| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s32.xml"
+2017-04-12 01-28-04| 
