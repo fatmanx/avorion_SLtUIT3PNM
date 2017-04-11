@@ -218,4 +218,11 @@
 2017-04-11 03-12-07| saving sector (148:171)
 2017-04-11 03-12-08| sector (148:171) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_171"
 2017-04-11 03-12-10| starting event alienattack
-2017-04-11 03-12-16| 
+2017-04-11 03-12-16| Received an invoke script message for an entity that does not exist: 1352
+2017-04-11 03-13-05| scheduled save for sector (149:173), 0x1551b490, entities: 1100
+2017-04-11 03-13-05| saving sector (149:173)
+2017-04-11 03-13-05| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-11 03-13-05| Player fatmanone moved to sector (149:173)from (149:173) server time taken for change: 361ms
+2017-04-11 03-13-06| scheduled save for sector (149:173), 0x1551b490, entities: 1100
+2017-04-11 03-13-06| saving sector (149:173)
+2017-04-11 03-13-06| 

@@ -212,4 +212,5 @@
 2017-04-11 03-11-52| <Server> Couldn't read x coordinate.
 2017-04-11 03-11-56| <Server> Usage: /teleport [player] x y
 2017-04-11 03-12-05| <Server> Moving player fatmanone to sector (149:173).
-2017-04-11 03-12-17| 
+2017-04-11 03-12-17| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-11 03-13-05| 
