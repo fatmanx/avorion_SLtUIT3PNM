@@ -110,4 +110,5 @@
 2017-04-12 00-46-42| <> The crew of your ship 's2' was paid.
 2017-04-12 00-47-52| <Server> Pirates are attacking the sector!
 2017-04-12 00-48-38| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3.xml"
-2017-04-12 00-50-17| 
+2017-04-12 00-50-17| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3.xml"
+2017-04-12 00-52-17| 
