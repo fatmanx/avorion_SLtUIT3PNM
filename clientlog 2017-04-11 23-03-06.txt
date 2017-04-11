@@ -321,4 +321,8 @@
 2017-04-12 00-12-17| <Mobile Equipment Merchant> You must be closer to the ship to buy items.
 2017-04-12 00-17-39| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
 2017-04-12 00-19-00| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (159:186), someone help, please!
-2017-04-12 00-19-00| 
+2017-04-12 00-19-00| <> You have received a distress signal by an unknown source.
+2017-04-12 00-21-08| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 00-21-08| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 00-21-09| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 00-21-09| 

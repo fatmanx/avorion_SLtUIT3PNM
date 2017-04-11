@@ -167,4 +167,10 @@
 2017-04-12 00-13-17| scheduled save for sector (158:178), 0x1be9ff60, entities: 180
 2017-04-12 00-13-17| saving sector (158:178)
 2017-04-12 00-13-17| sector (158:178) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_178"
-2017-04-12 00-19-00| 
+2017-04-12 00-19-00| starting event convoidistresssignal
+2017-04-12 00-21-08| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 00-21-08| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-12 00-21-08| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-12 00-21-09| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 00-21-09| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-12 00-21-09| 
