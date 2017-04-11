@@ -322,4 +322,7 @@
 2017-04-12 02-19-55| <> You don't have any of this turret.
 2017-04-12 02-20-03| <> You cannot build a turret at this place. There is already a turret at this position.
 2017-04-12 02-20-11| <> You don't have any of this turret.
-2017-04-12 02-20-18| 
+2017-04-12 02-20-18| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-12 02-21-17| fatmanone's Ship was destroyed by fatmanone in sector (165:378)
+2017-04-12 02-21-17| fatmanone's Ship was destroyed by fatmanone in sector (165:378)
+2017-04-12 02-21-17| 
