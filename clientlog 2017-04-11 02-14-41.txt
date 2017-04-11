@@ -310,4 +310,7 @@
 2017-04-11 03-41-35| <Server> The signals are growing stronger.
 2017-04-11 03-42-36| <Server> A group of alien ships warped in!
 2017-04-11 03-45-36| <Research Station> You must be docked to the station to research items.
-2017-04-11 03-45-37| 
+2017-04-11 03-45-37| <Research Station> You must be docked to the station to research items.
+2017-04-11 03-46-47| <Research Station> You must be docked to the station to research items.
+2017-04-11 03-46-48| <Research Station> You must be docked to the station to research items.
+2017-04-11 03-46-53| 
