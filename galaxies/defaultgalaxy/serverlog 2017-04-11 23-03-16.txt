@@ -140,4 +140,8 @@
 2017-04-11 23-26-02| scheduled save for sector (146:175), 0x1c015040, entities: 23
 2017-04-11 23-26-02| saving sector (146:175)
 2017-04-11 23-26-02| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
-2017-04-11 23-33-03| 
+2017-04-11 23-33-03| starting event fakedistresssignal
+2017-04-11 23-33-16| Triggered saving of all server data.
+2017-04-11 23-33-17| scheduled save for sector (158:178), 0x1be9ff60, entities: 200
+2017-04-11 23-33-17| saving sector (158:178)
+2017-04-11 23-33-17| 
