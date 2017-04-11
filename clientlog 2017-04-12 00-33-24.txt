@@ -265,4 +265,5 @@
 2017-04-12 02-20-11| <> You don't have any of this turret.
 2017-04-12 02-20-18| <> You cannot build a turret at this place. There is already a turret at this position.
 2017-04-12 02-21-17| <S.I.I.> Insurance Fraud detected. You won't receive any payments for s2.
-2017-04-12 02-21-17| 
+2017-04-12 02-21-17| <Server> Your Ship s2 has been destroyed!
+2017-04-12 02-25-35| 
