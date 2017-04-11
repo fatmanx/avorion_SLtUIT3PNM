@@ -306,4 +306,5 @@
 2017-04-11 03-39-52| <Equipment Dock> You must be docked to the station to buy items.
 2017-04-11 03-39-52| <Equipment Dock> You must be docked to the station to buy items.
 2017-04-11 03-39-52| <Equipment Dock> You must be docked to the station to buy items.
-2017-04-11 03-40-50| 
+2017-04-11 03-40-50| <Equipment Dock> You don't have enough space in your hangar.
+2017-04-11 03-41-35| 
