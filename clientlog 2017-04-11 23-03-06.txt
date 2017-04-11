@@ -317,4 +317,5 @@
 2017-04-11 23-56-38| <Server> Pirates are attacking the sector!
 2017-04-12 00-04-38| <The Ai'xquireah> Thank you for taking care of those pirates. We transferred a reward to your account.
 2017-04-12 00-10-10| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s26.xml"
-2017-04-12 00-11-02| 
+2017-04-12 00-11-02| <Mobile Equipment Merchant Oadxoeas> Hello Everybody! Mobile Equipment Merchant Oadxoeas here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-12 00-12-17| 
