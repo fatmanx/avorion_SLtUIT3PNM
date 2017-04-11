@@ -260,4 +260,17 @@
 2017-04-12 01-52-43| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-52-45| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-52-46| starting event convoidistresssignal
-2017-04-12 01-52-48| 
+2017-04-12 01-52-48| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 01-53-31| Triggered saving of all server data.
+2017-04-12 01-53-31| scheduled save for sector (159:376), 0x10e630b0, entities: 1323
+2017-04-12 01-53-31| saving sector (159:376)
+2017-04-12 01-53-32| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 01-53-32| scheduled save for sector (165:378), 0x62fae70, entities: 955
+2017-04-12 01-53-32| saving sector (165:378)
+2017-04-12 01-53-32| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 01-53-32| scheduled save for sector (165:389), 0xad8f270, entities: 1038
+2017-04-12 01-53-32| saving sector (165:389)
+2017-04-12 01-53-32| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-12 01-53-32| scheduled save for sector (169:375), 0xb2b8d10, entities: 364
+2017-04-12 01-53-32| saving sector (169:375)
+2017-04-12 01-53-32| 
