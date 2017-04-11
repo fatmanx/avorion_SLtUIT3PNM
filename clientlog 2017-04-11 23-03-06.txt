@@ -93,4 +93,8 @@
 2017-04-11 23-03-27| <Server> Player fatmanone joined the galaxy
 2017-04-11 23-03-36| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-11 23-06-28| <Server> The signals are growing stronger.
-2017-04-11 23-07-28| 
+2017-04-11 23-07-28| <Server> A group of alien ships warped in!
+2017-04-11 23-09-22| <> You don't have any of this turret.
+2017-04-11 23-09-32| <> You don't have any of this turret.
+2017-04-11 23-09-39| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-11 23-09-55| 

@@ -63,4 +63,8 @@
 2017-04-11 23-03-29| saving sector (146:175)
 2017-04-11 23-03-29| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
 2017-04-11 23-03-29| saving sector (148:171)
-2017-04-11 23-03-29| 
+2017-04-11 23-03-29| sector (148:171) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_171"
+2017-04-11 23-09-22| <> You don't have any of this turret.
+2017-04-11 23-09-32| <> You don't have any of this turret.
+2017-04-11 23-09-39| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-11 23-09-55| 
