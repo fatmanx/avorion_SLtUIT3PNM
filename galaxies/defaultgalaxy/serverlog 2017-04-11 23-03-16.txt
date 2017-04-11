@@ -175,4 +175,13 @@
 2017-04-12 00-21-09| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
 2017-04-12 00-21-09| 	data/scripts/entity/craftorders.lua:269: in function ?
 2017-04-12 00-22-06| <> Your ship doesn't support more of this turret type.
-2017-04-12 00-22-06| 
+2017-04-12 00-22-06| <> Your ship doesn't support more of this turret type.
+2017-04-12 00-23-04| <> Your ship doesn't support more of this turret type.
+2017-04-12 00-23-04| <> Your ship doesn't support more of this turret type.
+2017-04-12 00-23-04| <> Your ship doesn't support more of this turret type.
+2017-04-12 00-23-04| <> Your ship doesn't support more of this turret type.
+2017-04-12 00-23-16| <> You don't have any of this turret.
+2017-04-12 00-23-17| Triggered saving of all server data.
+2017-04-12 00-23-17| scheduled save for sector (158:178), 0x1be9ff60, entities: 113
+2017-04-12 00-23-17| saving sector (158:178)
+2017-04-12 00-23-17| 
