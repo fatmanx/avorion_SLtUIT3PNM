@@ -77,4 +77,17 @@
 2017-04-12 00-33-25| STAT_JUMPS_USED: 76i
 2017-04-12 00-33-25| STAT_SECTORS_DISCOVERED: 140i
 2017-04-12 00-33-25| STAT_SECTORS_TRAVELED: 1644.03f
-2017-04-12 00-33-25| 
+2017-04-12 00-33-25| STAT_METERS_FLOWN: 13369085i
+2017-04-12 00-33-30| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-12 00-33-30| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-12 00-33-31| Waiting for Online polling threads
+2017-04-12 00-33-31| Online polling threads finished
+2017-04-12 00-33-31| Waiting for LAN polling threads
+2017-04-12 00-33-31| LAN polling threads finished
+2017-04-12 00-33-31| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 00-33-34| remote address: ip, init: steam
+2017-04-12 00-33-34| Connecting to server at 127.0.0.1:27000
+2017-04-12 00-33-34| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 00-33-34| Initiating connection with server ID 90108081418162176
+2017-04-12 00-33-38| Authentication successful!
+2017-04-12 00-33-42| 

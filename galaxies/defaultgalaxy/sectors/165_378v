@@ -6,9 +6,9 @@
 		<title str="Repair Dock"/>
 	</titles>
 	<wormholes>
-		<coordinates x="169" y="375"/>
-		<coordinates x="159" y="376"/>
 		<coordinates x="165" y="389"/>
+		<coordinates x="159" y="376"/>
+		<coordinates x="169" y="375"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="1" faction="1"/>
