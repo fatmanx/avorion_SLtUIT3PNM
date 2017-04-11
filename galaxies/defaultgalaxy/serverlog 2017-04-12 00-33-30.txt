@@ -455,4 +455,15 @@
 2017-04-12 02-54-45| sector (158:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_368"
 2017-04-12 02-54-50| scheduled save for sector (154:376), 0xb2d65b0, entities: 1855
 2017-04-12 02-54-50| saving sector (154:376)
-2017-04-12 02-54-50| 
+2017-04-12 02-54-50| sector (154:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\154_376"
+2017-04-12 02-56-14| <> You don't have enough unemployed crewmen.
+2017-04-12 02-56-14| <> You don't have enough unemployed crewmen.
+2017-04-12 02-56-18| <> You don't have enough unemployed crewmen.
+2017-04-12 02-56-23| scheduled save for sector (165:389), 0xad8f270, entities: 1050
+2017-04-12 02-56-23| saving sector (165:389)
+2017-04-12 02-56-23| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-12 02-56-23| scheduled save for sector (169:375), 0xb2b8d10, entities: 358
+2017-04-12 02-56-23| saving sector (169:375)
+2017-04-12 02-56-23| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
+2017-04-12 02-56-42| <> You don't have enough unemployed crewmen.
+2017-04-12 02-56-42| 
