@@ -245,4 +245,5 @@
 2017-04-11 03-14-37| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
 2017-04-11 03-14-37| 	data/scripts/entity/craftorders.lua:27: in function ?
 2017-04-11 03-14-38| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
-2017-04-11 03-14-38| 
+2017-04-11 03-14-38| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-15-10| 
