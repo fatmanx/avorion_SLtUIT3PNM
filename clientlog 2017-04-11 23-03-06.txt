@@ -92,4 +92,5 @@
 2017-04-11 23-03-23| Authentication successful!
 2017-04-11 23-03-27| <Server> Player fatmanone joined the galaxy
 2017-04-11 23-03-36| <Server> Your sensors picked up short bursts of subspace signals.
-2017-04-11 23-06-28| 
+2017-04-11 23-06-28| <Server> The signals are growing stronger.
+2017-04-11 23-07-28| 
