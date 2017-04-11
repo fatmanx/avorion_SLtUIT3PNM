@@ -364,4 +364,8 @@
 2017-04-12 02-35-15| <> You don't have any of this turret.
 2017-04-12 02-35-37| <> You cannot build a turret at this place. There is already a turret at this position.
 2017-04-12 02-35-47| <> You don't have any of this turret.
-2017-04-12 02-35-55| 
+2017-04-12 02-35-55| <> You don't have any of this turret.
+2017-04-12 02-36-05| <> You don't have any of this turret.
+2017-04-12 02-36-17| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-12 02-36-55| <> You don't have any of this turret.
+2017-04-12 02-36-59| 
