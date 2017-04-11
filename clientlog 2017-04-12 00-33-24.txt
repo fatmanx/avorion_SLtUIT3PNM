@@ -103,4 +103,6 @@
 2017-04-12 00-40-02| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 00-40-17| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 00-40-37| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave12.xml"
-2017-04-12 00-42-35| 
+2017-04-12 00-42-35| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-12 00-45-35| <Server> More strange subspace signals, they're getting stronger.
+2017-04-12 00-45-37| 
