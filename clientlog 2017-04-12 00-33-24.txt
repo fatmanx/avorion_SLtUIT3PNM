@@ -293,4 +293,5 @@
 2017-04-12 02-43-40| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-12 02-44-25| <Server> Pirates are attacking the sector!
 2017-04-12 02-44-26| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
-2017-04-12 02-45-39| 
+2017-04-12 02-45-39| <The Nuinea Republic> We thank you for taking care of those ships. We transferred a reward to your account.
+2017-04-12 02-46-39| 
