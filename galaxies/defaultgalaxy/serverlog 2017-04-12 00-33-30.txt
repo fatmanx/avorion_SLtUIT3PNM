@@ -438,4 +438,21 @@
 2017-04-12 02-54-02| error constructing Entity: Entity with index 1636 doesn't exist at 	[C]:-1: in function Entity
 2017-04-12 02-54-02| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
 2017-04-12 02-54-06| error constructing Entity: Entity with index 1763 doesn't exist at 	[C]:-1: in function Entity
-2017-04-12 02-54-06| 
+2017-04-12 02-54-06| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 02-54-44| scheduled save for sector (158:374), 0xb2b5f20, entities: 840
+2017-04-12 02-54-44| saving sector (158:374)
+2017-04-12 02-54-45| sector (158:374) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_374"
+2017-04-12 02-54-45| Player fatmanone moved to sector (158:374)from (159:376) server time taken for change: 209ms
+2017-04-12 02-54-45| Creating sector at (158:368)
+2017-04-12 02-54-45| Creating sector at (154:376)
+2017-04-12 02-54-45| scheduled save for sector (159:376), 0x10e630b0, entities: 1531
+2017-04-12 02-54-45| saving sector (159:376)
+2017-04-12 02-54-45| Generating new content for sector (154:376)
+2017-04-12 02-54-45| Generating new content for sector (158:368)
+2017-04-12 02-54-45| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 02-54-45| scheduled save for sector (158:368), 0xb2d72d0, entities: 3
+2017-04-12 02-54-45| saving sector (158:368)
+2017-04-12 02-54-45| sector (158:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_368"
+2017-04-12 02-54-50| scheduled save for sector (154:376), 0xb2d65b0, entities: 1855
+2017-04-12 02-54-50| saving sector (154:376)
+2017-04-12 02-54-50| 
