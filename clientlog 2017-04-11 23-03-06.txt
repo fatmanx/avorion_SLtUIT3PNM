@@ -306,4 +306,5 @@
 2017-04-11 23-21-23| <> You have no sector selected.
 2017-04-11 23-33-03| <Unkown> Can anybody hear us? We have been ambushed by pirates! Our position is (150:172) Help!
 2017-04-11 23-33-03| <> You have received a distress signal by an unknown source.
-2017-04-11 23-40-52| 
+2017-04-11 23-40-52| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-11 23-43-51| 
