@@ -140,4 +140,9 @@
 2017-04-12 01-26-06| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s32.xml"
 2017-04-12 01-27-03| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 01-27-17| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s32.xml"
-2017-04-12 01-28-04| 
+2017-04-12 01-28-04| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s32.xml"
+2017-04-12 01-28-50| <Server> You're too far away.
+2017-04-12 01-28-51| <Server> You're too far away.
+2017-04-12 01-29-04| <Server> You're too far away.
+2017-04-12 01-29-05| <Server> You're too far away.
+2017-04-12 01-29-19| 
