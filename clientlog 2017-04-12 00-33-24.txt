@@ -90,4 +90,12 @@
 2017-04-12 00-33-34| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
 2017-04-12 00-33-34| Initiating connection with server ID 90108081418162176
 2017-04-12 00-33-38| Authentication successful!
-2017-04-12 00-33-42| 
+2017-04-12 00-33-42| <Server> Player fatmanone joined the galaxy
+2017-04-12 00-38-45| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 00-38-49| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 00-39-13| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 00-39-13| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 00-39-17| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 00-39-17| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 00-39-22| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 00-39-22| 
