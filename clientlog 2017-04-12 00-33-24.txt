@@ -107,4 +107,5 @@
 2017-04-12 00-45-35| <Server> More strange subspace signals, they're getting stronger.
 2017-04-12 00-45-37| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave12.xml"
 2017-04-12 00-46-35| <Server> A small group of alien ships appeared!
-2017-04-12 00-46-42| 
+2017-04-12 00-46-42| <> The crew of your ship 's2' was paid.
+2017-04-12 00-47-52| 
