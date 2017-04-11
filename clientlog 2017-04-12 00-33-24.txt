@@ -269,4 +269,7 @@
 2017-04-12 02-25-35| <The Nuinea Republic> Thank you for defeating those pirates. You have our endless gratitude.
 2017-04-12 02-28-54| <> You don't have any of this turret.
 2017-04-12 02-30-54| <> You don't have any of this turret.
-2017-04-12 02-31-54| 
+2017-04-12 02-31-54| <> You don't have any of this turret.
+2017-04-12 02-32-11| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-12 02-32-12| <> You don't have any of this turret.
+2017-04-12 02-32-37| 
