@@ -251,4 +251,5 @@
 2017-04-12 02-04-23| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 02-04-25| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
 2017-04-12 02-07-24| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 02-07-45| 
+2017-04-12 02-07-45| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
+2017-04-12 02-09-23| 
