@@ -2,18 +2,18 @@
 <view numCrafts="11" numWrecks="0" numAsteroids="1042" numStations="6" influence="57.1019974" factionIndex="2000252">
 	<coordinates x="148" y="171"/>
 	<titles>
+		<title str="${good} Factory ${size}">
+			<arg key="size">S</arg>
+			<arg key="prefix">Medical Supplies /* prefix */</arg>
+			<arg key="good">Medical Supplies</arg>
+			<arg key="plural">Medical Supplies</arg>
+		</title>
 		<title str="Trading Post"/>
 		<title str="${good} Factory ${size}">
 			<arg key="size">S</arg>
 			<arg key="plural">Gauss Rail</arg>
 			<arg key="prefix">Gauss Rail /* prefix */</arg>
 			<arg key="good">Gauss Rail</arg>
-		</title>
-		<title str="${good} Factory ${size}">
-			<arg key="size">S</arg>
-			<arg key="prefix">Medical Supplies /* prefix */</arg>
-			<arg key="good">Medical Supplies</arg>
-			<arg key="plural">Medical Supplies</arg>
 		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="prefix">Energy Tube /* prefix */</arg>

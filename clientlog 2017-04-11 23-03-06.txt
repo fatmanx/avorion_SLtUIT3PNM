@@ -57,4 +57,38 @@
 2017-04-11 23-03-07| Init SFX... ok
 2017-04-11 23-03-07| Init Input... ok
 2017-04-11 23-03-07| Init GameInput... ok
-2017-04-11 23-03-07| 
+2017-04-11 23-03-07| Init Main Menu... ok
+2017-04-11 23-03-08| Init Music... ok
+2017-04-11 23-03-08| Apply loaded settings... ok
+2017-04-11 23-03-08| Adjust settings to GPU... ok
+2017-04-11 23-03-08| Client initialized
+2017-04-11 23-03-08| Received stats and achievements from Steam
+2017-04-11 23-03-08| STAT_PIRATES_DESTROYED: 101i
+2017-04-11 23-03-08| STAT_XSOTAN_DESTROYED: 56i
+2017-04-11 23-03-08| STAT_CIVIL_SHIPS_DESTROYED: 1i
+2017-04-11 23-03-08| STAT_SHIPS_DESTROYED: 7i
+2017-04-11 23-03-08| STAT_STATIONS_DESTROYED: 0i
+2017-04-11 23-03-08| STAT_RESOURCES_MINED: 39106i
+2017-04-11 23-03-08| STAT_GOODS_TRADED: 64i
+2017-04-11 23-03-08| STAT_GOODS_SOLD: 1i
+2017-04-11 23-03-08| STAT_GOODS_BOUGHT: 63i
+2017-04-11 23-03-08| STAT_GATES_USED: 88i
+2017-04-11 23-03-08| STAT_WORMHOLES_USED: 2i
+2017-04-11 23-03-08| STAT_JUMPS_USED: 76i
+2017-04-11 23-03-08| STAT_SECTORS_DISCOVERED: 139i
+2017-04-11 23-03-08| STAT_SECTORS_TRAVELED: 1644.03f
+2017-04-11 23-03-08| STAT_METERS_FLOWN: 13059789i
+2017-04-11 23-03-16| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-11 23-03-16| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-11 23-03-17| Waiting for Online polling threads
+2017-04-11 23-03-17| Online polling threads finished
+2017-04-11 23-03-17| Waiting for LAN polling threads
+2017-04-11 23-03-17| LAN polling threads finished
+2017-04-11 23-03-17| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-11 23-03-19| remote address: ip, init: steam
+2017-04-11 23-03-19| Connecting to server at 127.0.0.1:27000
+2017-04-11 23-03-19| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-11 23-03-19| Initiating connection with server ID 90108080447728646
+2017-04-11 23-03-23| Authentication successful!
+2017-04-11 23-03-27| <Server> Player fatmanone joined the galaxy
+2017-04-11 23-03-36| 

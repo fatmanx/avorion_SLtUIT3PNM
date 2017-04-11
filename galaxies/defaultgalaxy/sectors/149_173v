@@ -3,10 +3,10 @@
 	<coordinates x="149" y="173"/>
 	<titles>
 		<title str="Shipyard"/>
-		<title str="Equipment Dock"/>
-		<title str="Trading Post"/>
 		<title str="Resource Depot"/>
 		<title str="Repair Dock"/>
+		<title str="Trading Post"/>
+		<title str="Equipment Dock"/>
 		<title str="${good} Factory ${size}">
 			<arg key="prefix">Dairy /* prefix */</arg>
 			<arg key="size">S</arg>

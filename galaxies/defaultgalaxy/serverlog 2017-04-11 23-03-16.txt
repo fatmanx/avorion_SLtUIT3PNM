@@ -1,0 +1,66 @@
+2017-04-11 23-03-16| Enabled Traces: 
+2017-04-11 23-03-16| Avorion server Beta 0.11 r7857 running on Windows 7 starting up in "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy"
+2017-04-11 23-03-16| CPU: GenuineIntel 8 Cores
+2017-04-11 23-03-16| name: fatmanone's Server
+2017-04-11 23-03-16| seed: q4MzlgFfaj23452
+2017-04-11 23-03-16| port: 27000
+2017-04-11 23-03-16| max online players: 10
+2017-04-11 23-03-16| save interval: 600
+2017-04-11 23-03-16| broadcast interval: 5
+2017-04-11 23-03-16| max loaded sector time: 300
+2017-04-11 23-03-16| weak update: yes
+2017-04-11 23-03-16| worker threads: 7
+2017-04-11 23-03-16| generator threads: 2
+2017-04-11 23-03-16| difficulty: Easy
+2017-04-11 23-03-16| infiniteResources: no
+2017-04-11 23-03-16| collision: 1
+2017-04-11 23-03-16| access list: Blacklist
+2017-04-11 23-03-16| public: no
+2017-04-11 23-03-16| authentication: no
+2017-04-11 23-03-16| listed: no
+2017-04-11 23-03-16| steam networking: yes
+2017-04-11 23-03-16| server will exit once all admins logged out.
+2017-04-11 23-03-16| administrators: 'admin' 
+2017-04-11 23-03-16| Initializing sector database...
+2017-04-11 23-03-16| Initializing faction database...
+2017-04-11 23-03-16| Starting up 7 worker threads...
+2017-04-11 23-03-16| Loading jumping entities... 
+2017-04-11 23-03-16| Loaded 10 jumping entities.
+2017-04-11 23-03-16| Loading groups...
+2017-04-11 23-03-16| Galaxy initialized.
+2017-04-11 23-03-16| Listed server version: 0.11.0.7857
+2017-04-11 23-03-17| Game Port: 27000
+2017-04-11 23-03-17| Steam Port: 27021
+2017-04-11 23-03-17| Steam Query Port: 27020
+2017-04-11 23-03-17| Query Port: 27003
+2017-04-11 23-03-17| 
+2017-04-11 23-03-17| Server UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-11 23-03-17| Installed Steam exception handler
+2017-04-11 23-03-19| Server connected to Steam successfully
+2017-04-11 23-03-19| Server is not VAC Secure!
+2017-04-11 23-03-19| Game Server Steam ID: 90108080447728646
+2017-04-11 23-03-20| OnP2PSessionRequest from 76561197970945365
+2017-04-11 23-03-23| [Authentication not Enabled] New client: 76561197970945365
+2017-04-11 23-03-23| Client accepted: 76561197970945365
+2017-04-11 23-03-23| Connection to player established
+2017-04-11 23-03-23| Connection accepted from 192.168.1.3:0
+2017-04-11 23-03-26| <Server> Player fatmanone joined the galaxy
+2017-04-11 23-03-26| Player logged in: fatmanone, index: 1
+2017-04-11 23-03-27| scheduled save for sector (149:173), 0x614eeb0, entities: 1195
+2017-04-11 23-03-27| saving sector (149:173)
+2017-04-11 23-03-27| player events roughly every 12.23 minutes
+2017-04-11 23-03-28| scheduled save for sector (149:173), 0x614eeb0, entities: 1195
+2017-04-11 23-03-28| saving sector (149:173)
+2017-04-11 23-03-28| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-11 23-03-28| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-11 23-03-28| Player fatmanone moved to sector (149:173) server time taken for change: 413ms
+2017-04-11 23-03-28| Warning, can't keep up, skipping 1 frames...
+2017-04-11 23-03-29| scheduled save for sector (150:174), 0x1c00e0b0, entities: 978
+2017-04-11 23-03-29| saving sector (150:174)
+2017-04-11 23-03-29| scheduled save for sector (146:175), 0x1c015040, entities: 23
+2017-04-11 23-03-29| scheduled save for sector (148:171), 0x1be9de90, entities: 1266
+2017-04-11 23-03-29| sector (150:174) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\150_174"
+2017-04-11 23-03-29| saving sector (146:175)
+2017-04-11 23-03-29| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
+2017-04-11 23-03-29| saving sector (148:171)
+2017-04-11 23-03-29| 

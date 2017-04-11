@@ -2,17 +2,17 @@
 <view numCrafts="6" numWrecks="0" numAsteroids="654" numStations="6" influence="57.1019974" factionIndex="2000252">
 	<coordinates x="150" y="174"/>
 	<titles>
-		<title str="Solar Power Plant ${size}">
-			<arg key="plural">Energy Cells</arg>
-			<arg key="size">S</arg>
-			<arg key="good">Energy Cell</arg>
-			<arg key="prefix">Energy Cell /* prefix */</arg>
-		</title>
 		<title str="${good} Collector ${size}">
 			<arg key="plural">Water</arg>
 			<arg key="size">S</arg>
 			<arg key="prefix">Water /* prefix */</arg>
 			<arg key="good">Water</arg>
+		</title>
+		<title str="Solar Power Plant ${size}">
+			<arg key="prefix">Energy Cell /* prefix */</arg>
+			<arg key="plural">Energy Cells</arg>
+			<arg key="good">Energy Cell</arg>
+			<arg key="size">S</arg>
 		</title>
 		<title str="Noble Metal Mine ${size}">
 			<arg key="plural">Silver</arg>
@@ -21,10 +21,10 @@
 			<arg key="size">S</arg>
 		</title>
 		<title str="Solar Power Plant ${size}">
-			<arg key="prefix">Energy Cell /* prefix */</arg>
 			<arg key="plural">Energy Cells</arg>
-			<arg key="good">Energy Cell</arg>
 			<arg key="size">S</arg>
+			<arg key="good">Energy Cell</arg>
+			<arg key="prefix">Energy Cell /* prefix */</arg>
 		</title>
 		<title str="${good} Mine ${size}">
 			<arg key="size">L</arg>
