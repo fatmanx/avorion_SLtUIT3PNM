@@ -99,4 +99,15 @@
 2017-04-11 23-16-23| <> You don't have any of this turret.
 2017-04-11 23-18-52| <> You don't have any of this turret.
 2017-04-11 23-19-05| <> You don't have any of this turret.
-2017-04-11 23-19-21| 
+2017-04-11 23-19-21| <> You don't have any of this turret.
+2017-04-11 23-21-01| Creating sector at (158:178)
+2017-04-11 23-21-01| scheduled save for sector (158:178), 0x1be9ff60, entities: 0
+2017-04-11 23-21-01| saving sector (158:178)
+2017-04-11 23-21-01| sector (158:178) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_178"
+2017-04-11 23-21-02| scheduled save for sector (158:178), 0x1be9ff60, entities: 212
+2017-04-11 23-21-02| saving sector (158:178)
+2017-04-11 23-21-02| sector (158:178) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_178"
+2017-04-11 23-21-02| Player fatmanone moved to sector (158:178)from (149:173) server time taken for change: 52ms
+2017-04-11 23-21-02| scheduled save for sector (149:173), 0x614eeb0, entities: 1100
+2017-04-11 23-21-02| saving sector (149:173)
+2017-04-11 23-21-02| 
