@@ -91,4 +91,5 @@
 2017-04-11 23-03-19| Initiating connection with server ID 90108080447728646
 2017-04-11 23-03-23| Authentication successful!
 2017-04-11 23-03-27| <Server> Player fatmanone joined the galaxy
-2017-04-11 23-03-36| 
+2017-04-11 23-03-36| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-11 23-06-28| 
