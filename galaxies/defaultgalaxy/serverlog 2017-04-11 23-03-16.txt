@@ -67,4 +67,5 @@
 2017-04-11 23-09-22| <> You don't have any of this turret.
 2017-04-11 23-09-32| <> You don't have any of this turret.
 2017-04-11 23-09-39| <> You cannot build a turret at this place. There is already a turret at this position.
-2017-04-11 23-09-55| 
+2017-04-11 23-09-55| <> You don't have any of this turret.
+2017-04-11 23-10-33| 
