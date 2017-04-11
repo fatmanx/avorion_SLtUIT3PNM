@@ -116,4 +116,5 @@
 2017-04-12 00-54-08| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 00-54-13| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3.xml"
 2017-04-12 00-55-08| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3.xml"
-2017-04-12 00-57-54| 
+2017-04-12 00-57-54| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 00-59-20| 
