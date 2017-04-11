@@ -1,0 +1,80 @@
+2017-04-12 00-33-24| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-12 00-33-24| Enabled Traces: 
+2017-04-12 00-33-24| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-12 00-33-24| CPU: GenuineIntel 8 Cores
+2017-04-12 00-33-24| Init Steamworks...Installed Steam exception handler
+2017-04-12 00-33-24| Init Steamworks... ok
+2017-04-12 00-33-24| Init Steamworks ok
+2017-04-12 00-33-24| Init SDL2... ok
+2017-04-12 00-33-24| Getting display mode... ok
+2017-04-12 00-33-24| Current display mode: 1920 x 1080
+2017-04-12 00-33-24| Creating settings... loading... setting language... ok
+2017-04-12 00-33-24| Creating client window...Creating normal window
+2017-04-12 00-33-24| Detected 2 displays
+2017-04-12 00-33-24| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-12 00-33-24| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-12 00-33-24| Using display 0
+2017-04-12 00-33-24| Creating window, x: 0, y: 0, w: 1600, h: 900... ok
+2017-04-12 00-33-24| GetDrawableSize: 1600 900
+2017-04-12 00-33-24| GetWindowSize: 1600 900
+2017-04-12 00-33-24| Creating GL context... ok
+2017-04-12 00-33-24| Setting window mode Windowed... ok
+2017-04-12 00-33-24| Creating client window ok
+2017-04-12 00-33-24| Init rendering... starting rendering... initialize...OpenGL Context Information:
+2017-04-12 00-33-24| Version: 4.5
+2017-04-12 00-33-24| VersionString: 4.5.0 NVIDIA 378.49
+2017-04-12 00-33-24| Vendor: NVIDIA Corporation
+2017-04-12 00-33-24| Renderer: GeForce GTX 760/PCIe/SSE2
+2017-04-12 00-33-24| GLSL Version: 4.50 NVIDIA
+2017-04-12 00-33-24| GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+2017-04-12 00-33-24| GL_MAX_VERTEX_UNIFORM_VECTORS: 1024
+2017-04-12 00-33-24| GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+2017-04-12 00-33-24| GL_MAX_ELEMENTS_INDICES: 1048576
+2017-04-12 00-33-24| GL_MAX_ELEMENTS_VERTICES: 1048576
+2017-04-12 00-33-24| GL_MAX_RENDERBUFFER_SIZE: 16384
+2017-04-12 00-33-24| GL_MAX_TEXTURE_SIZE: 16384
+2017-04-12 00-33-24| GL_MAX_VERTEX_ATTRIBS: 16
+2017-04-12 00-33-24| GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+2017-04-12 00-33-24| Init GLEW... ok
+2017-04-12 00-33-24| Init Debug Message Callback... ok
+2017-04-12 00-33-24| Set VSync... ok
+2017-04-12 00-33-24| Secure BackBuffer... ok
+2017-04-12 00-33-24| Init Canvas...Create canvas of size 2262 x 1272... ok
+2017-04-12 00-33-24| Init Canvas ok
+2017-04-12 00-33-24| Init Refraction Texture... ok
+2017-04-12 00-33-24| Init Post Processing... ok
+2017-04-12 00-33-24| Init Debug Renderers... ok
+2017-04-12 00-33-24| DepthTexturesSupported: yes
+2017-04-12 00-33-24| IntVertexAttributesSupported: yes
+2017-04-12 00-33-24| DeferredSupported: yes
+2017-04-12 00-33-24| LowSpecGPUDetected: no
+2017-04-12 00-33-24| Rendering initialized
+2017-04-12 00-33-24| Init rendering ok
+2017-04-12 00-33-24| Check problematic drivers... ok
+2017-04-12 00-33-24| Init shader level... ok
+2017-04-12 00-33-24| Init loading screen... ok
+2017-04-12 00-33-24| Draw first loading screen... draw... ok
+2017-04-12 00-33-24| Init SFX... ok
+2017-04-12 00-33-24| Init Input... ok
+2017-04-12 00-33-24| Init GameInput... ok
+2017-04-12 00-33-24| Init Main Menu... ok
+2017-04-12 00-33-25| Init Music... ok
+2017-04-12 00-33-25| Apply loaded settings... ok
+2017-04-12 00-33-25| Adjust settings to GPU... ok
+2017-04-12 00-33-25| Client initialized
+2017-04-12 00-33-25| Received stats and achievements from Steam
+2017-04-12 00-33-25| STAT_PIRATES_DESTROYED: 113i
+2017-04-12 00-33-25| STAT_XSOTAN_DESTROYED: 63i
+2017-04-12 00-33-25| STAT_CIVIL_SHIPS_DESTROYED: 1i
+2017-04-12 00-33-25| STAT_SHIPS_DESTROYED: 7i
+2017-04-12 00-33-25| STAT_STATIONS_DESTROYED: 0i
+2017-04-12 00-33-25| STAT_RESOURCES_MINED: 57812i
+2017-04-12 00-33-25| STAT_GOODS_TRADED: 64i
+2017-04-12 00-33-25| STAT_GOODS_SOLD: 1i
+2017-04-12 00-33-25| STAT_GOODS_BOUGHT: 63i
+2017-04-12 00-33-25| STAT_GATES_USED: 88i
+2017-04-12 00-33-25| STAT_WORMHOLES_USED: 2i
+2017-04-12 00-33-25| STAT_JUMPS_USED: 76i
+2017-04-12 00-33-25| STAT_SECTORS_DISCOVERED: 140i
+2017-04-12 00-33-25| STAT_SECTORS_TRAVELED: 1644.03f
+2017-04-12 00-33-25| 

@@ -339,4 +339,21 @@
 2017-04-12 00-25-24| Entity 584 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
 2017-04-12 00-25-24| Entity 585 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
 2017-04-12 00-25-24| Entity 586 (Turret) tried to register at parent 4 (Asteroid), but parent has no cp::Children.
-2017-04-12 00-29-34| 
+2017-04-12 00-29-34| <Shipyard> Thank you for your purchase. Your ship will be ready in about 4 hours, 36 minutes.
+2017-04-12 00-33-10| UDP closed
+2017-04-12 00-33-10| Client UDP: Connection closed
+2017-04-12 00-33-10| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 00-33-11| UDP closed
+2017-04-12 00-33-11| Client UDP: Connection closed
+2017-04-12 00-33-12| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-12 00-33-12| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 00-33-12| Server shutdown successful.
+2017-04-12 00-33-12| UDP closed
+2017-04-12 00-33-12| Client UDP: Connection closed
+2017-04-12 00-33-14| Exiting client.
+2017-04-12 00-33-14| Exited client main loop.
+2017-04-12 00-33-14| Waiting for Online polling threads
+2017-04-12 00-33-14| Online polling threads finished
+2017-04-12 00-33-14| Waiting for LAN polling threads
+2017-04-12 00-33-14| LAN polling threads finished
+2017-04-12 00-33-14| Stopping local server ...
