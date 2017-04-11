@@ -310,4 +310,6 @@
 2017-04-11 23-43-51| <Server> The signals are growing stronger.
 2017-04-11 23-44-52| <Server> A group of alien ships warped in!
 2017-04-11 23-47-40| <Server> Your sensors picked up a short burst of subspace signals.
-2017-04-11 23-50-39| 
+2017-04-11 23-50-39| <Server> More strange subspace signals, they're getting stronger.
+2017-04-11 23-51-39| <Server> A small group of alien ships appeared!
+2017-04-11 23-52-13| 
