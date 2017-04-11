@@ -225,4 +225,77 @@
 2017-04-11 03-13-05| Player fatmanone moved to sector (149:173)from (149:173) server time taken for change: 361ms
 2017-04-11 03-13-06| scheduled save for sector (149:173), 0x1551b490, entities: 1100
 2017-04-11 03-13-06| saving sector (149:173)
-2017-04-11 03-13-06| 
+2017-04-11 03-13-06| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-11 03-14-13| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-13| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-13| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-27| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-27| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-27| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-28| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-28| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-28| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-29| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-29| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-29| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-30| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-30| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-30| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-30| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-31| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-31| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-31| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-32| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-32| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-32| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-33| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-33| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-33| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-34| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-34| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-34| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-35| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-35| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-35| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-36| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-36| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-36| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-37| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-37| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-37| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-38| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-38| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-11 03-14-38| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-11 03-14-48| Triggered saving of all server data.
+2017-04-11 03-14-48| scheduled save for sector (146:175), 0x16d46890, entities: 2
+2017-04-11 03-14-48| saving sector (146:175)
+2017-04-11 03-14-48| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
+2017-04-11 03-14-48| scheduled save for sector (148:171), 0x20a536c0, entities: 1243
+2017-04-11 03-14-48| saving sector (148:171)
+2017-04-11 03-14-48| sector (148:171) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_171"
+2017-04-11 03-14-48| scheduled save for sector (149:173), 0x1551b490, entities: 1103
+2017-04-11 03-14-48| saving sector (149:173)
+2017-04-11 03-14-48| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-11 03-14-48| scheduled save for sector (150:174), 0x20a53030, entities: 957
+2017-04-11 03-14-48| saving sector (150:174)
+2017-04-11 03-14-48| sector (150:174) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\150_174"
+2017-04-11 03-14-48| scheduled save for sector (159:376), 0x21842510, entities: 1323
+2017-04-11 03-14-48| saving sector (159:376)
+2017-04-11 03-14-49| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-11 03-14-49| scheduled save for sector (165:378), 0x62811b0, entities: 965
+2017-04-11 03-14-49| saving sector (165:378)
+2017-04-11 03-14-49| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-11 03-14-49| scheduled save for sector (165:389), 0x1abc74e0, entities: 1040
+2017-04-11 03-14-49| saving sector (165:389)
+2017-04-11 03-14-49| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-11 03-14-49| scheduled save for sector (169:375), 0xb973840, entities: 358
+2017-04-11 03-14-49| saving sector (169:375)
+2017-04-11 03-14-49| 

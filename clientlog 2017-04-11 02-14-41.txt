@@ -213,4 +213,36 @@
 2017-04-11 03-11-56| <Server> Usage: /teleport [player] x y
 2017-04-11 03-12-05| <Server> Moving player fatmanone to sector (149:173).
 2017-04-11 03-12-17| <Server> Your sensors picked up short bursts of subspace signals.
-2017-04-11 03-13-05| 
+2017-04-11 03-13-05| <Server> Moving player fatmanone to sector (149:173).
+2017-04-11 03-14-13| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-13| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-27| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-27| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-28| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-28| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-29| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-29| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-30| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-30| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-30| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-30| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-31| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-31| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-31| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-31| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-32| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-32| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-33| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-33| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-34| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-34| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-35| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-35| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-36| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-36| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-37| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-37| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-11 03-14-38| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-11 03-14-38| 
