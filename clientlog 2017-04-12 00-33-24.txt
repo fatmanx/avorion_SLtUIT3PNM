@@ -267,4 +267,5 @@
 2017-04-12 02-21-17| <S.I.I.> Insurance Fraud detected. You won't receive any payments for s2.
 2017-04-12 02-21-17| <Server> Your Ship s2 has been destroyed!
 2017-04-12 02-25-35| <The Nuinea Republic> Thank you for defeating those pirates. You have our endless gratitude.
-2017-04-12 02-28-54| 
+2017-04-12 02-28-54| <> You don't have any of this turret.
+2017-04-12 02-30-54| 
