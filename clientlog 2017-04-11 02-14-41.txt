@@ -208,4 +208,8 @@
 2017-04-11 03-07-28| Create canvas of size 2262 x 1272... ok
 2017-04-11 03-09-04| <Server> Usage: /teleport [player] x y
 2017-04-11 03-09-48| <Server> Pirates are attacking the sector!
-2017-04-11 03-11-02| 
+2017-04-11 03-11-02| <The Nuinea Republic> Thank you for taking care of those pirates. We transferred a reward to your account.
+2017-04-11 03-11-52| <Server> Couldn't read x coordinate.
+2017-04-11 03-11-56| <Server> Usage: /teleport [player] x y
+2017-04-11 03-12-05| <Server> Moving player fatmanone to sector (149:173).
+2017-04-11 03-12-17| 

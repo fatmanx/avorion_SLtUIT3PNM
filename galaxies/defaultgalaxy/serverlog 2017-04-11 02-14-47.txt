@@ -197,4 +197,25 @@
 2017-04-11 03-05-23| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
 2017-04-11 03-05-23| 	data/scripts/entity/craftorders.lua:269: in function ?
 2017-04-11 03-06-10| <> You have no sector selected.
-2017-04-11 03-06-21| 
+2017-04-11 03-06-21| <> You have no sector selected.
+2017-04-11 03-12-06| scheduled save for sector (149:173), 0x1551b490, entities: 1100
+2017-04-11 03-12-06| saving sector (149:173)
+2017-04-11 03-12-06| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-11 03-12-06| scheduled save for sector (149:173), 0x1551b490, entities: 1121
+2017-04-11 03-12-06| saving sector (149:173)
+2017-04-11 03-12-06| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-11 03-12-06| Player fatmanone moved to sector (149:173)from (165:378) server time taken for change: 364ms
+2017-04-11 03-12-06| scheduled save for sector (165:378), 0x62811b0, entities: 965
+2017-04-11 03-12-06| saving sector (165:378)
+2017-04-11 03-12-07| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-11 03-12-07| scheduled save for sector (150:174), 0x20a53030, entities: 979
+2017-04-11 03-12-07| saving sector (150:174)
+2017-04-11 03-12-07| scheduled save for sector (146:175), 0x16d46890, entities: 45
+2017-04-11 03-12-07| scheduled save for sector (148:171), 0x20a536c0, entities: 1306
+2017-04-11 03-12-07| sector (150:174) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\150_174"
+2017-04-11 03-12-07| saving sector (146:175)
+2017-04-11 03-12-07| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
+2017-04-11 03-12-07| saving sector (148:171)
+2017-04-11 03-12-08| sector (148:171) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_171"
+2017-04-11 03-12-10| starting event alienattack
+2017-04-11 03-12-16| 
