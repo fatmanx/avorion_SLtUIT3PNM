@@ -600,4 +600,15 @@
 2017-04-12 03-09-15| <> You don't have enough unemployed crewmen.
 2017-04-12 03-09-28| starting event fakedistresssignal
 2017-04-12 03-12-24| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 03-13-11| 
+2017-04-12 03-13-11| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-13-21| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-13-32| Triggered saving of all server data.
+2017-04-12 03-13-32| scheduled save for sector (155:391), 0x1a3fbd30, entities: 1073
+2017-04-12 03-13-32| saving sector (155:391)
+2017-04-12 03-13-32| sector (155:391) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_391"
+2017-04-12 03-13-32| scheduled save for sector (157:381), 0xb2b93a0, entities: 1375
+2017-04-12 03-13-32| saving sector (157:381)
+2017-04-12 03-13-32| sector (157:381) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_381"
+2017-04-12 03-13-32| scheduled save for sector (159:376), 0x10e630b0, entities: 1480
+2017-04-12 03-13-32| saving sector (159:376)
+2017-04-12 03-13-32| 
