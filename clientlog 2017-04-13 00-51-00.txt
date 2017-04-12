@@ -92,4 +92,5 @@
 2017-04-13 00-51-19| Authentication successful!
 2017-04-13 00-51-25| <Server> Player fatmanone joined the galaxy
 2017-04-13 00-54-59| <> This sector is out of reach with this ship.
-2017-04-13 00-55-25| 
+2017-04-13 00-55-25| <Server> Moving player fatmanone to sector (174:293).
+2017-04-13 00-56-31| 
