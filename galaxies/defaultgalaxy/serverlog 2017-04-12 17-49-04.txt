@@ -333,4 +333,6 @@
 2017-04-12 19-19-06| scheduled save for sector (169:375), 0x2415afc0, entities: 364
 2017-04-12 19-19-06| saving sector (169:375)
 2017-04-12 19-19-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
-2017-04-12 19-20-57| 
+2017-04-12 19-20-57| <> The crew of your ship 's3' was paid.
+2017-04-12 19-25-27| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 19-25-51| 
