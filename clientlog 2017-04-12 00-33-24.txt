@@ -440,4 +440,5 @@
 2017-04-12 03-23-07| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
 2017-04-12 03-25-22| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 03-25-25| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
-2017-04-12 03-26-50| 
+2017-04-12 03-26-50| <Gate Control> You paid 4 credits passage fee.
+2017-04-12 03-28-21| 
