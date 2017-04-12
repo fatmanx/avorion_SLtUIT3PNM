@@ -416,4 +416,10 @@
 2017-04-12 20-03-16| <> You have no sector selected.
 2017-04-12 20-05-23| bad crewman
 2017-04-12 20-05-23| bad crewman
-2017-04-12 20-05-24| 
+2017-04-12 20-05-24| bad crewman
+2017-04-12 20-05-27| bad crewman
+2017-04-12 20-05-27| bad crewman
+2017-04-12 20-05-27| bad crewman
+2017-04-12 20-05-56| bad crewman
+2017-04-12 20-05-56| bad crewman
+2017-04-12 20-05-56| 
