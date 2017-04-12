@@ -425,4 +425,8 @@
 2017-04-12 03-15-45| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 03-15-48| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
 2017-04-12 03-16-32| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 03-16-34| 
+2017-04-12 03-16-34| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
+2017-04-12 03-18-24| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
+2017-04-12 03-19-04| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-19-16| <The Nuinea Republic> We're under attack! Call in reinforcements, NOW!
+2017-04-12 03-19-17| 
