@@ -315,4 +315,21 @@
 2017-04-12 21-03-03| <Server> Your sensors picked up a short burst of subspace signals.
 2017-04-12 21-06-02| <Server> More strange subspace signals, they're getting stronger.
 2017-04-12 21-06-20| <The Nuinea Republic> We thank you for taking care of those ships. We transferred a reward to your account.
-2017-04-12 21-07-02| 
+2017-04-12 21-07-02| <Server> A small group of alien ships appeared!
+2017-04-12 21-08-36| UDP closed
+2017-04-12 21-08-36| Client UDP: Connection closed
+2017-04-12 21-08-36| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 21-08-37| UDP closed
+2017-04-12 21-08-37| Client UDP: Connection closed
+2017-04-12 21-08-37| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-12 21-08-37| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 21-08-38| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-12 21-08-38| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 21-08-39| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-12 21-08-39| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 21-08-40| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-12 21-08-40| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 21-08-41| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-12 21-08-41| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-12 21-08-42| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-12 21-08-42| 
