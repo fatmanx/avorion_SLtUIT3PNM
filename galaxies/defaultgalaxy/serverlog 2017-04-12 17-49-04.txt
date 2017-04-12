@@ -507,4 +507,30 @@
 2017-04-12 20-29-06| saving sector (169:375)
 2017-04-12 20-29-07| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-12 20-37-16| <> You have no sector selected.
-2017-04-12 20-37-21| 
+2017-04-12 20-37-21| <> You have no sector selected.
+2017-04-12 20-38-45| bad crewman
+2017-04-12 20-38-47| bad crewman
+2017-04-12 20-38-47| bad crewman
+2017-04-12 20-38-47| bad crewman
+2017-04-12 20-38-47| bad crewman
+2017-04-12 20-38-47| bad crewman
+2017-04-12 20-38-47| bad crewman
+2017-04-12 20-38-51| bad crewman
+2017-04-12 20-38-51| bad crewman
+2017-04-12 20-39-04| bad crewman
+2017-04-12 20-39-06| Triggered saving of all server data.
+2017-04-12 20-39-06| scheduled save for sector (159:376), 0xb321250, entities: 1463
+2017-04-12 20-39-06| saving sector (159:376)
+2017-04-12 20-39-06| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 20-39-06| scheduled save for sector (165:378), 0x56d0aa40, entities: 1000
+2017-04-12 20-39-06| saving sector (165:378)
+2017-04-12 20-39-06| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 20-39-06| scheduled save for sector (165:389), 0xb320530, entities: 1034
+2017-04-12 20-39-06| saving sector (165:389)
+2017-04-12 20-39-06| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-12 20-39-06| scheduled save for sector (169:375), 0x2415afc0, entities: 369
+2017-04-12 20-39-06| saving sector (169:375)
+2017-04-12 20-39-07| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
+2017-04-12 20-39-15| bad crewman
+2017-04-12 20-39-15| bad crewman
+2017-04-12 20-39-15| 
