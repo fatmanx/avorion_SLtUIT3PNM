@@ -265,4 +265,6 @@
 2017-04-12 18-59-28| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-12 18-59-28| scheduled save for sector (165:378), 0x56d0aa40, entities: 909
 2017-04-12 18-59-28| saving sector (165:378)
-2017-04-12 18-59-28| 
+2017-04-12 18-59-28| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 19-00-10| starting event fakedistresssignal
+2017-04-12 19-00-23| 

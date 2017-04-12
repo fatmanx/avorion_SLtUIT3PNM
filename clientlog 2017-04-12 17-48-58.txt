@@ -170,4 +170,6 @@
 2017-04-12 18-49-14| <Server> More strange subspace signals, they're getting stronger.
 2017-04-12 18-50-14| <Server> A small group of alien ships appeared!
 2017-04-12 18-52-44| <> You don't have enough unemployed crewmen.
-2017-04-12 18-59-28| 
+2017-04-12 18-59-28| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-12 19-00-23| <> Jump route calculated.
+2017-04-12 19-00-42| 
