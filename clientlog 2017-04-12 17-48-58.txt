@@ -205,4 +205,6 @@
 2017-04-12 19-33-50| <Repair Dock> You must be docked to the station to hire crewmembers.
 2017-04-12 19-34-31| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
 2017-04-12 19-34-50| <Server> Pirates are attacking the sector!
-2017-04-12 19-37-35| 
+2017-04-12 19-37-35| <The Nuinea Republic> We thank you for taking care of those ships. We transferred a reward to your account.
+2017-04-12 19-38-41| <Unkown> This is a distress call! Our position is (158:372) We are under attack by pirates, please help!
+2017-04-12 19-38-41| 
