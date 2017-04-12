@@ -707,4 +707,6 @@
 2017-04-12 03-34-47| scheduled save for sector (159:376), 0x1a3f8220, entities: 1465
 2017-04-12 03-34-47| saving sector (159:376)
 2017-04-12 03-34-47| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
-2017-04-12 03-34-53| 
+2017-04-12 03-34-53| Warning, can't keep up, skipping 1 frames...
+2017-04-12 03-36-28| <> You don't have enough unemployed crewmen.
+2017-04-12 03-36-28| 

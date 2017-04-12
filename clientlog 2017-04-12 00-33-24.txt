@@ -458,4 +458,6 @@
 2017-04-12 03-33-49| <> Jump route calculated.
 2017-04-12 03-34-33| <> You don't have enough unemployed crewmen.
 2017-04-12 03-34-33| <> You don't have enough unemployed crewmen.
-2017-04-12 03-34-35| 
+2017-04-12 03-34-35| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-12 03-36-28| <> You don't have enough unemployed crewmen.
+2017-04-12 03-36-28| 
