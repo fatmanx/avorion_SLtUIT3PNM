@@ -533,4 +533,9 @@
 2017-04-12 20-39-07| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-12 20-39-15| bad crewman
 2017-04-12 20-39-15| bad crewman
-2017-04-12 20-39-15| 
+2017-04-12 20-39-15| bad crewman
+2017-04-12 20-41-29| starting event fakedistresssignal
+2017-04-12 20-41-32| <> You cannot edit a damaged ship, repair it first!
+2017-04-12 20-41-32| <> You cannot edit a damaged ship, repair it first!
+2017-04-12 20-41-35| <> You cannot edit a damaged ship, repair it first!
+2017-04-12 20-41-35| 
