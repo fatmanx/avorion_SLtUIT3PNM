@@ -181,4 +181,8 @@
 2017-04-12 19-09-22| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 19-09-23| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 19-09-31| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
-2017-04-12 19-11-23| 
+2017-04-12 19-11-23| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
+2017-04-12 19-13-26| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
+2017-04-12 19-13-37| <> You don't have enough unemployed crewmen.
+2017-04-12 19-13-37| <> You don't have enough unemployed crewmen.
+2017-04-12 19-14-10| 
