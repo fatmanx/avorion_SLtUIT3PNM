@@ -441,4 +441,10 @@
 2017-04-12 03-25-22| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 03-25-25| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
 2017-04-12 03-26-50| <Gate Control> You paid 4 credits passage fee.
-2017-04-12 03-28-21| 
+2017-04-12 03-28-21| <Noble Metal Mine ${size}> You must be docked to the station to hire crewmembers.
+2017-04-12 03-28-49| <Noble Metal Mine ${size}> You need more generals.
+2017-04-12 03-28-50| <Noble Metal Mine ${size}> You need more generals.
+2017-04-12 03-28-51| <Noble Metal Mine ${size}> You need more generals.
+2017-04-12 03-28-55| <Noble Metal Mine ${size}> You need more generals.
+2017-04-12 03-28-55| <Noble Metal Mine ${size}> You need more generals.
+2017-04-12 03-28-56| 
