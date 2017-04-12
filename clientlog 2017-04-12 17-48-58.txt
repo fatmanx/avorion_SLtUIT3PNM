@@ -262,4 +262,16 @@
 2017-04-12 20-46-36| 	data/scripts/entity/craftorders.lua:27: in function ?
 2017-04-12 20-46-46| <Mobile Resource Merchant Tuirqear> Hello Everybody! Mobile Resource Merchant Tuirqear here. I'll be here for the next 15 minutes. Come look at my merchandise!
 2017-04-12 20-47-36| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
-2017-04-12 20-47-36| 
+2017-04-12 20-47-36| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-47-37| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-47-37| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-47-38| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-47-38| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-47-38| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-47-38| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-47-41| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-47-41| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-47-42| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-47-42| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-47-46| Create canvas of size 3200 x 1800... ok
+2017-04-12 20-48-04| 
