@@ -204,4 +204,5 @@
 2017-04-12 18-29-06| scheduled save for sector (172:408), 0x2f6cda30, entities: 856
 2017-04-12 18-29-06| saving sector (172:408)
 2017-04-12 18-29-06| sector (172:408) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_408"
-2017-04-12 18-33-28| 
+2017-04-12 18-33-28| starting event convoidistresssignal
+2017-04-12 18-38-37| 
