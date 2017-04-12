@@ -447,4 +447,14 @@
 2017-04-12 20-15-20| error constructing Entity: Entity with index 2803 doesn't exist at 	[C]:-1: in function Entity
 2017-04-12 20-15-20| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
 2017-04-12 20-15-21| error constructing Entity: Entity with index 2809 doesn't exist at 	[C]:-1: in function Entity
-2017-04-12 20-15-21| 
+2017-04-12 20-15-21| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 20-15-36| error constructing Entity: Entity with index 2818 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-15-36| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 20-15-38| error constructing Entity: Entity with index 2864 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-15-38| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 20-15-38| error constructing Entity: Entity with index 2864 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-15-38| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 20-15-38| error constructing Entity: Entity with index 2864 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-15-38| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 20-16-28| error constructing Entity: Entity with index 2812 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-16-28| 
