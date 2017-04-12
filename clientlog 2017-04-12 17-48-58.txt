@@ -108,4 +108,9 @@
 2017-04-12 18-02-07| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 18-02-11| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave16.xml"
 2017-04-12 18-02-25| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
-2017-04-12 18-03-13| 
+2017-04-12 18-03-13| <Equipment Dock> You must be docked to the station to buy items.
+2017-04-12 18-04-20| <Equipment Dock> There is no free squad to place the fighter in.
+2017-04-12 18-04-20| <Equipment Dock> There is no free squad to place the fighter in.
+2017-04-12 18-04-20| <Equipment Dock> There is no free squad to place the fighter in.
+2017-04-12 18-04-27| <Server> Pirates are attacking the sector!
+2017-04-12 18-04-39| 
