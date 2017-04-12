@@ -455,4 +455,7 @@
 2017-04-12 03-31-31| <> You don't have enough unemployed crewmen.
 2017-04-12 03-32-41| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
 2017-04-12 03-33-11| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-12 03-33-49| 
+2017-04-12 03-33-49| <> Jump route calculated.
+2017-04-12 03-34-33| <> You don't have enough unemployed crewmen.
+2017-04-12 03-34-33| <> You don't have enough unemployed crewmen.
+2017-04-12 03-34-35| 
