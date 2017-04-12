@@ -663,4 +663,10 @@
 2017-04-12 03-26-52| scheduled save for sector (153:395), 0xb2b65b0, entities: 649
 2017-04-12 03-26-52| saving sector (153:395)
 2017-04-12 03-26-52| sector (153:395) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_395"
-2017-04-12 03-30-05| 
+2017-04-12 03-30-05| <> You have no sector selected.
+2017-04-12 03-31-31| <> You don't have enough unemployed crewmen.
+2017-04-12 03-31-31| <> You don't have enough unemployed crewmen.
+2017-04-12 03-31-31| <> You don't have enough unemployed crewmen.
+2017-04-12 03-31-50| scheduled save for sector (159:376), 0x10e630b0, entities: 1465
+2017-04-12 03-31-50| saving sector (159:376)
+2017-04-12 03-31-51| 
