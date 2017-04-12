@@ -156,4 +156,10 @@
 2017-04-12 18-33-28| <> You have received a distress signal by an unknown source.
 2017-04-12 18-38-37| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 18-38-45| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
-2017-04-12 18-41-21| 
+2017-04-12 18-41-21| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
+2017-04-12 18-44-46| <> Your ship doesn't support more of this turret type.
+2017-04-12 18-44-46| <> Your ship doesn't support more of this turret type.
+2017-04-12 18-44-48| <> Your ship doesn't support more of this turret type.
+2017-04-12 18-44-48| <> Your ship doesn't support more of this turret type.
+2017-04-12 18-44-50| <> Your ship doesn't support more of this turret type.
+2017-04-12 18-44-50| 
