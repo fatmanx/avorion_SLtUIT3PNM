@@ -307,4 +307,6 @@
 2017-04-12 20-57-17| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 20-57-25| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 20-58-16| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 20-58-28| 
+2017-04-12 20-58-28| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 20-59-24| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 20-59-31| 
