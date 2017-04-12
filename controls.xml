@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Controls usedStyle="0" major="0" minor="11" patch="0">
+<Controls usedStyle="1" major="0" minor="11" patch="0">
 	<style type="0">
 		<controls>
 			<binding name="Turn Up" action="1" primaryKey="115" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
