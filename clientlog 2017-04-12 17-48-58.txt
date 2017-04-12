@@ -239,4 +239,5 @@
 2017-04-12 20-18-48| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s36.xml"
 2017-04-12 20-20-36| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s36.xml"
 2017-04-12 20-21-21| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s36.xml"
-2017-04-12 20-29-16| 
+2017-04-12 20-29-16| <Server> Pirates are attacking the sector!
+2017-04-12 20-34-30| 
