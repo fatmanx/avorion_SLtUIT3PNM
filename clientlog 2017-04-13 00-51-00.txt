@@ -107,4 +107,8 @@
 2017-04-13 01-19-05| <Object Detector> Valuable objects detected.
 2017-04-13 01-19-37| <Server> The signals are growing stronger.
 2017-04-13 01-20-38| <Server> A group of alien ships warped in!
-2017-04-13 01-22-10| 
+2017-04-13 01-22-10| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\Gold Mine.xml"
+2017-04-13 01-23-06| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\Gold Mine.xml"
+2017-04-13 01-23-17| <Gold Mine> You must be docked to the station to hire crewmembers.
+2017-04-13 01-23-17| <Gold Mine> You must be docked to the station to hire crewmembers.
+2017-04-13 01-23-18| 
