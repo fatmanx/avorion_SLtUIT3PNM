@@ -311,4 +311,5 @@
 2017-04-12 20-59-24| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 20-59-31| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\xxx2.xml"
 2017-04-12 21-00-48| Unlocked achievement BUILD_STATION
-2017-04-12 21-01-54| 
+2017-04-12 21-01-54| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\xxx3.xml"
+2017-04-12 21-03-03| 
