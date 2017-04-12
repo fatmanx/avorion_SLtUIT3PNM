@@ -230,4 +230,5 @@
 2017-04-12 20-03-16| <> You have no sector selected.
 2017-04-12 20-04-03| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
 2017-04-12 20-09-02| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
-2017-04-12 20-09-21| 
+2017-04-12 20-09-21| <S.I.I.> Insurance Fraud detected. You won't receive any payments for s3 0.
+2017-04-12 20-10-24| 
