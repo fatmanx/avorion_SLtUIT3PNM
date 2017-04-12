@@ -110,4 +110,6 @@
 2017-04-13 01-01-11| scheduled save for sector (182:296), 0x3be79560, entities: 1048
 2017-04-13 01-01-11| saving sector (182:296)
 2017-04-13 01-01-11| sector (182:296) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_296"
-2017-04-13 01-09-32| 
+2017-04-13 01-09-32| <> You don't have any of this turret.
+2017-04-13 01-10-06| <> You don't have any of this turret.
+2017-04-13 01-10-43| 
