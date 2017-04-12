@@ -614,4 +614,7 @@
 2017-04-12 03-13-32| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
 2017-04-12 03-14-22| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 03-14-25| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 03-14-30| 
+2017-04-12 03-14-30| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-15-36| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-15-40| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-15-45| 
