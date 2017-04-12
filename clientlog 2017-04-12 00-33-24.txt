@@ -366,4 +366,21 @@
 2017-04-12 03-00-48| <> You need more sergeants.
 2017-04-12 03-00-48| <> You need more sergeants.
 2017-04-12 03-00-55| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (165:380), someone help, please!
-2017-04-12 03-00-55| 
+2017-04-12 03-00-55| <> You have received a distress signal by an unknown source.
+2017-04-12 03-02-21| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-28| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-28| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-31| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-39| 

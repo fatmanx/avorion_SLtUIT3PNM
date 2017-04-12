@@ -528,4 +528,27 @@
 2017-04-12 03-00-48| <> You need more sergeants.
 2017-04-12 03-00-48| <> You need more sergeants.
 2017-04-12 03-00-48| <> You need more sergeants.
-2017-04-12 03-00-55| 
+2017-04-12 03-00-55| starting event convoidistresssignal
+2017-04-12 03-02-21| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-28| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-28| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-31| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-36| <> You need more sergeants.
+2017-04-12 03-02-38| scheduled save for sector (154:376), 0xb2d65b0, entities: 1899
+2017-04-12 03-02-38| saving sector (154:376)
+2017-04-12 03-02-38| sector (154:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\154_376"
+2017-04-12 03-02-39| scheduled save for sector (158:368), 0xb2d72d0, entities: 4
+2017-04-12 03-02-39| saving sector (158:368)
+2017-04-12 03-02-39| sector (158:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_368"
+2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
+2017-04-12 03-02-39| 
