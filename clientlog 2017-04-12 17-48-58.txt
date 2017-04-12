@@ -115,4 +115,5 @@
 2017-04-12 18-04-27| <Server> Pirates are attacking the sector!
 2017-04-12 18-04-39| Unlocked achievement BUILD_BATTLESHIP
 2017-04-12 18-04-54| <Equipment Dock> There is no free squad to place the fighter in.
-2017-04-12 18-04-55| 
+2017-04-12 18-04-55| <Equipment Dock> There is no free squad to place the fighter in.
+2017-04-12 18-13-42| 
