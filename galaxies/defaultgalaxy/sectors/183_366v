@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="1" numWrecks="19" numAsteroids="1530" numStations="0" influence="0" factionIndex="0">
+<view numCrafts="1" numWrecks="76" numAsteroids="1530" numStations="0" influence="0" factionIndex="0">
 	<coordinates x="183" y="366"/>
 	<titles/>
 	<wormholes/>
