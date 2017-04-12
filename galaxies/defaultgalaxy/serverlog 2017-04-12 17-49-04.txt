@@ -437,4 +437,8 @@
 2017-04-12 20-09-06| scheduled save for sector (169:375), 0x2415afc0, entities: 371
 2017-04-12 20-09-06| saving sector (169:375)
 2017-04-12 20-09-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
-2017-04-12 20-09-21| 
+2017-04-12 20-09-21| fatmanone's Ship was destroyed by fatmanone in sector (165:378)
+2017-04-12 20-14-08| error constructing Entity: Entity with index 2802 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-14-08| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 20-14-21| error constructing Entity: Entity with index 2813 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-14-21| 
