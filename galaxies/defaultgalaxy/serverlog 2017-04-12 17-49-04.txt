@@ -538,4 +538,8 @@
 2017-04-12 20-41-32| <> You cannot edit a damaged ship, repair it first!
 2017-04-12 20-41-32| <> You cannot edit a damaged ship, repair it first!
 2017-04-12 20-41-35| <> You cannot edit a damaged ship, repair it first!
-2017-04-12 20-41-35| 
+2017-04-12 20-41-35| <> You cannot edit a damaged ship, repair it first!
+2017-04-12 20-41-36| <> You cannot edit a damaged ship, repair it first!
+2017-04-12 20-41-36| <> You cannot edit a damaged ship, repair it first!
+2017-04-12 20-41-37| <> You cannot edit a damaged ship, repair it first!
+2017-04-12 20-41-37| 
