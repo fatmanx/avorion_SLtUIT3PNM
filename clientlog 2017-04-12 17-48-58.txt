@@ -192,4 +192,5 @@
 2017-04-12 19-16-02| <The Nuinea Republic> Thank you for taking care of those pirates. We transferred a reward to your account.
 2017-04-12 19-20-57| <> The crew of your ship 's3' was paid.
 2017-04-12 19-25-27| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 19-25-51| 
+2017-04-12 19-25-51| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 19-26-41| 
