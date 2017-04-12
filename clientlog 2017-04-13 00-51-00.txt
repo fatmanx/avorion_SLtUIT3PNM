@@ -95,4 +95,6 @@
 2017-04-13 00-55-25| <Server> Moving player fatmanone to sector (174:293).
 2017-04-13 00-56-31| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-13 00-59-31| <Server> There are lots and lots of subspace signals! Careful!
-2017-04-13 01-00-31| 
+2017-04-13 01-00-31| <Server> A large group of alien ships appeared!
+2017-04-13 01-06-38| <${good} Farm ${size}> You must be docked to the station to hire crewmembers.
+2017-04-13 01-06-39| 
