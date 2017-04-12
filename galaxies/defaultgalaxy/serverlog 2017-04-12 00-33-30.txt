@@ -484,4 +484,48 @@
 2017-04-12 02-58-42| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
 2017-04-12 02-58-43| scheduled save for sector (155:391), 0x1a3fbd30, entities: 1072
 2017-04-12 02-58-43| saving sector (155:391)
-2017-04-12 02-58-43| 
+2017-04-12 02-58-43| sector (155:391) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_391"
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-45| <> You need more sergeants.
+2017-04-12 03-00-46| <> You need more sergeants.
+2017-04-12 03-00-46| <> You need more sergeants.
+2017-04-12 03-00-46| <> You need more sergeants.
+2017-04-12 03-00-46| <> You need more sergeants.
+2017-04-12 03-00-46| <> You need more sergeants.
+2017-04-12 03-00-46| <> You need more sergeants.
+2017-04-12 03-00-46| <> You need more sergeants.
+2017-04-12 03-00-47| <> You need more sergeants.
+2017-04-12 03-00-47| <> You need more sergeants.
+2017-04-12 03-00-47| <> You need more sergeants.
+2017-04-12 03-00-47| <> You need more sergeants.
+2017-04-12 03-00-47| <> You need more sergeants.
+2017-04-12 03-00-47| <> You need more sergeants.
+2017-04-12 03-00-47| <> You need more sergeants.
+2017-04-12 03-00-47| <> You need more sergeants.
+2017-04-12 03-00-47| <> You need more sergeants.
+2017-04-12 03-00-48| <> You need more sergeants.
+2017-04-12 03-00-48| <> You need more sergeants.
+2017-04-12 03-00-48| <> You need more sergeants.
+2017-04-12 03-00-48| <> You need more sergeants.
+2017-04-12 03-00-48| <> You need more sergeants.
+2017-04-12 03-00-48| <> You need more sergeants.
+2017-04-12 03-00-48| <> You need more sergeants.
+2017-04-12 03-00-48| <> You need more sergeants.
+2017-04-12 03-00-55| 
