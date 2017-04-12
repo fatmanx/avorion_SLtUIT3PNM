@@ -155,4 +155,5 @@
 2017-04-12 18-33-28| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (165:410) ... help!
 2017-04-12 18-33-28| <> You have received a distress signal by an unknown source.
 2017-04-12 18-38-37| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 18-38-45| 
+2017-04-12 18-38-45| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
+2017-04-12 18-41-21| 
