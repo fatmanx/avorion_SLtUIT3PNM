@@ -247,4 +247,6 @@
 2017-04-13 02-01-11| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 02-01-22| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 02-01-32| starting event piratehunter
-2017-04-13 02-03-54| 
+2017-04-13 02-03-54| <> The crew of your ship 's3' was paid.
+2017-04-13 02-06-16| Creating sector at (183:366)
+2017-04-13 02-06-16| 
