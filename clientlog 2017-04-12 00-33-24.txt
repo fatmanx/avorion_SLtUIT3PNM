@@ -386,4 +386,21 @@
 2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
 2017-04-12 03-04-13| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
 2017-04-12 03-04-21| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
-2017-04-12 03-04-27| 
+2017-04-12 03-04-27| <> You were damaged recently. You have to wait another 10 seconds until you can repair your ship.
+2017-04-12 03-05-21| <> You don't have enough unemployed crewmen.
+2017-04-12 03-05-21| <> You don't have enough unemployed crewmen.
+2017-04-12 03-05-32| <> You need more sergeants.
+2017-04-12 03-05-32| <> You need more sergeants.
+2017-04-12 03-05-32| <> You need more sergeants.
+2017-04-12 03-05-32| <> You need more sergeants.
+2017-04-12 03-05-32| <> You need more sergeants.
+2017-04-12 03-05-32| <> You need more sergeants.
+2017-04-12 03-05-32| <> You need more sergeants.
+2017-04-12 03-05-33| <> You need more sergeants.
+2017-04-12 03-05-33| <> You need more sergeants.
+2017-04-12 03-05-33| <> You need more sergeants.
+2017-04-12 03-05-33| <> You need more sergeants.
+2017-04-12 03-05-33| <> You need more sergeants.
+2017-04-12 03-05-33| <> You need more sergeants.
+2017-04-12 03-05-36| <> You don't have enough unemployed crewmen.
+2017-04-12 03-05-36| 
