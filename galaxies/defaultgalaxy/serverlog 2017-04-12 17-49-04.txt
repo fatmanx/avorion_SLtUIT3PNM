@@ -542,4 +542,7 @@
 2017-04-12 20-41-36| <> You cannot edit a damaged ship, repair it first!
 2017-04-12 20-41-36| <> You cannot edit a damaged ship, repair it first!
 2017-04-12 20-41-37| <> You cannot edit a damaged ship, repair it first!
-2017-04-12 20-41-37| 
+2017-04-12 20-41-37| <> You cannot edit a damaged ship, repair it first!
+2017-04-12 20-43-22| fatmanone's Ship was destroyed by fatmanone in sector (165:378)
+2017-04-12 20-43-22| fatmanone's Ship was destroyed by fatmanone in sector (165:378)
+2017-04-12 20-43-22| 

@@ -250,4 +250,7 @@
 2017-04-12 20-41-36| <> You cannot edit a damaged ship, repair it first!
 2017-04-12 20-41-36| <> You cannot edit a damaged ship, repair it first!
 2017-04-12 20-41-37| <> You cannot edit a damaged ship, repair it first!
-2017-04-12 20-41-37| 
+2017-04-12 20-41-37| <> You cannot edit a damaged ship, repair it first!
+2017-04-12 20-42-59| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 02.xml"
+2017-04-12 20-43-22| <S.I.I.> Insurance Fraud detected. You won't receive any payments for s3 0.
+2017-04-12 20-43-22| 
