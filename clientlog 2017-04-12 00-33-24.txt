@@ -405,4 +405,7 @@
 2017-04-12 03-05-36| <> You don't have enough unemployed crewmen.
 2017-04-12 03-05-36| <> You don't have enough unemployed crewmen.
 2017-04-12 03-06-50| <Server> Pirates are attacking the sector!
-2017-04-12 03-07-13| 
+2017-04-12 03-07-13| <> You don't have enough unemployed crewmen.
+2017-04-12 03-09-15| <> You don't have enough unemployed crewmen.
+2017-04-12 03-09-15| <> You don't have enough unemployed crewmen.
+2017-04-12 03-09-15| 
