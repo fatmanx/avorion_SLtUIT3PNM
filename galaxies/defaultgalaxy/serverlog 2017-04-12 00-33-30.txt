@@ -632,4 +632,14 @@
 2017-04-12 03-22-40| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
 2017-04-12 03-22-47| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 03-22-58| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 03-23-04| 
+2017-04-12 03-23-04| starting event spawntravellingmerchant
+2017-04-12 03-23-32| Triggered saving of all server data.
+2017-04-12 03-23-32| scheduled save for sector (155:391), 0x1a3fbd30, entities: 1078
+2017-04-12 03-23-32| saving sector (155:391)
+2017-04-12 03-23-32| sector (155:391) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_391"
+2017-04-12 03-23-32| scheduled save for sector (157:381), 0xb2b93a0, entities: 1689
+2017-04-12 03-23-32| saving sector (157:381)
+2017-04-12 03-23-32| sector (157:381) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_381"
+2017-04-12 03-23-32| scheduled save for sector (159:376), 0x10e630b0, entities: 1472
+2017-04-12 03-23-32| saving sector (159:376)
+2017-04-12 03-23-32| 
