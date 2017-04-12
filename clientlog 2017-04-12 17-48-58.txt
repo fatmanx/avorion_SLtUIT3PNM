@@ -199,4 +199,6 @@
 2017-04-12 19-29-32| <> Your ship doesn't support more of this turret type.
 2017-04-12 19-29-32| <> Your ship doesn't support more of this turret type.
 2017-04-12 19-29-36| <> Your ship doesn't support more of this turret type.
-2017-04-12 19-29-36| 
+2017-04-12 19-29-36| <> Your ship doesn't support more of this turret type.
+2017-04-12 19-32-33| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 19-32-36| 
