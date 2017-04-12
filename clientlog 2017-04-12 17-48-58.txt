@@ -100,4 +100,5 @@
 2017-04-12 17-54-40| <Repair Dock> You need more generals.
 2017-04-12 17-54-47| <> You don't have enough unemployed crewmen.
 2017-04-12 17-54-47| <> You don't have enough unemployed crewmen.
-2017-04-12 17-54-47| 
+2017-04-12 17-54-47| <> You don't have enough unemployed crewmen.
+2017-04-12 17-56-42| 

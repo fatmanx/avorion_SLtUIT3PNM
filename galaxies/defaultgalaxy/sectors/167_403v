@@ -2,31 +2,31 @@
 <view numCrafts="11" numWrecks="11" numAsteroids="485" numStations="9" influence="85.6529922" factionIndex="2000160">
 	<coordinates x="167" y="403"/>
 	<titles>
-		<title str="Trading Post"/>
+		<title str="Shipyard"/>
+		<title str="Resource Depot"/>
 		<title str="Repair Dock"/>
+		<title str="Trading Post"/>
+		<title str="Equipment Dock"/>
 		<title str="${good} Farm ${size}">
 			<arg key="good">Fruit</arg>
 			<arg key="size">S</arg>
 			<arg key="prefix">Fruit /* prefix */</arg>
 			<arg key="plural">Fruits</arg>
 		</title>
-		<title str="Shipyard"/>
-		<title str="Equipment Dock"/>
-		<title str="Biotope"/>
 		<title str="Solar Power Plant ${size}">
 			<arg key="plural">Energy Cells</arg>
 			<arg key="good">Energy Cell</arg>
 			<arg key="size">M</arg>
 			<arg key="prefix">Energy Cell /* prefix */</arg>
 		</title>
+		<title str="Biotope"/>
 		<title str="Military Outpost"/>
-		<title str="Resource Depot"/>
 	</titles>
 	<wormholes>
 		<coordinates x="169" y="400"/>
-		<coordinates x="172" y="408"/>
-		<coordinates x="165" y="407"/>
 		<coordinates x="161" y="401"/>
+		<coordinates x="165" y="407"/>
+		<coordinates x="172" y="408"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="9" faction="2000160"/>

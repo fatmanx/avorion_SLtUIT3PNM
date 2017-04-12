@@ -67,4 +67,8 @@
 2017-04-12 17-53-52| <> You don't have enough unemployed crewmen.
 2017-04-12 17-54-47| <> You don't have enough unemployed crewmen.
 2017-04-12 17-54-47| <> You don't have enough unemployed crewmen.
-2017-04-12 17-54-47| 
+2017-04-12 17-54-47| <> You don't have enough unemployed crewmen.
+2017-04-12 17-56-42| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-12 17-56-43| scheduled save for sector (167:403), 0xb31ddd0, entities: 732
+2017-04-12 17-56-43| saving sector (167:403)
+2017-04-12 17-56-44| 
