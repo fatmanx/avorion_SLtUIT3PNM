@@ -228,4 +228,6 @@
 2017-04-12 20-02-36| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 20-02-55| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
 2017-04-12 20-03-16| <> You have no sector selected.
-2017-04-12 20-04-03| 
+2017-04-12 20-04-03| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
+2017-04-12 20-09-02| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
+2017-04-12 20-09-21| 

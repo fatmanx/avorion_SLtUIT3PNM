@@ -422,4 +422,19 @@
 2017-04-12 20-05-27| bad crewman
 2017-04-12 20-05-56| bad crewman
 2017-04-12 20-05-56| bad crewman
-2017-04-12 20-05-56| 
+2017-04-12 20-05-56| bad crewman
+2017-04-12 20-09-02| starting event piratehunter
+2017-04-12 20-09-06| Triggered saving of all server data.
+2017-04-12 20-09-06| scheduled save for sector (159:376), 0xb321250, entities: 1478
+2017-04-12 20-09-06| saving sector (159:376)
+2017-04-12 20-09-06| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 20-09-06| scheduled save for sector (165:378), 0x56d0aa40, entities: 989
+2017-04-12 20-09-06| saving sector (165:378)
+2017-04-12 20-09-06| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 20-09-06| scheduled save for sector (165:389), 0xb320530, entities: 1039
+2017-04-12 20-09-06| saving sector (165:389)
+2017-04-12 20-09-06| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-12 20-09-06| scheduled save for sector (169:375), 0x2415afc0, entities: 371
+2017-04-12 20-09-06| saving sector (169:375)
+2017-04-12 20-09-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
+2017-04-12 20-09-21| 
