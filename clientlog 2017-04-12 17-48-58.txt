@@ -274,4 +274,16 @@
 2017-04-12 20-47-42| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
 2017-04-12 20-47-42| 	data/scripts/entity/craftorders.lua:27: in function ?
 2017-04-12 20-47-46| Create canvas of size 3200 x 1800... ok
-2017-04-12 20-48-04| 
+2017-04-12 20-48-04| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\xxx.xml"
+2017-04-12 20-49-06| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-49-06| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-49-07| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-49-07| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-49-26| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-49-26| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-49-27| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-49-27| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-49-28| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-49-28| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-49-30| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-49-30| 
