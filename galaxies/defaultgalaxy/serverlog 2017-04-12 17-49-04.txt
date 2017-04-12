@@ -140,4 +140,5 @@
 2017-04-12 18-09-06| scheduled save for sector (172:408), 0x2f6cda30, entities: 868
 2017-04-12 18-09-06| saving sector (172:408)
 2017-04-12 18-09-06| sector (172:408) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_408"
-2017-04-12 18-13-42| 
+2017-04-12 18-13-42| <> You don't have enough unemployed crewmen.
+2017-04-12 18-15-32| 
