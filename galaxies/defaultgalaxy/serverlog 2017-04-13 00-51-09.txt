@@ -84,4 +84,16 @@
 2017-04-13 00-55-28| sector (177:289) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_289"
 2017-04-13 00-55-28| saving sector (182:296)
 2017-04-13 00-55-29| sector (182:296) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_296"
-2017-04-13 00-56-30| 
+2017-04-13 00-56-30| starting event alienattack
+2017-04-13 01-00-27| scheduled save for sector (165:378), 0x605d920, entities: 950
+2017-04-13 01-00-27| saving sector (165:378)
+2017-04-13 01-00-27| scheduled save for sector (159:376), 0x10f20b20, entities: 1462
+2017-04-13 01-00-27| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-13 01-00-27| saving sector (159:376)
+2017-04-13 01-00-27| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-13 01-00-29| scheduled save for sector (165:389), 0x11efb7c0, entities: 1056
+2017-04-13 01-00-29| saving sector (165:389)
+2017-04-13 01-00-29| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-13 01-00-29| scheduled save for sector (169:375), 0x1caac470, entities: 359
+2017-04-13 01-00-29| saving sector (169:375)
+2017-04-13 01-00-29| 
