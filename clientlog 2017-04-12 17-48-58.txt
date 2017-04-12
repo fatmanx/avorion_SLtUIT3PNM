@@ -120,4 +120,18 @@
 2017-04-12 18-15-33| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-12 18-17-05| <> You don't have enough unemployed crewmen.
 2017-04-12 18-17-22| <> You don't have enough unemployed crewmen.
-2017-04-12 18-17-22| 
+2017-04-12 18-17-22| <> You don't have enough unemployed crewmen.
+2017-04-12 18-18-32| <Server> The signals are growing stronger.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| 

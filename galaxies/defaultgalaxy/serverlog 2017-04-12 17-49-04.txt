@@ -144,4 +144,18 @@
 2017-04-12 18-15-32| starting event alienattack
 2017-04-12 18-17-05| <> You don't have enough unemployed crewmen.
 2017-04-12 18-17-22| <> You don't have enough unemployed crewmen.
-2017-04-12 18-17-22| 
+2017-04-12 18-17-22| <> You don't have enough unemployed crewmen.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| 
