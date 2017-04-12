@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="3" numWrecks="89" numAsteroids="885" numStations="2" influence="19.0340004" factionIndex="2000628">
+<view numCrafts="3" numWrecks="38" numAsteroids="885" numStations="2" influence="19.0340004" factionIndex="2000628">
 	<coordinates x="165" y="378"/>
 	<titles>
 		<title str="Shipyard"/>

@@ -383,4 +383,5 @@
 2017-04-12 03-02-36| <> You need more sergeants.
 2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
 2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
-2017-04-12 03-02-39| 
+2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
+2017-04-12 03-04-13| 

@@ -551,4 +551,27 @@
 2017-04-12 03-02-39| sector (158:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_368"
 2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
 2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
-2017-04-12 03-02-39| 
+2017-04-12 03-02-39| <> You don't have enough unemployed crewmen.
+2017-04-12 03-03-31| Triggered saving of all server data.
+2017-04-12 03-03-32| scheduled save for sector (155:391), 0x1a3fbd30, entities: 1073
+2017-04-12 03-03-32| saving sector (155:391)
+2017-04-12 03-03-32| sector (155:391) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_391"
+2017-04-12 03-03-32| scheduled save for sector (157:381), 0xb2b93a0, entities: 1346
+2017-04-12 03-03-32| saving sector (157:381)
+2017-04-12 03-03-32| sector (157:381) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_381"
+2017-04-12 03-03-32| scheduled save for sector (158:374), 0xb2b5f20, entities: 1059
+2017-04-12 03-03-32| saving sector (158:374)
+2017-04-12 03-03-32| sector (158:374) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_374"
+2017-04-12 03-03-32| scheduled save for sector (159:376), 0x10e630b0, entities: 1481
+2017-04-12 03-03-32| saving sector (159:376)
+2017-04-12 03-03-32| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 03-03-32| scheduled save for sector (165:378), 0x62fae70, entities: 937
+2017-04-12 03-03-32| saving sector (165:378)
+2017-04-12 03-03-33| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 03-03-41| scheduled save for sector (165:378), 0x62fae70, entities: 937
+2017-04-12 03-03-41| saving sector (165:378)
+2017-04-12 03-03-41| scheduled save for sector (158:374), 0xb2b5f20, entities: 1059
+2017-04-12 03-03-41| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 03-03-41| saving sector (158:374)
+2017-04-12 03-03-42| sector (158:374) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_374"
+2017-04-12 03-04-13| 
