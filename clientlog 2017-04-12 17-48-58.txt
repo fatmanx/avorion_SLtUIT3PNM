@@ -220,4 +220,5 @@
 2017-04-12 19-47-50| 	data/scripts/entity/craftorders.lua:27: in function ?
 2017-04-12 19-50-04| <Server> The signals are growing stronger.
 2017-04-12 19-51-04| <Server> A group of alien ships warped in!
-2017-04-12 19-54-37| 
+2017-04-12 19-54-37| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-12 19-56-23| 
