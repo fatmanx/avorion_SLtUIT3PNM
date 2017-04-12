@@ -217,4 +217,5 @@
 2017-04-13 01-58-02| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 01-58-08| <Server> A small group of alien ships appeared!
 2017-04-13 01-58-30| <> You cannot build this. The block overlaps too much with another block.
-2017-04-13 01-58-39| 
+2017-04-13 01-58-39| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 01-59-40| 
