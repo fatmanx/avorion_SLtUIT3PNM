@@ -163,4 +163,6 @@
 2017-04-12 18-44-48| <> Your ship doesn't support more of this turret type.
 2017-04-12 18-44-50| <> Your ship doesn't support more of this turret type.
 2017-04-12 18-44-50| <> Your ship doesn't support more of this turret type.
-2017-04-12 18-45-23| 
+2017-04-12 18-45-23| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
+2017-04-12 18-46-15| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-12 18-46-54| 
