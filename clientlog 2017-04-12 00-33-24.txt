@@ -452,4 +452,6 @@
 2017-04-12 03-30-57| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
 2017-04-12 03-31-31| <> You don't have enough unemployed crewmen.
 2017-04-12 03-31-31| <> You don't have enough unemployed crewmen.
-2017-04-12 03-31-31| 
+2017-04-12 03-31-31| <> You don't have enough unemployed crewmen.
+2017-04-12 03-32-41| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
+2017-04-12 03-33-11| 

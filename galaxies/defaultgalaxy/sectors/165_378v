@@ -2,13 +2,13 @@
 <view numCrafts="3" numWrecks="38" numAsteroids="885" numStations="2" influence="19.0340004" factionIndex="2000628">
 	<coordinates x="165" y="378"/>
 	<titles>
-		<title str="Shipyard"/>
 		<title str="Repair Dock"/>
+		<title str="Shipyard"/>
 	</titles>
 	<wormholes>
+		<coordinates x="169" y="375"/>
 		<coordinates x="165" y="389"/>
 		<coordinates x="159" y="376"/>
-		<coordinates x="169" y="375"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="3" faction="2000628"/>

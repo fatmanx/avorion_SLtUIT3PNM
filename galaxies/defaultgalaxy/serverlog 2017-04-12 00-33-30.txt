@@ -669,4 +669,8 @@
 2017-04-12 03-31-31| <> You don't have enough unemployed crewmen.
 2017-04-12 03-31-50| scheduled save for sector (159:376), 0x10e630b0, entities: 1465
 2017-04-12 03-31-50| saving sector (159:376)
-2017-04-12 03-31-51| 
+2017-04-12 03-31-51| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 03-33-11| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-12 03-33-12| scheduled save for sector (165:378), 0xb2b5890, entities: 937
+2017-04-12 03-33-12| saving sector (165:378)
+2017-04-12 03-33-12| 
