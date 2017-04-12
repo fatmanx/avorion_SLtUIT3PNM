@@ -89,4 +89,5 @@
 2017-04-12 17-59-06| scheduled save for sector (169:375), 0x1ba28c90, entities: 365
 2017-04-12 17-59-06| saving sector (169:375)
 2017-04-12 17-59-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
-2017-04-12 18-00-47| 
+2017-04-12 18-00-47| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 18-01-39| 
