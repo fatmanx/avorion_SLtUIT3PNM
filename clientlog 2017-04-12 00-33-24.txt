@@ -448,4 +448,5 @@
 2017-04-12 03-28-55| <Noble Metal Mine ${size}> You need more generals.
 2017-04-12 03-28-55| <Noble Metal Mine ${size}> You need more generals.
 2017-04-12 03-28-56| <Noble Metal Mine ${size}> You need more generals.
-2017-04-12 03-30-05| 
+2017-04-12 03-30-05| <> You have no sector selected.
+2017-04-12 03-30-57| 
