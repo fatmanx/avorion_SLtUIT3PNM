@@ -413,4 +413,7 @@
 2017-04-12 19-59-06| saving sector (169:375)
 2017-04-12 19-59-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-12 20-02-36| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 20-03-16| 
+2017-04-12 20-03-16| <> You have no sector selected.
+2017-04-12 20-05-23| bad crewman
+2017-04-12 20-05-23| bad crewman
+2017-04-12 20-05-24| 
