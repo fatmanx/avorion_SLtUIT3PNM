@@ -175,4 +175,5 @@
 2017-04-12 19-00-42| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
 2017-04-12 19-01-35| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
 2017-04-12 19-03-35| Create canvas of size 3200 x 1800... ok
-2017-04-12 19-06-45| 
+2017-04-12 19-06-45| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
+2017-04-12 19-08-09| 
