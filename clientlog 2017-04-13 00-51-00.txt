@@ -211,4 +211,8 @@
 2017-04-13 01-48-15| Create Entity Message discarded: wrong sector
 2017-04-13 01-51-32| <The Followers of Oialq'> Thank you for helping us. You have our endless gratitude.
 2017-04-13 01-54-09| <Server> Your sensors picked up a short burst of subspace signals.
-2017-04-13 01-57-08| 
+2017-04-13 01-57-08| <Server> More strange subspace signals, they're getting stronger.
+2017-04-13 01-57-35| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 01-57-38| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 01-58-02| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 01-58-08| 

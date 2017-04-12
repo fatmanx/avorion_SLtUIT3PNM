@@ -234,4 +234,7 @@
 2017-04-13 01-53-14| scheduled save for sector (174:376), 0x13e0c490, entities: 1436
 2017-04-13 01-53-14| saving sector (174:376)
 2017-04-13 01-53-14| sector (174:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_376"
-2017-04-13 01-54-08| 
+2017-04-13 01-54-08| starting event alienattack
+2017-04-13 01-57-34| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 01-57-38| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 01-58-02| 
