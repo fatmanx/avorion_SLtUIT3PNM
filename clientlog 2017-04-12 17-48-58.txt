@@ -297,4 +297,7 @@
 2017-04-12 20-53-18| <Server> Pirates are attacking the sector!
 2017-04-12 20-53-53| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (167:367), someone help, please!
 2017-04-12 20-53-53| <> You have received a distress signal by an unknown source.
-2017-04-12 20-54-33| 
+2017-04-12 20-54-33| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\xxx2.xml"
+2017-04-12 20-55-02| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 20-55-23| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 20-55-27| 
