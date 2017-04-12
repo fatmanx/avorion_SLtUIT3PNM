@@ -101,4 +101,5 @@
 2017-04-13 01-09-32| <> You don't have any of this turret.
 2017-04-13 01-10-06| <> You don't have any of this turret.
 2017-04-13 01-10-43| <> You don't have any of this turret.
-2017-04-13 01-11-28| 
+2017-04-13 01-11-28| <Server> Pirates are attacking the sector!
+2017-04-13 01-16-38| 
