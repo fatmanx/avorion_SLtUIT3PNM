@@ -93,4 +93,5 @@
 2017-04-13 00-51-25| <Server> Player fatmanone joined the galaxy
 2017-04-13 00-54-59| <> This sector is out of reach with this ship.
 2017-04-13 00-55-25| <Server> Moving player fatmanone to sector (174:293).
-2017-04-13 00-56-31| 
+2017-04-13 00-56-31| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-13 00-59-31| 
