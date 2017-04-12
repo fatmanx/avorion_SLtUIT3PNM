@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="9" numWrecks="11" numAsteroids="485" numStations="9" influence="85.6529922" factionIndex="2000160">
+<view numCrafts="13" numWrecks="13" numAsteroids="485" numStations="9" influence="85.6529922" factionIndex="2000160">
 	<coordinates x="167" y="403"/>
 	<titles>
 		<title str="Shipyard"/>
@@ -29,7 +29,7 @@
 		<coordinates x="172" y="408"/>
 	</wormholes>
 	<shipNumbers>
-		<ships n="8" faction="2000160"/>
-		<ships n="1" faction="2001124"/>
+		<ships n="1" faction="1"/>
+		<ships n="12" faction="2000160"/>
 	</shipNumbers>
 </view>
