@@ -642,4 +642,6 @@
 2017-04-12 03-23-32| sector (157:381) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\157_381"
 2017-04-12 03-23-32| scheduled save for sector (159:376), 0x10e630b0, entities: 1472
 2017-04-12 03-23-32| saving sector (159:376)
-2017-04-12 03-23-32| 
+2017-04-12 03-23-32| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 03-24-26| error constructing Entity: Entity with index 1494 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 03-24-26| 
