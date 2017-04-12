@@ -105,4 +105,5 @@
 2017-04-13 01-16-38| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-13 01-19-05| <Server> Moving player fatmanone to sector (171:378).
 2017-04-13 01-19-05| <Object Detector> Valuable objects detected.
-2017-04-13 01-19-37| 
+2017-04-13 01-19-37| <Server> The signals are growing stronger.
+2017-04-13 01-20-38| 
