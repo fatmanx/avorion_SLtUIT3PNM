@@ -149,4 +149,5 @@
 2017-04-12 18-19-03| <> You don't have enough unemployed crewmen.
 2017-04-12 18-19-03| <> You don't have enough unemployed crewmen.
 2017-04-12 18-19-03| <> You don't have enough unemployed crewmen.
-2017-04-12 18-19-32| 
+2017-04-12 18-19-32| <Server> A group of alien ships warped in!
+2017-04-12 18-27-26| 
