@@ -408,4 +408,5 @@
 2017-04-12 03-07-13| <> You don't have enough unemployed crewmen.
 2017-04-12 03-09-15| <> You don't have enough unemployed crewmen.
 2017-04-12 03-09-15| <> You don't have enough unemployed crewmen.
-2017-04-12 03-09-15| 
+2017-04-12 03-09-15| <> You don't have enough unemployed crewmen.
+2017-04-12 03-11-41| 
