@@ -1,0 +1,93 @@
+2017-04-13 00-51-00| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-13 00-51-00| Enabled Traces: 
+2017-04-13 00-51-00| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-13 00-51-00| CPU: GenuineIntel 8 Cores
+2017-04-13 00-51-00| Init Steamworks...Installed Steam exception handler
+2017-04-13 00-51-00| Init Steamworks... ok
+2017-04-13 00-51-00| Init Steamworks ok
+2017-04-13 00-51-00| Init SDL2... ok
+2017-04-13 00-51-00| Getting display mode... ok
+2017-04-13 00-51-00| Current display mode: 1920 x 1080
+2017-04-13 00-51-00| Creating settings... loading... setting language... ok
+2017-04-13 00-51-00| Creating client window...Creating normal window
+2017-04-13 00-51-00| Detected 2 displays
+2017-04-13 00-51-00| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-13 00-51-00| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-13 00-51-00| Using display 0
+2017-04-13 00-51-00| Creating window, x: 0, y: 0, w: 1600, h: 900... ok
+2017-04-13 00-51-00| GetDrawableSize: 1600 900
+2017-04-13 00-51-00| GetWindowSize: 1600 900
+2017-04-13 00-51-00| Creating GL context... ok
+2017-04-13 00-51-00| Setting window mode Windowed... ok
+2017-04-13 00-51-00| Creating client window ok
+2017-04-13 00-51-00| Init rendering... starting rendering... initialize...OpenGL Context Information:
+2017-04-13 00-51-00| Version: 4.5
+2017-04-13 00-51-00| VersionString: 4.5.0 NVIDIA 378.49
+2017-04-13 00-51-00| Vendor: NVIDIA Corporation
+2017-04-13 00-51-00| Renderer: GeForce GTX 760/PCIe/SSE2
+2017-04-13 00-51-00| GLSL Version: 4.50 NVIDIA
+2017-04-13 00-51-00| GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+2017-04-13 00-51-00| GL_MAX_VERTEX_UNIFORM_VECTORS: 1024
+2017-04-13 00-51-00| GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+2017-04-13 00-51-00| GL_MAX_ELEMENTS_INDICES: 1048576
+2017-04-13 00-51-00| GL_MAX_ELEMENTS_VERTICES: 1048576
+2017-04-13 00-51-00| GL_MAX_RENDERBUFFER_SIZE: 16384
+2017-04-13 00-51-00| GL_MAX_TEXTURE_SIZE: 16384
+2017-04-13 00-51-00| GL_MAX_VERTEX_ATTRIBS: 16
+2017-04-13 00-51-00| GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+2017-04-13 00-51-00| Init GLEW... ok
+2017-04-13 00-51-00| Init Debug Message Callback... ok
+2017-04-13 00-51-00| Set VSync... ok
+2017-04-13 00-51-00| Secure BackBuffer... ok
+2017-04-13 00-51-00| Init Canvas...Create canvas of size 3200 x 1800... ok
+2017-04-13 00-51-00| Init Canvas ok
+2017-04-13 00-51-00| Init Refraction Texture... ok
+2017-04-13 00-51-00| Init Post Processing... ok
+2017-04-13 00-51-00| Init Debug Renderers... ok
+2017-04-13 00-51-00| DepthTexturesSupported: yes
+2017-04-13 00-51-00| IntVertexAttributesSupported: yes
+2017-04-13 00-51-00| DeferredSupported: yes
+2017-04-13 00-51-00| LowSpecGPUDetected: no
+2017-04-13 00-51-00| Rendering initialized
+2017-04-13 00-51-00| Init rendering ok
+2017-04-13 00-51-00| Check problematic drivers... ok
+2017-04-13 00-51-00| Init shader level... ok
+2017-04-13 00-51-00| Init loading screen... ok
+2017-04-13 00-51-00| Draw first loading screen... draw... ok
+2017-04-13 00-51-00| Init SFX... ok
+2017-04-13 00-51-00| Init Input... ok
+2017-04-13 00-51-00| Init GameInput... ok
+2017-04-13 00-51-00| Init Main Menu... ok
+2017-04-13 00-51-03| Init Music... ok
+2017-04-13 00-51-03| Apply loaded settings... ok
+2017-04-13 00-51-03| Adjust settings to GPU... ok
+2017-04-13 00-51-03| Client initialized
+2017-04-13 00-51-03| Received stats and achievements from Steam
+2017-04-13 00-51-03| STAT_PIRATES_DESTROYED: 155i
+2017-04-13 00-51-03| STAT_XSOTAN_DESTROYED: 84i
+2017-04-13 00-51-03| STAT_CIVIL_SHIPS_DESTROYED: 1i
+2017-04-13 00-51-03| STAT_SHIPS_DESTROYED: 7i
+2017-04-13 00-51-03| STAT_STATIONS_DESTROYED: 0i
+2017-04-13 00-51-03| STAT_RESOURCES_MINED: 71759i
+2017-04-13 00-51-03| STAT_GOODS_TRADED: 64i
+2017-04-13 00-51-03| STAT_GOODS_SOLD: 1i
+2017-04-13 00-51-03| STAT_GOODS_BOUGHT: 63i
+2017-04-13 00-51-03| STAT_GATES_USED: 93i
+2017-04-13 00-51-03| STAT_WORMHOLES_USED: 2i
+2017-04-13 00-51-03| STAT_JUMPS_USED: 79i
+2017-04-13 00-51-03| STAT_SECTORS_DISCOVERED: 144i
+2017-04-13 00-51-03| STAT_SECTORS_TRAVELED: 1736.97f
+2017-04-13 00-51-03| STAT_METERS_FLOWN: 16240379i
+2017-04-13 00-51-09| Starting server 'bin/AvorionServer.exe' with arguments '--galaxy-name defaultgalaxy --server-name fatmanone's Server --port 27000 --public 0 --listed 0 --authentication 0 --exit-on-last-admin-logout --admin 76561197970945365 --use-steam-networking 1 --threads 7 '
+2017-04-13 00-51-09| Connecting to 127.0.0.1:27000, query port: 27003
+2017-04-13 00-51-15| Waiting for Online polling threads
+2017-04-13 00-51-15| Online polling threads finished
+2017-04-13 00-51-15| Waiting for LAN polling threads
+2017-04-13 00-51-15| LAN polling threads finished
+2017-04-13 00-51-15| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 00-51-15| remote address: ip, init: steam
+2017-04-13 00-51-15| Connecting to server at 127.0.0.1:27000
+2017-04-13 00-51-15| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 00-51-15| Initiating connection with server ID 90108098721525760
+2017-04-13 00-51-19| Authentication successful!
+2017-04-13 00-51-25| 
