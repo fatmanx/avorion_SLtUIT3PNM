@@ -259,4 +259,7 @@
 2017-04-12 20-46-28| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
 2017-04-12 20-46-28| 	data/scripts/entity/craftorders.lua:27: in function ?
 2017-04-12 20-46-36| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
-2017-04-12 20-46-36| 
+2017-04-12 20-46-36| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 20-46-46| <Mobile Resource Merchant Tuirqear> Hello Everybody! Mobile Resource Merchant Tuirqear here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-12 20-47-36| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 20-47-36| 
