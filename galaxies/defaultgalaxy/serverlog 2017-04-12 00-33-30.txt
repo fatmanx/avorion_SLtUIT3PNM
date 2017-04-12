@@ -574,4 +574,6 @@
 2017-04-12 03-03-41| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
 2017-04-12 03-03-41| saving sector (158:374)
 2017-04-12 03-03-42| sector (158:374) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_374"
-2017-04-12 03-04-13| 
+2017-04-12 03-04-13| <> You were damaged recently. You have to wait another 25 seconds until you can repair your ship.
+2017-04-12 03-04-21| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-04-12 03-04-27| 
