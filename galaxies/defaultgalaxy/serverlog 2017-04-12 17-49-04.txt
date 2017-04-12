@@ -90,4 +90,24 @@
 2017-04-12 17-59-06| saving sector (169:375)
 2017-04-12 17-59-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-12 18-00-47| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 18-01-39| 
+2017-04-12 18-01-39| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 18-02-06| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 18-02-46| scheduled save for sector (167:403), 0xb31ddd0, entities: 750
+2017-04-12 18-02-46| saving sector (167:403)
+2017-04-12 18-02-47| sector (167:403) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\167_403"
+2017-04-12 18-02-47| Player fatmanone moved to sector (167:403)from (165:378) server time taken for change: 278ms
+2017-04-12 18-02-47| scheduled save for sector (165:378), 0x5f800e0, entities: 915
+2017-04-12 18-02-47| saving sector (165:378)
+2017-04-12 18-02-47| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 18-02-48| scheduled save for sector (161:401), 0x2f9e64e0, entities: 613
+2017-04-12 18-02-48| saving sector (161:401)
+2017-04-12 18-02-48| scheduled save for sector (169:400), 0x2f9e6b70, entities: 443
+2017-04-12 18-02-48| sector (161:401) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\161_401"
+2017-04-12 18-02-48| saving sector (169:400)
+2017-04-12 18-02-48| sector (169:400) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_400"
+2017-04-12 18-02-48| scheduled save for sector (172:408), 0x2f6cda30, entities: 867
+2017-04-12 18-02-48| saving sector (172:408)
+2017-04-12 18-02-48| sector (172:408) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_408"
+2017-04-12 18-02-49| scheduled save for sector (165:407), 0x2f6cd3a0, entities: 1294
+2017-04-12 18-02-49| saving sector (165:407)
+2017-04-12 18-02-49| 

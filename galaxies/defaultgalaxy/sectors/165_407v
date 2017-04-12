@@ -8,19 +8,11 @@
 			<arg key="prefix">Aluminium /* prefix */</arg>
 			<arg key="size">S</arg>
 		</title>
-		<title str="Resource Depot"/>
-		<title str="Trading Post"/>
 		<title str="${good} Mine ${size}">
 			<arg key="plural">Silicium</arg>
 			<arg key="prefix">Silicium /* prefix */</arg>
 			<arg key="size">S</arg>
 			<arg key="good">Silicium</arg>
-		</title>
-		<title str="Ice Mine ${size}">
-			<arg key="size">S</arg>
-			<arg key="plural">Water</arg>
-			<arg key="prefix">Water /* prefix */</arg>
-			<arg key="good">Water</arg>
 		</title>
 		<title str="${good} Mine ${size}">
 			<arg key="good">Lead</arg>
@@ -28,11 +20,19 @@
 			<arg key="prefix">Lead /* prefix */</arg>
 			<arg key="size">S</arg>
 		</title>
+		<title str="Ice Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Water</arg>
+			<arg key="prefix">Water /* prefix */</arg>
+			<arg key="good">Water</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="Trading Post"/>
 	</titles>
 	<wormholes>
-		<coordinates x="167" y="403"/>
-		<coordinates x="159" y="407"/>
 		<coordinates x="171" y="408"/>
+		<coordinates x="159" y="407"/>
+		<coordinates x="167" y="403"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="10" faction="2000160"/>

@@ -5,9 +5,9 @@
 		<title str="Military Outpost"/>
 	</titles>
 	<wormholes>
+		<coordinates x="167" y="403"/>
 		<coordinates x="175" y="409"/>
 		<coordinates x="171" y="408"/>
-		<coordinates x="167" y="403"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="3" faction="2000160"/>
