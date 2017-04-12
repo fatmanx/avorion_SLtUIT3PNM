@@ -209,4 +209,12 @@
 2017-04-12 19-38-41| <Unkown> This is a distress call! Our position is (158:372) We are under attack by pirates, please help!
 2017-04-12 19-38-41| <> You have received a distress signal by an unknown source.
 2017-04-12 19-46-31| <Shipyard> The shipyard is already at maximum capacity.
-2017-04-12 19-47-05| 
+2017-04-12 19-47-05| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-12 19-47-45| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 19-47-45| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 19-47-45| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 19-47-45| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 19-47-46| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 19-47-46| 	data/scripts/entity/craftorders.lua:27: in function ?
+2017-04-12 19-47-50| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 19-47-50| 

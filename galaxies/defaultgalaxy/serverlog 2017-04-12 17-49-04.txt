@@ -371,4 +371,16 @@
 2017-04-12 19-39-06| scheduled save for sector (169:375), 0x2415afc0, entities: 364
 2017-04-12 19-39-06| saving sector (169:375)
 2017-04-12 19-39-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
-2017-04-12 19-47-04| 
+2017-04-12 19-47-04| starting event alienattack
+2017-04-12 19-47-45| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 19-47-45| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-12 19-47-45| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-12 19-47-45| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 19-47-45| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-12 19-47-45| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-12 19-47-46| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 19-47-46| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-12 19-47-46| 	data/scripts/entity/craftorders.lua:269: in function ?
+2017-04-12 19-47-50| error constructing Entity: Entity with index 0 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 19-47-50| 	data/scripts/entity/craftorders.lua:27: in function setAIAction
+2017-04-12 19-47-50| 
