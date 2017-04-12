@@ -185,4 +185,7 @@
 2017-04-12 19-13-26| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
 2017-04-12 19-13-37| <> You don't have enough unemployed crewmen.
 2017-04-12 19-13-37| <> You don't have enough unemployed crewmen.
-2017-04-12 19-14-10| 
+2017-04-12 19-14-10| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 19-14-20| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 19-14-32| <Server> Pirates are attacking the sector!
+2017-04-12 19-14-36| 
