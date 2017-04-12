@@ -2,24 +2,11 @@
 <view numCrafts="8" numWrecks="0" numAsteroids="441" numStations="7" influence="57.1019974" factionIndex="2000628">
 	<coordinates x="172" y="378"/>
 	<titles>
-		<title str="Trading Post"/>
-		<title str="${good} Ranch ${size}">
-			<arg key="prefix">Sheep /* prefix */</arg>
-			<arg key="size">S</arg>
-			<arg key="plural">Sheep</arg>
-			<arg key="good">Sheep</arg>
-		</title>
 		<title str="${good} Farm ${size}">
 			<arg key="size">M</arg>
 			<arg key="good">Fish</arg>
 			<arg key="plural">Fish</arg>
 			<arg key="prefix">Fish /* prefix */</arg>
-		</title>
-		<title str="${good} Ranch ${size}">
-			<arg key="prefix">Sheep /* prefix */</arg>
-			<arg key="plural">Sheep</arg>
-			<arg key="good">Sheep</arg>
-			<arg key="size">S</arg>
 		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="good">Rubber</arg>
@@ -28,18 +15,31 @@
 			<arg key="prefix">Rubber /* prefix */</arg>
 		</title>
 		<title str="${good} Ranch ${size}">
+			<arg key="prefix">Sheep /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Sheep</arg>
+			<arg key="good">Sheep</arg>
+		</title>
+		<title str="Trading Post"/>
+		<title str="Trading Post"/>
+		<title str="${good} Ranch ${size}">
 			<arg key="good">Cattle</arg>
 			<arg key="size">S</arg>
 			<arg key="plural">Cattle</arg>
 			<arg key="prefix">Cattle /* prefix */</arg>
 		</title>
-		<title str="Trading Post"/>
+		<title str="${good} Ranch ${size}">
+			<arg key="prefix">Sheep /* prefix */</arg>
+			<arg key="plural">Sheep</arg>
+			<arg key="good">Sheep</arg>
+			<arg key="size">S</arg>
+		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="173" y="387"/>
 		<coordinates x="176" y="376"/>
 		<coordinates x="171" y="377"/>
 		<coordinates x="171" y="378"/>
+		<coordinates x="173" y="387"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="8" faction="2000628"/>

@@ -102,4 +102,7 @@
 2017-04-13 01-10-06| <> You don't have any of this turret.
 2017-04-13 01-10-43| <> You don't have any of this turret.
 2017-04-13 01-11-28| <Server> Pirates are attacking the sector!
-2017-04-13 01-16-38| 
+2017-04-13 01-16-38| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-13 01-19-05| <Server> Moving player fatmanone to sector (171:378).
+2017-04-13 01-19-05| <Object Detector> Valuable objects detected.
+2017-04-13 01-19-37| 
