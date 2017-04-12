@@ -246,4 +246,5 @@
 2017-04-13 02-01-10| sector (182:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_368"
 2017-04-13 02-01-11| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 02-01-22| <> You cannot build this. The block overlaps too much with another block.
-2017-04-13 02-01-32| 
+2017-04-13 02-01-32| starting event piratehunter
+2017-04-13 02-03-54| 
