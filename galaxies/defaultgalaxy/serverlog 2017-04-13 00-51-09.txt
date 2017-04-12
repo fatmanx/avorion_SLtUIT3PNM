@@ -62,4 +62,25 @@
 2017-04-13 00-51-25| scheduled save for sector (169:375), 0x1caac470, entities: 370
 2017-04-13 00-51-26| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
 2017-04-13 00-51-26| saving sector (169:375)
-2017-04-13 00-51-26| 
+2017-04-13 00-51-26| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
+2017-04-13 00-54-59| <> This sector is out of reach with this ship.
+2017-04-13 00-55-26| scheduled save for sector (174:293), 0x125ab5a0, entities: 1050
+2017-04-13 00-55-26| saving sector (174:293)
+2017-04-13 00-55-27| sector (174:293) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_293"
+2017-04-13 00-55-27| scheduled save for sector (174:293), 0x125ab5a0, entities: 1076
+2017-04-13 00-55-27| saving sector (174:293)
+2017-04-13 00-55-27| sector (174:293) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_293"
+2017-04-13 00-55-27| Player fatmanone moved to sector (174:293)from (165:378) server time taken for change: 491ms
+2017-04-13 00-55-27| scheduled save for sector (165:378), 0x605d920, entities: 930
+2017-04-13 00-55-27| saving sector (165:378)
+2017-04-13 00-55-27| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-13 00-55-28| Warning, can't keep up, skipping 1 frames...
+2017-04-13 00-55-28| scheduled save for sector (171:294), 0x3be78ed0, entities: 717
+2017-04-13 00-55-28| saving sector (171:294)
+2017-04-13 00-55-28| sector (171:294) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_294"
+2017-04-13 00-55-28| scheduled save for sector (177:289), 0x3be79bf0, entities: 722
+2017-04-13 00-55-28| saving sector (177:289)
+2017-04-13 00-55-28| scheduled save for sector (182:296), 0x3be79560, entities: 1071
+2017-04-13 00-55-28| sector (177:289) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_289"
+2017-04-13 00-55-28| saving sector (182:296)
+2017-04-13 00-55-29| 

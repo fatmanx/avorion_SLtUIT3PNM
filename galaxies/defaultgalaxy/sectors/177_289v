@@ -3,8 +3,8 @@
 	<coordinates x="177" y="289"/>
 	<titles>
 		<title str="Resource Depot"/>
-		<title str="Trading Post"/>
 		<title str="Repair Dock"/>
+		<title str="Trading Post"/>
 	</titles>
 	<wormholes>
 		<coordinates x="185" y="291"/>

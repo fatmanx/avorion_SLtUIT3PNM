@@ -3,12 +3,6 @@
 	<coordinates x="182" y="296"/>
 	<titles>
 		<title str="Shipyard"/>
-		<title str="${good} Factory ${size}">
-			<arg key="good">Antigrav Unit</arg>
-			<arg key="prefix">Antigrav Unit /* prefix */</arg>
-			<arg key="size">XL</arg>
-			<arg key="plural">Antigrav Units</arg>
-		</title>
 		<title str="Resource Depot"/>
 		<title str="Repair Dock"/>
 		<title str="Trading Post"/>
@@ -18,6 +12,12 @@
 			<arg key="plural">Rockets</arg>
 			<arg key="prefix">Rocket /* prefix */</arg>
 			<arg key="good">Rocket</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Antigrav Unit</arg>
+			<arg key="prefix">Antigrav Unit /* prefix */</arg>
+			<arg key="size">XL</arg>
+			<arg key="plural">Antigrav Units</arg>
 		</title>
 		<title str="${good} Ranch ${size}">
 			<arg key="size">XL</arg>

@@ -90,4 +90,6 @@
 2017-04-13 00-51-15| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
 2017-04-13 00-51-15| Initiating connection with server ID 90108098721525760
 2017-04-13 00-51-19| Authentication successful!
-2017-04-13 00-51-25| 
+2017-04-13 00-51-25| <Server> Player fatmanone joined the galaxy
+2017-04-13 00-54-59| <> This sector is out of reach with this ship.
+2017-04-13 00-55-25| 
