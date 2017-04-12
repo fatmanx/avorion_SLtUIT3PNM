@@ -158,4 +158,33 @@
 2017-04-12 18-18-57| <> You need more sergeants.
 2017-04-12 18-18-57| <> You need more sergeants.
 2017-04-12 18-18-57| <> You need more sergeants.
-2017-04-12 18-18-57| 
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-18-57| <> You need more sergeants.
+2017-04-12 18-19-03| <> You don't have enough unemployed crewmen.
+2017-04-12 18-19-03| <> You don't have enough unemployed crewmen.
+2017-04-12 18-19-03| <> You don't have enough unemployed crewmen.
+2017-04-12 18-19-05| Triggered saving of all server data.
+2017-04-12 18-19-05| scheduled save for sector (161:401), 0x2f9e64e0, entities: 610
+2017-04-12 18-19-05| saving sector (161:401)
+2017-04-12 18-19-05| sector (161:401) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\161_401"
+2017-04-12 18-19-05| scheduled save for sector (165:407), 0x2f6cd3a0, entities: 1312
+2017-04-12 18-19-05| saving sector (165:407)
+2017-04-12 18-19-06| sector (165:407) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_407"
+2017-04-12 18-19-06| scheduled save for sector (167:403), 0xb31ddd0, entities: 758
+2017-04-12 18-19-06| saving sector (167:403)
+2017-04-12 18-19-06| sector (167:403) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\167_403"
+2017-04-12 18-19-06| scheduled save for sector (169:400), 0x2f9e6b70, entities: 435
+2017-04-12 18-19-06| saving sector (169:400)
+2017-04-12 18-19-06| sector (169:400) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_400"
+2017-04-12 18-19-06| scheduled save for sector (172:408), 0x2f6cda30, entities: 861
+2017-04-12 18-19-06| saving sector (172:408)
+2017-04-12 18-19-06| 
