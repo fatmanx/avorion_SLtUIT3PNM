@@ -209,4 +209,5 @@
 2017-04-13 01-48-15| Create Entity Message discarded: wrong sector
 2017-04-13 01-48-15| Create Entity Message discarded: wrong sector
 2017-04-13 01-48-15| Create Entity Message discarded: wrong sector
-2017-04-13 01-51-32| 
+2017-04-13 01-51-32| <The Followers of Oialq'> Thank you for helping us. You have our endless gratitude.
+2017-04-13 01-54-09| 
