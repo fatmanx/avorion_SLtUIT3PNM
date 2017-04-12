@@ -231,4 +231,6 @@
 2017-04-12 20-04-03| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
 2017-04-12 20-09-02| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
 2017-04-12 20-09-21| <S.I.I.> Insurance Fraud detected. You won't receive any payments for s3 0.
-2017-04-12 20-10-24| 
+2017-04-12 20-10-24| <The Nuinea Republic> Thank you for taking care of those pirates. We transferred a reward to your account.
+2017-04-12 20-12-27| <The Nuinea Republic> We're under attack! Call in reinforcements, NOW!
+2017-04-12 20-12-27| 
