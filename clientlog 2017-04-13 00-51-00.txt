@@ -227,4 +227,5 @@
 2017-04-13 02-06-16| <Server> Moving player fatmanone to sector (183:366).
 2017-04-13 02-07-37| <> You have no sector selected.
 2017-04-13 02-14-06| <Server> Your sensors picked up short bursts of subspace signals.
-2017-04-13 02-17-05| 
+2017-04-13 02-17-05| <Server> The signals are growing stronger.
+2017-04-13 02-18-05| 
