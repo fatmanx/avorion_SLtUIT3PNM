@@ -237,4 +237,6 @@
 2017-04-13 01-54-08| starting event alienattack
 2017-04-13 01-57-34| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 01-57-38| <> You cannot build this. The block overlaps too much with another block.
-2017-04-13 01-58-02| 
+2017-04-13 01-58-02| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 01-58-30| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 01-58-39| 
