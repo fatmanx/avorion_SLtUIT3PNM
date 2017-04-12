@@ -168,4 +168,5 @@
 2017-04-12 18-46-54| <Server> Pirates are attacking the sector!
 2017-04-12 18-48-24| <The Aam States> We thank you for taking care of those ships. We transferred a reward to your account.
 2017-04-12 18-49-14| <Server> More strange subspace signals, they're getting stronger.
-2017-04-12 18-50-14| 
+2017-04-12 18-50-14| <Server> A small group of alien ships appeared!
+2017-04-12 18-52-44| 
