@@ -189,4 +189,5 @@
 2017-04-12 19-14-20| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 19-14-32| <Server> Pirates are attacking the sector!
 2017-04-12 19-14-36| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
-2017-04-12 19-16-02| 
+2017-04-12 19-16-02| <The Nuinea Republic> Thank you for taking care of those pirates. We transferred a reward to your account.
+2017-04-12 19-20-57| 
