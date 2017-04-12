@@ -193,4 +193,6 @@
 2017-04-12 19-20-57| <> The crew of your ship 's3' was paid.
 2017-04-12 19-25-27| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 19-25-51| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 19-26-41| 
+2017-04-12 19-26-41| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
+2017-04-12 19-28-51| <> You don't have any of this turret.
+2017-04-12 19-28-56| 

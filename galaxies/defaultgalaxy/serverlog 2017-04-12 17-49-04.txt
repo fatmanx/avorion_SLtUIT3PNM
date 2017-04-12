@@ -335,4 +335,19 @@
 2017-04-12 19-19-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-12 19-20-57| <> The crew of your ship 's3' was paid.
 2017-04-12 19-25-27| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 19-25-51| 
+2017-04-12 19-25-51| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 19-28-51| <> You don't have any of this turret.
+2017-04-12 19-28-56| <> You cannot build a turret at this place. There is already a turret at this position.
+2017-04-12 19-29-05| Triggered saving of all server data.
+2017-04-12 19-29-05| scheduled save for sector (159:376), 0xb321250, entities: 1472
+2017-04-12 19-29-06| saving sector (159:376)
+2017-04-12 19-29-06| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 19-29-06| scheduled save for sector (165:378), 0x56d0aa40, entities: 935
+2017-04-12 19-29-06| saving sector (165:378)
+2017-04-12 19-29-06| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 19-29-06| scheduled save for sector (165:389), 0xb320530, entities: 1034
+2017-04-12 19-29-06| saving sector (165:389)
+2017-04-12 19-29-06| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-12 19-29-06| scheduled save for sector (169:375), 0x2415afc0, entities: 352
+2017-04-12 19-29-06| saving sector (169:375)
+2017-04-12 19-29-06| 
