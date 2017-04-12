@@ -118,4 +118,6 @@
 2017-04-13 01-26-56| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\Gold Mine.xml"
 2017-04-13 01-27-59| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\Gold Mine.xml"
 2017-04-13 01-32-11| <Server> Moving player fatmanone to sector (174:376).
-2017-04-13 01-32-15| 
+2017-04-13 01-32-15| <Object Detector> Valuable objects detected.
+2017-04-13 01-46-54| <Unkown> This is a distress call! Our position is (182:368) We are under attack by pirates, please help!
+2017-04-13 01-46-54| 
