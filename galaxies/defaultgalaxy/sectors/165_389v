@@ -2,7 +2,6 @@
 <view numCrafts="10" numWrecks="0" numAsteroids="905" numStations="6" influence="57.1019974" factionIndex="2000628">
 	<coordinates x="165" y="389"/>
 	<titles>
-		<title str="Trading Post"/>
 		<title str="Accelerator Factory ${size}">
 			<arg key="size">S</arg>
 			<arg key="plural">Neutron Accelerators</arg>
@@ -10,10 +9,10 @@
 			<arg key="prefix">Neutron Accelerator /* prefix */</arg>
 		</title>
 		<title str="${good} Factory ${size}">
-			<arg key="prefix">Steel Tube /* prefix */</arg>
-			<arg key="plural">Steel Tubes</arg>
-			<arg key="good">Steel Tube</arg>
-			<arg key="size">S</arg>
+			<arg key="prefix">Fusion Core /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="good">Fusion Core</arg>
+			<arg key="plural">Fusion Cores</arg>
 		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="prefix">Vehicle /* prefix */</arg>
@@ -22,22 +21,23 @@
 			<arg key="plural">Vehicles</arg>
 		</title>
 		<title str="${good} Factory ${size}">
+			<arg key="prefix">Steel Tube /* prefix */</arg>
+			<arg key="plural">Steel Tubes</arg>
+			<arg key="good">Steel Tube</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Trading Post"/>
+		<title str="${good} Factory ${size}">
 			<arg key="prefix">Servo /* prefix */</arg>
 			<arg key="plural">Servos</arg>
 			<arg key="good">Servo</arg>
 			<arg key="size">S</arg>
 		</title>
-		<title str="${good} Factory ${size}">
-			<arg key="prefix">Fusion Core /* prefix */</arg>
-			<arg key="size">M</arg>
-			<arg key="good">Fusion Core</arg>
-			<arg key="plural">Fusion Cores</arg>
-		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="155" y="391"/>
 		<coordinates x="165" y="378"/>
 		<coordinates x="169" y="391"/>
+		<coordinates x="155" y="391"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="10" faction="2000628"/>

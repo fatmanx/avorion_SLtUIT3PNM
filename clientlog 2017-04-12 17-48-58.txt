@@ -172,4 +172,5 @@
 2017-04-12 18-52-44| <> You don't have enough unemployed crewmen.
 2017-04-12 18-59-28| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-12 19-00-23| <> Jump route calculated.
-2017-04-12 19-00-42| 
+2017-04-12 19-00-42| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
+2017-04-12 19-01-35| 
