@@ -463,4 +463,5 @@
 2017-04-12 03-36-28| <> You don't have enough unemployed crewmen.
 2017-04-12 03-37-34| <Server> More strange subspace signals, they're getting stronger.
 2017-04-12 03-38-25| <> You don't have enough unemployed crewmen.
-2017-04-12 03-38-25| 
+2017-04-12 03-38-25| <> You don't have enough unemployed crewmen.
+2017-04-12 03-38-34| 
