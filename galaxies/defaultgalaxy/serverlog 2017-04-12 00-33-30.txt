@@ -644,4 +644,7 @@
 2017-04-12 03-23-32| saving sector (159:376)
 2017-04-12 03-23-32| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
 2017-04-12 03-24-26| error constructing Entity: Entity with index 1494 doesn't exist at 	[C]:-1: in function Entity
-2017-04-12 03-24-26| 
+2017-04-12 03-24-26| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 03-25-22| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-25-27| error constructing Entity: Entity with index 1698 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 03-25-27| 

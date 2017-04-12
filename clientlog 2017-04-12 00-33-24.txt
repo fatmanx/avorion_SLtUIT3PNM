@@ -437,4 +437,6 @@
 2017-04-12 03-22-47| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 03-22-58| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 03-23-04| <Mobile Merchant Nexi's Catharsis> Hello Everybody! Mobile Merchant Nexi's Catharsis here. I'll be here for the next 15 minutes. Come look at my merchandise!
-2017-04-12 03-23-07| 
+2017-04-12 03-23-07| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
+2017-04-12 03-25-22| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-25-25| 
