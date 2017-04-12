@@ -212,4 +212,15 @@
 2017-04-13 01-41-10| scheduled save for sector (174:376), 0x13e0c490, entities: 1507
 2017-04-13 01-41-10| saving sector (174:376)
 2017-04-13 01-41-10| sector (174:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_376"
-2017-04-13 01-46-54| 
+2017-04-13 01-46-54| starting event convoidistresssignal
+2017-04-13 01-48-14| Creating sector at (182:368)
+2017-04-13 01-48-14| scheduled save for sector (182:368), 0x13936c90, entities: 0
+2017-04-13 01-48-14| saving sector (182:368)
+2017-04-13 01-48-14| sector (182:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_368"
+2017-04-13 01-48-15| scheduled save for sector (182:368), 0x13936c90, entities: 116
+2017-04-13 01-48-15| saving sector (182:368)
+2017-04-13 01-48-15| sector (182:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_368"
+2017-04-13 01-48-15| Player fatmanone moved to sector (182:368)from (174:376) server time taken for change: 81ms
+2017-04-13 01-48-15| scheduled save for sector (174:376), 0x13e0c490, entities: 1506
+2017-04-13 01-48-15| saving sector (174:376)
+2017-04-13 01-48-16| 
