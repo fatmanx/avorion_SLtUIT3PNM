@@ -176,4 +176,8 @@
 2017-04-12 19-01-35| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
 2017-04-12 19-03-35| Create canvas of size 3200 x 1800... ok
 2017-04-12 19-06-45| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
-2017-04-12 19-08-09| 
+2017-04-12 19-08-09| <Mobile Merchant Skaree> Hello Everybody! Mobile Merchant Skaree here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-12 19-09-19| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 19-09-22| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 19-09-23| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 19-09-31| 
