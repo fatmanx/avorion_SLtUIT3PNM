@@ -398,4 +398,17 @@
 2017-04-12 19-49-06| saving sector (169:375)
 2017-04-12 19-49-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-12 19-51-01| Warning, can't keep up, skipping 1 frames...
-2017-04-12 19-54-36| 
+2017-04-12 19-54-36| starting event alienattack
+2017-04-12 19-59-05| Triggered saving of all server data.
+2017-04-12 19-59-06| scheduled save for sector (159:376), 0xb321250, entities: 1478
+2017-04-12 19-59-06| saving sector (159:376)
+2017-04-12 19-59-06| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-12 19-59-06| scheduled save for sector (165:378), 0x56d0aa40, entities: 1007
+2017-04-12 19-59-06| saving sector (165:378)
+2017-04-12 19-59-06| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-12 19-59-06| scheduled save for sector (165:389), 0xb320530, entities: 1049
+2017-04-12 19-59-06| saving sector (165:389)
+2017-04-12 19-59-06| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-12 19-59-06| scheduled save for sector (169:375), 0x2415afc0, entities: 376
+2017-04-12 19-59-06| saving sector (169:375)
+2017-04-12 19-59-06| 

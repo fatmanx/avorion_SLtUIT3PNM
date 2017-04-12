@@ -11,6 +11,7 @@
 	</wormholes>
 	<shipNumbers>
 		<ships n="8" faction="17"/>
-		<ships n="11" faction="2000628"/>
+		<ships n="10" faction="2000628"/>
+		<ships n="1" faction="2001429"/>
 	</shipNumbers>
 </view>

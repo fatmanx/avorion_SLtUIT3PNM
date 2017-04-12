@@ -223,4 +223,5 @@
 2017-04-12 19-54-37| <Server> Your sensors picked up a short burst of subspace signals.
 2017-04-12 19-56-23| <Server> Pirates are attacking the sector!
 2017-04-12 19-57-36| <Server> More strange subspace signals, they're getting stronger.
-2017-04-12 19-58-09| 
+2017-04-12 19-58-09| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
+2017-04-12 19-58-37| 
