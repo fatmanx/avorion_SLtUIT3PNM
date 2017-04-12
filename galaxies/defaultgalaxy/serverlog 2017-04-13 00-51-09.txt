@@ -260,4 +260,11 @@
 2017-04-13 02-06-19| scheduled save for sector (182:368), 0x13936c90, entities: 132
 2017-04-13 02-06-19| saving sector (182:368)
 2017-04-13 02-06-19| sector (182:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_368"
-2017-04-13 02-07-37| 
+2017-04-13 02-07-37| <> You have no sector selected.
+2017-04-13 02-11-10| Triggered saving of all server data.
+2017-04-13 02-11-10| scheduled save for sector (182:368), 0x13936c90, entities: 67
+2017-04-13 02-11-10| saving sector (182:368)
+2017-04-13 02-11-10| sector (182:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_368"
+2017-04-13 02-11-10| scheduled save for sector (183:366), 0x1e06e4e0, entities: 1721
+2017-04-13 02-11-10| saving sector (183:366)
+2017-04-13 02-11-11| 
