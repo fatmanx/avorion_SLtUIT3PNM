@@ -224,4 +224,7 @@
 2017-04-12 19-56-23| <Server> Pirates are attacking the sector!
 2017-04-12 19-57-36| <Server> More strange subspace signals, they're getting stronger.
 2017-04-12 19-58-09| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
-2017-04-12 19-58-37| 
+2017-04-12 19-58-37| <Server> A small group of alien ships appeared!
+2017-04-12 20-02-36| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 20-02-55| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s3 0.xml"
+2017-04-12 20-03-16| 
