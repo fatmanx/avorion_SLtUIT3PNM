@@ -249,4 +249,14 @@
 2017-04-13 02-01-32| starting event piratehunter
 2017-04-13 02-03-54| <> The crew of your ship 's3' was paid.
 2017-04-13 02-06-16| Creating sector at (183:366)
-2017-04-13 02-06-16| 
+2017-04-13 02-06-16| Generating new content for sector (183:366)
+2017-04-13 02-06-19| scheduled save for sector (183:366), 0x1e06e4e0, entities: 1546
+2017-04-13 02-06-19| saving sector (183:366)
+2017-04-13 02-06-19| sector (183:366) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_366"
+2017-04-13 02-06-19| scheduled save for sector (183:366), 0x1e06e4e0, entities: 1546
+2017-04-13 02-06-19| saving sector (183:366)
+2017-04-13 02-06-19| sector (183:366) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_366"
+2017-04-13 02-06-19| Player fatmanone moved to sector (183:366)from (182:368) server time taken for change: 467ms
+2017-04-13 02-06-19| scheduled save for sector (182:368), 0x13936c90, entities: 132
+2017-04-13 02-06-19| saving sector (182:368)
+2017-04-13 02-06-19| 
