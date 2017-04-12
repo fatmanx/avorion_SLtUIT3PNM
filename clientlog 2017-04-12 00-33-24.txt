@@ -431,4 +431,5 @@
 2017-04-12 03-19-16| <The Nuinea Republic> We're under attack! Call in reinforcements, NOW!
 2017-04-12 03-19-17| <The Nuinea Republic> This sector is under attack by another faction!
 2017-04-12 03-19-22| <> You cannot build this. The block overlaps too much with another block.
-2017-04-12 03-19-58| 
+2017-04-12 03-19-58| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s34.xml"
+2017-04-12 03-20-54| 
