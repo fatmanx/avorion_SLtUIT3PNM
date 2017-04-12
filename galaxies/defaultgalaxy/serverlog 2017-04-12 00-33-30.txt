@@ -625,4 +625,11 @@
 2017-04-12 03-20-49| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
 2017-04-12 03-21-59| error constructing Entity: Entity with index 1153 doesn't exist at 	[C]:-1: in function Entity
 2017-04-12 03-21-59| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
-2017-04-12 03-22-06| 
+2017-04-12 03-22-06| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-22-40| error constructing Entity: Entity with index 1642 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 03-22-40| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 03-22-40| error constructing Entity: Entity with index 1642 doesn't exist at 	[C]:-1: in function Entity
+2017-04-12 03-22-40| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-12 03-22-47| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-22-58| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-23-04| 
