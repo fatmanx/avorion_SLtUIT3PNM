@@ -221,4 +221,5 @@
 2017-04-13 01-59-40| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s37.xml"
 2017-04-13 02-01-11| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 02-01-22| <> You cannot build this. The block overlaps too much with another block.
-2017-04-13 02-01-32| 
+2017-04-13 02-01-32| <Server> Pirates are attacking the sector!
+2017-04-13 02-02-27| 
