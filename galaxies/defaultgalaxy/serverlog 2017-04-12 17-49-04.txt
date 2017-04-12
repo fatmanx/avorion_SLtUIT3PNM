@@ -397,4 +397,5 @@
 2017-04-12 19-49-06| scheduled save for sector (169:375), 0x2415afc0, entities: 363
 2017-04-12 19-49-06| saving sector (169:375)
 2017-04-12 19-49-06| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
-2017-04-12 19-51-01| 
+2017-04-12 19-51-01| Warning, can't keep up, skipping 1 frames...
+2017-04-12 19-54-36| 
