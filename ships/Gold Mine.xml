@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<auto_5068592614256607221 accumulateHealth="true" convex="false">
-	<item parent="-1" index="0" maxDurability="6757418" currentDurability="6757418">
+<auto_-2450170518724493287 accumulateHealth="true" convex="false">
+	<item parent="-1" index="0" maxDurability="6757420" currentDurability="6757420">
 		<block lowerX="-16.7919731" lowerY="-13.8564301" lowerZ="-7.63637257" upperX="16.7919731" upperY="13.8564301" upperZ="7.63637257" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
 	</item>
 	<item parent="0" index="1" maxDurability="34216" currentDurability="34216">
@@ -162,7 +162,7 @@
 	<item parent="27" index="53" maxDurability="6425.9082" currentDurability="6425.9082">
 		<block lowerX="-32.9412117" lowerY="-35.5172462" lowerZ="-7.63637257" upperX="-18.0168304" upperY="-11.1013021" upperZ="18.8154716" index="186" material="0" look="4" up="2" color="ffbfaea3"/>
 	</item>
-	<item parent="0" index="54" maxDurability="5649885.5" currentDurability="5649885.5">
+	<item parent="0" index="54" maxDurability="5649887.5" currentDurability="5649887.5">
 		<block lowerX="-14.5278215" lowerY="-16.5035801" lowerZ="-47.3818779" upperX="14.5278215" upperY="16.5035801" upperZ="-7.63637161" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
 	</item>
 	<item parent="54" index="55" maxDurability="47396.6875" currentDurability="47396.6875">
@@ -243,7 +243,7 @@
 	<item parent="54" index="80" maxDurability="2277.6709" currentDurability="2277.6709">
 		<block lowerX="-23.472765" lowerY="-36.6039124" lowerZ="-7.63637161" upperX="-14.5278215" upperY="-16.5035801" upperZ="11.3657188" index="186" material="0" look="4" up="2" color="ffbfaea3"/>
 	</item>
-	<item parent="54" index="81" maxDurability="3988016.25" currentDurability="3988016.25">
+	<item parent="54" index="81" maxDurability="3988018.25" currentDurability="3988018.25">
 		<block lowerX="-6.36565685" lowerY="16.5035782" lowerZ="-13.3227091" upperX="6.36565685" upperY="64.0567169" upperZ="13.3227091" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
 	</item>
 	<item parent="81" index="82" maxDurability="32599.2285" currentDurability="32599.2285">
@@ -567,7 +567,7 @@
 	<item parent="162" index="188" maxDurability="1053.85779" currentDurability="1053.85779">
 		<block lowerX="-19.9985619" lowerY="-56.2643433" lowerZ="14.5538902" upperX="-13.3930511" upperY="-36.7467766" upperZ="26.815321" index="186" material="0" look="4" up="2" color="ffbfaea3"/>
 	</item>
-	<item parent="81" index="189" maxDurability="703187.75" currentDurability="703187.75">
+	<item parent="81" index="189" maxDurability="703189.75" currentDurability="703189.75">
 		<block lowerX="-1.17663121" lowerY="-7.95501566" lowerZ="13.3227091" upperX="1.17663121" upperY="7.95501566" upperZ="20.4453926" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
 	</item>
 	<item parent="189" index="190" maxDurability="687.042175" currentDurability="687.042175">
@@ -576,7 +576,7 @@
 	<item parent="189" index="191" maxDurability="951.379761" currentDurability="951.379761">
 		<block lowerX="-1.17663121" lowerY="-22.1449337" lowerZ="13.3227091" upperX="1.17663121" upperY="-7.95501566" upperZ="20.4453926" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
 	</item>
-	<item parent="189" index="192" maxDurability="20058.1172" currentDurability="20058.1172">
+	<item parent="189" index="192" maxDurability="20060.1172" currentDurability="20060.1172">
 		<block lowerX="1.17663121" lowerY="-7.95501566" lowerZ="13.3227091" upperX="45.426857" upperY="7.95501566" upperZ="20.4453926" index="4" material="0" look="1" up="3" color="ffbfaea3"/>
 	</item>
 	<item parent="189" index="193" maxDurability="20007.4102" currentDurability="20007.4102">
@@ -918,4 +918,7 @@
 	<item parent="302" index="316" maxDurability="193.622894" currentDurability="193.622894">
 		<block lowerX="-40.0360947" lowerY="33.3255844" lowerZ="53.8260727" upperX="-39.5361404" upperY="33.8255844" upperZ="87.8260727" index="11" material="6" look="0" up="3" color="ffbc9f9f"/>
 	</item>
-</auto_5068592614256607221>
+	<item parent="192" index="317" maxDurability="2" currentDurability="2">
+		<block lowerX="45.426857" lowerY="-0.5" lowerZ="16.3840504" upperX="46.426857" upperY="0.5" upperZ="17.3840504" index="11" material="0" look="1" up="3" color="ffbfaea3"/>
+	</item>
+</auto_-2450170518724493287>
