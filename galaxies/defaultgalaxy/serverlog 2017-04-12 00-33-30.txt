@@ -598,4 +598,6 @@
 2017-04-12 03-09-15| <> You don't have enough unemployed crewmen.
 2017-04-12 03-09-15| <> You don't have enough unemployed crewmen.
 2017-04-12 03-09-15| <> You don't have enough unemployed crewmen.
-2017-04-12 03-09-28| 
+2017-04-12 03-09-28| starting event fakedistresssignal
+2017-04-12 03-12-24| <> You cannot build this. The block overlaps too much with another block.
+2017-04-12 03-13-11| 
