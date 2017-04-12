@@ -202,4 +202,6 @@
 2017-04-12 19-29-36| <> Your ship doesn't support more of this turret type.
 2017-04-12 19-32-33| <> You cannot build this. The block overlaps too much with another block.
 2017-04-12 19-32-36| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s35.xml"
-2017-04-12 19-33-50| 
+2017-04-12 19-33-50| <Repair Dock> You must be docked to the station to hire crewmembers.
+2017-04-12 19-34-31| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-12 19-34-50| 
