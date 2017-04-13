@@ -132,4 +132,6 @@
 2017-04-13 21-14-01| <Server> Moving player fatmanone to sector (175:364).
 2017-04-13 21-14-35| <> Jump route calculated.
 2017-04-13 21-15-52| failed to load texture from file "data/textures/icons/ammunition-s.png"
-2017-04-13 21-15-52| 
+2017-04-13 21-15-52| failed to load texture from file "data/textures/icons/ammunition-s.png"
+2017-04-13 21-17-50| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 21-17-59| 
