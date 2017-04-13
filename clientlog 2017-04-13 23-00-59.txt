@@ -94,4 +94,5 @@
 2017-04-13 23-02-48| <Server> Moving player fatmanone to sector (173:418).
 2017-04-13 23-02-49| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 23-02-49| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-13 23-03-06| 
+2017-04-13 23-03-06| <> You have no sector selected.
+2017-04-13 23-04-52| 

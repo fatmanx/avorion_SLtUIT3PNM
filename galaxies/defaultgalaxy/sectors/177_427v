@@ -8,18 +8,18 @@
 			<arg key="good">Ammunition S</arg>
 			<arg key="prefix">Ammunition S /* prefix */</arg>
 		</title>
-		<title str="${good} Mine ${size}">
-			<arg key="prefix">Silicium /* prefix */</arg>
-			<arg key="size">S</arg>
-			<arg key="good">Silicium</arg>
-			<arg key="plural">Silicium</arg>
-		</title>
 		<title str="Resource Depot"/>
 		<title str="${good} Factory ${size}">
 			<arg key="good">Microchip</arg>
 			<arg key="size">S</arg>
 			<arg key="prefix">Microchip /* prefix */</arg>
 			<arg key="plural">Microchips</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="prefix">Silicium /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Silicium</arg>
+			<arg key="plural">Silicium</arg>
 		</title>
 	</titles>
 	<wormholes>
