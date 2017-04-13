@@ -195,4 +195,6 @@
 2017-04-13 19-12-54| <Gate Control> You paid 256 credits passage fee.
 2017-04-13 19-12-54| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 19-12-54| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-13 19-13-55| 
+2017-04-13 19-13-55| <> The crew of your ship 'xxx' was paid.
+2017-04-13 19-15-06| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 19-15-18| 

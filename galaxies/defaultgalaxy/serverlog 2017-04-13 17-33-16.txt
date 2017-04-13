@@ -730,4 +730,13 @@
 2017-04-13 19-13-18| sector (188:307) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_307"
 2017-04-13 19-13-25| No xsotan attacks in neutral zones.
 2017-04-13 19-13-25| starting event alienattack
-2017-04-13 19-13-55| 
+2017-04-13 19-13-55| <> The crew of your ship 'xxx' was paid.
+2017-04-13 19-15-05| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 19-15-18| <> Jump route calculated.
+2017-04-13 19-15-20| scheduled save for sector (183:318), 0x1ed90bc0, entities: 62
+2017-04-13 19-15-20| saving sector (183:318)
+2017-04-13 19-15-20| sector (183:318) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_318"
+2017-04-13 19-15-20| Player fatmanone moved to sector (183:318)from (181:315) server time taken for change: 90ms
+2017-04-13 19-15-20| scheduled save for sector (181:315), 0x1ed8e460, entities: 966
+2017-04-13 19-15-20| saving sector (181:315)
+2017-04-13 19-15-20| 
