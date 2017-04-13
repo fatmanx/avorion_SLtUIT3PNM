@@ -101,4 +101,5 @@
 2017-04-13 17-38-33| <Gate Control> You paid 552 credits passage fee.
 2017-04-13 17-38-43| Received an invoke script message the wrong sector. Coordinates: 174:254
 2017-04-13 17-39-01| <Gate Control> You paid 93 credits passage fee.
-2017-04-13 17-39-56| 
+2017-04-13 17-39-56| <Server> Moving player fatmanone to sector (169:261).
+2017-04-13 17-42-40| 

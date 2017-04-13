@@ -3,9 +3,9 @@
 	<coordinates x="162" y="266"/>
 	<titles/>
 	<wormholes>
-		<coordinates x="158" y="269"/>
 		<coordinates x="163" y="268"/>
 		<coordinates x="167" y="263"/>
+		<coordinates x="158" y="269"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="1" faction="2000587"/>
