@@ -426,4 +426,10 @@
 2017-04-13 18-37-14| saving sector (190:279)
 2017-04-13 18-37-14| sector (190:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\190_279"
 2017-04-13 18-39-28| <> You have no sector selected.
-2017-04-13 18-40-01| 
+2017-04-13 18-40-01| <> You have no sector selected.
+2017-04-13 18-41-30| scheduled save for sector (180:283), 0x1ed90530, entities: 584
+2017-04-13 18-41-30| saving sector (180:283)
+2017-04-13 18-41-30| sector (180:283) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\180_283"
+2017-04-13 18-41-31| scheduled save for sector (183:274), 0x1f2d2e80, entities: 1547
+2017-04-13 18-41-31| saving sector (183:274)
+2017-04-13 18-41-31| 
