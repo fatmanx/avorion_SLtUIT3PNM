@@ -208,4 +208,7 @@
 2017-04-13 09-17-51| scheduled save for sector (498:500), 0xb059780, entities: 0
 2017-04-13 09-17-51| saving sector (498:500)
 2017-04-13 09-17-51| sector (498:500) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\498_500"
-2017-04-13 09-17-58| 
+2017-04-13 09-17-58| <> Jump route calculated.
+2017-04-13 09-19-11| scheduled save for sector (499:498), 0xc01cd70, entities: 0
+2017-04-13 09-19-11| saving sector (499:498)
+2017-04-13 09-19-11| 
