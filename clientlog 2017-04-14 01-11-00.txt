@@ -353,4 +353,5 @@
 2017-04-14 02-31-21| <Server> Moving player fatmanone to sector (162:213).
 2017-04-14 02-33-30| <Server> Moving player fatmanone to sector (145:207).
 2017-04-14 02-35-16| <> You have no sector selected.
-2017-04-14 02-35-17| 
+2017-04-14 02-35-17| <Gate Control> You paid 2162 credits passage fee.
+2017-04-14 02-37-02| 
