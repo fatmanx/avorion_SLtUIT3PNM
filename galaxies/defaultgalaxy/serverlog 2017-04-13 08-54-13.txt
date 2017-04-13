@@ -331,4 +331,14 @@
 2017-04-13 09-28-18| scheduled save for sector (279:281), 0xb05a4a0, entities: 0
 2017-04-13 09-28-18| saving sector (279:281)
 2017-04-13 09-28-18| sector (279:281) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\279_281"
-2017-04-13 09-28-25| 
+2017-04-13 09-28-25| <> Jump route calculated.
+2017-04-13 09-29-05| scheduled save for sector (281:279), 0xb05ab30, entities: 0
+2017-04-13 09-29-05| saving sector (281:279)
+2017-04-13 09-29-05| sector (281:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\281_279"
+2017-04-13 09-29-36| scheduled save for sector (279:281), 0xb05a4a0, entities: 29
+2017-04-13 09-29-36| saving sector (279:281)
+2017-04-13 09-29-36| sector (279:281) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\279_281"
+2017-04-13 09-29-36| Player fatmanone moved to sector (279:281)from (280:281) server time taken for change: 46ms
+2017-04-13 09-29-36| scheduled save for sector (280:281), 0xb059e10, entities: 0
+2017-04-13 09-29-36| saving sector (280:281)
+2017-04-13 09-29-36| 
