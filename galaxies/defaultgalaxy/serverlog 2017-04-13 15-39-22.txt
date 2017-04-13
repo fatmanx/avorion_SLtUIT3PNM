@@ -181,4 +181,7 @@
 2017-04-13 16-11-39| sector (154:209) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\154_209"
 2017-04-13 16-12-04| scheduled save for sector (166:167), 0x4d00670, entities: 860
 2017-04-13 16-12-04| saving sector (166:167)
-2017-04-13 16-12-04| 
+2017-04-13 16-12-04| sector (166:167) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\166_167"
+2017-04-13 16-12-35| scheduled save for sector (107:118), 0x11606890, entities: 150
+2017-04-13 16-12-35| saving sector (107:118)
+2017-04-13 16-12-35| 
