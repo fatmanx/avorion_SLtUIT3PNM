@@ -689,4 +689,17 @@
 2017-04-14 02-44-33| scheduled save for sector (144:201), 0x6e5c5860, entities: 973
 2017-04-14 02-44-33| saving sector (144:201)
 2017-04-14 02-44-33| sector (144:201) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\144_201"
-2017-04-14 02-48-41| 
+2017-04-14 02-48-41| <> The crew of your ship 's3' was paid.
+2017-04-14 02-51-10| Triggered saving of all server data.
+2017-04-14 02-51-10| scheduled save for sector (159:376), 0x8737f030, entities: 1461
+2017-04-14 02-51-10| saving sector (159:376)
+2017-04-14 02-51-10| sector (159:376) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_376"
+2017-04-14 02-51-10| scheduled save for sector (165:378), 0x87385fc0, entities: 1024
+2017-04-14 02-51-10| saving sector (165:378)
+2017-04-14 02-51-10| sector (165:378) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_378"
+2017-04-14 02-51-10| scheduled save for sector (165:389), 0x87386650, entities: 1050
+2017-04-14 02-51-10| saving sector (165:389)
+2017-04-14 02-51-11| sector (165:389) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_389"
+2017-04-14 02-51-11| scheduled save for sector (169:375), 0x8737f6c0, entities: 357
+2017-04-14 02-51-11| saving sector (169:375)
+2017-04-14 02-51-11| 
