@@ -139,4 +139,6 @@
 2017-04-13 23-19-06| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - EVE of Battle.ogg'
 2017-04-13 23-19-06| SDL Mix error: music parameter was NULL
 2017-04-13 23-19-38| <> You have no sector selected.
-2017-04-13 23-19-40| 
+2017-04-13 23-19-40| <Gate Control> You paid 21 credits passage fee.
+2017-04-13 23-20-16| <Gate Control> You paid 21 credits passage fee.
+2017-04-13 23-20-57| 
