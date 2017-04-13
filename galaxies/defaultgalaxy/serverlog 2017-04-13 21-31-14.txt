@@ -636,4 +636,10 @@
 2017-04-13 22-55-45| scheduled save for sector (146:210), 0x3ac0f140, entities: 869
 2017-04-13 22-55-45| saving sector (146:210)
 2017-04-13 22-55-45| sector (146:210) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_210"
-2017-04-13 22-56-02| 
+2017-04-13 22-56-02| starting event convoidistresssignal
+2017-04-13 22-57-12| scheduled save for sector (152:202), 0xba17f10, entities: 631
+2017-04-13 22-57-12| saving sector (152:202)
+2017-04-13 22-57-13| sector (152:202) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\152_202"
+2017-04-13 22-57-13| scheduled save for sector (154:209), 0x27673b80, entities: 1241
+2017-04-13 22-57-13| saving sector (154:209)
+2017-04-13 22-57-13| 
