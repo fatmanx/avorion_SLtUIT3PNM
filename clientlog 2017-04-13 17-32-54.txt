@@ -188,4 +188,6 @@
 2017-04-13 19-03-16| <Gate Control> You paid 318 credits passage fee.
 2017-04-13 19-03-16| <Object Detector> Valuable objects detected.
 2017-04-13 19-06-39| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
-2017-04-13 19-08-14| 
+2017-04-13 19-08-14| <Gate Control> You paid 189 credits passage fee.
+2017-04-13 19-10-45| <Gate Control> You paid 598 credits passage fee.
+2017-04-13 19-10-46| 

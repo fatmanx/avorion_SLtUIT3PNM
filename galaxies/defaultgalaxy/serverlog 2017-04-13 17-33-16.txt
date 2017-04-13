@@ -669,4 +669,16 @@
 2017-04-13 19-08-18| scheduled save for sector (186:314), 0xbed6ab0, entities: 2004
 2017-04-13 19-08-18| saving sector (186:314)
 2017-04-13 19-08-19| sector (186:314) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\186_314"
-2017-04-13 19-08-23| 
+2017-04-13 19-08-23| Received an invoke script message for an entity that does not exist: 824
+2017-04-13 19-10-46| scheduled save for sector (186:314), 0xbed6ab0, entities: 2042
+2017-04-13 19-10-46| saving sector (186:314)
+2017-04-13 19-10-46| sector (186:314) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\186_314"
+2017-04-13 19-10-46| Player fatmanone moved to sector (186:314)from (188:307) server time taken for change: 541ms
+2017-04-13 19-10-46| Creating sector at (184:316)
+2017-04-13 19-10-46| scheduled save for sector (188:307), 0xb2a8100, entities: 846
+2017-04-13 19-10-46| saving sector (188:307)
+2017-04-13 19-10-46| Generating new content for sector (184:316)
+2017-04-13 19-10-46| sector (188:307) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_307"
+2017-04-13 19-10-46| scheduled save for sector (184:316), 0x1ed90530, entities: 3
+2017-04-13 19-10-46| saving sector (184:316)
+2017-04-13 19-10-46| 
