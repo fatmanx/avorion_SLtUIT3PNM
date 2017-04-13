@@ -329,4 +329,5 @@
 2017-04-13 16-30-52| <Equipment Dock> You must be docked to the station to buy items.
 2017-04-13 16-30-52| <Equipment Dock> You must be docked to the station to buy items.
 2017-04-13 16-31-25| <Equipment Dock> Item to buy not found
-2017-04-13 16-33-07| 
+2017-04-13 16-33-07| <Server> Moving player fatmanone to sector (170:274).
+2017-04-13 16-35-59| 
