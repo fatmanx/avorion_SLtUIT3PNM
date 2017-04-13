@@ -470,4 +470,10 @@
 2017-04-13 10-04-14| scheduled save for sector (282:279), 0xb05b850, entities: 438
 2017-04-13 10-04-14| saving sector (282:279)
 2017-04-13 10-04-14| sector (282:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\282_279"
-2017-04-13 10-05-25| 
+2017-04-13 10-05-25| <> The crew of your ship 'xxx' was paid.
+2017-04-13 10-09-27| <> You have no sector selected.
+2017-04-13 10-09-42| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 10-09-42| Creating sector at (286:285)
+2017-04-13 10-09-42| scheduled save for sector (286:285), 0xb05cc00, entities: 0
+2017-04-13 10-09-42| saving sector (286:285)
+2017-04-13 10-09-42| 
