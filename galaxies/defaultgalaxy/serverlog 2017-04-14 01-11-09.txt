@@ -234,4 +234,29 @@
 2017-04-14 02-11-10| scheduled save for sector (150:174), 0x17993070, entities: 958
 2017-04-14 02-11-10| saving sector (150:174)
 2017-04-14 02-11-10| sector (150:174) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\150_174"
-2017-04-14 02-14-41| 
+2017-04-14 02-14-41| starting event alienattack
+2017-04-14 02-14-55| scheduled save for sector (146:175), 0x180ceae0, entities: 48
+2017-04-14 02-14-55| saving sector (146:175)
+2017-04-14 02-14-55| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
+2017-04-14 02-14-55| Player fatmanone moved to sector (146:175)from (149:173) server time taken for change: 81ms
+2017-04-14 02-14-55| scheduled save for sector (149:173), 0xb237b90, entities: 1143
+2017-04-14 02-14-55| saving sector (149:173)
+2017-04-14 02-14-55| scheduled save for sector (142:177), 0x180d0520, entities: 25
+2017-04-14 02-14-55| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-14 02-14-55| saving sector (142:177)
+2017-04-14 02-14-55| sector (142:177) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\142_177"
+2017-04-14 02-15-33| scheduled save for sector (142:177), 0x180d0520, entities: 70
+2017-04-14 02-15-33| saving sector (142:177)
+2017-04-14 02-15-33| sector (142:177) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\142_177"
+2017-04-14 02-15-33| Player fatmanone moved to sector (142:177)from (146:175) server time taken for change: 85ms
+2017-04-14 02-15-33| Creating sector at (137:180)
+2017-04-14 02-15-33| scheduled save for sector (146:175), 0x180ceae0, entities: 3
+2017-04-14 02-15-33| saving sector (146:175)
+2017-04-14 02-15-33| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
+2017-04-14 02-15-33| Generating new content for sector (137:180)
+2017-04-14 02-15-33| scheduled save for sector (144:186), 0x124e4100, entities: 4
+2017-04-14 02-15-33| saving sector (144:186)
+2017-04-14 02-15-33| sector (144:186) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\144_186"
+2017-04-14 02-15-39| scheduled save for sector (137:180), 0x124e4790, entities: 368
+2017-04-14 02-15-39| saving sector (137:180)
+2017-04-14 02-15-39| 

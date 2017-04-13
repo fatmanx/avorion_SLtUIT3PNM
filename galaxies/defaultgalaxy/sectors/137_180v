@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="4" numWrecks="0" numAsteroids="231" numStations="7" influence="57.1019974" factionIndex="2000360">
+	<coordinates x="137" y="180"/>
+	<titles>
+		<title str="${good} Manufacturer ${size}">
+			<arg key="good">Semi Conductor</arg>
+			<arg key="plural">Semi Conductors</arg>
+			<arg key="prefix">Semi Conductor /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="good">Gauss Rail</arg>
+			<arg key="prefix">Gauss Rail /* prefix */</arg>
+			<arg key="plural">Gauss Rail</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="plural">Conductors</arg>
+			<arg key="prefix">Conductor /* prefix */</arg>
+			<arg key="good">Conductor</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="good">Spices</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Spices /* prefix */</arg>
+			<arg key="plural">Spices</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="prefix">Solar Panel /* prefix */</arg>
+			<arg key="plural">Solar Panels</arg>
+			<arg key="good">Solar Panel</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="Trading Post"/>
+	</titles>
+	<wormholes>
+		<coordinates x="136" y="185"/>
+		<coordinates x="142" y="177"/>
+		<coordinates x="132" y="185"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="4" faction="2000360"/>
+	</shipNumbers>
+</view>

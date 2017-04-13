@@ -328,4 +328,6 @@
 2017-04-14 02-14-17| SDL Mix error: music parameter was NULL
 2017-04-14 02-14-18| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Retribution Theme.ogg'
 2017-04-14 02-14-18| SDL Mix error: music parameter was NULL
-2017-04-14 02-14-42| 
+2017-04-14 02-14-42| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-14 02-14-54| <Gate Control> You paid 370 credits passage fee.
+2017-04-14 02-15-33| 
