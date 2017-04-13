@@ -199,4 +199,7 @@
 2017-04-13 09-15-51| Player fatmanone moved to sector (498:499)from (498:498) server time taken for change: 44ms
 2017-04-13 09-15-51| scheduled save for sector (498:498), 0xb942fe0, entities: 0
 2017-04-13 09-15-51| saving sector (498:498)
-2017-04-13 09-15-51| 
+2017-04-13 09-15-51| sector (498:498) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\498_498"
+2017-04-13 09-17-38| scheduled save for sector (500:498), 0xfff4420, entities: 0
+2017-04-13 09-17-38| saving sector (500:498)
+2017-04-13 09-17-38| 
