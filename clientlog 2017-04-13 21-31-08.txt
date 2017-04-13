@@ -111,4 +111,15 @@
 2017-04-13 21-38-15| SDL Mix error: music parameter was NULL
 2017-04-13 21-38-49| <Trading Post> You must be docked to the station to trade.
 2017-04-13 21-38-51| <Trading Post> You must be docked to the station to trade.
-2017-04-13 21-40-28| 
+2017-04-13 21-40-28| <Gate Control> You paid 132 credits passage fee.
+2017-04-13 21-43-01| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Gallente Melody 7.ogg'
+2017-04-13 21-43-01| SDL Mix error: music parameter was NULL
+2017-04-13 21-43-02| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - The Promised Lands.ogg'
+2017-04-13 21-43-02| SDL Mix error: music parameter was NULL
+2017-04-13 21-43-03| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - unknown title.ogg'
+2017-04-13 21-43-03| SDL Mix error: music parameter was NULL
+2017-04-13 21-43-04| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Crucible Theme.ogg'
+2017-04-13 21-43-04| SDL Mix error: music parameter was NULL
+2017-04-13 21-43-05| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Revelations Theme.ogg'
+2017-04-13 21-43-05| SDL Mix error: music parameter was NULL
+2017-04-13 21-43-10| 
