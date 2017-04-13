@@ -165,4 +165,5 @@
 2017-04-13 18-40-03| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
 2017-04-13 18-47-05| <Server> Pirates are attacking the sector!
 2017-04-13 18-48-13| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
-2017-04-13 18-48-13| 
+2017-04-13 18-48-13| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
+2017-04-13 18-50-10| 
