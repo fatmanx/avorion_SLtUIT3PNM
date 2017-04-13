@@ -234,4 +234,17 @@
 2017-04-13 17-47-47| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 17-48-25| scheduled save for sector (169:261), 0x2f176b30, entities: 796
 2017-04-13 17-48-25| saving sector (169:261)
-2017-04-13 17-48-25| 
+2017-04-13 17-48-25| sector (169:261) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_261"
+2017-04-13 17-49-14| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 17-49-28| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 17-49-38| starting event convoidistresssignal
+2017-04-13 17-49-50| scheduled save for sector (170:264), 0x561f0130, entities: 150
+2017-04-13 17-49-50| saving sector (170:264)
+2017-04-13 17-49-50| sector (170:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\170_264"
+2017-04-13 17-49-50| Player fatmanone moved to sector (170:264)from (162:266) server time taken for change: 287ms
+2017-04-13 17-49-50| scheduled save for sector (162:266), 0x11f89d40, entities: 4
+2017-04-13 17-49-50| saving sector (162:266)
+2017-04-13 17-49-50| sector (162:266) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_266"
+2017-04-13 17-49-51| scheduled save for sector (175:264), 0x4669e2c0, entities: 448
+2017-04-13 17-49-51| saving sector (175:264)
+2017-04-13 17-49-51| 

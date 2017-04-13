@@ -116,4 +116,10 @@
 2017-04-13 17-46-59| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 17-46-59| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 17-47-44| <> You cannot build this. The block overlaps too much with another block.
-2017-04-13 17-47-47| 
+2017-04-13 17-47-47| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 17-49-14| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 17-49-28| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 17-49-29| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave17.xml"
+2017-04-13 17-49-33| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
+2017-04-13 17-49-38| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (155:275) ... help!
+2017-04-13 17-49-38| 
