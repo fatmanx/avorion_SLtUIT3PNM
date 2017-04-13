@@ -310,4 +310,6 @@
 2017-04-13 18-00-32| scheduled save for sector (170:264), 0x561f0130, entities: 128
 2017-04-13 18-00-32| saving sector (170:264)
 2017-04-13 18-00-32| sector (170:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\170_264"
-2017-04-13 18-00-57| 
+2017-04-13 18-00-57| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 18-01-35| <> You don't have any of this turret.
+2017-04-13 18-01-42| 
