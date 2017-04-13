@@ -337,4 +337,7 @@
 2017-04-14 02-16-13| <> You have no sector selected.
 2017-04-14 02-16-13| <> You have no sector selected.
 2017-04-14 02-17-04| <Server> Moving player fatmanone to sector (168:300).
-2017-04-14 02-17-41| 
+2017-04-14 02-17-41| <Server> The signals are growing stronger.
+2017-04-14 02-18-10| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Defenders of the Orphic World.ogg'
+2017-04-14 02-18-10| SDL Mix error: music parameter was NULL
+2017-04-14 02-18-42| 
