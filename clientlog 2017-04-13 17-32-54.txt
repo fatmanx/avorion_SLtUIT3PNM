@@ -138,4 +138,5 @@
 2017-04-13 18-02-24| <> Your ship doesn't support more of this turret type.
 2017-04-13 18-02-24| <> Your ship doesn't support more of this turret type.
 2017-04-13 18-02-25| <> Your ship doesn't support more of this turret type.
-2017-04-13 18-02-25| 
+2017-04-13 18-02-25| <> Your ship doesn't support more of this turret type.
+2017-04-13 18-08-22| 
