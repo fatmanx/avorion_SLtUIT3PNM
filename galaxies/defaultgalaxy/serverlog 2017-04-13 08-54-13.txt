@@ -163,4 +163,30 @@
 2017-04-13 09-12-51| scheduled save for sector (498:498), 0xb942fe0, entities: 0
 2017-04-13 09-12-51| saving sector (498:498)
 2017-04-13 09-12-51| sector (498:498) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\498_498"
-2017-04-13 09-12-58| 
+2017-04-13 09-12-58| <> Jump route calculated.
+2017-04-13 09-14-11| scheduled save for sector (498:498), 0xb942fe0, entities: 29
+2017-04-13 09-14-11| saving sector (498:498)
+2017-04-13 09-14-11| sector (498:498) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\498_498"
+2017-04-13 09-14-11| Player fatmanone moved to sector (498:498)from (499:498) server time taken for change: 45ms
+2017-04-13 09-14-11| scheduled save for sector (499:498), 0xc01cd70, entities: 0
+2017-04-13 09-14-11| saving sector (499:498)
+2017-04-13 09-14-11| sector (499:498) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\499_498"
+2017-04-13 09-14-14| Triggered saving of all server data.
+2017-04-13 09-14-14| scheduled save for sector (498:498), 0xb942fe0, entities: 29
+2017-04-13 09-14-14| saving sector (498:498)
+2017-04-13 09-14-14| sector (498:498) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\498_498"
+2017-04-13 09-14-14| scheduled save for sector (499:498), 0xc01cd70, entities: 0
+2017-04-13 09-14-14| saving sector (499:498)
+2017-04-13 09-14-14| sector (499:498) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\499_498"
+2017-04-13 09-14-14| scheduled save for sector (500:498), 0xfff4420, entities: 0
+2017-04-13 09-14-14| saving sector (500:498)
+2017-04-13 09-14-14| sector (500:498) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\500_498"
+2017-04-13 09-14-14| scheduled save for sector (500:499), 0xfe72370, entities: 0
+2017-04-13 09-14-14| saving sector (500:499)
+2017-04-13 09-14-14| sector (500:499) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\500_499"
+2017-04-13 09-14-28| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-14-28| Creating sector at (498:499)
+2017-04-13 09-14-28| scheduled save for sector (498:499), 0xbf95570, entities: 0
+2017-04-13 09-14-28| saving sector (498:499)
+2017-04-13 09-14-28| sector (498:499) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\498_499"
+2017-04-13 09-14-35| 
