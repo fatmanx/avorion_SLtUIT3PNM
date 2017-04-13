@@ -37,6 +37,7 @@
 		<coordinates x="187" y="448"/>
 	</wormholes>
 	<shipNumbers>
-		<ships n="14" faction="2000431"/>
+		<ships n="13" faction="2000431"/>
+		<ships n="1" faction="2001631"/>
 	</shipNumbers>
 </view>
