@@ -362,4 +362,7 @@
 2017-04-14 02-39-03| <S.I.I.> Insurance Fraud detected. You won't receive any payments for tf1.
 2017-04-14 02-39-13| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-14 02-39-32| <Server> Moving player fatmanone to sector (165:378).
-2017-04-14 02-40-42| 
+2017-04-14 02-40-42| <Shipyard> Thank you for your purchase. Your ship will be ready in about 20 seconds.
+2017-04-14 02-41-32| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 2.ogg'
+2017-04-14 02-41-32| SDL Mix error: music parameter was NULL
+2017-04-14 02-42-03| 
