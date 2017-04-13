@@ -409,4 +409,19 @@
 2017-04-13 18-33-17| sector (183:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_280"
 2017-04-13 18-33-17| scheduled save for sector (188:280), 0x1ed8fea0, entities: 1251
 2017-04-13 18-33-17| saving sector (188:280)
-2017-04-13 18-33-17| 
+2017-04-13 18-33-17| sector (188:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_280"
+2017-04-13 18-36-31| scheduled save for sector (188:280), 0x1ed8fea0, entities: 1302
+2017-04-13 18-36-31| saving sector (188:280)
+2017-04-13 18-36-31| sector (188:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_280"
+2017-04-13 18-36-31| Player fatmanone moved to sector (188:280)from (183:280) server time taken for change: 448ms
+2017-04-13 18-36-31| Creating sector at (190:279)
+2017-04-13 18-36-31| scheduled save for sector (183:280), 0x11f87c70, entities: 1218
+2017-04-13 18-36-31| saving sector (183:280)
+2017-04-13 18-36-31| Generating new content for sector (190:279)
+2017-04-13 18-36-31| sector (183:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_280"
+2017-04-13 18-36-44| Warning, can't keep up, skipping 1 frames...
+2017-04-13 18-36-47| Received an invoke script message for an entity that does not exist: 1351
+2017-04-13 18-37-01| <> You have no sector selected.
+2017-04-13 18-37-13| scheduled save for sector (190:279), 0x4669fd00, entities: 1033
+2017-04-13 18-37-14| saving sector (190:279)
+2017-04-13 18-37-14| 

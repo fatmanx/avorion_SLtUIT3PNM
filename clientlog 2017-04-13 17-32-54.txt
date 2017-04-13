@@ -156,4 +156,6 @@
 2017-04-13 18-31-21| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-13 18-34-20| <Server> There are lots and lots of subspace signals! Careful!
 2017-04-13 18-35-20| <Server> A large group of alien ships appeared!
-2017-04-13 18-35-58| 
+2017-04-13 18-35-58| <Server> Pirates are attacking the sector!
+2017-04-13 18-36-30| <Gate Control> You paid 2097 credits passage fee.
+2017-04-13 18-37-01| 
