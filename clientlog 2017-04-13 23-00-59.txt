@@ -90,4 +90,8 @@
 2017-04-13 23-01-28| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
 2017-04-13 23-01-28| Initiating connection with server ID 90108119464838150
 2017-04-13 23-01-32| Authentication successful!
-2017-04-13 23-01-41| 
+2017-04-13 23-01-41| <Server> Player fatmanone joined the galaxy
+2017-04-13 23-02-48| <Server> Moving player fatmanone to sector (173:418).
+2017-04-13 23-02-49| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 23-02-49| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 23-03-06| 
