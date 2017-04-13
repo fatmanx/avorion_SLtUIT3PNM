@@ -1,0 +1,20 @@
+2017-04-13 08-53-34| Client started: "D:\GAMES\steamapps\common\Avorion\bin\Avorion.exe" "--serverpath=bin/AvorionServer.exe" 
+2017-04-13 08-53-34| Enabled Traces: 
+2017-04-13 08-53-34| Client Beta 0.11 r7857, running on Windows 7.
+2017-04-13 08-53-34| CPU: GenuineIntel 8 Cores
+2017-04-13 08-53-34| Init Steamworks...Installed Steam exception handler
+2017-04-13 08-53-34| Init Steamworks... ok
+2017-04-13 08-53-34| Init Steamworks ok
+2017-04-13 08-53-34| Init SDL2... ok
+2017-04-13 08-53-34| Getting display mode... ok
+2017-04-13 08-53-34| Current display mode: 1920 x 1080
+2017-04-13 08-53-34| Creating settings... loading... setting language... ok
+2017-04-13 08-53-34| Creating client window...Creating normal window
+2017-04-13 08-53-34| Detected 2 displays
+2017-04-13 08-53-34| Display 0: x: 0, y: 0, w: 1920, h: 1080
+2017-04-13 08-53-34| Display 1: x: 1920, y: 0, w: 1280, h: 1024
+2017-04-13 08-53-34| Using display 0
+2017-04-13 08-53-34| Creating window, x: 0, y: 0, w: 1600, h: 900... ok
+2017-04-13 08-53-34| GetDrawableSize: 1600 900
+2017-04-13 08-53-34| GetWindowSize: 1600 900
+2017-04-13 08-53-34| 
