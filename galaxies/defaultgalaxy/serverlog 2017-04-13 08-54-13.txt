@@ -464,4 +464,5 @@
 2017-04-13 09-54-14| sector (282:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\282_279"
 2017-04-13 09-57-13| scheduled save for sector (280:278), 0xb059e10, entities: 52
 2017-04-13 09-57-13| saving sector (280:278)
-2017-04-13 09-57-13| 
+2017-04-13 09-57-13| sector (280:278) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\280_278"
+2017-04-13 10-02-44| 
