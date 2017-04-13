@@ -378,4 +378,23 @@
 2017-04-13 22-21-16| sector (146:347) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_347"
 2017-04-13 22-21-16| scheduled save for sector (153:355), 0x26e23180, entities: 1300
 2017-04-13 22-21-16| saving sector (153:355)
-2017-04-13 22-21-16| 
+2017-04-13 22-21-16| sector (153:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_355"
+2017-04-13 22-21-46| scheduled save for sector (146:347), 0x2541e650, entities: 834
+2017-04-13 22-21-46| saving sector (146:347)
+2017-04-13 22-21-47| sector (146:347) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_347"
+2017-04-13 22-21-47| Player fatmanone moved to sector (146:347)from (143:354) server time taken for change: 330ms
+2017-04-13 22-21-47| Creating sector at (146:345)
+2017-04-13 22-21-47| scheduled save for sector (143:354), 0xba16b60, entities: 401
+2017-04-13 22-21-47| saving sector (143:354)
+2017-04-13 22-21-47| Generating new content for sector (146:345)
+2017-04-13 22-21-47| could not execute function 'updateServer' in '"data/scripts/entity/ai/patrol.lua"':
+2017-04-13 22-21-47| data/scripts/entity/ai/patrol.lua:47: attempt to compare nil with number
+2017-04-13 22-21-47| stack traceback:
+2017-04-13 22-21-47| 	data/scripts/entity/ai/patrol.lua:47: in function 'updateFlying'
+2017-04-13 22-21-47| 	data/scripts/entity/ai/patrol.lua:26: in function <data/scripts/entity/ai/patrol.lua:16>
+2017-04-13 22-21-47| 
+2017-04-13 22-21-47| Setting script "data/scripts/entity/ai/patrol.lua" to invalid.
+2017-04-13 22-21-47| sector (143:354) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\143_354"
+2017-04-13 22-22-02| scheduled save for sector (146:345), 0x2541dfc0, entities: 2331
+2017-04-13 22-22-02| saving sector (146:345)
+2017-04-13 22-22-03| 
