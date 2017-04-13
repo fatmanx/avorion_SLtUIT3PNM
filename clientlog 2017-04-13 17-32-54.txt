@@ -154,4 +154,6 @@
 2017-04-13 18-24-21| failed to load texture from file "data/textures/icons/ammunition-s.png"
 2017-04-13 18-24-34| failed to load texture from file "data/textures/icons/ammunition-s.png"
 2017-04-13 18-31-21| <Server> Your sensors picked up short bursts of subspace signals.
-2017-04-13 18-34-20| 
+2017-04-13 18-34-20| <Server> There are lots and lots of subspace signals! Careful!
+2017-04-13 18-35-20| <Server> A large group of alien ships appeared!
+2017-04-13 18-35-58| 
