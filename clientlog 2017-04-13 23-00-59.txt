@@ -113,4 +113,5 @@
 2017-04-13 23-08-24| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Omens.ogg'
 2017-04-13 23-08-24| SDL Mix error: music parameter was NULL
 2017-04-13 23-08-25| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Seek and You Shall Find.ogg'
-2017-04-13 23-08-25| 
+2017-04-13 23-08-25| SDL Mix error: music parameter was NULL
+2017-04-13 23-09-11| 
