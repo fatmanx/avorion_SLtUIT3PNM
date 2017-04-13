@@ -106,4 +106,5 @@
 2017-04-13 17-43-25| <Gate Control> You paid 366 credits passage fee.
 2017-04-13 17-43-55| <> The crew of your ship 's3' was paid.
 2017-04-13 17-44-15| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 17-44-37| 
+2017-04-13 17-44-37| <> Jump route calculated.
+2017-04-13 17-45-35| 
