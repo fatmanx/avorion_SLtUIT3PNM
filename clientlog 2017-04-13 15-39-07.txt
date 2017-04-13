@@ -347,4 +347,7 @@
 2017-04-13 16-46-07| <Gate Control> You paid 225 credits passage fee.
 2017-04-13 16-48-28| UDP closed
 2017-04-13 16-48-28| Client UDP: Connection closed
-2017-04-13 16-48-28| 
+2017-04-13 16-48-28| Client UDP: Error receiving from 127.0.0.1, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 16-49-24| Server shutdown successful.
+2017-04-13 16-49-24| UDP closed
+2017-04-13 16-49-24| 
