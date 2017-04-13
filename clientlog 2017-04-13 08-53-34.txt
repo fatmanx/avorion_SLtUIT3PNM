@@ -328,4 +328,19 @@
 2017-04-13 10-10-09| Create Entity Message discarded: wrong sector
 2017-04-13 10-10-09| Create Entity Message discarded: wrong sector
 2017-04-13 10-10-09| Create Entity Message discarded: wrong sector
-2017-04-13 10-15-21| 
+2017-04-13 10-15-21| <The Collective of Auae> We thank you. We have a reward for you.
+2017-04-13 10-16-15| UDP closed
+2017-04-13 10-16-15| Client UDP: Connection closed
+2017-04-13 10-16-15| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 10-16-15| UDP closed
+2017-04-13 10-16-15| Client UDP: Connection closed
+2017-04-13 10-16-16| Server shutdown successful.
+2017-04-13 10-16-16| UDP closed
+2017-04-13 10-16-16| Client UDP: Connection closed
+2017-04-13 10-16-18| Exiting client.
+2017-04-13 10-16-18| Exited client main loop.
+2017-04-13 10-16-18| Waiting for Online polling threads
+2017-04-13 10-16-18| Online polling threads finished
+2017-04-13 10-16-18| Waiting for LAN polling threads
+2017-04-13 10-16-18| LAN polling threads finished
+2017-04-13 10-16-18| Stopping local server ...
