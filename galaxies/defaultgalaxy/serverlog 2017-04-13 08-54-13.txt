@@ -118,4 +118,17 @@
 2017-04-13 09-05-27| <> Your hyperdrive still needs 12 seconds to recharge.
 2017-04-13 09-05-28| <> Your hyperdrive still needs 11 seconds to recharge.
 2017-04-13 09-05-28| <> Your hyperdrive still needs 11 seconds to recharge.
-2017-04-13 09-05-29| 
+2017-04-13 09-05-29| <> Your hyperdrive still needs 11 seconds to recharge.
+2017-04-13 09-05-46| scheduled save for sector (500:499), 0xfe72370, entities: 29
+2017-04-13 09-05-46| saving sector (500:499)
+2017-04-13 09-05-46| sector (500:499) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\500_499"
+2017-04-13 09-05-46| Player fatmanone moved to sector (500:499)from (499:499) server time taken for change: 43ms
+2017-04-13 09-05-46| scheduled save for sector (499:499), 0xf8ca450, entities: 0
+2017-04-13 09-05-46| saving sector (499:499)
+2017-04-13 09-05-46| sector (499:499) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\499_499"
+2017-04-13 09-06-00| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-06-00| Creating sector at (500:498)
+2017-04-13 09-06-00| scheduled save for sector (500:498), 0xfff4420, entities: 0
+2017-04-13 09-06-00| saving sector (500:498)
+2017-04-13 09-06-00| sector (500:498) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\500_498"
+2017-04-13 09-06-06| 
