@@ -418,4 +418,10 @@
 2017-04-13 22-24-22| saving sector (155:211)
 2017-04-13 22-24-23| sector (155:211) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_211"
 2017-04-13 22-24-25| No xsotan attacks in neutral zones.
-2017-04-13 22-24-25| 
+2017-04-13 22-24-25| starting event alienattack
+2017-04-13 22-26-46| scheduled save for sector (153:355), 0x26e23180, entities: 1307
+2017-04-13 22-26-46| saving sector (153:355)
+2017-04-13 22-26-46| scheduled save for sector (138:356), 0x274b8b70, entities: 1186
+2017-04-13 22-26-46| sector (153:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_355"
+2017-04-13 22-26-47| saving sector (138:356)
+2017-04-13 22-26-47| 
