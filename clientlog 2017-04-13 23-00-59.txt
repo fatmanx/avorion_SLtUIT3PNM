@@ -141,4 +141,7 @@
 2017-04-13 23-19-38| <> You have no sector selected.
 2017-04-13 23-19-40| <Gate Control> You paid 21 credits passage fee.
 2017-04-13 23-20-16| <Gate Control> You paid 21 credits passage fee.
-2017-04-13 23-20-57| 
+2017-04-13 23-20-57| <Gate Control> You paid 24 credits passage fee.
+2017-04-13 23-22-00| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-13 23-22-06| <Gate Control> You paid 34 credits passage fee.
+2017-04-13 23-22-53| 
