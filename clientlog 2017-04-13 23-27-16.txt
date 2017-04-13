@@ -108,4 +108,21 @@
 2017-04-13 23-33-04| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 23-33-04| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 23-34-05| failed to load texture from file "data/textures/icons/neutron-accelerator.png"
-2017-04-13 23-34-34| 
+2017-04-13 23-34-34| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s39.xml"
+2017-04-13 23-35-32| <Server> Moving player fatmanone to sector (192:204).
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-35-33| 
