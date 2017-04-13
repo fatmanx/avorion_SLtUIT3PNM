@@ -142,4 +142,62 @@
 2017-04-13 09-30-45| <Mobile Turret Merchant Au'at> Hello Everybody! Mobile Turret Merchant Au'at here. I'll be here for the next 15 minutes. Come look at my merchandise!
 2017-04-13 09-33-59| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 09-34-04| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 09-34-11| 
+2017-04-13 09-34-11| <> Jump route calculated.
+2017-04-13 09-36-10| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-36-18| <> Jump route calculated.
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-39| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| Create Entity Message discarded: wrong sector
+2017-04-13 09-36-40| 
