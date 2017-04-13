@@ -182,4 +182,8 @@
 2017-04-13 18-58-45| <Gate Control> You paid 2373 credits passage fee.
 2017-04-13 18-59-33| <Gate Control> You paid 2547 credits passage fee.
 2017-04-13 18-59-49| <Server> A group of alien ships warped in!
-2017-04-13 19-01-11| 
+2017-04-13 19-01-11| <Mobile Equipment Merchant Aaapc> Hello Everybody! Mobile Equipment Merchant Aaapc here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-13 19-02-40| <Gate Control> You paid 439 credits passage fee.
+2017-04-13 19-02-51| <> You have no sector selected.
+2017-04-13 19-03-16| <Gate Control> You paid 318 credits passage fee.
+2017-04-13 19-03-16| 
