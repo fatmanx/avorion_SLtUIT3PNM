@@ -2,31 +2,18 @@
 <view numCrafts="9" numWrecks="0" numAsteroids="1115" numStations="7" influence="57.1019974" factionIndex="2000628">
 	<coordinates x="170" y="393"/>
 	<titles>
-		<title str="${good} Farm ${size}">
-			<arg key="prefix">Tea /* prefix */</arg>
-			<arg key="plural">Tea</arg>
-			<arg key="good">Tea</arg>
-			<arg key="size">M</arg>
-		</title>
-		<title str="Chemicals Factory ${size}">
-			<arg key="good">Chemicals</arg>
-			<arg key="prefix">Chemicals /* prefix */</arg>
-			<arg key="plural">Chemicals</arg>
-			<arg key="size">S</arg>
-		</title>
 		<title str="Trading Post"/>
-		<title str="Resource Depot"/>
-		<title str="${good} Farm ${size}">
-			<arg key="plural">Wheat</arg>
-			<arg key="prefix">Wheat /* prefix */</arg>
-			<arg key="size">S</arg>
-			<arg key="good">Wheat</arg>
-		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="good">Fuel</arg>
 			<arg key="plural">Fuel</arg>
 			<arg key="prefix">Fuel /* prefix */</arg>
 			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="plural">Wheat</arg>
+			<arg key="prefix">Wheat /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Wheat</arg>
 		</title>
 		<title str="${good} Manufacturer ${size}">
 			<arg key="size">S</arg>
@@ -34,6 +21,19 @@
 			<arg key="good">Plastic</arg>
 			<arg key="plural">Plastic</arg>
 		</title>
+		<title str="Chemicals Factory ${size}">
+			<arg key="good">Chemicals</arg>
+			<arg key="prefix">Chemicals /* prefix */</arg>
+			<arg key="plural">Chemicals</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="prefix">Tea /* prefix */</arg>
+			<arg key="plural">Tea</arg>
+			<arg key="good">Tea</arg>
+			<arg key="size">M</arg>
+		</title>
+		<title str="Resource Depot"/>
 	</titles>
 	<wormholes>
 		<coordinates x="169" y="400"/>

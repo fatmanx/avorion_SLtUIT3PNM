@@ -2,30 +2,18 @@
 <view numCrafts="7" numWrecks="0" numAsteroids="389" numStations="6" influence="57.1019974" factionIndex="2000628">
 	<coordinates x="169" y="391"/>
 	<titles>
+		<title str="Turret Factory"/>
+		<title str="Solar Power Plant ${size}">
+			<arg key="size">S</arg>
+			<arg key="prefix">Energy Cell /* prefix */</arg>
+			<arg key="plural">Energy Cells</arg>
+			<arg key="good">Energy Cell</arg>
+		</title>
 		<title str="${good} Collector ${size}">
 			<arg key="prefix">Water /* prefix */</arg>
 			<arg key="plural">Water</arg>
 			<arg key="good">Water</arg>
 			<arg key="size">S</arg>
-		</title>
-		<title str="Solar Power Plant ${size}">
-			<arg key="plural">Energy Cells</arg>
-			<arg key="good">Energy Cell</arg>
-			<arg key="size">M</arg>
-			<arg key="prefix">Energy Cell /* prefix */</arg>
-		</title>
-		<title str="Turret Factory"/>
-		<title str="${good} Extractor ${size}">
-			<arg key="size">S</arg>
-			<arg key="plural">Minerals</arg>
-			<arg key="prefix">Mineral /* prefix */</arg>
-			<arg key="good">Mineral</arg>
-		</title>
-		<title str="Solar Power Plant ${size}">
-			<arg key="size">S</arg>
-			<arg key="prefix">Energy Cell /* prefix */</arg>
-			<arg key="plural">Energy Cells</arg>
-			<arg key="good">Energy Cell</arg>
 		</title>
 		<title str="Noble Metal Mine ${size}">
 			<arg key="prefix">Gold /* prefix */</arg>
@@ -33,11 +21,23 @@
 			<arg key="good">Gold</arg>
 			<arg key="size">M</arg>
 		</title>
+		<title str="Solar Power Plant ${size}">
+			<arg key="plural">Energy Cells</arg>
+			<arg key="good">Energy Cell</arg>
+			<arg key="size">M</arg>
+			<arg key="prefix">Energy Cell /* prefix */</arg>
+		</title>
+		<title str="${good} Extractor ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Minerals</arg>
+			<arg key="prefix">Mineral /* prefix */</arg>
+			<arg key="good">Mineral</arg>
+		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="173" y="387"/>
 		<coordinates x="165" y="389"/>
 		<coordinates x="170" y="393"/>
+		<coordinates x="173" y="387"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="7" faction="2000628"/>

@@ -3,11 +3,11 @@
 	<coordinates x="165" y="389"/>
 	<titles>
 		<title str="Trading Post"/>
-		<title str="Accelerator Factory ${size}">
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Vehicle /* prefix */</arg>
+			<arg key="good">Vehicle</arg>
 			<arg key="size">S</arg>
-			<arg key="plural">Neutron Accelerators</arg>
-			<arg key="good">Neutron Accelerator</arg>
-			<arg key="prefix">Neutron Accelerator /* prefix */</arg>
+			<arg key="plural">Vehicles</arg>
 		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="prefix">Steel Tube /* prefix */</arg>
@@ -15,11 +15,11 @@
 			<arg key="good">Steel Tube</arg>
 			<arg key="size">S</arg>
 		</title>
-		<title str="${good} Factory ${size}">
-			<arg key="prefix">Vehicle /* prefix */</arg>
-			<arg key="good">Vehicle</arg>
+		<title str="Accelerator Factory ${size}">
 			<arg key="size">S</arg>
-			<arg key="plural">Vehicles</arg>
+			<arg key="plural">Neutron Accelerators</arg>
+			<arg key="good">Neutron Accelerator</arg>
+			<arg key="prefix">Neutron Accelerator /* prefix */</arg>
 		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="prefix">Servo /* prefix */</arg>
@@ -35,9 +35,9 @@
 		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="155" y="391"/>
-		<coordinates x="165" y="378"/>
 		<coordinates x="169" y="391"/>
+		<coordinates x="165" y="378"/>
+		<coordinates x="155" y="391"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="11" faction="2000628"/>
