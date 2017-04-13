@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="4" numWrecks="0" numAsteroids="807" numStations="1" influence="9.5170002" factionIndex="21">
+	<coordinates x="194" y="204"/>
+	<titles>
+		<title str="Smuggler Hideout"/>
+	</titles>
+	<wormholes/>
+	<shipNumbers>
+		<ships n="1" faction="1"/>
+		<ships n="1" faction="6"/>
+		<ships n="2" faction="21"/>
+	</shipNumbers>
+</view>
