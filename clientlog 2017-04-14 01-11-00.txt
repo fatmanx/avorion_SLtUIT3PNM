@@ -330,4 +330,9 @@
 2017-04-14 02-14-18| SDL Mix error: music parameter was NULL
 2017-04-14 02-14-42| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-14 02-14-54| <Gate Control> You paid 370 credits passage fee.
-2017-04-14 02-15-33| 
+2017-04-14 02-15-33| <Gate Control> You paid 638 credits passage fee.
+2017-04-14 02-16-02| <Gate Control> You paid 1498 credits passage fee.
+2017-04-14 02-16-13| <> You have no sector selected.
+2017-04-14 02-16-13| <> You have no sector selected.
+2017-04-14 02-16-13| <> You have no sector selected.
+2017-04-14 02-16-13| 
