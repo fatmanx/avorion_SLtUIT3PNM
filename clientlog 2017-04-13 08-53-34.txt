@@ -107,4 +107,5 @@
 2017-04-13 09-05-28| <> Your hyperdrive still needs 11 seconds to recharge.
 2017-04-13 09-05-29| <> Your hyperdrive still needs 11 seconds to recharge.
 2017-04-13 09-06-00| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 09-06-06| 
+2017-04-13 09-06-06| <> Jump route calculated.
+2017-04-13 09-08-01| 
