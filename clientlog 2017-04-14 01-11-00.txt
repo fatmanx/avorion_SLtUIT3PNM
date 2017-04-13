@@ -349,4 +349,5 @@
 2017-04-14 02-26-38| <Server> Moving player fatmanone to sector (169:351).
 2017-04-14 02-29-17| <Server> Moving player fatmanone to sector (145:207).
 2017-04-14 02-30-16| <Client> You have to be docked to the station.
-2017-04-14 02-30-48| 
+2017-04-14 02-30-48| <Client> Please deliver the goods to (162:213).
+2017-04-14 02-31-21| 

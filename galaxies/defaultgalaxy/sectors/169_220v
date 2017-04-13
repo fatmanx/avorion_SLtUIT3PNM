@@ -8,23 +8,23 @@
 			<arg key="prefix">Gold /* prefix */</arg>
 			<arg key="plural">Gold</arg>
 		</title>
-		<title str="Gas Collector ${size}">
-			<arg key="plural">Oxygen</arg>
-			<arg key="good">Oxygen</arg>
-			<arg key="size">L</arg>
-			<arg key="prefix">Oxygen /* prefix */</arg>
-		</title>
 		<title str="${good} Mine ${size}">
 			<arg key="size">S</arg>
 			<arg key="good">Ore</arg>
 			<arg key="plural">Ore</arg>
 			<arg key="prefix">Ore /* prefix */</arg>
 		</title>
+		<title str="Gas Collector ${size}">
+			<arg key="plural">Oxygen</arg>
+			<arg key="good">Oxygen</arg>
+			<arg key="size">L</arg>
+			<arg key="prefix">Oxygen /* prefix */</arg>
+		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="169" y="224"/>
 		<coordinates x="162" y="213"/>
 		<coordinates x="172" y="221"/>
+		<coordinates x="169" y="224"/>
 		<coordinates x="170" y="214"/>
 	</wormholes>
 	<shipNumbers>
