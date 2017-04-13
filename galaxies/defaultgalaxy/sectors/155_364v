@@ -2,24 +2,24 @@
 <view numCrafts="16" numWrecks="0" numAsteroids="404" numStations="8" influence="76.135994" factionIndex="2001429">
 	<coordinates x="155" y="364"/>
 	<titles>
-		<title str="Repair Dock"/>
-		<title str="Resource Depot"/>
 		<title str="Shipyard"/>
-		<title str="Equipment Dock"/>
+		<title str="Resource Depot"/>
+		<title str="Military Outpost"/>
 		<title str="Solar Power Plant ${size}">
 			<arg key="plural">Energy Cells</arg>
 			<arg key="good">Energy Cell</arg>
 			<arg key="size">S</arg>
 			<arg key="prefix">Energy Cell /* prefix */</arg>
 		</title>
+		<title str="Research Station"/>
 		<title str="Chemicals Factory ${size}">
 			<arg key="plural">Chemicals</arg>
 			<arg key="size">L</arg>
 			<arg key="good">Chemicals</arg>
 			<arg key="prefix">Chemicals /* prefix */</arg>
 		</title>
-		<title str="Research Station"/>
-		<title str="Military Outpost"/>
+		<title str="Equipment Dock"/>
+		<title str="Repair Dock"/>
 	</titles>
 	<wormholes>
 		<coordinates x="151" y="364"/>
