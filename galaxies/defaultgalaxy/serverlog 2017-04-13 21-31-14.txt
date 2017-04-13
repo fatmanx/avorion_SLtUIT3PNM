@@ -447,4 +447,22 @@
 2017-04-13 22-29-26| scheduled save for sector (162:213), 0x3ac0f140, entities: 1186
 2017-04-13 22-29-26| saving sector (162:213)
 2017-04-13 22-29-26| sector (162:213) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_213"
-2017-04-13 22-29-31| 
+2017-04-13 22-29-31| starting event alienattack
+2017-04-13 22-30-45| <> You have no sector selected.
+2017-04-13 22-31-15| Triggered saving of all server data.
+2017-04-13 22-31-15| scheduled save for sector (152:221), 0xb4ba850, entities: 6
+2017-04-13 22-31-15| saving sector (152:221)
+2017-04-13 22-31-15| sector (152:221) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\152_221"
+2017-04-13 22-31-15| scheduled save for sector (153:211), 0xba17880, entities: 657
+2017-04-13 22-31-15| saving sector (153:211)
+2017-04-13 22-31-15| sector (153:211) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_211"
+2017-04-13 22-31-15| scheduled save for sector (154:209), 0x2541ece0, entities: 1200
+2017-04-13 22-31-15| saving sector (154:209)
+2017-04-13 22-31-15| sector (154:209) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\154_209"
+2017-04-13 22-31-15| scheduled save for sector (155:211), 0x28096d10, entities: 863
+2017-04-13 22-31-15| saving sector (155:211)
+2017-04-13 22-31-16| sector (155:211) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_211"
+2017-04-13 22-31-16| scheduled save for sector (162:213), 0x3ac0f140, entities: 1186
+2017-04-13 22-31-16| saving sector (162:213)
+2017-04-13 22-31-16| sector (162:213) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_213"
+2017-04-13 22-31-25| 
