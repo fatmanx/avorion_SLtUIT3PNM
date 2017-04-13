@@ -147,4 +147,6 @@
 2017-04-13 18-18-32| failed to load texture from file "data/textures/icons/ammunition-s.png"
 2017-04-13 18-19-00| <The Pirates of Uucucmko> Thank you for taking care of those pirates. We transferred a reward to your account.
 2017-04-13 18-21-10| <Server> More strange subspace signals, they're getting stronger.
-2017-04-13 18-22-10| 
+2017-04-13 18-22-10| <Server> A small group of alien ships appeared!
+2017-04-13 18-22-41| failed to load texture from file "data/textures/icons/ammunition-s.png"
+2017-04-13 18-22-59| 
