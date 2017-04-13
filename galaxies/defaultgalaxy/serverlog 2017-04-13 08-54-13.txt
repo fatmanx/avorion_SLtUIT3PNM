@@ -224,4 +224,26 @@
 2017-04-13 09-20-32| scheduled save for sector (498:499), 0xbf95570, entities: 0
 2017-04-13 09-20-32| saving sector (498:499)
 2017-04-13 09-20-32| sector (498:499) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\498_499"
-2017-04-13 09-20-33| 
+2017-04-13 09-20-33| starting event fakedistresssignal
+2017-04-13 09-20-50| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-20-50| Creating sector at (280:279)
+2017-04-13 09-20-50| scheduled save for sector (280:279), 0xb05a4a0, entities: 0
+2017-04-13 09-20-50| saving sector (280:279)
+2017-04-13 09-20-50| sector (280:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\280_279"
+2017-04-13 09-20-51| scheduled save for sector (498:498), 0xb942fe0, entities: 0
+2017-04-13 09-20-51| saving sector (498:498)
+2017-04-13 09-20-51| sector (498:498) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\498_498"
+2017-04-13 09-20-57| <> Jump route calculated.
+2017-04-13 09-21-03| scheduled save for sector (280:279), 0xb05a4a0, entities: 29
+2017-04-13 09-21-03| saving sector (280:279)
+2017-04-13 09-21-03| sector (280:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\280_279"
+2017-04-13 09-21-03| Player fatmanone moved to sector (280:279)from (280:280) server time taken for change: 39ms
+2017-04-13 09-21-03| scheduled save for sector (280:280), 0xb059e10, entities: 0
+2017-04-13 09-21-03| saving sector (280:280)
+2017-04-13 09-21-03| sector (280:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\280_280"
+2017-04-13 09-21-17| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-21-17| Creating sector at (281:279)
+2017-04-13 09-21-17| scheduled save for sector (281:279), 0xb05ab30, entities: 0
+2017-04-13 09-21-17| saving sector (281:279)
+2017-04-13 09-21-17| sector (281:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\281_279"
+2017-04-13 09-21-24| 
