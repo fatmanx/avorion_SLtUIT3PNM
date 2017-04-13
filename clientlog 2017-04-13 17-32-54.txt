@@ -186,4 +186,5 @@
 2017-04-13 19-02-40| <Gate Control> You paid 439 credits passage fee.
 2017-04-13 19-02-51| <> You have no sector selected.
 2017-04-13 19-03-16| <Gate Control> You paid 318 credits passage fee.
-2017-04-13 19-03-16| 
+2017-04-13 19-03-16| <Object Detector> Valuable objects detected.
+2017-04-13 19-06-39| 
