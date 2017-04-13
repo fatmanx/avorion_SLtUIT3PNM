@@ -162,4 +162,5 @@
 2017-04-13 18-38-20| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
 2017-04-13 18-39-28| <> You have no sector selected.
 2017-04-13 18-40-01| <> You have no sector selected.
-2017-04-13 18-40-03| 
+2017-04-13 18-40-03| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
+2017-04-13 18-47-05| 
