@@ -210,4 +210,26 @@
 2017-04-13 21-59-05| saving sector (152:357)
 2017-04-13 21-59-05| sector (152:357) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\152_357"
 2017-04-13 21-59-46| <> Jump route calculated.
-2017-04-13 21-59-51| 
+2017-04-13 21-59-51| <> Your hyperdrive still needs 107 seconds to recharge.
+2017-04-13 22-01-15| Triggered saving of all server data.
+2017-04-13 22-01-15| scheduled save for sector (152:357), 0x2541e650, entities: 0
+2017-04-13 22-01-15| saving sector (152:357)
+2017-04-13 22-01-15| sector (152:357) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\152_357"
+2017-04-13 22-01-15| scheduled save for sector (155:353), 0xb5ca330, entities: 822
+2017-04-13 22-01-15| saving sector (155:353)
+2017-04-13 22-01-15| sector (155:353) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_353"
+2017-04-13 22-01-15| scheduled save for sector (159:347), 0x273d1b80, entities: 1307
+2017-04-13 22-01-15| saving sector (159:347)
+2017-04-13 22-01-15| sector (159:347) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_347"
+2017-04-13 22-01-15| scheduled save for sector (163:347), 0x1cc631d0, entities: 354
+2017-04-13 22-01-15| saving sector (163:347)
+2017-04-13 22-01-15| sector (163:347) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\163_347"
+2017-04-13 22-01-15| scheduled save for sector (167:344), 0x18107db0, entities: 876
+2017-04-13 22-01-15| saving sector (167:344)
+2017-04-13 22-01-16| sector (167:344) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\167_344"
+2017-04-13 22-01-16| scheduled save for sector (169:351), 0x273d14f0, entities: 1457
+2017-04-13 22-01-16| saving sector (169:351)
+2017-04-13 22-01-16| sector (169:351) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_351"
+2017-04-13 22-01-16| scheduled save for sector (172:355), 0x276e3830, entities: 806
+2017-04-13 22-01-16| saving sector (172:355)
+2017-04-13 22-01-16| 
