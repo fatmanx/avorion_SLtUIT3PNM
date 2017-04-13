@@ -112,4 +112,6 @@
 2017-04-13 09-09-48| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s37.xml"
 2017-04-13 09-10-20| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 09-10-27| <> Jump route calculated.
-2017-04-13 09-12-06| 
+2017-04-13 09-12-06| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s37.xml"
+2017-04-13 09-12-51| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-12-58| 
