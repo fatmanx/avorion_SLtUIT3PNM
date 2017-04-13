@@ -131,4 +131,6 @@
 2017-04-13 17-58-42| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 17-59-02| <> Jump route calculated.
 2017-04-13 17-59-16| <Server> A group of alien ships warped in!
-2017-04-13 17-59-34| 
+2017-04-13 17-59-34| <> You don't have any of this turret.
+2017-04-13 18-00-57| <> You cannot build this. The block overlaps too much with another block.
+2017-04-13 18-01-01| 

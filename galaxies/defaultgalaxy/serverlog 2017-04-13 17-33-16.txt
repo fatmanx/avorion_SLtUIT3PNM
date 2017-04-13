@@ -303,4 +303,11 @@
 2017-04-13 17-58-43| saving sector (183:280)
 2017-04-13 17-58-43| sector (183:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_280"
 2017-04-13 17-59-02| <> Jump route calculated.
-2017-04-13 17-59-34| 
+2017-04-13 17-59-34| <> You don't have any of this turret.
+2017-04-13 18-00-31| scheduled save for sector (175:264), 0x4669e2c0, entities: 472
+2017-04-13 18-00-31| saving sector (175:264)
+2017-04-13 18-00-32| sector (175:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\175_264"
+2017-04-13 18-00-32| scheduled save for sector (170:264), 0x561f0130, entities: 128
+2017-04-13 18-00-32| saving sector (170:264)
+2017-04-13 18-00-32| sector (170:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\170_264"
+2017-04-13 18-00-57| 
