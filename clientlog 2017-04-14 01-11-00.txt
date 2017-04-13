@@ -93,4 +93,5 @@
 2017-04-14 01-11-26| <Server> Player fatmanone joined the galaxy
 2017-04-14 01-11-52| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-14 01-12-01| <> Jump route calculated.
-2017-04-14 01-12-05| 
+2017-04-14 01-12-05| <Server> Moving player fatmanone to sector (194:205).
+2017-04-14 01-12-27| 
