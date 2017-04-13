@@ -370,4 +370,11 @@
 2017-04-14 02-43-12| <Server> A large group of alien ships appeared!
 2017-04-14 02-43-49| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\tf12.xml"
 2017-04-14 02-44-26| <S.I.I.> Insurance Fraud detected. You won't receive any payments for tf1.
-2017-04-14 02-44-26| 
+2017-04-14 02-44-26| <Server> Your Ship tf1 has been destroyed!
+2017-04-14 02-48-15| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Wonderlands of the Mind.ogg'
+2017-04-14 02-48-15| SDL Mix error: music parameter was NULL
+2017-04-14 02-48-16| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Quaesitum Finished.ogg'
+2017-04-14 02-48-16| SDL Mix error: music parameter was NULL
+2017-04-14 02-48-17| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Incursion Theme.ogg'
+2017-04-14 02-48-17| SDL Mix error: music parameter was NULL
+2017-04-14 02-48-42| 
