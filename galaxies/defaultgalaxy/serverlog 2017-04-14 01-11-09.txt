@@ -600,4 +600,22 @@
 2017-04-14 02-37-03| sector (144:201) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\144_201"
 2017-04-14 02-37-06| scheduled save for sector (127:204), 0x6cceedc0, entities: 724
 2017-04-14 02-37-06| saving sector (127:204)
-2017-04-14 02-37-06| 
+2017-04-14 02-37-06| sector (127:204) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\127_204"
+2017-04-14 02-38-30| scheduled save for sector (162:213), 0x4dcad2d0, entities: 1299
+2017-04-14 02-38-30| saving sector (162:213)
+2017-04-14 02-38-30| sector (162:213) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_213"
+2017-04-14 02-38-31| scheduled save for sector (155:211), 0x4ea91370, entities: 855
+2017-04-14 02-38-31| saving sector (155:211)
+2017-04-14 02-38-31| scheduled save for sector (169:220), 0x58afe120, entities: 1033
+2017-04-14 02-38-31| sector (155:211) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_211"
+2017-04-14 02-38-31| saving sector (169:220)
+2017-04-14 02-38-31| scheduled save for sector (167:208), 0x58b098e0, entities: 1642
+2017-04-14 02-38-31| sector (169:220) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_220"
+2017-04-14 02-38-31| saving sector (167:208)
+2017-04-14 02-38-31| sector (167:208) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\167_208"
+2017-04-14 02-38-31| scheduled save for sector (165:214), 0x873803e0, entities: 331
+2017-04-14 02-38-31| saving sector (165:214)
+2017-04-14 02-38-31| sector (165:214) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_214"
+2017-04-14 02-39-02| fatmanone's Ship was destroyed by fatmanone in sector (133:205)
+2017-04-14 02-39-02| fatmanone's Ship was destroyed by fatmanone in sector (133:205)
+2017-04-14 02-39-02| 

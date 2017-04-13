@@ -356,4 +356,7 @@
 2017-04-14 02-35-17| <Gate Control> You paid 2162 credits passage fee.
 2017-04-14 02-37-02| <Gate Control> You paid 2740 credits passage fee.
 2017-04-14 02-37-43| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Glorious Future.ogg'
-2017-04-14 02-37-43| 
+2017-04-14 02-37-43| SDL Mix error: music parameter was NULL
+2017-04-14 02-38-43| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\tf1.xml"
+2017-04-14 02-39-03| <Server> Your Ship tf1 has been destroyed!
+2017-04-14 02-39-03| 
