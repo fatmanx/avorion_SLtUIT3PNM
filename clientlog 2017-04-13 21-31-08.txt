@@ -304,4 +304,6 @@
 2017-04-13 22-31-39| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
 2017-04-13 22-32-31| <Server> The subspace signals are getting too strong for your scanners. Brace yourself!
 2017-04-13 22-32-36| <Equipment Dock> There is no free squad to place the fighter in.
-2017-04-13 22-33-33| 
+2017-04-13 22-33-33| <Server> Danger! A large fleet of alien ships appeared!
+2017-04-13 22-33-50| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Retribution Theme.ogg'
+2017-04-13 22-33-50| 
