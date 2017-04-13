@@ -102,4 +102,7 @@
 2017-04-13 23-35-33| Player fatmanone moved to sector (192:204)from (181:437) server time taken for change: 46ms
 2017-04-13 23-35-33| scheduled save for sector (181:437), 0x1fa78860, entities: 734
 2017-04-13 23-35-33| saving sector (181:437)
-2017-04-13 23-35-33| 
+2017-04-13 23-35-33| sector (181:437) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\181_437"
+2017-04-13 23-36-30| scheduled save for sector (186:448), 0x11bf5230, entities: 6
+2017-04-13 23-36-30| saving sector (186:448)
+2017-04-13 23-36-30| 
