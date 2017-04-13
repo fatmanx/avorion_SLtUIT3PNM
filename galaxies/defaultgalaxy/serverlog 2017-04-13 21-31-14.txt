@@ -255,4 +255,14 @@
 2017-04-13 22-05-53| saving sector (153:355)
 2017-04-13 22-05-53| sector (153:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_355"
 2017-04-13 22-06-02| <> Jump route calculated.
-2017-04-13 22-06-06| 
+2017-04-13 22-06-06| <> Your hyperdrive still needs 25 seconds to recharge.
+2017-04-13 22-06-38| starting event spawntravellingmerchant
+2017-04-13 22-06-43| scheduled save for sector (167:344), 0x18107db0, entities: 848
+2017-04-13 22-06-43| saving sector (167:344)
+2017-04-13 22-06-44| sector (167:344) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\167_344"
+2017-04-13 22-06-44| scheduled save for sector (169:351), 0x273d14f0, entities: 1410
+2017-04-13 22-06-44| saving sector (169:351)
+2017-04-13 22-06-44| sector (169:351) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_351"
+2017-04-13 22-06-44| scheduled save for sector (172:355), 0x276e3830, entities: 825
+2017-04-13 22-06-44| saving sector (172:355)
+2017-04-13 22-06-44| 

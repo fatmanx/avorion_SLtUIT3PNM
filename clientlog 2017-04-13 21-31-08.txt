@@ -242,4 +242,5 @@
 2017-04-13 22-01-44| Create Entity Message discarded: wrong sector
 2017-04-13 22-05-53| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 22-06-02| <> Jump route calculated.
-2017-04-13 22-06-06| 
+2017-04-13 22-06-06| <> Your hyperdrive still needs 25 seconds to recharge.
+2017-04-13 22-06-38| 
