@@ -284,4 +284,10 @@
 2017-04-13 22-21-10| SDL Mix error: music parameter was NULL
 2017-04-13 22-21-46| <Gate Control> You paid 402 credits passage fee.
 2017-04-13 22-21-47| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-13 22-21-47| 
+2017-04-13 22-21-47| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 22-24-20| <Server> Moving player fatmanone to sector (153:211).
+2017-04-13 22-24-20| error constructing Entity: Entity with index 800 doesn't exist at 	[C]:-1: in function Entity
+2017-04-13 22-24-20| 	data/scripts/lib/tradingmanager.lua:315: in function updateBoughtGoodGui
+2017-04-13 22-24-20| 	data/scripts/lib/tradingmanager.lua:362: in function ?
+2017-04-13 22-24-21| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 22-24-21| 

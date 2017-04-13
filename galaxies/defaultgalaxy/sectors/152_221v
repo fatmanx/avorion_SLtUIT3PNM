@@ -3,10 +3,10 @@
 	<coordinates x="152" y="221"/>
 	<titles/>
 	<wormholes>
-		<coordinates x="153" y="211"/>
-		<coordinates x="152" y="223"/>
-		<coordinates x="154" y="223"/>
 		<coordinates x="145" y="220"/>
+		<coordinates x="152" y="223"/>
+		<coordinates x="153" y="211"/>
+		<coordinates x="154" y="223"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="1" faction="2000379"/>
