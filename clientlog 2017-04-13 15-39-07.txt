@@ -321,4 +321,8 @@
 2017-04-13 16-22-22| <Gate Control> You paid 961 credits passage fee.
 2017-04-13 16-22-35| <> You have no sector selected.
 2017-04-13 16-24-18| <Server> Moving player fatmanone to sector (159:274).
-2017-04-13 16-27-09| 
+2017-04-13 16-27-09| <Mobile Equipment Merchant Swiuhpuerl> Hello Everybody! Mobile Equipment Merchant Swiuhpuerl here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-13 16-29-48| <Mobile Equipment Merchant> You must be closer to the ship to buy items.
+2017-04-13 16-29-49| <Mobile Equipment Merchant> You must be closer to the ship to buy items.
+2017-04-13 16-29-50| <Mobile Equipment Merchant> You must be closer to the ship to buy items.
+2017-04-13 16-29-56| 
