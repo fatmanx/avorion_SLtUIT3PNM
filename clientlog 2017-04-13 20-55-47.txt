@@ -134,4 +134,5 @@
 2017-04-13 21-15-52| failed to load texture from file "data/textures/icons/ammunition-s.png"
 2017-04-13 21-15-52| failed to load texture from file "data/textures/icons/ammunition-s.png"
 2017-04-13 21-17-50| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 21-17-59| 
+2017-04-13 21-17-59| <> Jump route calculated.
+2017-04-13 21-18-22| 
