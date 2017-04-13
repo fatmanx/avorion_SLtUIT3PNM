@@ -124,4 +124,5 @@
 2017-04-13 23-12-01| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Stellar Shadows.ogg'
 2017-04-13 23-12-01| SDL Mix error: music parameter was NULL
 2017-04-13 23-12-02| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Caldari Melody 2.ogg'
-2017-04-13 23-12-02| 
+2017-04-13 23-12-02| SDL Mix error: music parameter was NULL
+2017-04-13 23-14-34| 
