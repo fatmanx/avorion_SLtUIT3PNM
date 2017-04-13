@@ -496,4 +496,10 @@
 2017-04-13 16-46-08| saving sector (175:264)
 2017-04-13 16-46-08| Generating new content for sector (185:263)
 2017-04-13 16-46-08| Generating new content for sector (177:257)
-2017-04-13 16-46-08| 
+2017-04-13 16-46-08| sector (175:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\175_264"
+2017-04-13 16-46-40| scheduled save for sector (177:257), 0x38f00a50, entities: 1989
+2017-04-13 16-46-40| saving sector (177:257)
+2017-04-13 16-46-40| sector (177:257) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_257"
+2017-04-13 16-46-53| scheduled save for sector (185:263), 0x39342a60, entities: 439
+2017-04-13 16-46-53| saving sector (185:263)
+2017-04-13 16-46-54| 
