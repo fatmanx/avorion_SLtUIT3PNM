@@ -84,4 +84,12 @@
 2017-04-13 09-00-23| saving sector (499:499)
 2017-04-13 09-00-23| sector (499:499) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\499_499"
 2017-04-13 09-00-30| <> Jump route calculated.
-2017-04-13 09-00-33| 
+2017-04-13 09-00-33| <> Your hyperdrive still needs 166 seconds to recharge.
+2017-04-13 09-02-41| <> Your hyperdrive still needs 37 seconds to recharge.
+2017-04-13 09-03-18| scheduled save for sector (499:499), 0xf8ca450, entities: 29
+2017-04-13 09-03-19| saving sector (499:499)
+2017-04-13 09-03-19| sector (499:499) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\499_499"
+2017-04-13 09-03-19| Player fatmanone moved to sector (499:499)from (499:500) server time taken for change: 39ms
+2017-04-13 09-03-19| scheduled save for sector (499:500), 0xc01cd70, entities: 0
+2017-04-13 09-03-19| saving sector (499:500)
+2017-04-13 09-03-19| 
