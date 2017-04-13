@@ -212,4 +212,7 @@
 2017-04-13 19-28-26| <> You don't have any of this turret.
 2017-04-13 19-29-15| <Gate Control> You paid 162 credits passage fee.
 2017-04-13 19-29-17| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-13 19-29-17| 
+2017-04-13 19-29-17| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 19-33-56| <Unkown> Mayday! Mayday! We are under attack by pirates! Our position is (178:335), someone help, please!
+2017-04-13 19-33-56| <> You have received a distress signal by an unknown source.
+2017-04-13 19-34-02| 
