@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="0" numWrecks="0" numAsteroids="746" numStations="1" influence="9.5170002" factionIndex="2000587">
+	<coordinates x="167" y="263"/>
+	<titles>
+		<title str="Casino"/>
+	</titles>
+	<wormholes>
+		<coordinates x="162" y="266"/>
+		<coordinates x="169" y="261"/>
+	</wormholes>
+	<shipNumbers/>
+</view>
