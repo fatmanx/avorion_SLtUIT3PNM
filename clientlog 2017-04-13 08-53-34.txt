@@ -223,4 +223,6 @@
 2017-04-13 10-01-48| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s37.xml"
 2017-04-13 10-02-44| <Unkown> This is a distress call! Our position is (286:285) We are under attack by pirates, please help!
 2017-04-13 10-02-44| <> You have received a distress signal by an unknown source.
-2017-04-13 10-02-51| 
+2017-04-13 10-02-51| <Server> Pirates are attacking the sector!
+2017-04-13 10-05-21| <The Mcaaauhraug Dominion> We thank you for taking care of those ships. We transferred a reward to your account.
+2017-04-13 10-05-25| 
