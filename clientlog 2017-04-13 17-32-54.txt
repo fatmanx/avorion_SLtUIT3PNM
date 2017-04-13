@@ -104,4 +104,6 @@
 2017-04-13 17-39-56| <Server> Moving player fatmanone to sector (169:261).
 2017-04-13 17-42-40| <Gate Control> You paid 179 credits passage fee.
 2017-04-13 17-43-25| <Gate Control> You paid 366 credits passage fee.
-2017-04-13 17-43-55| 
+2017-04-13 17-43-55| <> The crew of your ship 's3' was paid.
+2017-04-13 17-44-15| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 17-44-37| 

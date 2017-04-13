@@ -204,4 +204,18 @@
 2017-04-13 17-43-34| sector (177:257) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_257"
 2017-04-13 17-43-34| saving sector (175:252)
 2017-04-13 17-43-34| sector (175:252) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\175_252"
-2017-04-13 17-43-55| 
+2017-04-13 17-43-55| <> The crew of your ship 's3' was paid.
+2017-04-13 17-44-01| scheduled save for sector (174:254), 0x11f8cb30, entities: 472
+2017-04-13 17-44-01| saving sector (174:254)
+2017-04-13 17-44-01| sector (174:254) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_254"
+2017-04-13 17-44-15| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 17-44-16| scheduled save for sector (170:264), 0x561f0130, entities: 114
+2017-04-13 17-44-16| saving sector (170:264)
+2017-04-13 17-44-16| sector (170:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\170_264"
+2017-04-13 17-44-36| <> Jump route calculated.
+2017-04-13 17-44-56| scheduled save for sector (165:256), 0x2f1771c0, entities: 1039
+2017-04-13 17-44-56| saving sector (165:256)
+2017-04-13 17-44-56| scheduled save for sector (159:255), 0x4427afa0, entities: 1345
+2017-04-13 17-44-56| sector (165:256) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\165_256"
+2017-04-13 17-44-56| saving sector (159:255)
+2017-04-13 17-44-57| 
