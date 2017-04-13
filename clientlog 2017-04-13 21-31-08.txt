@@ -248,4 +248,5 @@
 2017-04-13 22-08-53| SDL Mix error: music parameter was NULL
 2017-04-13 22-08-54| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Gallente Theme.ogg'
 2017-04-13 22-08-54| SDL Mix error: music parameter was NULL
-2017-04-13 22-08-57| 
+2017-04-13 22-08-57| <> The crew of your ship 's3' was paid.
+2017-04-13 22-09-29| 
