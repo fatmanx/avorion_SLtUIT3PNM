@@ -94,4 +94,7 @@
 2017-04-13 21-33-12| <Equipment Dock> There is no free squad to place the fighter in.
 2017-04-13 21-33-12| <Equipment Dock> There is no free squad to place the fighter in.
 2017-04-13 21-33-12| <Equipment Dock> There is no free squad to place the fighter in.
-2017-04-13 21-33-13| 
+2017-04-13 21-33-13| <Equipment Dock> There is no free squad to place the fighter in.
+2017-04-13 21-34-54| <Gate Control> You paid 362 credits passage fee.
+2017-04-13 21-34-55| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 21-34-55| 

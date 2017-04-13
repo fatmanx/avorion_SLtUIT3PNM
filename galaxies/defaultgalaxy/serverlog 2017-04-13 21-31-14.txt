@@ -61,4 +61,21 @@
 2017-04-13 21-31-27| sector (156:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\156_355"
 2017-04-13 21-31-28| scheduled save for sector (163:367), 0xbe739f0, entities: 924
 2017-04-13 21-31-28| saving sector (163:367)
-2017-04-13 21-31-28| 
+2017-04-13 21-31-28| sector (163:367) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\163_367"
+2017-04-13 21-34-55| scheduled save for sector (156:355), 0x15d59310, entities: 151
+2017-04-13 21-34-55| saving sector (156:355)
+2017-04-13 21-34-55| sector (156:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\156_355"
+2017-04-13 21-34-55| Player fatmanone moved to sector (156:355)from (162:359) server time taken for change: 141ms
+2017-04-13 21-34-55| Creating sector at (155:353)
+2017-04-13 21-34-55| Creating sector at (155:364)
+2017-04-13 21-34-55| scheduled save for sector (162:359), 0xafee3f0, entities: 974
+2017-04-13 21-34-55| saving sector (162:359)
+2017-04-13 21-34-55| Generating new content for sector (155:353)
+2017-04-13 21-34-55| Generating new content for sector (155:364)
+2017-04-13 21-34-55| sector (162:359) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_359"
+2017-04-13 21-35-00| scheduled save for sector (155:353), 0xb5ca330, entities: 794
+2017-04-13 21-35-00| saving sector (155:353)
+2017-04-13 21-35-00| sector (155:353) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_353"
+2017-04-13 21-35-01| scheduled save for sector (155:364), 0xc449a10, entities: 714
+2017-04-13 21-35-01| saving sector (155:364)
+2017-04-13 21-35-01| 
