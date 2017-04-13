@@ -101,4 +101,9 @@
 2017-04-13 21-36-02| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Seek and You Shall Find.ogg'
 2017-04-13 21-36-02| SDL Mix error: music parameter was NULL
 2017-04-13 21-36-03| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Smoke From Down Below.ogg'
-2017-04-13 21-36-03| 
+2017-04-13 21-36-03| SDL Mix error: music parameter was NULL
+2017-04-13 21-36-53| <Trading Post> You must be docked to the station to trade.
+2017-04-13 21-36-55| <Trading Post> You must be docked to the station to trade.
+2017-04-13 21-36-56| <Trading Post> You must be docked to the station to trade.
+2017-04-13 21-36-56| <Trading Post> You must be docked to the station to trade.
+2017-04-13 21-36-56| 
