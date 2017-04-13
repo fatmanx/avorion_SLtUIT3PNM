@@ -132,4 +132,7 @@
 2017-04-13 09-24-26| <> Jump route calculated.
 2017-04-13 09-25-40| <Server> Your sensors picked up a short burst of subspace signals.
 2017-04-13 09-27-23| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 09-27-30| 
+2017-04-13 09-27-30| <> Jump route calculated.
+2017-04-13 09-28-18| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-28-25| <> Jump route calculated.
+2017-04-13 09-28-39| 
