@@ -559,4 +559,10 @@
 2017-04-13 19-00-53| scheduled save for sector (188:280), 0x1ed8fea0, entities: 1343
 2017-04-13 19-00-53| saving sector (188:280)
 2017-04-13 19-00-53| sector (188:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_280"
-2017-04-13 19-01-11| 
+2017-04-13 19-01-11| starting event spawntravellingmerchant
+2017-04-13 19-02-23| scheduled save for sector (190:279), 0x4669fd00, entities: 1046
+2017-04-13 19-02-23| saving sector (190:279)
+2017-04-13 19-02-23| scheduled save for sector (190:284), 0x466a1dd0, entities: 890
+2017-04-13 19-02-23| sector (190:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\190_279"
+2017-04-13 19-02-23| saving sector (190:284)
+2017-04-13 19-02-24| 
