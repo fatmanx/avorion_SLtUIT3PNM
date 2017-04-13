@@ -2,10 +2,6 @@
 <view numCrafts="6" numWrecks="0" numAsteroids="443" numStations="9" influence="85.6529922" factionIndex="2001620">
 	<coordinates x="144" y="201"/>
 	<titles>
-		<title str="Equipment Dock"/>
-		<title str="Shipyard"/>
-		<title str="Resource Depot"/>
-		<title str="Repair Dock"/>
 		<title str="${good} Factory ${size}">
 			<arg key="size">S</arg>
 			<arg key="good">Clothes</arg>
@@ -24,8 +20,12 @@
 			<arg key="good">Steel Tube</arg>
 			<arg key="size">XXL</arg>
 		</title>
-		<title str="Habitat"/>
 		<title str="Military Outpost"/>
+		<title str="Resource Depot"/>
+		<title str="Equipment Dock"/>
+		<title str="Shipyard"/>
+		<title str="Repair Dock"/>
+		<title str="Habitat"/>
 	</titles>
 	<wormholes>
 		<coordinates x="146" y="200"/>

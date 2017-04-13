@@ -4,10 +4,10 @@
 	<titles>
 		<title str="Trading Post"/>
 		<title str="${good} Factory ${size}">
-			<arg key="plural">Drills</arg>
-			<arg key="prefix">Drill /* prefix */</arg>
-			<arg key="good">Drill</arg>
-			<arg key="size">S</arg>
+			<arg key="plural">Satellites</arg>
+			<arg key="prefix">Satellite /* prefix */</arg>
+			<arg key="good">Satellite</arg>
+			<arg key="size">L</arg>
 		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="plural">Body Armors</arg>
@@ -16,16 +16,10 @@
 			<arg key="prefix">Body Armor /* prefix */</arg>
 		</title>
 		<title str="${good} Factory ${size}">
-			<arg key="good">Force Generator</arg>
-			<arg key="size">L</arg>
-			<arg key="plural">Force Generators</arg>
-			<arg key="prefix">Force Generator /* prefix */</arg>
-		</title>
-		<title str="${good} Factory ${size}">
-			<arg key="plural">Satellites</arg>
-			<arg key="prefix">Satellite /* prefix */</arg>
-			<arg key="good">Satellite</arg>
-			<arg key="size">L</arg>
+			<arg key="plural">Drills</arg>
+			<arg key="prefix">Drill /* prefix */</arg>
+			<arg key="good">Drill</arg>
+			<arg key="size">S</arg>
 		</title>
 		<title str="Accelerator Factory ${size}">
 			<arg key="prefix">Neutron Accelerator /* prefix */</arg>
@@ -33,10 +27,16 @@
 			<arg key="plural">Neutron Accelerators</arg>
 			<arg key="good">Neutron Accelerator</arg>
 		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Force Generator</arg>
+			<arg key="size">L</arg>
+			<arg key="plural">Force Generators</arg>
+			<arg key="prefix">Force Generator /* prefix */</arg>
+		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="154" y="209"/>
 		<coordinates x="145" y="207"/>
+		<coordinates x="154" y="209"/>
 		<coordinates x="152" y="202"/>
 	</wormholes>
 	<shipNumbers>

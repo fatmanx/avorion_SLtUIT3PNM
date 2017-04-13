@@ -3,22 +3,22 @@
 	<coordinates x="145" y="208"/>
 	<titles>
 		<title str="Shipyard"/>
-		<title str="Resource Depot"/>
-		<title str="Repair Dock"/>
-		<title str="Trading Post"/>
 		<title str="Equipment Dock"/>
-		<title str="${good} Ranch ${size}">
-			<arg key="plural">Sheep</arg>
-			<arg key="prefix">Sheep /* prefix */</arg>
-			<arg key="size">M</arg>
-			<arg key="good">Sheep</arg>
-		</title>
+		<title str="Trading Post"/>
 		<title str="${good} Farm ${size}">
 			<arg key="size">XL</arg>
 			<arg key="plural">Tea</arg>
 			<arg key="prefix">Tea /* prefix */</arg>
 			<arg key="good">Tea</arg>
 		</title>
+		<title str="${good} Ranch ${size}">
+			<arg key="plural">Sheep</arg>
+			<arg key="prefix">Sheep /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="good">Sheep</arg>
+		</title>
+		<title str="Repair Dock"/>
+		<title str="Military Outpost"/>
 		<title str="Gas Collector ${size}">
 			<arg key="size">M</arg>
 			<arg key="prefix">Helium /* prefix */</arg>
@@ -26,7 +26,7 @@
 			<arg key="good">Helium</arg>
 		</title>
 		<title str="Habitat"/>
-		<title str="Military Outpost"/>
+		<title str="Resource Depot"/>
 	</titles>
 	<wormholes>
 		<coordinates x="145" y="207"/>
