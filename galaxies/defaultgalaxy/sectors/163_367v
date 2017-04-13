@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="651" numStations="5" influence="38.0680008" factionIndex="2001429">
+	<coordinates x="163" y="367"/>
+	<titles>
+		<title str="Gas Collector ${size}">
+			<arg key="prefix">Oxygen /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="plural">Oxygen</arg>
+			<arg key="good">Oxygen</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="prefix">Cink /* prefix */</arg>
+			<arg key="plural">Cink</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Cink</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="prefix">Ore /* prefix */</arg>
+			<arg key="plural">Ore</arg>
+			<arg key="good">Ore</arg>
+		</title>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="good">Gold</arg>
+			<arg key="plural">Gold</arg>
+			<arg key="prefix">Gold /* prefix */</arg>
+		</title>
+		<title str="Trading Post"/>
+	</titles>
+	<wormholes>
+		<coordinates x="158" y="368"/>
+		<coordinates x="162" y="359"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="6" faction="2001429"/>
+	</shipNumbers>
+</view>

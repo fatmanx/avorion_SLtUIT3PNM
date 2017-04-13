@@ -206,4 +206,29 @@
 2017-04-13 21-19-41| error constructing Entity: Entity with index 642 doesn't exist at 	[C]:-1: in function Entity
 2017-04-13 21-19-41| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
 2017-04-13 21-20-12| error constructing Entity: Entity with index 958 doesn't exist at 	[C]:-1: in function Entity
-2017-04-13 21-20-12| 
+2017-04-13 21-20-12| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-13 21-20-20| error constructing Entity: Entity with index 841 doesn't exist at 	[C]:-1: in function Entity
+2017-04-13 21-20-20| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-13 21-20-20| error constructing Entity: Entity with index 841 doesn't exist at 	[C]:-1: in function Entity
+2017-04-13 21-20-20| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-13 21-20-20| error constructing Entity: Entity with index 841 doesn't exist at 	[C]:-1: in function Entity
+2017-04-13 21-20-20| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-13 21-20-20| error constructing Entity: Entity with index 841 doesn't exist at 	[C]:-1: in function Entity
+2017-04-13 21-20-20| 	data/scripts/sector/factionwar/temporarydefender.lua:50: in function ?
+2017-04-13 21-20-59| scheduled save for sector (158:368), 0x1747aaf0, entities: 48
+2017-04-13 21-20-59| saving sector (158:368)
+2017-04-13 21-20-59| sector (158:368) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_368"
+2017-04-13 21-20-59| Player fatmanone moved to sector (158:368)from (158:374) server time taken for change: 70ms
+2017-04-13 21-20-59| Creating sector at (153:368)
+2017-04-13 21-20-59| Creating sector at (163:367)
+2017-04-13 21-20-59| scheduled save for sector (158:374), 0x1b1fc130, entities: 1038
+2017-04-13 21-20-59| saving sector (158:374)
+2017-04-13 21-20-59| Generating new content for sector (153:368)
+2017-04-13 21-20-59| Generating new content for sector (163:367)
+2017-04-13 21-20-59| sector (158:374) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\158_374"
+2017-04-13 21-21-02| scheduled save for sector (163:367), 0x1b26c460, entities: 880
+2017-04-13 21-21-02| saving sector (163:367)
+2017-04-13 21-21-02| sector (163:367) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\163_367"
+2017-04-13 21-21-08| scheduled save for sector (153:368), 0x1b26b740, entities: 2169
+2017-04-13 21-21-08| saving sector (153:368)
+2017-04-13 21-21-09| 

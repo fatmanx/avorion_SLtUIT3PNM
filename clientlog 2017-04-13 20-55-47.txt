@@ -136,4 +136,5 @@
 2017-04-13 21-17-50| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 21-17-59| <> Jump route calculated.
 2017-04-13 21-18-22| <Server> Your sensors picked up short bursts of subspace signals.
-2017-04-13 21-19-25| 
+2017-04-13 21-19-25| <Server> Moving player fatmanone to sector (158:374).
+2017-04-13 21-20-59| 
