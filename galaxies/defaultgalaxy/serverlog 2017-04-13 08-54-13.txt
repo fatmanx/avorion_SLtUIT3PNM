@@ -484,4 +484,11 @@
 2017-04-13 10-10-09| Player fatmanone moved to sector (286:285)from (282:279) server time taken for change: 84ms
 2017-04-13 10-10-09| scheduled save for sector (282:279), 0xb05b850, entities: 427
 2017-04-13 10-10-09| saving sector (282:279)
-2017-04-13 10-10-09| 
+2017-04-13 10-10-09| sector (282:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\282_279"
+2017-04-13 10-14-14| Triggered saving of all server data.
+2017-04-13 10-14-14| scheduled save for sector (282:279), 0xb05b850, entities: 402
+2017-04-13 10-14-14| saving sector (282:279)
+2017-04-13 10-14-14| sector (282:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\282_279"
+2017-04-13 10-14-14| scheduled save for sector (286:285), 0xb05cc00, entities: 134
+2017-04-13 10-14-14| saving sector (286:285)
+2017-04-13 10-14-14| 
