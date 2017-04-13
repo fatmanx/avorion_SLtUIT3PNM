@@ -163,4 +163,26 @@
 2017-04-13 21-50-48| sector (162:359) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_359"
 2017-04-13 21-50-48| scheduled save for sector (155:364), 0xc449a10, entities: 767
 2017-04-13 21-50-48| saving sector (155:364)
-2017-04-13 21-50-48| 
+2017-04-13 21-50-48| sector (155:364) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_364"
+2017-04-13 21-51-15| Triggered saving of all server data.
+2017-04-13 21-51-15| scheduled save for sector (153:355), 0x273d14f0, entities: 1307
+2017-04-13 21-51-15| saving sector (153:355)
+2017-04-13 21-51-15| sector (153:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_355"
+2017-04-13 21-51-15| scheduled save for sector (155:353), 0xb5ca330, entities: 795
+2017-04-13 21-51-15| saving sector (155:353)
+2017-04-13 21-51-15| sector (155:353) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_353"
+2017-04-13 21-51-15| scheduled save for sector (156:355), 0x15d59310, entities: 125
+2017-04-13 21-51-15| saving sector (156:355)
+2017-04-13 21-51-15| sector (156:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\156_355"
+2017-04-13 21-51-15| scheduled save for sector (159:347), 0x273d1b80, entities: 1336
+2017-04-13 21-51-15| saving sector (159:347)
+2017-04-13 21-51-15| sector (159:347) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_347"
+2017-04-13 21-51-15| scheduled save for sector (163:347), 0x1cc631d0, entities: 362
+2017-04-13 21-51-15| saving sector (163:347)
+2017-04-13 21-51-15| sector (163:347) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\163_347"
+2017-04-13 21-51-19| scheduled save for sector (156:355), 0x15d59310, entities: 125
+2017-04-13 21-51-19| saving sector (156:355)
+2017-04-13 21-51-19| sector (156:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\156_355"
+2017-04-13 21-51-19| scheduled save for sector (153:355), 0x273d14f0, entities: 1307
+2017-04-13 21-51-19| saving sector (153:355)
+2017-04-13 21-51-19| 
