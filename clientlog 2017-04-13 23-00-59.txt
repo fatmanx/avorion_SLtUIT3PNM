@@ -151,4 +151,12 @@
 2017-04-13 23-23-40| <> You have no sector selected.
 2017-04-13 23-23-56| <Server> Moving player fatmanone to sector (184:448).
 2017-04-13 23-24-34| <Gate Control> You paid 20 credits passage fee.
-2017-04-13 23-24-59| 
+2017-04-13 23-24-59| <Server> More strange subspace signals, they're getting stronger.
+2017-04-13 23-25-10| <Gate Control> You paid 10 credits passage fee.
+2017-04-13 23-25-18| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Oceano Theme.ogg'
+2017-04-13 23-25-18| SDL Mix error: music parameter was NULL
+2017-04-13 23-25-19| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - All Which Was Lost Has Now Been Regained.ogg'
+2017-04-13 23-25-19| SDL Mix error: music parameter was NULL
+2017-04-13 23-25-21| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - The Day After the Storm.ogg'
+2017-04-13 23-25-21| SDL Mix error: music parameter was NULL
+2017-04-13 23-25-59| 
