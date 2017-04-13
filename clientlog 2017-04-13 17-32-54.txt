@@ -217,4 +217,23 @@
 2017-04-13 19-33-56| <> You have received a distress signal by an unknown source.
 2017-04-13 19-34-02| <Gate Control> You paid 172 credits passage fee.
 2017-04-13 19-34-50| <Server> Pirates are attacking the sector!
-2017-04-13 19-35-35| 
+2017-04-13 19-35-35| <The Xiujlaoc'zao> Thank you for taking care of those pirates. We transferred a reward to your account.
+2017-04-13 19-36-52| UDP closed
+2017-04-13 19-36-52| Client UDP: Connection closed
+2017-04-13 19-36-52| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 19-36-52| UDP closed
+2017-04-13 19-36-52| Client UDP: Connection closed
+2017-04-13 19-36-53| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-13 19-36-53| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 19-36-54| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-13 19-36-54| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 19-36-54| Server shutdown successful.
+2017-04-13 19-36-54| UDP closed
+2017-04-13 19-36-54| Client UDP: Connection closed
+2017-04-13 19-36-57| Exiting client.
+2017-04-13 19-36-57| Exited client main loop.
+2017-04-13 19-36-57| Waiting for Online polling threads
+2017-04-13 19-36-57| Online polling threads finished
+2017-04-13 19-36-57| Waiting for LAN polling threads
+2017-04-13 19-36-57| LAN polling threads finished
+2017-04-13 19-36-57| Stopping local server ...
