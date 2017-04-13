@@ -1,0 +1,46 @@
+2017-04-13 20-55-55| Enabled Traces: 
+2017-04-13 20-55-55| Avorion server Beta 0.11 r7857 running on Windows 7 starting up in "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy"
+2017-04-13 20-55-55| CPU: GenuineIntel 8 Cores
+2017-04-13 20-55-55| name: fatmanone's Server
+2017-04-13 20-55-55| seed: q4MzlgFfaj23452
+2017-04-13 20-55-55| port: 27000
+2017-04-13 20-55-55| max online players: 10
+2017-04-13 20-55-55| save interval: 600
+2017-04-13 20-55-55| broadcast interval: 5
+2017-04-13 20-55-55| max loaded sector time: 300
+2017-04-13 20-55-55| weak update: yes
+2017-04-13 20-55-55| worker threads: 7
+2017-04-13 20-55-55| generator threads: 2
+2017-04-13 20-55-55| difficulty: Easy
+2017-04-13 20-55-55| infiniteResources: no
+2017-04-13 20-55-55| collision: 1
+2017-04-13 20-55-55| access list: Blacklist
+2017-04-13 20-55-55| public: no
+2017-04-13 20-55-55| authentication: no
+2017-04-13 20-55-55| listed: no
+2017-04-13 20-55-55| steam networking: yes
+2017-04-13 20-55-55| server will exit once all admins logged out.
+2017-04-13 20-55-55| administrators: 'admin' 
+2017-04-13 20-55-55| Initializing sector database...
+2017-04-13 20-55-55| Initializing faction database...
+2017-04-13 20-55-55| Starting up 7 worker threads...
+2017-04-13 20-55-55| Loading jumping entities... 
+2017-04-13 20-55-55| Loaded 10 jumping entities.
+2017-04-13 20-55-55| Loading groups...
+2017-04-13 20-55-55| Galaxy initialized.
+2017-04-13 20-55-55| Listed server version: 0.11.0.7857
+2017-04-13 20-55-56| Game Port: 27000
+2017-04-13 20-55-56| Steam Port: 27021
+2017-04-13 20-55-56| Steam Query Port: 27020
+2017-04-13 20-55-56| Query Port: 27003
+2017-04-13 20-55-56| 
+2017-04-13 20-55-56| Server UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 20-55-56| Installed Steam exception handler
+2017-04-13 20-55-58| Server connected to Steam successfully
+2017-04-13 20-55-58| Server is not VAC Secure!
+2017-04-13 20-55-58| Game Server Steam ID: 90108115029481474
+2017-04-13 20-55-59| OnP2PSessionRequest from 76561197970945365
+2017-04-13 20-56-03| [Authentication not Enabled] New client: 76561197970945365
+2017-04-13 20-56-03| Client accepted: 76561197970945365
+2017-04-13 20-56-03| Connection to player established
+2017-04-13 20-56-03| 
