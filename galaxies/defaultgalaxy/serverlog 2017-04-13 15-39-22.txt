@@ -208,4 +208,26 @@
 2017-04-13 16-17-19| saving sector (148:207)
 2017-04-13 16-17-19| sector (148:207) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_207"
 2017-04-13 16-17-24| Received an invoke script message for an entity that does not exist: 1142
-2017-04-13 16-17-36| 
+2017-04-13 16-17-36| <> The crew of your ship 'Gold Mine' was paid.
+2017-04-13 16-19-22| Triggered saving of all server data.
+2017-04-13 16-19-23| scheduled save for sector (148:207), 0x10365ee0, entities: 845
+2017-04-13 16-19-23| saving sector (148:207)
+2017-04-13 16-19-23| sector (148:207) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_207"
+2017-04-13 16-19-24| scheduled save for sector (152:202), 0x1ec7b710, entities: 611
+2017-04-13 16-19-24| saving sector (152:202)
+2017-04-13 16-19-24| sector (152:202) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\152_202"
+2017-04-13 16-19-24| scheduled save for sector (153:211), 0x103644a0, entities: 656
+2017-04-13 16-19-24| saving sector (153:211)
+2017-04-13 16-19-24| sector (153:211) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_211"
+2017-04-13 16-19-24| scheduled save for sector (154:209), 0xd14eeb0, entities: 1223
+2017-04-13 16-19-24| saving sector (154:209)
+2017-04-13 16-19-25| sector (154:209) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\154_209"
+2017-04-13 16-19-25| scheduled save for sector (155:199), 0x2e97fec0, entities: 383
+2017-04-13 16-19-25| saving sector (155:199)
+2017-04-13 16-19-25| sector (155:199) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_199"
+2017-04-13 16-19-25| scheduled save for sector (155:203), 0x110bff70, entities: 1990
+2017-04-13 16-19-25| saving sector (155:203)
+2017-04-13 16-19-25| sector (155:203) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_203"
+2017-04-13 16-19-25| scheduled save for sector (160:204), 0x1ec7b080, entities: 3
+2017-04-13 16-19-25| saving sector (160:204)
+2017-04-13 16-19-26| 
