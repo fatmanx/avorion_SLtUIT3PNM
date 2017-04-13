@@ -320,4 +320,10 @@
 2017-04-13 22-44-26| <Server> A group of alien ships warped in!
 2017-04-13 22-47-06| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Minmatar Melody 3.ogg'
 2017-04-13 22-47-06| SDL Mix error: music parameter was NULL
-2017-04-13 22-47-10| 
+2017-04-13 22-47-10| <The Followers of Pfoumuuzyuo> Thank you for defeating those pirates. You have our endless gratitude.
+2017-04-13 22-49-12| <> You have no sector selected.
+2017-04-13 22-49-15| <Gate Control> You paid 1179 credits passage fee.
+2017-04-13 22-49-23| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Forsaken Ruins.ogg'
+2017-04-13 22-49-23| SDL Mix error: music parameter was NULL
+2017-04-13 22-49-24| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Caldari Melody 2.ogg'
+2017-04-13 22-49-24| 

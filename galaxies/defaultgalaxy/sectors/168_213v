@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="5" numWrecks="0" numAsteroids="558" numStations="7" influence="66.6189957" factionIndex="2001476">
+	<coordinates x="168" y="213"/>
+	<titles>
+		<title str="${good} Farm ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Potatoes</arg>
+			<arg key="prefix">Potato /* prefix */</arg>
+			<arg key="good">Potato</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="good">Wood</arg>
+			<arg key="plural">Wood</arg>
+			<arg key="prefix">Wood /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Trading Post"/>
+		<title str="${good} Farm ${size}">
+			<arg key="plural">Fruits</arg>
+			<arg key="good">Fruit</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Fruit /* prefix */</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Steel /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="good">Steel</arg>
+			<arg key="plural">Steel</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="good">Vegetable</arg>
+			<arg key="plural">Vegetables</arg>
+			<arg key="prefix">Vegetable /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+	</titles>
+	<wormholes>
+		<coordinates x="165" y="214"/>
+		<coordinates x="167" y="210"/>
+		<coordinates x="170" y="214"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="5" faction="2001476"/>
+	</shipNumbers>
+</view>

@@ -107,7 +107,7 @@
 			<binding name="Weapons 8" action="28" primaryKey="56" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
 			<binding name="Weapons 9" action="29" primaryKey="57" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
 			<binding name="Next Target" action="40" primaryKey="9" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
-			<binding name="Select" action="41" primaryKey="2" primaryDevice="1" secondaryKey="-1" secondaryDevice="0"/>
+			<binding name="Select" action="41" primaryKey="2" primaryDevice="1" secondaryKey="3" secondaryDevice="1"/>
 			<binding name="Nearest Enemy" action="43" primaryKey="114" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
 			<binding name="Next Ally" action="44" primaryKey="103" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
 			<binding name="Free Mouse" action="60" primaryKey="1073742049" primaryDevice="0" secondaryKey="-1" secondaryDevice="0"/>
