@@ -110,4 +110,25 @@
 2017-04-13 16-07-04| Creating sector at (107:118)
 2017-04-13 16-07-05| scheduled save for sector (107:118), 0x11606890, entities: 0
 2017-04-13 16-07-05| saving sector (107:118)
-2017-04-13 16-07-05| 
+2017-04-13 16-07-05| sector (107:118) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\107_118"
+2017-04-13 16-07-05| scheduled save for sector (107:118), 0x11606890, entities: 150
+2017-04-13 16-07-05| saving sector (107:118)
+2017-04-13 16-07-05| sector (107:118) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\107_118"
+2017-04-13 16-07-05| Player fatmanone moved to sector (107:118)from (166:167) server time taken for change: 136ms
+2017-04-13 16-07-05| scheduled save for sector (166:167), 0x4d00670, entities: 900
+2017-04-13 16-07-05| saving sector (166:167)
+2017-04-13 16-07-06| sector (166:167) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\166_167"
+2017-04-13 16-07-19| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 16-07-19| Creating sector at (107:117)
+2017-04-13 16-07-19| scheduled save for sector (107:117), 0xbe9f600, entities: 0
+2017-04-13 16-07-19| saving sector (107:117)
+2017-04-13 16-07-19| sector (107:117) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\107_117"
+2017-04-13 16-07-26| <> Jump route calculated.
+2017-04-13 16-07-35| scheduled save for sector (107:117), 0xbe9f600, entities: 52
+2017-04-13 16-07-35| saving sector (107:117)
+2017-04-13 16-07-35| sector (107:117) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\107_117"
+2017-04-13 16-07-35| Player fatmanone moved to sector (107:117)from (107:118) server time taken for change: 119ms
+2017-04-13 16-07-35| scheduled save for sector (107:118), 0x11606890, entities: 150
+2017-04-13 16-07-35| saving sector (107:118)
+2017-04-13 16-07-35| sector (107:118) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\107_118"
+2017-04-13 16-07-41| 
