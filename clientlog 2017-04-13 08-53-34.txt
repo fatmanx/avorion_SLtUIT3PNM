@@ -118,4 +118,6 @@
 2017-04-13 09-14-28| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 09-14-35| <> Jump route calculated.
 2017-04-13 09-17-51| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 09-17-58| 
+2017-04-13 09-17-58| <> Jump route calculated.
+2017-04-13 09-20-19| <> This sector is out of reach with this ship.
+2017-04-13 09-20-31| 
