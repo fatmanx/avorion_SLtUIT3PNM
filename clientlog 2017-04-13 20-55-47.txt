@@ -103,4 +103,6 @@
 2017-04-13 20-57-55| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Rose of Victory.ogg'
 2017-04-13 20-57-55| SDL Mix error: music parameter was NULL
 2017-04-13 20-57-56| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Crucible Theme.ogg'
-2017-04-13 20-57-56| 
+2017-04-13 20-57-56| SDL Mix error: music parameter was NULL
+2017-04-13 20-58-15| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 20-58-24| 
