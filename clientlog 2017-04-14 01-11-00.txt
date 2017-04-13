@@ -305,4 +305,8 @@
 2017-04-14 01-48-28| SDL Mix error: music parameter was NULL
 2017-04-14 01-49-53| <Server> Your sensors picked up a short burst of subspace signals.
 2017-04-14 01-52-52| <Server> Pirates are attacking the sector!
-2017-04-14 01-52-52| 
+2017-04-14 01-52-52| <Server> More strange subspace signals, they're getting stronger.
+2017-04-14 01-53-53| <Server> A small group of alien ships appeared!
+2017-04-14 01-54-24| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Empyrean Age Theme.ogg'
+2017-04-14 01-54-24| SDL Mix error: music parameter was NULL
+2017-04-14 01-54-37| 
