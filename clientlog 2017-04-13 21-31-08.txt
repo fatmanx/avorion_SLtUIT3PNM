@@ -267,4 +267,5 @@
 2017-04-13 22-13-42| <Server> Your sensors picked up a short burst of subspace signals.
 2017-04-13 22-13-56| <> Jump route calculated.
 2017-04-13 22-15-04| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Caldari Theme.ogg'
-2017-04-13 22-15-04| 
+2017-04-13 22-15-04| SDL Mix error: music parameter was NULL
+2017-04-13 22-16-41| 
