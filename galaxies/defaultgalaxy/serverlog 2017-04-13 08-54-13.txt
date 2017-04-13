@@ -420,4 +420,7 @@
 2017-04-13 09-39-04| scheduled save for sector (280:280), 0xb05b850, entities: 0
 2017-04-13 09-39-04| saving sector (280:280)
 2017-04-13 09-39-04| sector (280:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\280_280"
-2017-04-13 09-39-48| 
+2017-04-13 09-39-48| swoks was beaten for the 3. time!
+2017-04-13 09-40-09| scheduled save for sector (279:280), 0xb05c570, entities: 0
+2017-04-13 09-40-09| saving sector (279:280)
+2017-04-13 09-40-09| 
