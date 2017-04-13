@@ -107,4 +107,5 @@
 2017-04-13 23-32-46| <> Jump route calculated.
 2017-04-13 23-33-04| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 23-33-04| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-13 23-34-05| 
+2017-04-13 23-34-05| failed to load texture from file "data/textures/icons/neutron-accelerator.png"
+2017-04-13 23-34-34| 
