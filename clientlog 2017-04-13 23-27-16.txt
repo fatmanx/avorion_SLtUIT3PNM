@@ -106,4 +106,5 @@
 2017-04-13 23-32-09| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 23-32-46| <> Jump route calculated.
 2017-04-13 23-33-04| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-13 23-33-04| 
+2017-04-13 23-33-04| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 23-34-05| 
