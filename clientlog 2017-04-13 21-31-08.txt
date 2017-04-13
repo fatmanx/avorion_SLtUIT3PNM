@@ -90,4 +90,8 @@
 2017-04-13 21-31-17| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
 2017-04-13 21-31-17| Initiating connection with server ID 90108118314702850
 2017-04-13 21-31-21| Authentication successful!
-2017-04-13 21-31-29| 
+2017-04-13 21-31-29| <Server> Player fatmanone joined the galaxy
+2017-04-13 21-33-12| <Equipment Dock> There is no free squad to place the fighter in.
+2017-04-13 21-33-12| <Equipment Dock> There is no free squad to place the fighter in.
+2017-04-13 21-33-12| <Equipment Dock> There is no free squad to place the fighter in.
+2017-04-13 21-33-13| 
