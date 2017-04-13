@@ -214,4 +214,9 @@
 2017-04-13 09-50-55| <Server> The signals are growing stronger.
 2017-04-13 09-51-17| <> You don't have any of this turret.
 2017-04-13 09-51-22| <> You cannot build a turret at this place. There is already a turret at this position.
-2017-04-13 09-51-33| 
+2017-04-13 09-51-33| <> Your ship doesn't support more of this turret type.
+2017-04-13 09-51-56| <Server> A group of alien ships warped in!
+2017-04-13 09-51-57| <> Your ship doesn't support more of this turret type.
+2017-04-13 09-51-57| <> Your ship doesn't support more of this turret type.
+2017-04-13 09-52-42| <> You have no sector selected.
+2017-04-13 09-52-42| 
