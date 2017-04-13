@@ -126,4 +126,7 @@
 2017-04-13 17-54-23| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 17-54-54| <> Jump route calculated.
 2017-04-13 17-55-16| <Server> Your sensors picked up short bursts of subspace signals.
-2017-04-13 17-55-19| 
+2017-04-13 17-55-19| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
+2017-04-13 17-58-15| <Server> The signals are growing stronger.
+2017-04-13 17-58-42| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 17-59-02| 
