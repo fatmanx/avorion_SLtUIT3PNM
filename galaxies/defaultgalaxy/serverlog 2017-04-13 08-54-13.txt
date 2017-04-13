@@ -351,4 +351,14 @@
 2017-04-13 09-30-45| starting event spawntravellingmerchant
 2017-04-13 09-31-31| scheduled save for sector (281:280), 0xb05b1c0, entities: 0
 2017-04-13 09-31-31| saving sector (281:280)
-2017-04-13 09-31-31| 
+2017-04-13 09-31-31| sector (281:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\281_280"
+2017-04-13 09-33-01| scheduled save for sector (281:281), 0xb05b850, entities: 0
+2017-04-13 09-33-01| saving sector (281:281)
+2017-04-13 09-33-01| sector (281:281) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\281_281"
+2017-04-13 09-33-39| scheduled save for sector (279:280), 0xb05c570, entities: 29
+2017-04-13 09-33-39| saving sector (279:280)
+2017-04-13 09-33-39| sector (279:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\279_280"
+2017-04-13 09-33-39| Player fatmanone moved to sector (279:280)from (279:281) server time taken for change: 42ms
+2017-04-13 09-33-39| scheduled save for sector (279:281), 0xb05a4a0, entities: 33
+2017-04-13 09-33-39| saving sector (279:281)
+2017-04-13 09-33-39| 
