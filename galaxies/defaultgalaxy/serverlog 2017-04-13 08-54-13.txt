@@ -348,4 +348,7 @@
 2017-04-13 09-30-01| saving sector (279:280)
 2017-04-13 09-30-01| sector (279:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\279_280"
 2017-04-13 09-30-08| <> Jump route calculated.
-2017-04-13 09-30-45| 
+2017-04-13 09-30-45| starting event spawntravellingmerchant
+2017-04-13 09-31-31| scheduled save for sector (281:280), 0xb05b1c0, entities: 0
+2017-04-13 09-31-31| saving sector (281:280)
+2017-04-13 09-31-31| 
