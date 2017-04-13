@@ -332,4 +332,10 @@
 2017-04-13 22-50-35| <> Jump route calculated.
 2017-04-13 22-50-52| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Surplus of Rare Artifacts.ogg'
 2017-04-13 22-50-52| SDL Mix error: music parameter was NULL
-2017-04-13 22-52-13| 
+2017-04-13 22-52-13| <Gate Control> You paid 1059 credits passage fee.
+2017-04-13 22-54-10| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Caldari Theme.ogg'
+2017-04-13 22-54-10| SDL Mix error: music parameter was NULL
+2017-04-13 22-54-11| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Nouvelle Rouvenor Hero.ogg'
+2017-04-13 22-54-11| SDL Mix error: music parameter was NULL
+2017-04-13 22-54-12| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Incrarna Theme.ogg'
+2017-04-13 22-54-12| 
