@@ -111,4 +111,11 @@
 2017-04-13 09-04-20| scheduled save for sector (500:499), 0xfe72370, entities: 0
 2017-04-13 09-04-20| saving sector (500:499)
 2017-04-13 09-04-20| sector (500:499) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\500_499"
-2017-04-13 09-04-27| 
+2017-04-13 09-04-27| <> Jump route calculated.
+2017-04-13 09-05-09| scheduled save for sector (500:500), 0xfff4420, entities: 0
+2017-04-13 09-05-09| saving sector (500:500)
+2017-04-13 09-05-09| sector (500:500) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\500_500"
+2017-04-13 09-05-27| <> Your hyperdrive still needs 12 seconds to recharge.
+2017-04-13 09-05-28| <> Your hyperdrive still needs 11 seconds to recharge.
+2017-04-13 09-05-28| <> Your hyperdrive still needs 11 seconds to recharge.
+2017-04-13 09-05-29| 

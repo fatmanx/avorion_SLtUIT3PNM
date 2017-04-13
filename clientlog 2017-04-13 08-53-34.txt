@@ -101,4 +101,8 @@
 2017-04-13 09-02-34| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s37.xml"
 2017-04-13 09-02-41| <> Your hyperdrive still needs 37 seconds to recharge.
 2017-04-13 09-04-20| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 09-04-27| 
+2017-04-13 09-04-27| <> Jump route calculated.
+2017-04-13 09-05-27| <> Your hyperdrive still needs 12 seconds to recharge.
+2017-04-13 09-05-28| <> Your hyperdrive still needs 11 seconds to recharge.
+2017-04-13 09-05-28| <> Your hyperdrive still needs 11 seconds to recharge.
+2017-04-13 09-05-29| 
