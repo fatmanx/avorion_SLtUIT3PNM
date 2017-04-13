@@ -191,4 +191,7 @@
 2017-04-13 19-08-14| <Gate Control> You paid 189 credits passage fee.
 2017-04-13 19-10-45| <Gate Control> You paid 598 credits passage fee.
 2017-04-13 19-10-46| <Object Detector> Valuable objects detected.
-2017-04-13 19-12-09| 
+2017-04-13 19-12-09| <Gate Control> You paid 227 credits passage fee.
+2017-04-13 19-12-54| <Gate Control> You paid 256 credits passage fee.
+2017-04-13 19-12-54| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 19-12-54| 

@@ -698,4 +698,35 @@
 2017-04-13 19-12-09| sector (183:318) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_318"
 2017-04-13 19-12-11| scheduled save for sector (181:315), 0x1ed8e460, entities: 954
 2017-04-13 19-12-11| saving sector (181:315)
-2017-04-13 19-12-11| 
+2017-04-13 19-12-11| sector (181:315) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\181_315"
+2017-04-13 19-12-54| scheduled save for sector (181:315), 0x1ed8e460, entities: 991
+2017-04-13 19-12-54| saving sector (181:315)
+2017-04-13 19-12-54| sector (181:315) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\181_315"
+2017-04-13 19-12-54| Player fatmanone moved to sector (181:315)from (184:316) server time taken for change: 302ms
+2017-04-13 19-12-54| scheduled save for sector (184:316), 0x1ed90530, entities: 3
+2017-04-13 19-12-54| saving sector (184:316)
+2017-04-13 19-12-54| sector (184:316) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_316"
+2017-04-13 19-13-14| scheduled save for sector (188:303), 0xbed4350, entities: 4
+2017-04-13 19-13-14| saving sector (188:303)
+2017-04-13 19-13-14| sector (188:303) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_303"
+2017-04-13 19-13-17| Triggered saving of all server data.
+2017-04-13 19-13-17| scheduled save for sector (181:315), 0x1ed8e460, entities: 991
+2017-04-13 19-13-17| saving sector (181:315)
+2017-04-13 19-13-17| sector (181:315) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\181_315"
+2017-04-13 19-13-17| scheduled save for sector (183:318), 0x1ed90bc0, entities: 1
+2017-04-13 19-13-17| saving sector (183:318)
+2017-04-13 19-13-17| sector (183:318) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_318"
+2017-04-13 19-13-17| scheduled save for sector (184:316), 0x1ed90530, entities: 3
+2017-04-13 19-13-17| saving sector (184:316)
+2017-04-13 19-13-17| sector (184:316) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_316"
+2017-04-13 19-13-17| scheduled save for sector (186:306), 0x4669fd00, entities: 1151
+2017-04-13 19-13-17| saving sector (186:306)
+2017-04-13 19-13-17| sector (186:306) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\186_306"
+2017-04-13 19-13-17| scheduled save for sector (186:314), 0xbed6ab0, entities: 2006
+2017-04-13 19-13-17| saving sector (186:314)
+2017-04-13 19-13-18| sector (186:314) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\186_314"
+2017-04-13 19-13-18| scheduled save for sector (188:307), 0xb2a8100, entities: 903
+2017-04-13 19-13-18| saving sector (188:307)
+2017-04-13 19-13-18| sector (188:307) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_307"
+2017-04-13 19-13-25| No xsotan attacks in neutral zones.
+2017-04-13 19-13-25| 
