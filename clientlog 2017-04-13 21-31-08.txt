@@ -263,4 +263,6 @@
 2017-04-13 22-11-27| <Gate Control> You paid 1458 credits passage fee.
 2017-04-13 22-11-41| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
 2017-04-13 22-12-18| <Gate Control> You paid 493 credits passage fee.
-2017-04-13 22-13-26| 
+2017-04-13 22-13-26| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 22-13-42| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-13 22-13-56| 
