@@ -130,4 +130,6 @@
 2017-04-13 23-15-44| <> You have no sector selected.
 2017-04-13 23-16-21| <> You have no sector selected.
 2017-04-13 23-16-25| <Gate Control> You paid 56 credits passage fee.
-2017-04-13 23-16-51| 
+2017-04-13 23-16-51| <Gate Control> You paid 22 credits passage fee.
+2017-04-13 23-17-02| <> You have no sector selected.
+2017-04-13 23-17-02| 
