@@ -104,4 +104,13 @@
 2017-04-13 23-07-31| <Gate Control> You paid 123 credits passage fee.
 2017-04-13 23-07-45| <> You have no sector selected.
 2017-04-13 23-07-46| <> You have no sector selected.
-2017-04-13 23-07-46| 
+2017-04-13 23-07-46| <> You have no sector selected.
+2017-04-13 23-08-06| <Gate Control> You paid 172 credits passage fee.
+2017-04-13 23-08-22| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Minmatar Rebel Alliance.ogg'
+2017-04-13 23-08-22| SDL Mix error: music parameter was NULL
+2017-04-13 23-08-23| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 5.ogg'
+2017-04-13 23-08-23| SDL Mix error: music parameter was NULL
+2017-04-13 23-08-24| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Omens.ogg'
+2017-04-13 23-08-24| SDL Mix error: music parameter was NULL
+2017-04-13 23-08-25| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Seek and You Shall Find.ogg'
+2017-04-13 23-08-25| 
