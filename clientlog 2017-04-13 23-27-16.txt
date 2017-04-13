@@ -125,4 +125,21 @@
 2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
 2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
 2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
-2017-04-13 23-35-33| 
+2017-04-13 23-35-33| Create Entity Message discarded: wrong sector
+2017-04-13 23-38-15| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 23-38-15| UDP closed
+2017-04-13 23-38-15| Client UDP: Connection closed
+2017-04-13 23-38-15| UDP closed
+2017-04-13 23-38-15| Client UDP: Connection closed
+2017-04-13 23-38-16| Client UDP: Error receiving from 0.0.0.0, error: No connection could be made because the target machine actively refused it, received bytes: 0
+2017-04-13 23-38-16| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2017-04-13 23-38-17| Server shutdown successful.
+2017-04-13 23-38-17| UDP closed
+2017-04-13 23-38-17| Client UDP: Connection closed
+2017-04-13 23-38-18| Exiting client.
+2017-04-13 23-38-18| Exited client main loop.
+2017-04-13 23-38-18| Waiting for Online polling threads
+2017-04-13 23-38-18| Online polling threads finished
+2017-04-13 23-38-18| Waiting for LAN polling threads
+2017-04-13 23-38-18| LAN polling threads finished
+2017-04-13 23-38-18| Stopping local server ...
