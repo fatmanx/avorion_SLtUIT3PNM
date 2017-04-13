@@ -179,4 +179,6 @@
 2017-04-13 18-57-42| <> You have no sector selected.
 2017-04-13 18-58-10| <Gate Control> You paid 2445 credits passage fee.
 2017-04-13 18-58-44| <Server> The signals are growing stronger.
-2017-04-13 18-58-45| 
+2017-04-13 18-58-45| <Gate Control> You paid 2373 credits passage fee.
+2017-04-13 18-59-33| <Gate Control> You paid 2547 credits passage fee.
+2017-04-13 18-59-49| 

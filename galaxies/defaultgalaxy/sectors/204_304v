@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="6" numWrecks="0" numAsteroids="440" numStations="9" influence="85.6529922" factionIndex="2001208">
+	<coordinates x="204" y="304"/>
+	<titles>
+		<title str="Shipyard"/>
+		<title str="Computer Component Factory ${size}">
+			<arg key="prefix">Display /* prefix */</arg>
+			<arg key="plural">Displays</arg>
+			<arg key="size">L</arg>
+			<arg key="good">Display</arg>
+		</title>
+		<title str="Equipment Dock"/>
+		<title str="Trading Post"/>
+		<title str="Resource Depot"/>
+		<title str="Repair Dock"/>
+		<title str="Research Station"/>
+		<title str="Tesla Coil Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="plural">Military Tesla Coils</arg>
+			<arg key="prefix">Military Tesla Coil /* prefix */</arg>
+			<arg key="good">Military Tesla Coil</arg>
+		</title>
+		<title str="Military Outpost"/>
+	</titles>
+	<wormholes>
+		<coordinates x="206" y="299"/>
+		<coordinates x="193" y="303"/>
+		<coordinates x="203" y="309"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="6" faction="2001208"/>
+	</shipNumbers>
+</view>
