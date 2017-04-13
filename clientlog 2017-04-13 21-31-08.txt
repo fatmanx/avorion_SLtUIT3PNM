@@ -139,4 +139,5 @@
 2017-04-13 21-49-46| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Miners Heaven.ogg'
 2017-04-13 21-49-46| SDL Mix error: music parameter was NULL
 2017-04-13 21-49-47| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 1.ogg'
-2017-04-13 21-49-47| 
+2017-04-13 21-49-47| SDL Mix error: music parameter was NULL
+2017-04-13 21-55-06| 
