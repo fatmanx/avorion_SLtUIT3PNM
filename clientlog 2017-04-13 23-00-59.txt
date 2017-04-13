@@ -114,4 +114,6 @@
 2017-04-13 23-08-24| SDL Mix error: music parameter was NULL
 2017-04-13 23-08-25| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Seek and You Shall Find.ogg'
 2017-04-13 23-08-25| SDL Mix error: music parameter was NULL
-2017-04-13 23-09-11| 
+2017-04-13 23-09-11| <Gate Control> You paid 24 credits passage fee.
+2017-04-13 23-10-25| <> You have no sector selected.
+2017-04-13 23-10-34| 
