@@ -7,8 +7,8 @@
 	</titles>
 	<wormholes>
 		<coordinates x="156" y="355"/>
-		<coordinates x="159" y="347"/>
 		<coordinates x="153" y="355"/>
+		<coordinates x="159" y="347"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="1" faction="2000721"/>
