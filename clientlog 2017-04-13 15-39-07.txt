@@ -301,4 +301,5 @@
 2017-04-13 16-16-52| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 16-17-05| <> The jump route is still being calculated.
 2017-04-13 16-17-09| <> Jump route calculated.
-2017-04-13 16-17-36| 
+2017-04-13 16-17-36| <> The crew of your ship 'Gold Mine' was paid.
+2017-04-13 16-19-00| 
