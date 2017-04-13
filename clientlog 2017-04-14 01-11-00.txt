@@ -294,4 +294,12 @@
 2017-04-14 01-44-57| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Shifting the Balance of Power.ogg'
 2017-04-14 01-44-57| SDL Mix error: music parameter was NULL
 2017-04-14 01-44-58| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Miners Heaven.ogg'
-2017-04-14 01-44-58| 
+2017-04-14 01-44-58| SDL Mix error: music parameter was NULL
+2017-04-14 01-48-25| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Point of No Return.ogg'
+2017-04-14 01-48-25| SDL Mix error: music parameter was NULL
+2017-04-14 01-48-26| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - I Saw Your Ship.ogg'
+2017-04-14 01-48-26| SDL Mix error: music parameter was NULL
+2017-04-14 01-48-27| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - It Ends Here.ogg'
+2017-04-14 01-48-27| SDL Mix error: music parameter was NULL
+2017-04-14 01-48-28| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Fight Like You Live.ogg'
+2017-04-14 01-48-28| 
