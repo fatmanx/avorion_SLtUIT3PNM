@@ -315,4 +315,6 @@
 2017-04-13 22-40-42| <Gate Control> You paid 2788 credits passage fee.
 2017-04-13 22-41-08| <> You have no sector selected.
 2017-04-13 22-41-54| <> You have no sector selected.
-2017-04-13 22-43-26| 
+2017-04-13 22-43-26| <Server> The signals are growing stronger.
+2017-04-13 22-43-55| <Server> Pirates are attacking the sector!
+2017-04-13 22-44-26| 
