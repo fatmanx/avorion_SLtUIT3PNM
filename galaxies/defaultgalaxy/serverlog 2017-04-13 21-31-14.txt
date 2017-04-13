@@ -473,4 +473,5 @@
 2017-04-13 22-34-19| scheduled save for sector (154:209), 0x2541ece0, entities: 1201
 2017-04-13 22-34-19| saving sector (154:209)
 2017-04-13 22-34-20| sector (154:209) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\154_209"
-2017-04-13 22-34-59| 
+2017-04-13 22-34-59| starting event piratehunter
+2017-04-13 22-40-26| 
