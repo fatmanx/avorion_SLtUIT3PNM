@@ -140,4 +140,5 @@
 2017-04-13 18-02-25| <> Your ship doesn't support more of this turret type.
 2017-04-13 18-02-25| <> Your ship doesn't support more of this turret type.
 2017-04-13 18-08-22| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
-2017-04-13 18-12-14| 
+2017-04-13 18-12-14| <Server> Pirates are attacking the sector!
+2017-04-13 18-13-51| 
