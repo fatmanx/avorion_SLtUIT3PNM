@@ -300,4 +300,7 @@
 2017-04-13 22-29-19| <Gate Control> You paid 311 credits passage fee.
 2017-04-13 22-29-32| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-13 22-30-45| <> You have no sector selected.
-2017-04-13 22-31-25| 
+2017-04-13 22-31-25| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-04-13 22-31-39| <> You were damaged recently. You have to wait another 5 seconds until you can repair your ship.
+2017-04-13 22-32-31| <Server> The subspace signals are getting too strong for your scanners. Brace yourself!
+2017-04-13 22-32-36| 

@@ -465,4 +465,5 @@
 2017-04-13 22-31-16| scheduled save for sector (162:213), 0x3ac0f140, entities: 1186
 2017-04-13 22-31-16| saving sector (162:213)
 2017-04-13 22-31-16| sector (162:213) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_213"
-2017-04-13 22-31-25| 
+2017-04-13 22-31-25| <> You were damaged recently. You have to wait another 15 seconds until you can repair your ship.
+2017-04-13 22-31-39| 
