@@ -2,17 +2,17 @@
 <view numCrafts="12" numWrecks="0" numAsteroids="896" numStations="3" influence="28.5510006" factionIndex="2000587">
 	<coordinates x="163" y="273"/>
 	<titles>
-		<title str="${good} Manufacturer ${size}">
-			<arg key="plural">Plastic</arg>
-			<arg key="prefix">Plastic /* prefix */</arg>
-			<arg key="size">S</arg>
-			<arg key="good">Plastic</arg>
-		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="good">Steel</arg>
 			<arg key="size">XL</arg>
 			<arg key="plural">Steel</arg>
 			<arg key="prefix">Steel /* prefix */</arg>
+		</title>
+		<title str="${good} Manufacturer ${size}">
+			<arg key="plural">Plastic</arg>
+			<arg key="prefix">Plastic /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Plastic</arg>
 		</title>
 		<title str="${good} Farm ${size}">
 			<arg key="size">M</arg>
@@ -22,10 +22,10 @@
 		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="170" y="274"/>
 		<coordinates x="161" y="274"/>
-		<coordinates x="159" y="277"/>
 		<coordinates x="163" y="268"/>
+		<coordinates x="170" y="274"/>
+		<coordinates x="159" y="277"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="12" faction="2000587"/>
