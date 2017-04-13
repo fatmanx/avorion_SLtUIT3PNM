@@ -209,4 +209,7 @@
 2017-04-13 19-23-24| <> You don't have any of this turret.
 2017-04-13 19-23-54| <> You don't have any of this turret.
 2017-04-13 19-27-45| <> You don't have any of this turret.
-2017-04-13 19-28-26| 
+2017-04-13 19-28-26| <> You don't have any of this turret.
+2017-04-13 19-29-15| <Gate Control> You paid 162 credits passage fee.
+2017-04-13 19-29-17| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 19-29-17| 
