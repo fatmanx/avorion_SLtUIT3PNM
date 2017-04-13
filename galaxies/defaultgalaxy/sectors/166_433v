@@ -3,8 +3,8 @@
 	<coordinates x="166" y="433"/>
 	<titles/>
 	<wormholes>
-		<coordinates x="162" y="433"/>
 		<coordinates x="177" y="438"/>
+		<coordinates x="162" y="433"/>
 	</wormholes>
 	<shipNumbers/>
 </view>

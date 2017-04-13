@@ -100,4 +100,6 @@
 2017-04-13 23-27-32| Authentication successful!
 2017-04-13 23-27-41| <Server> Player fatmanone joined the galaxy
 2017-04-13 23-28-29| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
-2017-04-13 23-28-42| 
+2017-04-13 23-28-42| <> You have no sector selected.
+2017-04-13 23-31-30| <Gate Control> You paid 27 credits passage fee.
+2017-04-13 23-32-02| 
