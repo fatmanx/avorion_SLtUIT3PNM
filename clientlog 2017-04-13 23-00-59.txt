@@ -95,4 +95,7 @@
 2017-04-13 23-02-49| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 23-02-49| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 23-03-06| <> You have no sector selected.
-2017-04-13 23-04-52| 
+2017-04-13 23-04-52| <Server> Moving player fatmanone to sector (177:420).
+2017-04-13 23-06-29| <Gate Control> You paid 123 credits passage fee.
+2017-04-13 23-06-29| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 23-06-29| 
