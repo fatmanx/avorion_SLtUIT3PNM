@@ -89,4 +89,8 @@
 2017-04-14 01-11-13| Connecting to server at 127.0.0.1:27000
 2017-04-14 01-11-13| Client UDP: Error receiving from 0.0.0.0, error: An existing connection was forcibly closed by the remote host, received bytes: 0
 2017-04-14 01-11-13| Initiating connection with server ID 90108120836191240
-2017-04-14 01-11-17| 
+2017-04-14 01-11-17| Authentication successful!
+2017-04-14 01-11-26| <Server> Player fatmanone joined the galaxy
+2017-04-14 01-11-52| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-14 01-12-01| <> Jump route calculated.
+2017-04-14 01-12-05| 
