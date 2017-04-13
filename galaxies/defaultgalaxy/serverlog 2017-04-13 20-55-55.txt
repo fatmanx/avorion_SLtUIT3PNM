@@ -57,4 +57,17 @@
 2017-04-13 20-56-09| scheduled save for sector (172:342), 0x102fadb0, entities: 511
 2017-04-13 20-56-09| saving sector (172:342)
 2017-04-13 20-56-09| sector (172:342) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_342"
-2017-04-13 20-56-20| 
+2017-04-13 20-56-20| Player at fatmanone has no script number '8'.
+2017-04-13 20-57-13| scheduled save for sector (172:342), 0x102fadb0, entities: 547
+2017-04-13 20-57-13| saving sector (172:342)
+2017-04-13 20-57-14| sector (172:342) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_342"
+2017-04-13 20-57-14| Player fatmanone moved to sector (172:342)from (172:340) server time taken for change: 257ms
+2017-04-13 20-57-14| scheduled save for sector (172:340), 0xac74920, entities: 633
+2017-04-13 20-57-14| saving sector (172:340)
+2017-04-13 20-57-14| sector (172:340) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_340"
+2017-04-13 20-57-14| scheduled save for sector (177:348), 0xba12640, entities: 2
+2017-04-13 20-57-14| saving sector (177:348)
+2017-04-13 20-57-14| sector (177:348) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_348"
+2017-04-13 20-57-15| scheduled save for sector (167:344), 0xb4be150, entities: 858
+2017-04-13 20-57-15| saving sector (167:344)
+2017-04-13 20-57-15| 

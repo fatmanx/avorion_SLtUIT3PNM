@@ -2,6 +2,22 @@
 <view numCrafts="8" numWrecks="0" numAsteroids="663" numStations="10" influence="95.1699905" factionIndex="2001429">
 	<coordinates x="167" y="344"/>
 	<titles>
+		<title str="Shipyard"/>
+		<title str="Resource Depot"/>
+		<title str="Repair Dock"/>
+		<title str="Equipment Dock"/>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Fabric</arg>
+			<arg key="good">Fabric</arg>
+			<arg key="size">M</arg>
+			<arg key="prefix">Fabric /* prefix */</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Warhead</arg>
+			<arg key="prefix">Warhead /* prefix */</arg>
+			<arg key="plural">Warheads</arg>
+			<arg key="size">S</arg>
+		</title>
 		<title str="${good} Farm ${size}">
 			<arg key="good">Spices</arg>
 			<arg key="size">S</arg>
@@ -9,34 +25,18 @@
 			<arg key="prefix">Spices /* prefix */</arg>
 		</title>
 		<title str="${good} Factory ${size}">
-			<arg key="plural">Fabric</arg>
-			<arg key="good">Fabric</arg>
-			<arg key="size">M</arg>
-			<arg key="prefix">Fabric /* prefix */</arg>
-		</title>
-		<title str="Equipment Dock"/>
-		<title str="Military Outpost"/>
-		<title str="Repair Dock"/>
-		<title str="Shipyard"/>
-		<title str="Casino"/>
-		<title str="${good} Factory ${size}">
 			<arg key="plural">Steel</arg>
 			<arg key="good">Steel</arg>
 			<arg key="prefix">Steel /* prefix */</arg>
 			<arg key="size">S</arg>
 		</title>
-		<title str="Resource Depot"/>
-		<title str="${good} Factory ${size}">
-			<arg key="good">Warhead</arg>
-			<arg key="prefix">Warhead /* prefix */</arg>
-			<arg key="plural">Warheads</arg>
-			<arg key="size">S</arg>
-		</title>
+		<title str="Casino"/>
+		<title str="Military Outpost"/>
 	</titles>
 	<wormholes>
-		<coordinates x="172" y="342"/>
 		<coordinates x="164" y="344"/>
 		<coordinates x="169" y="351"/>
+		<coordinates x="172" y="342"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="1" faction="2000721"/>

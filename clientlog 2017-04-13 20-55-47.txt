@@ -96,4 +96,11 @@
 2017-04-13 20-56-01| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Modern Thinking.ogg'
 2017-04-13 20-56-01| SDL Mix error: music parameter was NULL
 2017-04-13 20-56-03| Authentication successful!
-2017-04-13 20-56-11| 
+2017-04-13 20-56-11| <Server> Player fatmanone joined the galaxy
+2017-04-13 20-57-13| <Gate Control> You paid 297 credits passage fee.
+2017-04-13 20-57-13| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 20-57-14| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 20-57-55| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Rose of Victory.ogg'
+2017-04-13 20-57-55| SDL Mix error: music parameter was NULL
+2017-04-13 20-57-56| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Crucible Theme.ogg'
+2017-04-13 20-57-56| 
