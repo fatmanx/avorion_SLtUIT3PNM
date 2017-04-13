@@ -80,4 +80,11 @@
 2017-04-13 21-35-01| saving sector (155:364)
 2017-04-13 21-35-01| sector (155:364) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_364"
 2017-04-13 21-36-33| No xsotan attacks in neutral zones.
-2017-04-13 21-36-33| 
+2017-04-13 21-36-33| starting event alienattack
+2017-04-13 21-37-40| could not execute function 'updateServer' in '"data/scripts/entity/ai/patrol.lua"':
+2017-04-13 21-37-40| data/scripts/entity/ai/patrol.lua:47: attempt to compare nil with number
+2017-04-13 21-37-40| stack traceback:
+2017-04-13 21-37-40| 	data/scripts/entity/ai/patrol.lua:47: in function 'updateFlying'
+2017-04-13 21-37-40| 	data/scripts/entity/ai/patrol.lua:26: in function <data/scripts/entity/ai/patrol.lua:16>
+2017-04-13 21-37-40| 
+2017-04-13 21-37-40| 
