@@ -137,4 +137,8 @@
 2017-04-13 21-17-59| <> Jump route calculated.
 2017-04-13 21-18-22| <Server> Your sensors picked up short bursts of subspace signals.
 2017-04-13 21-19-25| <Server> Moving player fatmanone to sector (158:374).
-2017-04-13 21-20-59| 
+2017-04-13 21-20-59| <Gate Control> You paid 282 credits passage fee.
+2017-04-13 21-21-20| <Server> The signals are growing stronger.
+2017-04-13 21-21-25| <> You have no sector selected.
+2017-04-13 21-21-35| <Gate Control> You paid 246 credits passage fee.
+2017-04-13 21-21-59| 

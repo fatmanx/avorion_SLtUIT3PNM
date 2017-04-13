@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="4" numWrecks="0" numAsteroids="625" numStations="10" influence="95.1699905" factionIndex="2001429">
+	<coordinates x="162" y="359"/>
+	<titles>
+		<title str="Resource Depot"/>
+		<title str="Equipment Dock"/>
+		<title str="Chemicals Factory ${size}">
+			<arg key="size">M</arg>
+			<arg key="plural">Chemicals</arg>
+			<arg key="prefix">Chemicals /* prefix */</arg>
+			<arg key="good">Chemicals</arg>
+		</title>
+		<title str="Repair Dock"/>
+		<title str="Shipyard"/>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Steel Tube /* prefix */</arg>
+			<arg key="plural">Steel Tubes</arg>
+			<arg key="size">M</arg>
+			<arg key="good">Steel Tube</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Energy Tubes</arg>
+			<arg key="prefix">Energy Tube /* prefix */</arg>
+			<arg key="good">Energy Tube</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Steel</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Steel</arg>
+			<arg key="prefix">Steel /* prefix */</arg>
+		</title>
+		<title str="Habitat"/>
+		<title str="Military Outpost"/>
+	</titles>
+	<wormholes>
+		<coordinates x="163" y="367"/>
+		<coordinates x="156" y="355"/>
+		<coordinates x="169" y="360"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="4" faction="2001429"/>
+	</shipNumbers>
+</view>
