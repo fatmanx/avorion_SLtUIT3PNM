@@ -2,6 +2,12 @@
 <view numCrafts="6" numWrecks="0" numAsteroids="1724" numStations="5" influence="47.5849991" factionIndex="2000431">
 	<coordinates x="190" y="450"/>
 	<titles>
+		<title str="${good} Mine ${size}">
+			<arg key="plural">Silicium</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Silicium</arg>
+			<arg key="prefix">Silicium /* prefix */</arg>
+		</title>
 		<title str="Ice Mine ${size}">
 			<arg key="good">Water</arg>
 			<arg key="size">S</arg>
@@ -9,28 +15,22 @@
 			<arg key="prefix">Water /* prefix */</arg>
 		</title>
 		<title str="Noble Metal Mine ${size}">
-			<arg key="size">S</arg>
-			<arg key="plural">Silver</arg>
-			<arg key="good">Silver</arg>
-			<arg key="prefix">Silver /* prefix */</arg>
-		</title>
-		<title str="${good} Mine ${size}">
-			<arg key="plural">Silicium</arg>
-			<arg key="size">S</arg>
-			<arg key="good">Silicium</arg>
-			<arg key="prefix">Silicium /* prefix */</arg>
-		</title>
-		<title str="Noble Metal Mine ${size}">
-			<arg key="good">Silver</arg>
-			<arg key="prefix">Silver /* prefix */</arg>
-			<arg key="plural">Silver</arg>
-			<arg key="size">S</arg>
-		</title>
-		<title str="Noble Metal Mine ${size}">
 			<arg key="good">Gold</arg>
 			<arg key="prefix">Gold /* prefix */</arg>
 			<arg key="size">S</arg>
 			<arg key="plural">Gold</arg>
+		</title>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="plural">Silver</arg>
+			<arg key="good">Silver</arg>
+			<arg key="prefix">Silver /* prefix */</arg>
+		</title>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="good">Silver</arg>
+			<arg key="prefix">Silver /* prefix */</arg>
+			<arg key="plural">Silver</arg>
+			<arg key="size">S</arg>
 		</title>
 	</titles>
 	<wormholes>

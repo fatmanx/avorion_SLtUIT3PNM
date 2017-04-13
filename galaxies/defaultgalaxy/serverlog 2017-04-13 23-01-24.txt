@@ -467,4 +467,67 @@
 2017-04-13 23-25-16| sector (184:455) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_455"
 2017-04-13 23-25-21| scheduled save for sector (190:450), 0x1c5216e0, entities: 1770
 2017-04-13 23-25-21| saving sector (190:450)
-2017-04-13 23-25-21| 
+2017-04-13 23-25-21| sector (190:450) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\190_450"
+2017-04-13 23-27-10| Client 76561197970945365 lost connection
+2017-04-13 23-27-10| <Server> Player fatmanone left the galaxy
+2017-04-13 23-27-10| Player logged off: fatmanone, index: 1: 
+2017-04-13 23-27-10| Server is shutting down.
+2017-04-13 23-27-10| Saving settings...
+2017-04-13 23-27-10| Saving script values...
+2017-04-13 23-27-10| Saving factions...
+2017-04-13 23-27-10| Saving sectors...
+2017-04-13 23-27-10| Saving jumping ships...
+2017-04-13 23-27-10| scheduled save for sector (0:0), 0x22e3b0, entities: 10
+2017-04-13 23-27-10| saving sector (0:0)
+2017-04-13 23-27-10| sector (0:0) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\jumps.dat"
+2017-04-13 23-27-10| Saving groups...
+2017-04-13 23-27-10| Saving settings...
+2017-04-13 23-27-10| waiting for unfinished sector generation jobs...
+2017-04-13 23-27-10| waiting for unfinished sector save jobs...
+2017-04-13 23-27-10| scheduled save for sector (148:448), 0x2b940dd0, entities: 0
+2017-04-13 23-27-10| saving sector (148:448)
+2017-04-13 23-27-10| sector (148:448) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_448"
+2017-04-13 23-27-10| scheduled save for sector (175:450), 0x2c07bdd0, entities: 840
+2017-04-13 23-27-10| saving sector (175:450)
+2017-04-13 23-27-10| sector (175:450) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\175_450"
+2017-04-13 23-27-10| scheduled save for sector (176:467), 0x1f7bdb60, entities: 1387
+2017-04-13 23-27-10| saving sector (176:467)
+2017-04-13 23-27-11| sector (176:467) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\176_467"
+2017-04-13 23-27-11| scheduled save for sector (177:456), 0x1f7bfc30, entities: 1336
+2017-04-13 23-27-11| saving sector (177:456)
+2017-04-13 23-27-11| sector (177:456) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_456"
+2017-04-13 23-27-11| scheduled save for sector (180:445), 0x14d1b6f0, entities: 592
+2017-04-13 23-27-11| saving sector (180:445)
+2017-04-13 23-27-11| sector (180:445) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\180_445"
+2017-04-13 23-27-11| scheduled save for sector (180:457), 0x33cec870, entities: 7
+2017-04-13 23-27-11| saving sector (180:457)
+2017-04-13 23-27-11| sector (180:457) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\180_457"
+2017-04-13 23-27-11| scheduled save for sector (181:454), 0x1f7be880, entities: 949
+2017-04-13 23-27-11| saving sector (181:454)
+2017-04-13 23-27-11| sector (181:454) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\181_454"
+2017-04-13 23-27-11| scheduled save for sector (183:450), 0x2c075b60, entities: 1329
+2017-04-13 23-27-11| saving sector (183:450)
+2017-04-13 23-27-11| sector (183:450) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_450"
+2017-04-13 23-27-11| scheduled save for sector (184:448), 0x2b941af0, entities: 4
+2017-04-13 23-27-11| saving sector (184:448)
+2017-04-13 23-27-11| sector (184:448) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_448"
+2017-04-13 23-27-11| scheduled save for sector (186:448), 0x14d1b060, entities: 3
+2017-04-13 23-27-11| saving sector (186:448)
+2017-04-13 23-27-11| sector (186:448) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\186_448"
+2017-04-13 23-27-11| scheduled save for sector (187:448), 0x1c51fca0, entities: 713
+2017-04-13 23-27-11| saving sector (187:448)
+2017-04-13 23-27-11| sector (187:448) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\187_448"
+2017-04-13 23-27-11| scheduled save for sector (190:450), 0x1c5216e0, entities: 1770
+2017-04-13 23-27-11| saving sector (190:450)
+2017-04-13 23-27-12| sector (190:450) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\190_450"
+2017-04-13 23-27-12| shutting down networking...
+2017-04-13 23-27-12| UDP closed
+2017-04-13 23-27-12| Server UDP: Connection closed
+2017-04-13 23-27-12| cleaning up communicators...
+2017-04-13 23-27-12| waiting for unfinished sector generation jobs...
+2017-04-13 23-27-12| waiting for unfinished sector save jobs...
+2017-04-13 23-27-12| shutting down galaxy...
+2017-04-13 23-27-12| shutting down faction database...
+2017-04-13 23-27-12| shutting down sector database...
+2017-04-13 23-27-14| cleaning up timers...
+2017-04-13 23-27-14| Server shutdown successful.
