@@ -2,12 +2,30 @@
 <view numCrafts="7" numWrecks="0" numAsteroids="1053" numStations="7" influence="66.6189957" factionIndex="2001429">
 	<coordinates x="169" y="351"/>
 	<titles>
-		<title str="Turret Factory"/>
+		<title str="${good} Factory ${size}">
+			<arg key="prefix">Satellite /* prefix */</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Satellite</arg>
+			<arg key="plural">Satellites</arg>
+		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="prefix">Antigrav Unit /* prefix */</arg>
 			<arg key="size">L</arg>
 			<arg key="good">Antigrav Unit</arg>
 			<arg key="plural">Antigrav Units</arg>
+		</title>
+		<title str="Tesla Coil Factory ${size}">
+			<arg key="good">Military Tesla Coil</arg>
+			<arg key="prefix">Military Tesla Coil /* prefix */</arg>
+			<arg key="plural">Military Tesla Coils</arg>
+			<arg key="size">M</arg>
+		</title>
+		<title str="Turret Factory"/>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Anti-Grav Generators</arg>
+			<arg key="prefix">Anti-Grav Generator /* prefix */</arg>
+			<arg key="good">Anti-Grav Generator</arg>
+			<arg key="size">S</arg>
 		</title>
 		<title str="Resource Depot"/>
 		<title str="Tesla Coil Factory ${size}">
@@ -16,28 +34,10 @@
 			<arg key="prefix">Military Tesla Coil /* prefix */</arg>
 			<arg key="good">Military Tesla Coil</arg>
 		</title>
-		<title str="Tesla Coil Factory ${size}">
-			<arg key="good">Military Tesla Coil</arg>
-			<arg key="prefix">Military Tesla Coil /* prefix */</arg>
-			<arg key="plural">Military Tesla Coils</arg>
-			<arg key="size">M</arg>
-		</title>
-		<title str="${good} Factory ${size}">
-			<arg key="prefix">Satellite /* prefix */</arg>
-			<arg key="size">S</arg>
-			<arg key="good">Satellite</arg>
-			<arg key="plural">Satellites</arg>
-		</title>
-		<title str="${good} Factory ${size}">
-			<arg key="plural">Anti-Grav Generators</arg>
-			<arg key="prefix">Anti-Grav Generator /* prefix */</arg>
-			<arg key="good">Anti-Grav Generator</arg>
-			<arg key="size">S</arg>
-		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="172" y="355"/>
 		<coordinates x="167" y="344"/>
+		<coordinates x="172" y="355"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="7" faction="2001429"/>
