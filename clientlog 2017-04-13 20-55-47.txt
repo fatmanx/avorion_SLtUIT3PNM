@@ -110,4 +110,12 @@
 2017-04-13 21-02-17| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 21-02-26| <> Jump route calculated.
 2017-04-13 21-02-28| <> Your hyperdrive still needs 17 seconds to recharge.
-2017-04-13 21-02-29| 
+2017-04-13 21-02-29| <> Your hyperdrive still needs 15 seconds to recharge.
+2017-04-13 21-10-11| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Smoke From Down Below.ogg'
+2017-04-13 21-10-11| SDL Mix error: music parameter was NULL
+2017-04-13 21-10-12| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - The Promised Lands.ogg'
+2017-04-13 21-10-12| SDL Mix error: music parameter was NULL
+2017-04-13 21-10-13| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Omens.ogg'
+2017-04-13 21-10-13| SDL Mix error: music parameter was NULL
+2017-04-13 21-10-14| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Minmatar Melody 3.ogg'
+2017-04-13 21-10-14| 
