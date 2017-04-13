@@ -141,4 +141,5 @@
 2017-04-13 21-21-20| <Server> The signals are growing stronger.
 2017-04-13 21-21-25| <> You have no sector selected.
 2017-04-13 21-21-35| <Gate Control> You paid 246 credits passage fee.
-2017-04-13 21-21-59| 
+2017-04-13 21-21-59| <> The crew of your ship 'Gold Mine' was paid.
+2017-04-13 21-22-21| 

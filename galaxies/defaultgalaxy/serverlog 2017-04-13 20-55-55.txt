@@ -245,4 +245,7 @@
 2017-04-13 21-21-42| scheduled save for sector (162:359), 0x1b26bdd0, entities: 930
 2017-04-13 21-21-42| saving sector (162:359)
 2017-04-13 21-21-42| sector (162:359) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_359"
-2017-04-13 21-21-59| 
+2017-04-13 21-21-59| <> The crew of your ship 'Gold Mine' was paid.
+2017-04-13 21-23-01| scheduled save for sector (175:364), 0x1b1fc7c0, entities: 874
+2017-04-13 21-23-01| saving sector (175:364)
+2017-04-13 21-23-01| 
