@@ -343,4 +343,5 @@
 2017-04-13 16-42-02| <Trading Post> You must be docked to the station to trade.
 2017-04-13 16-42-03| <Trading Post> You must be docked to the station to trade.
 2017-04-13 16-44-23| failed to load texture from file "data/textures/icons/neutron-accelerator.png"
-2017-04-13 16-44-59| 
+2017-04-13 16-44-59| <Trading Post> This station has no more Neutron Accelerators to sell.
+2017-04-13 16-46-07| 

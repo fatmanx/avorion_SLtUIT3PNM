@@ -473,4 +473,27 @@
 2017-04-13 16-42-48| starting event alienattack
 2017-04-13 16-43-43| scheduled save for sector (174:271), 0x39341020, entities: 1256
 2017-04-13 16-43-44| saving sector (174:271)
-2017-04-13 16-43-44| 
+2017-04-13 16-43-44| sector (174:271) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_271"
+2017-04-13 16-45-41| scheduled save for sector (180:271), 0x38eff6a0, entities: 605
+2017-04-13 16-45-41| saving sector (180:271)
+2017-04-13 16-45-41| scheduled save for sector (183:274), 0x38f00a50, entities: 1535
+2017-04-13 16-45-41| sector (180:271) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\180_271"
+2017-04-13 16-45-41| saving sector (183:274)
+2017-04-13 16-45-42| sector (183:274) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_274"
+2017-04-13 16-45-42| scheduled save for sector (183:280), 0x39342a60, entities: 1027
+2017-04-13 16-45-42| saving sector (183:280)
+2017-04-13 16-45-42| sector (183:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_280"
+2017-04-13 16-46-00| scheduled save for sector (175:263), 0x34340740, entities: 0
+2017-04-13 16-46-00| saving sector (175:263)
+2017-04-13 16-46-00| sector (175:263) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\175_263"
+2017-04-13 16-46-07| scheduled save for sector (178:261), 0x39341d40, entities: 770
+2017-04-13 16-46-07| saving sector (178:261)
+2017-04-13 16-46-08| sector (178:261) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\178_261"
+2017-04-13 16-46-08| Player fatmanone moved to sector (178:261)from (175:264) server time taken for change: 852ms
+2017-04-13 16-46-08| Creating sector at (185:263)
+2017-04-13 16-46-08| Creating sector at (177:257)
+2017-04-13 16-46-08| scheduled save for sector (175:264), 0x3933fc70, entities: 415
+2017-04-13 16-46-08| saving sector (175:264)
+2017-04-13 16-46-08| Generating new content for sector (185:263)
+2017-04-13 16-46-08| Generating new content for sector (177:257)
+2017-04-13 16-46-08| 
