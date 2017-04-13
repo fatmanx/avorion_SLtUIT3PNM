@@ -158,4 +158,5 @@
 2017-04-13 18-35-20| <Server> A large group of alien ships appeared!
 2017-04-13 18-35-58| <Server> Pirates are attacking the sector!
 2017-04-13 18-36-30| <Gate Control> You paid 2097 credits passage fee.
-2017-04-13 18-37-01| 
+2017-04-13 18-37-01| <> You have no sector selected.
+2017-04-13 18-38-20| 
