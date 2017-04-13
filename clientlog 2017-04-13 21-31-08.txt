@@ -132,4 +132,5 @@
 2017-04-13 21-45-47| <Gate Control> You paid 200 credits passage fee.
 2017-04-13 21-46-05| <> You have no sector selected.
 2017-04-13 21-46-19| <Gate Control> You paid 663 credits passage fee.
-2017-04-13 21-48-04| 
+2017-04-13 21-48-04| <Trading Post> You must be docked to the station to trade.
+2017-04-13 21-49-00| 
