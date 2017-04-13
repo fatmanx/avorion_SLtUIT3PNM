@@ -201,4 +201,6 @@
 2017-04-13 19-15-42| <> You have no sector selected.
 2017-04-13 19-16-23| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 19-16-32| <> Jump route calculated.
-2017-04-13 19-20-16| 
+2017-04-13 19-20-16| <Gate Control> You paid 264 credits passage fee.
+2017-04-13 19-20-46| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 19-21-36| 
