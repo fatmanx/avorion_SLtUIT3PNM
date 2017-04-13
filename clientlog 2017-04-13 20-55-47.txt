@@ -129,4 +129,5 @@
 2017-04-13 21-13-48| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Trinity Theme.ogg'
 2017-04-13 21-13-48| SDL Mix error: music parameter was NULL
 2017-04-13 21-13-50| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 21-14-01| 
+2017-04-13 21-14-01| <Server> Moving player fatmanone to sector (175:364).
+2017-04-13 21-14-35| 
