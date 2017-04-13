@@ -141,4 +141,16 @@
 2017-04-13 21-49-47| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 1.ogg'
 2017-04-13 21-49-47| SDL Mix error: music parameter was NULL
 2017-04-13 21-55-06| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 21-55-33| 
+2017-04-13 21-55-33| <> Jump route calculated.
+2017-04-13 21-57-04| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - EVE Online Theme.ogg'
+2017-04-13 21-57-04| SDL Mix error: music parameter was NULL
+2017-04-13 21-57-05| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Stellar Shadows.ogg'
+2017-04-13 21-57-05| SDL Mix error: music parameter was NULL
+2017-04-13 21-57-06| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Infinite Distortion of Space and Time.ogg'
+2017-04-13 21-57-06| SDL Mix error: music parameter was NULL
+2017-04-13 21-57-07| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Primordial Star Clouds.ogg'
+2017-04-13 21-57-07| SDL Mix error: music parameter was NULL
+2017-04-13 21-57-08| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Kronos Theme.ogg'
+2017-04-13 21-57-08| SDL Mix error: music parameter was NULL
+2017-04-13 21-57-10| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Revelations Theme.ogg'
+2017-04-13 21-57-10| 
