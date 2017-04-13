@@ -322,4 +322,5 @@
 2017-04-14 02-10-35| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Seek and You Shall Find.ogg'
 2017-04-14 02-10-35| SDL Mix error: music parameter was NULL
 2017-04-14 02-10-36| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Caldari Theme.ogg'
-2017-04-14 02-10-36| 
+2017-04-14 02-10-36| SDL Mix error: music parameter was NULL
+2017-04-14 02-11-05| 
