@@ -220,4 +220,25 @@
 2017-04-13 23-14-35| sector (177:438) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_438"
 2017-04-13 23-14-42| scheduled save for sector (180:445), 0x2c07a390, entities: 585
 2017-04-13 23-14-42| saving sector (180:445)
-2017-04-13 23-14-42| 
+2017-04-13 23-14-42| sector (180:445) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\180_445"
+2017-04-13 23-15-34| scheduled save for sector (177:427), 0x2b940dd0, entities: 658
+2017-04-13 23-15-34| saving sector (177:427)
+2017-04-13 23-15-34| sector (177:427) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_427"
+2017-04-13 23-15-36| scheduled save for sector (180:445), 0x2c07a390, entities: 630
+2017-04-13 23-15-36| saving sector (180:445)
+2017-04-13 23-15-36| sector (180:445) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\180_445"
+2017-04-13 23-15-36| Player fatmanone moved to sector (180:445)from (179:440) server time taken for change: 215ms
+2017-04-13 23-15-36| Creating sector at (184:448)
+2017-04-13 23-15-36| Creating sector at (175:450)
+2017-04-13 23-15-36| scheduled save for sector (179:440), 0x1c5209c0, entities: 1712
+2017-04-13 23-15-36| saving sector (179:440)
+2017-04-13 23-15-36| Generating new content for sector (184:448)
+2017-04-13 23-15-36| Generating new content for sector (175:450)
+2017-04-13 23-15-37| scheduled save for sector (184:448), 0x2b940dd0, entities: 3
+2017-04-13 23-15-37| sector (179:440) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\179_440"
+2017-04-13 23-15-37| saving sector (184:448)
+2017-04-13 23-15-37| sector (184:448) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_448"
+2017-04-13 23-15-37| scheduled save for sector (175:450), 0x2b943530, entities: 838
+2017-04-13 23-15-37| saving sector (175:450)
+2017-04-13 23-15-37| sector (175:450) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\175_450"
+2017-04-13 23-15-44| 
