@@ -331,4 +331,7 @@
 2017-04-13 16-31-25| <Equipment Dock> Item to buy not found
 2017-04-13 16-33-07| <Server> Moving player fatmanone to sector (170:274).
 2017-04-13 16-35-59| <Gate Control> You paid 270 credits passage fee.
-2017-04-13 16-36-54| 
+2017-04-13 16-36-54| <Gate Control> You paid 77 credits passage fee.
+2017-04-13 16-38-43| <Gate Control> You paid 273 credits passage fee.
+2017-04-13 16-38-44| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 16-38-44| 
