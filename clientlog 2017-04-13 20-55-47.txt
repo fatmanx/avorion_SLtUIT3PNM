@@ -144,4 +144,12 @@
 2017-04-13 21-21-59| <> The crew of your ship 'Gold Mine' was paid.
 2017-04-13 21-22-21| <Server> A group of alien ships warped in!
 2017-04-13 21-24-48| <Gate Control> You paid 396 credits passage fee.
-2017-04-13 21-26-00| 
+2017-04-13 21-26-00| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-13 21-27-09| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - War Relics.ogg'
+2017-04-13 21-27-09| SDL Mix error: music parameter was NULL
+2017-04-13 21-27-10| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Glorious Future.ogg'
+2017-04-13 21-27-10| SDL Mix error: music parameter was NULL
+2017-04-13 21-27-11| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Apocrypha Theme.ogg'
+2017-04-13 21-27-11| SDL Mix error: music parameter was NULL
+2017-04-13 21-27-12| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Rubicon Theme.ogg'
+2017-04-13 21-27-12| 
