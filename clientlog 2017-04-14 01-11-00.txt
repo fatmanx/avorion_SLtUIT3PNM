@@ -231,4 +231,42 @@
 2017-04-14 01-19-06| Create Entity Message discarded: wrong sector
 2017-04-14 01-19-06| Create Entity Message discarded: wrong sector
 2017-04-14 01-19-06| Create Entity Message discarded: wrong sector
-2017-04-14 01-19-06| 
+2017-04-14 01-19-06| Create Entity Message discarded: wrong sector
+2017-04-14 01-19-34| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Caldari Melody 2.ogg'
+2017-04-14 01-19-34| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-35| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Point of No Return.ogg'
+2017-04-14 01-19-35| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-36| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Miners Heaven.ogg'
+2017-04-14 01-19-36| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-37| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Wonderlands of the Mind.ogg'
+2017-04-14 01-19-37| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-38| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Seven Clans.ogg'
+2017-04-14 01-19-38| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-39| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 2.ogg'
+2017-04-14 01-19-39| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-40| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Kronos Theme.ogg'
+2017-04-14 01-19-40| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-41| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - It's Full of Stars.ogg'
+2017-04-14 01-19-41| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-42| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-14 01-19-42| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Shifting the Balance of Power.ogg'
+2017-04-14 01-19-42| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-43| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Red Glowing Dust.ogg'
+2017-04-14 01-19-43| SDL Mix error: music parameter was NULL
+2017-04-14 01-19-48| <> Jump route calculated.
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| Create Entity Message discarded: wrong sector
+2017-04-14 01-20-08| 
