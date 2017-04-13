@@ -382,4 +382,5 @@
 2017-04-14 02-52-11| SDL Mix error: music parameter was NULL
 2017-04-14 02-53-43| <Server> Pirates are attacking the sector!
 2017-04-14 02-53-48| <fatmanone> TurretDropChanceFromBlock
-2017-04-14 02-53-54| 
+2017-04-14 02-53-54| <Server> Unknown command: TurretDropChanceFromBlock
+2017-04-14 02-54-51| 

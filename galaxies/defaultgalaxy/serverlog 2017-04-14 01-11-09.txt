@@ -704,4 +704,5 @@
 2017-04-14 02-51-11| saving sector (169:375)
 2017-04-14 02-51-11| sector (169:375) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_375"
 2017-04-14 02-53-17| starting event fakedistresssignal
-2017-04-14 02-53-48| 
+2017-04-14 02-53-48| <fatmanone> TurretDropChanceFromBlock
+2017-04-14 02-54-51| 
