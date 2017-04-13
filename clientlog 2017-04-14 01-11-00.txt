@@ -316,4 +316,10 @@
 2017-04-14 02-01-52| <> You have received a distress signal by an unknown source.
 2017-04-14 02-07-21| <> The crew of your ship 'Gold Mine' was paid.
 2017-04-14 02-09-05| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - The Green Nebula.ogg'
-2017-04-14 02-09-05| 
+2017-04-14 02-09-05| SDL Mix error: music parameter was NULL
+2017-04-14 02-10-34| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Crucible Theme.ogg'
+2017-04-14 02-10-34| SDL Mix error: music parameter was NULL
+2017-04-14 02-10-35| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Seek and You Shall Find.ogg'
+2017-04-14 02-10-35| SDL Mix error: music parameter was NULL
+2017-04-14 02-10-36| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Caldari Theme.ogg'
+2017-04-14 02-10-36| 
