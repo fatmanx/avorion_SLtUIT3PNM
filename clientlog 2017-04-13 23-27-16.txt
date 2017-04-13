@@ -102,4 +102,8 @@
 2017-04-13 23-28-29| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
 2017-04-13 23-28-42| <> You have no sector selected.
 2017-04-13 23-31-30| <Gate Control> You paid 27 credits passage fee.
-2017-04-13 23-32-02| 
+2017-04-13 23-32-02| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 23-32-09| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 23-32-46| <> Jump route calculated.
+2017-04-13 23-33-04| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 23-33-04| 
