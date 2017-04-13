@@ -381,4 +381,5 @@
 2017-04-13 18-13-17| scheduled save for sector (188:280), 0x1ed8fea0, entities: 1213
 2017-04-13 18-13-17| saving sector (188:280)
 2017-04-13 18-13-17| sector (188:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_280"
-2017-04-13 18-13-51| 
+2017-04-13 18-13-51| <> You have no sector selected.
+2017-04-13 18-18-10| 
