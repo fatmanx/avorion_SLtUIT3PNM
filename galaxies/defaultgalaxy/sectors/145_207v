@@ -2,38 +2,38 @@
 <view numCrafts="7" numWrecks="0" numAsteroids="650" numStations="7" influence="66.6189957" factionIndex="2001620">
 	<coordinates x="145" y="207"/>
 	<titles>
-		<title str="Gas Collector ${size}">
-			<arg key="good">Oxygen</arg>
-			<arg key="plural">Oxygen</arg>
-			<arg key="size">S</arg>
-			<arg key="prefix">Oxygen /* prefix */</arg>
-		</title>
 		<title str="Trading Post"/>
-		<title str="${good} Collector ${size}">
-			<arg key="prefix">Plankton /* prefix */</arg>
-			<arg key="plural">Plankton</arg>
-			<arg key="size">S</arg>
-			<arg key="good">Plankton</arg>
-		</title>
 		<title str="${good} Farm ${size}">
 			<arg key="size">L</arg>
 			<arg key="prefix">Crystal /* prefix */</arg>
 			<arg key="good">Crystal</arg>
 			<arg key="plural">Crystals</arg>
 		</title>
-		<title str="Resource Depot"/>
-		<title str="Turret Factory"/>
 		<title str="Ice Mine ${size}">
 			<arg key="prefix">Water /* prefix */</arg>
 			<arg key="plural">Water</arg>
 			<arg key="size">S</arg>
 			<arg key="good">Water</arg>
 		</title>
+		<title str="Gas Collector ${size}">
+			<arg key="good">Oxygen</arg>
+			<arg key="plural">Oxygen</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Oxygen /* prefix */</arg>
+		</title>
+		<title str="${good} Collector ${size}">
+			<arg key="prefix">Plankton /* prefix */</arg>
+			<arg key="plural">Plankton</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Plankton</arg>
+		</title>
+		<title str="Turret Factory"/>
+		<title str="Resource Depot"/>
 	</titles>
 	<wormholes>
-		<coordinates x="144" y="201"/>
-		<coordinates x="148" y="207"/>
 		<coordinates x="145" y="208"/>
+		<coordinates x="148" y="207"/>
+		<coordinates x="144" y="201"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="1" faction="2000360"/>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="6" numWrecks="0" numAsteroids="749" numStations="10" influence="95.1699905" factionIndex="2001620">
+<view numCrafts="9" numWrecks="0" numAsteroids="749" numStations="10" influence="95.1699905" factionIndex="2001620">
 	<coordinates x="145" y="208"/>
 	<titles>
+		<title str="Shipyard"/>
+		<title str="Resource Depot"/>
+		<title str="Repair Dock"/>
+		<title str="Trading Post"/>
+		<title str="Equipment Dock"/>
 		<title str="${good} Ranch ${size}">
 			<arg key="plural">Sheep</arg>
 			<arg key="prefix">Sheep /* prefix */</arg>
 			<arg key="size">M</arg>
 			<arg key="good">Sheep</arg>
 		</title>
-		<title str="Shipyard"/>
-		<title str="Equipment Dock"/>
-		<title str="Trading Post"/>
-		<title str="Repair Dock"/>
-		<title str="Resource Depot"/>
 		<title str="${good} Farm ${size}">
 			<arg key="size">XL</arg>
 			<arg key="plural">Tea</arg>
@@ -29,10 +29,12 @@
 		<title str="Military Outpost"/>
 	</titles>
 	<wormholes>
-		<coordinates x="146" y="210"/>
 		<coordinates x="145" y="207"/>
+		<coordinates x="146" y="210"/>
 	</wormholes>
 	<shipNumbers>
-		<ships n="6" faction="2001620"/>
+		<ships n="1" faction="1"/>
+		<ships n="1" faction="2001073"/>
+		<ships n="7" faction="2001620"/>
 	</shipNumbers>
 </view>
