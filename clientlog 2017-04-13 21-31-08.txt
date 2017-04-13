@@ -133,4 +133,10 @@
 2017-04-13 21-46-05| <> You have no sector selected.
 2017-04-13 21-46-19| <Gate Control> You paid 663 credits passage fee.
 2017-04-13 21-48-04| <Trading Post> You must be docked to the station to trade.
-2017-04-13 21-49-00| 
+2017-04-13 21-49-00| <> You have no sector selected.
+2017-04-13 21-49-45| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Love, Honour and Obey.ogg'
+2017-04-13 21-49-45| SDL Mix error: music parameter was NULL
+2017-04-13 21-49-46| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Miners Heaven.ogg'
+2017-04-13 21-49-46| SDL Mix error: music parameter was NULL
+2017-04-13 21-49-47| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 1.ogg'
+2017-04-13 21-49-47| 
