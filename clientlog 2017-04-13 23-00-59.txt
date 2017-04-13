@@ -159,4 +159,24 @@
 2017-04-13 23-25-19| SDL Mix error: music parameter was NULL
 2017-04-13 23-25-21| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - The Day After the Storm.ogg'
 2017-04-13 23-25-21| SDL Mix error: music parameter was NULL
-2017-04-13 23-25-59| 
+2017-04-13 23-25-59| <Server> A small group of alien ships appeared!
+2017-04-13 23-26-40| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Gallente Melody 3.ogg'
+2017-04-13 23-26-40| SDL Mix error: music parameter was NULL
+2017-04-13 23-26-41| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - War Relics.ogg'
+2017-04-13 23-26-41| SDL Mix error: music parameter was NULL
+2017-04-13 23-26-54| Error: EXCEPTION_ACCESS_VIOLATION
+2017-04-13 23-26-54| [1] Mix_SetPanning 14121478
+2017-04-13 23-26-54| [2] ?? 4768796
+2017-04-13 23-26-54| [3] ?? 4771189
+2017-04-13 23-26-54| [4] ?? 4777265
+2017-04-13 23-26-54| [5] ?? 4607989
+2017-04-13 23-26-54| [6] ?? 4975355
+2017-04-13 23-26-54| [7] ?? 4943817
+2017-04-13 23-26-54| [8] ?? 4229709
+2017-04-13 23-26-54| [9] ?? 4231473
+2017-04-13 23-26-54| [10] ?? 4208494
+2017-04-13 23-26-54| [11] Mix_SetPanning 17072207
+2017-04-13 23-26-54| [12] ?? 4199416
+2017-04-13 23-26-54| [13] ?? 4199659
+2017-04-13 23-26-54| [14] BaseThreadInitThunk 1997232589
+2017-04-13 23-26-54| 
