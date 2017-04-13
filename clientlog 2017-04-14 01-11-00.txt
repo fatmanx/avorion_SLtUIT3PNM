@@ -280,4 +280,5 @@
 2017-04-14 01-36-56| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Precious Ore.ogg'
 2017-04-14 01-36-56| SDL Mix error: music parameter was NULL
 2017-04-14 01-37-32| Unlocked achievement LUDICROUS_SPEED
-2017-04-14 01-39-22| 
+2017-04-14 01-39-22| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-14 01-40-37| 

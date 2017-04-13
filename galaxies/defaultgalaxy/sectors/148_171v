@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="15" numWrecks="0" numAsteroids="1042" numStations="6" influence="57.1019974" factionIndex="2000252">
+<view numCrafts="14" numWrecks="0" numAsteroids="1042" numStations="6" influence="57.1019974" factionIndex="2000252">
 	<coordinates x="148" y="171"/>
 	<titles>
+		<title str="Trading Post"/>
 		<title str="${good} Factory ${size}">
 			<arg key="size">S</arg>
 			<arg key="prefix">Medical Supplies /* prefix */</arg>
 			<arg key="good">Medical Supplies</arg>
 			<arg key="plural">Medical Supplies</arg>
 		</title>
-		<title str="Trading Post"/>
 		<title str="${good} Factory ${size}">
 			<arg key="size">S</arg>
 			<arg key="plural">Gauss Rail</arg>
@@ -30,6 +30,6 @@
 	</wormholes>
 	<shipNumbers>
 		<ships n="10" faction="2000252"/>
-		<ships n="5" faction="2000438"/>
+		<ships n="4" faction="2000438"/>
 	</shipNumbers>
 </view>

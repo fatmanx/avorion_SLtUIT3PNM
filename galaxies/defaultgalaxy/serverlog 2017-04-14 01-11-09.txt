@@ -151,4 +151,38 @@
 2017-04-14 01-39-21| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-14 01-39-23| scheduled save for sector (149:173), 0xb237b90, entities: 1061
 2017-04-14 01-39-23| saving sector (149:173)
-2017-04-14 01-39-23| 
+2017-04-14 01-39-23| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-14 01-40-37| <> Jump route calculated.
+2017-04-14 01-40-52| scheduled save for sector (149:173), 0xb237b90, entities: 1099
+2017-04-14 01-40-52| saving sector (149:173)
+2017-04-14 01-40-52| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-14 01-40-53| Player fatmanone moved to sector (149:173)from (169:144) server time taken for change: 434ms
+2017-04-14 01-40-53| scheduled save for sector (169:144), 0xb6cae60, entities: 5
+2017-04-14 01-40-53| saving sector (169:144)
+2017-04-14 01-40-53| sector (169:144) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_144"
+2017-04-14 01-40-53| scheduled save for sector (150:174), 0x17993070, entities: 958
+2017-04-14 01-40-53| saving sector (150:174)
+2017-04-14 01-40-53| scheduled save for sector (146:175), 0x180ceae0, entities: 23
+2017-04-14 01-40-53| sector (150:174) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\150_174"
+2017-04-14 01-40-53| saving sector (146:175)
+2017-04-14 01-40-53| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
+2017-04-14 01-40-54| scheduled save for sector (148:171), 0x179929e0, entities: 1330
+2017-04-14 01-40-54| saving sector (148:171)
+2017-04-14 01-40-54| sector (148:171) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_171"
+2017-04-14 01-41-08| Received an invoke script message for an entity that does not exist: 1520
+2017-04-14 01-41-09| Triggered saving of all server data.
+2017-04-14 01-41-09| scheduled save for sector (146:175), 0x180ceae0, entities: 23
+2017-04-14 01-41-09| saving sector (146:175)
+2017-04-14 01-41-09| sector (146:175) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_175"
+2017-04-14 01-41-09| scheduled save for sector (148:171), 0x179929e0, entities: 1329
+2017-04-14 01-41-09| saving sector (148:171)
+2017-04-14 01-41-10| sector (148:171) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_171"
+2017-04-14 01-41-10| scheduled save for sector (149:173), 0xb237b90, entities: 1098
+2017-04-14 01-41-10| saving sector (149:173)
+2017-04-14 01-41-10| sector (149:173) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\149_173"
+2017-04-14 01-41-10| scheduled save for sector (150:174), 0x17993070, entities: 957
+2017-04-14 01-41-10| saving sector (150:174)
+2017-04-14 01-41-10| sector (150:174) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\150_174"
+2017-04-14 01-41-10| scheduled save for sector (169:144), 0xb6cae60, entities: 5
+2017-04-14 01-41-10| saving sector (169:144)
+2017-04-14 01-41-10| 
