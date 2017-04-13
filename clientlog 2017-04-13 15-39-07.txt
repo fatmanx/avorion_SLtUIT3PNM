@@ -294,4 +294,7 @@
 2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
 2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
 2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
-2017-04-13 16-10-41| 
+2017-04-13 16-10-41| <Server> More strange subspace signals, they're getting stronger.
+2017-04-13 16-11-32| <Server> Moving player fatmanone to sector (155:203).
+2017-04-13 16-11-45| <Server> A small group of alien ships appeared!
+2017-04-13 16-11-48| 

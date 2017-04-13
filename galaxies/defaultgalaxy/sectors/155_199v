@@ -5,10 +5,10 @@
 		<title str="Shipyard"/>
 	</titles>
 	<wormholes>
-		<coordinates x="155" y="203"/>
-		<coordinates x="152" y="202"/>
 		<coordinates x="160" y="204"/>
 		<coordinates x="152" y="187"/>
+		<coordinates x="155" y="203"/>
+		<coordinates x="152" y="202"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="2" faction="2001620"/>

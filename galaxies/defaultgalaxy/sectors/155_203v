@@ -9,6 +9,13 @@
 			<arg key="size">L</arg>
 		</title>
 		<title str="${good} Factory ${size}">
+			<arg key="plural">Teleporters</arg>
+			<arg key="prefix">Teleporter /* prefix */</arg>
+			<arg key="size">M</arg>
+			<arg key="good">Teleporter</arg>
+		</title>
+		<title str="Turret Factory"/>
+		<title str="${good} Factory ${size}">
 			<arg key="good">Anti-Grav Generator</arg>
 			<arg key="plural">Anti-Grav Generators</arg>
 			<arg key="prefix">Anti-Grav Generator /* prefix */</arg>
@@ -20,19 +27,12 @@
 			<arg key="size">L</arg>
 			<arg key="prefix">Drill /* prefix */</arg>
 		</title>
-		<title str="${good} Factory ${size}">
-			<arg key="plural">Teleporters</arg>
-			<arg key="prefix">Teleporter /* prefix */</arg>
-			<arg key="size">M</arg>
-			<arg key="good">Teleporter</arg>
-		</title>
-		<title str="Turret Factory"/>
 	</titles>
 	<wormholes>
-		<coordinates x="160" y="204"/>
-		<coordinates x="152" y="202"/>
-		<coordinates x="154" y="209"/>
 		<coordinates x="155" y="199"/>
+		<coordinates x="154" y="209"/>
+		<coordinates x="152" y="202"/>
+		<coordinates x="160" y="204"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="6" faction="2000252"/>

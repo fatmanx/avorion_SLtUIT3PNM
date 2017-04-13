@@ -2,10 +2,10 @@
 <view numCrafts="13" numWrecks="0" numAsteroids="318" numStations="7" influence="28.5510006" factionIndex="2001620">
 	<coordinates x="152" y="202"/>
 	<titles>
-		<title str="Resource Depot"/>
-		<title str="Trading Post"/>
 		<title str="Trading Post"/>
 		<title str="Repair Dock"/>
+		<title str="Resource Depot"/>
+		<title str="Trading Post"/>
 		<title str="Trading Post"/>
 		<title str="Trading Post"/>
 		<title str="Trading Post"/>
