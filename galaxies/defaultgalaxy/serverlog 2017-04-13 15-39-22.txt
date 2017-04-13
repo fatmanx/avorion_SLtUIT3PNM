@@ -193,4 +193,19 @@
 2017-04-13 16-16-35| sector (192:204) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\192_204"
 2017-04-13 16-16-52| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 16-17-05| <> The jump route is still being calculated.
-2017-04-13 16-17-09| 
+2017-04-13 16-17-09| <> Jump route calculated.
+2017-04-13 16-17-16| scheduled save for sector (154:209), 0xd14eeb0, entities: 1281
+2017-04-13 16-17-16| saving sector (154:209)
+2017-04-13 16-17-16| sector (154:209) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\154_209"
+2017-04-13 16-17-17| Player fatmanone moved to sector (154:209)from (155:203) server time taken for change: 945ms
+2017-04-13 16-17-17| scheduled save for sector (155:203), 0x110bff70, entities: 2038
+2017-04-13 16-17-17| saving sector (155:203)
+2017-04-13 16-17-17| sector (155:203) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_203"
+2017-04-13 16-17-18| scheduled save for sector (153:211), 0x103644a0, entities: 640
+2017-04-13 16-17-18| saving sector (153:211)
+2017-04-13 16-17-18| sector (153:211) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_211"
+2017-04-13 16-17-19| scheduled save for sector (148:207), 0x10365ee0, entities: 883
+2017-04-13 16-17-19| saving sector (148:207)
+2017-04-13 16-17-19| sector (148:207) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\148_207"
+2017-04-13 16-17-24| Received an invoke script message for an entity that does not exist: 1142
+2017-04-13 16-17-36| 

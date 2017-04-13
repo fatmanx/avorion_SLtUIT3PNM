@@ -300,4 +300,5 @@
 2017-04-13 16-11-48| Warning, can't keep up, skipping 2 frames...
 2017-04-13 16-16-52| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 16-17-05| <> The jump route is still being calculated.
-2017-04-13 16-17-09| 
+2017-04-13 16-17-09| <> Jump route calculated.
+2017-04-13 16-17-36| 
