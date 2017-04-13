@@ -365,4 +365,5 @@
 2017-04-14 02-40-42| <Shipyard> Thank you for your purchase. Your ship will be ready in about 20 seconds.
 2017-04-14 02-41-32| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 2.ogg'
 2017-04-14 02-41-32| SDL Mix error: music parameter was NULL
-2017-04-14 02-42-03| 
+2017-04-14 02-42-03| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\tf12.xml"
+2017-04-14 02-42-12| 
