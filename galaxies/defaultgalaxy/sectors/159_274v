@@ -2,18 +2,11 @@
 <view numCrafts="15" numWrecks="39" numAsteroids="486" numStations="10" influence="95.1699905" factionIndex="2000587">
 	<coordinates x="159" y="274"/>
 	<titles>
-		<title str="Repair Dock"/>
-		<title str="Casino"/>
-		<title str="Shipyard"/>
-		<title str="Military Outpost"/>
-		<title str="Resource Depot"/>
 		<title str="Equipment Dock"/>
-		<title str="${good} Manufacturer ${size}">
-			<arg key="good">Plastic</arg>
-			<arg key="plural">Plastic</arg>
-			<arg key="prefix">Plastic /* prefix */</arg>
-			<arg key="size">XL</arg>
-		</title>
+		<title str="Repair Dock"/>
+		<title str="Trading Post"/>
+		<title str="Shipyard"/>
+		<title str="Resource Depot"/>
 		<title str="${good} Factory ${size}">
 			<arg key="size">S</arg>
 			<arg key="good">Energy Tube</arg>
@@ -26,12 +19,19 @@
 			<arg key="plural">Spices</arg>
 			<arg key="size">L</arg>
 		</title>
-		<title str="Trading Post"/>
+		<title str="${good} Manufacturer ${size}">
+			<arg key="good">Plastic</arg>
+			<arg key="plural">Plastic</arg>
+			<arg key="prefix">Plastic /* prefix */</arg>
+			<arg key="size">XL</arg>
+		</title>
+		<title str="Casino"/>
+		<title str="Military Outpost"/>
 	</titles>
 	<wormholes>
-		<coordinates x="161" y="274"/>
 		<coordinates x="158" y="275"/>
 		<coordinates x="158" y="269"/>
+		<coordinates x="161" y="274"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="15" faction="2000587"/>

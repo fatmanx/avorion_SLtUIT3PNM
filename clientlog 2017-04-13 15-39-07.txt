@@ -319,4 +319,5 @@
 2017-04-13 16-21-02| <Equipment Dock> You don't have enough space in your hangar.
 2017-04-13 16-21-20| <> You were damaged recently. You have to wait another 20 seconds until you can repair your ship.
 2017-04-13 16-22-22| <Gate Control> You paid 961 credits passage fee.
-2017-04-13 16-22-35| 
+2017-04-13 16-22-35| <> You have no sector selected.
+2017-04-13 16-24-18| 
