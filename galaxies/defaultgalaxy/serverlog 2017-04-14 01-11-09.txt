@@ -597,4 +597,7 @@
 2017-04-14 02-37-02| scheduled save for sector (144:201), 0x6e5c5860, entities: 895
 2017-04-14 02-37-02| saving sector (144:201)
 2017-04-14 02-37-02| Generating new content for sector (127:204)
-2017-04-14 02-37-03| 
+2017-04-14 02-37-03| sector (144:201) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\144_201"
+2017-04-14 02-37-06| scheduled save for sector (127:204), 0x6cceedc0, entities: 724
+2017-04-14 02-37-06| saving sector (127:204)
+2017-04-14 02-37-06| 
