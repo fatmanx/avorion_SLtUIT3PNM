@@ -14,25 +14,17 @@
 			<arg key="prefix">Gold /* prefix */</arg>
 			<arg key="good">Gold</arg>
 		</title>
-		<title str="Trading Post"/>
 		<title str="${good} Mine ${size}">
 			<arg key="good">Aluminium</arg>
 			<arg key="plural">Aluminium</arg>
 			<arg key="size">S</arg>
 			<arg key="prefix">Aluminium /* prefix */</arg>
 		</title>
-		<title str="Resource Depot"/>
 		<title str="${good} Mine ${size}">
 			<arg key="good">Ore</arg>
 			<arg key="size">S</arg>
 			<arg key="prefix">Ore /* prefix */</arg>
 			<arg key="plural">Ore</arg>
-		</title>
-		<title str="${good} Mine ${size}">
-			<arg key="plural">Aluminium</arg>
-			<arg key="prefix">Aluminium /* prefix */</arg>
-			<arg key="good">Aluminium</arg>
-			<arg key="size">S</arg>
 		</title>
 		<title str="Noble Metal Mine ${size}">
 			<arg key="plural">Silver</arg>
@@ -40,11 +32,19 @@
 			<arg key="good">Silver</arg>
 			<arg key="size">S</arg>
 		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="plural">Aluminium</arg>
+			<arg key="prefix">Aluminium /* prefix */</arg>
+			<arg key="good">Aluminium</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Trading Post"/>
+		<title str="Resource Depot"/>
 	</titles>
 	<wormholes>
-		<coordinates x="158" y="374"/>
-		<coordinates x="151" y="377"/>
 		<coordinates x="152" y="373"/>
+		<coordinates x="151" y="377"/>
+		<coordinates x="158" y="374"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="16" faction="2000628"/>

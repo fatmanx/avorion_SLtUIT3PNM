@@ -5,9 +5,9 @@
 		<title str="Trading Post"/>
 	</titles>
 	<wormholes>
+		<coordinates x="159" y="376"/>
 		<coordinates x="154" y="376"/>
 		<coordinates x="158" y="368"/>
-		<coordinates x="159" y="376"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="9" faction="17"/>
