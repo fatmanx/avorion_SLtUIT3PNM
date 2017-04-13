@@ -186,4 +186,7 @@
 2017-04-14 01-41-10| scheduled save for sector (169:144), 0xb6cae60, entities: 5
 2017-04-14 01-41-10| saving sector (169:144)
 2017-04-14 01-41-10| sector (169:144) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_144"
-2017-04-14 01-42-15| 
+2017-04-14 01-42-15| starting event spawntravellingmerchant
+2017-04-14 01-45-51| scheduled save for sector (169:144), 0xb6cae60, entities: 0
+2017-04-14 01-45-51| saving sector (169:144)
+2017-04-14 01-45-51| 
