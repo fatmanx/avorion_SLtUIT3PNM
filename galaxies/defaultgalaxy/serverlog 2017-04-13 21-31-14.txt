@@ -87,4 +87,10 @@
 2017-04-13 21-37-40| 	data/scripts/entity/ai/patrol.lua:47: in function 'updateFlying'
 2017-04-13 21-37-40| 	data/scripts/entity/ai/patrol.lua:26: in function <data/scripts/entity/ai/patrol.lua:16>
 2017-04-13 21-37-40| 
-2017-04-13 21-37-40| 
+2017-04-13 21-37-40| Setting script "data/scripts/entity/ai/patrol.lua" to invalid.
+2017-04-13 21-39-54| scheduled save for sector (163:367), 0xbe739f0, entities: 919
+2017-04-13 21-39-54| saving sector (163:367)
+2017-04-13 21-39-54| scheduled save for sector (169:360), 0xc5451d0, entities: 447
+2017-04-13 21-39-54| sector (163:367) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\163_367"
+2017-04-13 21-39-54| saving sector (169:360)
+2017-04-13 21-39-54| 
