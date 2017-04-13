@@ -325,4 +325,6 @@
 2017-04-13 16-29-48| <Mobile Equipment Merchant> You must be closer to the ship to buy items.
 2017-04-13 16-29-49| <Mobile Equipment Merchant> You must be closer to the ship to buy items.
 2017-04-13 16-29-50| <Mobile Equipment Merchant> You must be closer to the ship to buy items.
-2017-04-13 16-29-56| 
+2017-04-13 16-29-56| Unlocked achievement BUY_TELEPORTER_KEY
+2017-04-13 16-30-52| <Equipment Dock> You must be docked to the station to buy items.
+2017-04-13 16-30-52| 
