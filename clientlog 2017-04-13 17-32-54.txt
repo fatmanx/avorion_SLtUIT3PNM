@@ -181,4 +181,5 @@
 2017-04-13 18-58-44| <Server> The signals are growing stronger.
 2017-04-13 18-58-45| <Gate Control> You paid 2373 credits passage fee.
 2017-04-13 18-59-33| <Gate Control> You paid 2547 credits passage fee.
-2017-04-13 18-59-49| 
+2017-04-13 18-59-49| <Server> A group of alien ships warped in!
+2017-04-13 19-01-11| 
