@@ -377,4 +377,6 @@
 2017-04-14 02-48-16| SDL Mix error: music parameter was NULL
 2017-04-14 02-48-17| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Incursion Theme.ogg'
 2017-04-14 02-48-17| SDL Mix error: music parameter was NULL
-2017-04-14 02-48-42| 
+2017-04-14 02-48-42| <> The crew of your ship 's3' was paid.
+2017-04-14 02-52-11| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Shifting the Balance of Power.ogg'
+2017-04-14 02-52-11| 
