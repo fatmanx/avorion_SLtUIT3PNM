@@ -95,4 +95,5 @@
 2017-04-13 20-56-00| SDL Mix error: music parameter was NULL
 2017-04-13 20-56-01| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Modern Thinking.ogg'
 2017-04-13 20-56-01| SDL Mix error: music parameter was NULL
-2017-04-13 20-56-03| 
+2017-04-13 20-56-03| Authentication successful!
+2017-04-13 20-56-11| 

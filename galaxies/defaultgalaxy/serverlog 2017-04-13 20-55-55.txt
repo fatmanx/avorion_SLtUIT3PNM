@@ -43,4 +43,18 @@
 2017-04-13 20-56-03| [Authentication not Enabled] New client: 76561197970945365
 2017-04-13 20-56-03| Client accepted: 76561197970945365
 2017-04-13 20-56-03| Connection to player established
-2017-04-13 20-56-03| 
+2017-04-13 20-56-03| Connection accepted from 192.168.1.3:0
+2017-04-13 20-56-08| <Server> Player fatmanone joined the galaxy
+2017-04-13 20-56-08| Player logged in: fatmanone, index: 1
+2017-04-13 20-56-08| scheduled save for sector (172:340), 0xac74920, entities: 678
+2017-04-13 20-56-08| saving sector (172:340)
+2017-04-13 20-56-08| sector (172:340) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_340"
+2017-04-13 20-56-08| player events roughly every 11.36 minutes
+2017-04-13 20-56-08| scheduled save for sector (172:340), 0xac74920, entities: 678
+2017-04-13 20-56-08| saving sector (172:340)
+2017-04-13 20-56-08| sector (172:340) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_340"
+2017-04-13 20-56-08| Player fatmanone moved to sector (172:340) server time taken for change: 190ms
+2017-04-13 20-56-09| scheduled save for sector (172:342), 0x102fadb0, entities: 511
+2017-04-13 20-56-09| saving sector (172:342)
+2017-04-13 20-56-09| sector (172:342) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_342"
+2017-04-13 20-56-20| 
