@@ -311,4 +311,6 @@
 2017-04-13 22-39-29| <The Iabfriipia'> Thank you for defeating those pirates. You have our endless gratitude.
 2017-04-13 22-40-09| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Lost Wormhole.ogg'
 2017-04-13 22-40-09| SDL Mix error: music parameter was NULL
-2017-04-13 22-40-27| 
+2017-04-13 22-40-27| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-13 22-40-42| <Gate Control> You paid 2788 credits passage fee.
+2017-04-13 22-41-08| 
