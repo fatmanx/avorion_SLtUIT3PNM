@@ -98,4 +98,6 @@
 2017-04-13 23-27-31| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Inferno Theme.ogg'
 2017-04-13 23-27-31| SDL Mix error: music parameter was NULL
 2017-04-13 23-27-32| Authentication successful!
-2017-04-13 23-27-41| 
+2017-04-13 23-27-41| <Server> Player fatmanone joined the galaxy
+2017-04-13 23-28-29| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
+2017-04-13 23-28-42| 
