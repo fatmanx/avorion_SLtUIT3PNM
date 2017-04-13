@@ -98,4 +98,16 @@
 2017-04-14 01-17-05| scheduled save for sector (192:204), 0xb237b90, entities: 32
 2017-04-14 01-17-05| saving sector (192:204)
 2017-04-14 01-17-05| sector (192:204) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\192_204"
-2017-04-14 01-17-58| 
+2017-04-14 01-17-58| starting event fakedistresssignal
+2017-04-14 01-18-43| <> The crew of your ship 'xxx' was paid.
+2017-04-14 01-19-05| Creating sector at (169:145)
+2017-04-14 01-19-05| scheduled save for sector (169:145), 0xb237b90, entities: 0
+2017-04-14 01-19-05| saving sector (169:145)
+2017-04-14 01-19-05| sector (169:145) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_145"
+2017-04-14 01-19-05| scheduled save for sector (169:145), 0xb237b90, entities: 174
+2017-04-14 01-19-05| saving sector (169:145)
+2017-04-14 01-19-06| sector (169:145) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_145"
+2017-04-14 01-19-06| Player fatmanone moved to sector (169:145)from (194:204) server time taken for change: 84ms
+2017-04-14 01-19-06| scheduled save for sector (194:204), 0xb422710, entities: 883
+2017-04-14 01-19-06| saving sector (194:204)
+2017-04-14 01-19-06| 
