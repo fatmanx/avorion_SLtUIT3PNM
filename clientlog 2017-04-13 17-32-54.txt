@@ -142,4 +142,7 @@
 2017-04-13 18-08-22| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
 2017-04-13 18-12-14| <Server> Pirates are attacking the sector!
 2017-04-13 18-13-51| <> You have no sector selected.
-2017-04-13 18-18-02| 
+2017-04-13 18-18-02| failed to load texture from file "data/textures/icons/ammunition-s.png"
+2017-04-13 18-18-11| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-13 18-18-32| failed to load texture from file "data/textures/icons/ammunition-s.png"
+2017-04-13 18-19-00| 
