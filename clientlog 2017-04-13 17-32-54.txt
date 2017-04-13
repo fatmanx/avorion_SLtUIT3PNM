@@ -122,4 +122,6 @@
 2017-04-13 17-49-29| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\autosave17.xml"
 2017-04-13 17-49-33| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
 2017-04-13 17-49-38| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (155:275) ... help!
-2017-04-13 17-49-38| 
+2017-04-13 17-49-38| <> You have received a distress signal by an unknown source.
+2017-04-13 17-54-23| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 17-54-54| 
