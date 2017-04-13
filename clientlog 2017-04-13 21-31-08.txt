@@ -307,4 +307,5 @@
 2017-04-13 22-33-33| <Server> Danger! A large fleet of alien ships appeared!
 2017-04-13 22-33-50| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Retribution Theme.ogg'
 2017-04-13 22-33-50| SDL Mix error: music parameter was NULL
-2017-04-13 22-34-59| 
+2017-04-13 22-34-59| <Server> Pirates are attacking the sector!
+2017-04-13 22-39-29| 
