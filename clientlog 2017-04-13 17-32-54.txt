@@ -203,4 +203,7 @@
 2017-04-13 19-16-32| <> Jump route calculated.
 2017-04-13 19-20-16| <Gate Control> You paid 264 credits passage fee.
 2017-04-13 19-20-46| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 19-21-36| 
+2017-04-13 19-21-36| <> Jump route calculated.
+2017-04-13 19-23-09| <> You don't have any of this turret.
+2017-04-13 19-23-19| <> You don't have any of this turret.
+2017-04-13 19-23-24| 

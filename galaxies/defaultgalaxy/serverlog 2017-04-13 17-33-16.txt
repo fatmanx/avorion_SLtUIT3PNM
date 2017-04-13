@@ -784,4 +784,26 @@
 2017-04-13 19-20-47| scheduled save for sector (172:340), 0x561f0e50, entities: 600
 2017-04-13 19-20-47| saving sector (172:340)
 2017-04-13 19-20-47| sector (172:340) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_340"
-2017-04-13 19-21-36| 
+2017-04-13 19-21-36| <> Jump route calculated.
+2017-04-13 19-23-09| <> You don't have any of this turret.
+2017-04-13 19-23-17| Triggered saving of all server data.
+2017-04-13 19-23-17| scheduled save for sector (172:340), 0x561f0e50, entities: 600
+2017-04-13 19-23-17| saving sector (172:340)
+2017-04-13 19-23-17| sector (172:340) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_340"
+2017-04-13 19-23-17| scheduled save for sector (177:321), 0x561ee060, entities: 1432
+2017-04-13 19-23-17| saving sector (177:321)
+2017-04-13 19-23-17| sector (177:321) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_321"
+2017-04-13 19-23-17| scheduled save for sector (181:319), 0x4669fd00, entities: 2
+2017-04-13 19-23-17| saving sector (181:319)
+2017-04-13 19-23-17| sector (181:319) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\181_319"
+2017-04-13 19-23-18| scheduled save for sector (182:320), 0x561ef410, entities: 49
+2017-04-13 19-23-18| saving sector (182:320)
+2017-04-13 19-23-18| sector (182:320) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_320"
+2017-04-13 19-23-18| scheduled save for sector (183:318), 0x1ed90bc0, entities: 2
+2017-04-13 19-23-18| saving sector (183:318)
+2017-04-13 19-23-18| sector (183:318) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_318"
+2017-04-13 19-23-18| scheduled save for sector (184:316), 0x1ed90530, entities: 4
+2017-04-13 19-23-18| saving sector (184:316)
+2017-04-13 19-23-18| sector (184:316) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_316"
+2017-04-13 19-23-19| <> You don't have any of this turret.
+2017-04-13 19-23-24| 
