@@ -303,4 +303,6 @@
 2017-04-14 01-48-27| SDL Mix error: music parameter was NULL
 2017-04-14 01-48-28| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Fight Like You Live.ogg'
 2017-04-14 01-48-28| SDL Mix error: music parameter was NULL
-2017-04-14 01-49-53| 
+2017-04-14 01-49-53| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-14 01-52-52| <Server> Pirates are attacking the sector!
+2017-04-14 01-52-52| 
