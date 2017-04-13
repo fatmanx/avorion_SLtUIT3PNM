@@ -197,4 +197,7 @@
 2017-04-13 19-12-54| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 19-13-55| <> The crew of your ship 'xxx' was paid.
 2017-04-13 19-15-06| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 19-15-18| 
+2017-04-13 19-15-18| <> Jump route calculated.
+2017-04-13 19-15-42| <> You have no sector selected.
+2017-04-13 19-16-23| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 19-16-32| 
