@@ -3,15 +3,15 @@
 	<coordinates x="172" y="342"/>
 	<titles>
 		<title str="Trading Post"/>
-		<title str="Repair Dock"/>
 		<title str="Resource Depot"/>
 		<title str="Trading Post"/>
+		<title str="Repair Dock"/>
 		<title str="Trading Post"/>
 	</titles>
 	<wormholes>
-		<coordinates x="172" y="340"/>
 		<coordinates x="177" y="348"/>
 		<coordinates x="167" y="344"/>
+		<coordinates x="172" y="340"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="9" faction="2000721"/>

@@ -206,4 +206,5 @@
 2017-04-13 19-21-36| <> Jump route calculated.
 2017-04-13 19-23-09| <> You don't have any of this turret.
 2017-04-13 19-23-19| <> You don't have any of this turret.
-2017-04-13 19-23-24| 
+2017-04-13 19-23-24| <> You don't have any of this turret.
+2017-04-13 19-23-54| 

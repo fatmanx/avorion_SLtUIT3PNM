@@ -806,4 +806,22 @@
 2017-04-13 19-23-18| saving sector (184:316)
 2017-04-13 19-23-18| sector (184:316) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_316"
 2017-04-13 19-23-19| <> You don't have any of this turret.
-2017-04-13 19-23-24| 
+2017-04-13 19-23-24| <> You don't have any of this turret.
+2017-04-13 19-23-54| <> You don't have any of this turret.
+2017-04-13 19-24-22| scheduled save for sector (172:340), 0x561f0e50, entities: 650
+2017-04-13 19-24-22| saving sector (172:340)
+2017-04-13 19-24-22| sector (172:340) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_340"
+2017-04-13 19-24-22| Player fatmanone moved to sector (172:340)from (182:320) server time taken for change: 226ms
+2017-04-13 19-24-23| scheduled save for sector (182:320), 0x561ef410, entities: 11
+2017-04-13 19-24-23| saving sector (182:320)
+2017-04-13 19-24-23| sector (182:320) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\182_320"
+2017-04-13 19-24-23| scheduled save for sector (172:342), 0xb2a8790, entities: 473
+2017-04-13 19-24-23| saving sector (172:342)
+2017-04-13 19-24-23| sector (172:342) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_342"
+2017-04-13 19-24-32| Received an invoke script message for an entity that does not exist: 623
+2017-04-13 19-24-32| scheduled save for sector (184:316), 0x1ed90530, entities: 3
+2017-04-13 19-24-32| saving sector (184:316)
+2017-04-13 19-24-32| sector (184:316) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\184_316"
+2017-04-13 19-24-32| scheduled save for sector (183:318), 0x1ed90bc0, entities: 2
+2017-04-13 19-24-32| saving sector (183:318)
+2017-04-13 19-24-32| 
