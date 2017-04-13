@@ -9,10 +9,10 @@
 			<arg key="plural">Vegetables</arg>
 		</title>
 		<title str="${good} Factory ${size}">
-			<arg key="good">Clothes</arg>
-			<arg key="prefix">Clothes /* prefix */</arg>
-			<arg key="plural">Clothes</arg>
-			<arg key="size">L</arg>
+			<arg key="size">M</arg>
+			<arg key="prefix">Transformator /* prefix */</arg>
+			<arg key="good">Transformator</arg>
+			<arg key="plural">Transformators</arg>
 		</title>
 		<title str="${good} Factory ${size}">
 			<arg key="good">Steel</arg>
@@ -21,16 +21,16 @@
 			<arg key="size">M</arg>
 		</title>
 		<title str="${good} Factory ${size}">
-			<arg key="size">M</arg>
-			<arg key="prefix">Transformator /* prefix */</arg>
-			<arg key="good">Transformator</arg>
-			<arg key="plural">Transformators</arg>
+			<arg key="good">Clothes</arg>
+			<arg key="prefix">Clothes /* prefix */</arg>
+			<arg key="plural">Clothes</arg>
+			<arg key="size">L</arg>
 		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="132" y="235"/>
-		<coordinates x="168" y="298"/>
 		<coordinates x="167" y="302"/>
+		<coordinates x="168" y="298"/>
+		<coordinates x="132" y="235"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="9" faction="2001031"/>
