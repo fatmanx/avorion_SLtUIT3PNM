@@ -283,4 +283,15 @@
 2017-04-14 01-39-22| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-14 01-40-37| <> Jump route calculated.
 2017-04-14 01-42-15| <Mobile Resource Merchant Peaeaj'e> Hello Everybody! Mobile Resource Merchant Peaeaj'e here. I'll be here for the next 15 minutes. Come look at my merchandise!
-2017-04-14 01-43-01| 
+2017-04-14 01-43-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s39.xml"
+2017-04-14 01-44-43| <Equipment Dock> Item to buy not found
+2017-04-14 01-44-54| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Gallente Melody 5.ogg'
+2017-04-14 01-44-54| SDL Mix error: music parameter was NULL
+2017-04-14 01-44-55| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Stellar Shadows Anniversary.ogg'
+2017-04-14 01-44-55| SDL Mix error: music parameter was NULL
+2017-04-14 01-44-56| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Minmatar Rebel Alliance.ogg'
+2017-04-14 01-44-56| SDL Mix error: music parameter was NULL
+2017-04-14 01-44-57| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Shifting the Balance of Power.ogg'
+2017-04-14 01-44-57| SDL Mix error: music parameter was NULL
+2017-04-14 01-44-58| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Miners Heaven.ogg'
+2017-04-14 01-44-58| 
