@@ -126,4 +126,7 @@
 2017-04-13 09-21-17| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 09-21-24| <> Jump route calculated.
 2017-04-13 09-22-50| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 09-22-57| 
+2017-04-13 09-22-57| <> Jump route calculated.
+2017-04-13 09-24-12| <> You have no sector selected.
+2017-04-13 09-24-19| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-24-26| 
