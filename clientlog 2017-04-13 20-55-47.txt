@@ -118,4 +118,7 @@
 2017-04-13 21-10-13| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Omens.ogg'
 2017-04-13 21-10-13| SDL Mix error: music parameter was NULL
 2017-04-13 21-10-14| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Minmatar Melody 3.ogg'
-2017-04-13 21-10-14| 
+2017-04-13 21-10-14| SDL Mix error: music parameter was NULL
+2017-04-13 21-12-48| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 21-12-54| <> The jump route is still being calculated.
+2017-04-13 21-12-56| 
