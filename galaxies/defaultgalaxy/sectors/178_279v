@@ -3,34 +3,16 @@
 	<coordinates x="178" y="279"/>
 	<titles>
 		<title str="Noble Metal Mine ${size}">
-			<arg key="plural">Silver</arg>
-			<arg key="good">Silver</arg>
-			<arg key="prefix">Silver /* prefix */</arg>
-			<arg key="size">S</arg>
-		</title>
-		<title str="Noble Metal Mine ${size}">
-			<arg key="size">S</arg>
-			<arg key="good">Silver</arg>
-			<arg key="plural">Silver</arg>
-			<arg key="prefix">Silver /* prefix */</arg>
-		</title>
-		<title str="${good} Mine ${size}">
-			<arg key="good">Lead</arg>
-			<arg key="plural">Lead</arg>
-			<arg key="prefix">Lead /* prefix */</arg>
-			<arg key="size">S</arg>
-		</title>
-		<title str="Noble Metal Mine ${size}">
 			<arg key="prefix">Gold /* prefix */</arg>
 			<arg key="plural">Gold</arg>
 			<arg key="good">Gold</arg>
 			<arg key="size">S</arg>
 		</title>
-		<title str="${good} Mine ${size}">
-			<arg key="good">Cink</arg>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="plural">Silver</arg>
+			<arg key="good">Silver</arg>
+			<arg key="prefix">Silver /* prefix */</arg>
 			<arg key="size">S</arg>
-			<arg key="plural">Cink</arg>
-			<arg key="prefix">Cink /* prefix */</arg>
 		</title>
 		<title str="Resource Depot"/>
 		<title str="Noble Metal Mine ${size}">
@@ -39,11 +21,29 @@
 			<arg key="size">S</arg>
 			<arg key="prefix">Silver /* prefix */</arg>
 		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="good">Lead</arg>
+			<arg key="plural">Lead</arg>
+			<arg key="prefix">Lead /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="good">Cink</arg>
+			<arg key="size">S</arg>
+			<arg key="plural">Cink</arg>
+			<arg key="prefix">Cink /* prefix */</arg>
+		</title>
+		<title str="Noble Metal Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="good">Silver</arg>
+			<arg key="plural">Silver</arg>
+			<arg key="prefix">Silver /* prefix */</arg>
+		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="179" y="283"/>
 		<coordinates x="175" y="281"/>
 		<coordinates x="177" y="275"/>
+		<coordinates x="179" y="283"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="15" faction="2000870"/>

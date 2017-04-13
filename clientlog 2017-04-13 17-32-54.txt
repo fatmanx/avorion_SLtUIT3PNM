@@ -124,4 +124,6 @@
 2017-04-13 17-49-38| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (155:275) ... help!
 2017-04-13 17-49-38| <> You have received a distress signal by an unknown source.
 2017-04-13 17-54-23| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 17-54-54| 
+2017-04-13 17-54-54| <> Jump route calculated.
+2017-04-13 17-55-16| <Server> Your sensors picked up short bursts of subspace signals.
+2017-04-13 17-55-19| 
