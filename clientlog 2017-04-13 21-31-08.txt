@@ -338,4 +338,5 @@
 2017-04-13 22-54-11| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Nouvelle Rouvenor Hero.ogg'
 2017-04-13 22-54-11| SDL Mix error: music parameter was NULL
 2017-04-13 22-54-12| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Incrarna Theme.ogg'
-2017-04-13 22-54-12| 
+2017-04-13 22-54-12| SDL Mix error: music parameter was NULL
+2017-04-13 22-55-42| 
