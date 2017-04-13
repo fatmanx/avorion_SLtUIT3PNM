@@ -368,4 +368,6 @@
 2017-04-14 02-42-03| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\tf12.xml"
 2017-04-14 02-42-12| <Server> There are lots and lots of subspace signals! Careful!
 2017-04-14 02-43-12| <Server> A large group of alien ships appeared!
-2017-04-14 02-43-49| 
+2017-04-14 02-43-49| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\tf12.xml"
+2017-04-14 02-44-26| <S.I.I.> Insurance Fraud detected. You won't receive any payments for tf1.
+2017-04-14 02-44-26| 
