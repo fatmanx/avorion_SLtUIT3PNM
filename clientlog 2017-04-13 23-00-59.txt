@@ -144,4 +144,9 @@
 2017-04-13 23-20-57| <Gate Control> You paid 24 credits passage fee.
 2017-04-13 23-22-00| <Server> Your sensors picked up a short burst of subspace signals.
 2017-04-13 23-22-06| <Gate Control> You paid 34 credits passage fee.
-2017-04-13 23-22-53| 
+2017-04-13 23-22-53| <Gate Control> You paid 14 credits passage fee.
+2017-04-13 23-23-04| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - unknown title.ogg'
+2017-04-13 23-23-04| SDL Mix error: music parameter was NULL
+2017-04-13 23-23-34| <Server> Moving player fatmanone to sector (148:448).
+2017-04-13 23-23-40| <> You have no sector selected.
+2017-04-13 23-23-56| 

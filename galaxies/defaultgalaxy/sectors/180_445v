@@ -5,8 +5,8 @@
 		<title str="Habitat"/>
 	</titles>
 	<wormholes>
-		<coordinates x="184" y="448"/>
 		<coordinates x="175" y="450"/>
+		<coordinates x="184" y="448"/>
 		<coordinates x="179" y="440"/>
 	</wormholes>
 	<shipNumbers>
