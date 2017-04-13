@@ -277,4 +277,10 @@
 2017-04-13 16-24-24| scheduled save for sector (161:274), 0x21ef70b0, entities: 1209
 2017-04-13 16-24-24| saving sector (161:274)
 2017-04-13 16-24-24| sector (161:274) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\161_274"
-2017-04-13 16-27-08| 
+2017-04-13 16-27-08| starting event spawntravellingmerchant
+2017-04-13 16-27-22| scheduled save for sector (153:211), 0x103644a0, entities: 712
+2017-04-13 16-27-22| saving sector (153:211)
+2017-04-13 16-27-22| sector (153:211) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_211"
+2017-04-13 16-27-22| scheduled save for sector (148:207), 0x10365ee0, entities: 922
+2017-04-13 16-27-22| saving sector (148:207)
+2017-04-13 16-27-23| 
