@@ -54,4 +54,5 @@
 2017-04-13 15-39-46| saving sector (286:285)
 2017-04-13 15-39-46| sector (286:285) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\286_285"
 2017-04-13 15-39-46| Player fatmanone moved to sector (286:285) server time taken for change: 171ms
-2017-04-13 15-39-57| 
+2017-04-13 15-39-57| Player at fatmanone has no script number '7'.
+2017-04-13 15-40-31| 
