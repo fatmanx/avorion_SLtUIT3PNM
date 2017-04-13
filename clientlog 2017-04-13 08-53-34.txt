@@ -204,4 +204,5 @@
 2017-04-13 09-37-24| Unlocked achievement PROVOKE_SWOKS
 2017-04-13 09-38-27| <> You have no sector selected.
 2017-04-13 09-38-28| <> You have no sector selected.
-2017-04-13 09-38-28| 
+2017-04-13 09-38-28| <> You have no sector selected.
+2017-04-13 09-39-48| 
