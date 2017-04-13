@@ -339,4 +339,6 @@
 2017-04-13 16-40-41| <Server> Moving player fatmanone to sector (175:263).
 2017-04-13 16-41-00| <Server> Moving player fatmanone to sector (175:264).
 2017-04-13 16-41-01| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-13 16-41-01| 
+2017-04-13 16-41-01| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 16-42-02| <Trading Post> You must be docked to the station to trade.
+2017-04-13 16-42-03| 
