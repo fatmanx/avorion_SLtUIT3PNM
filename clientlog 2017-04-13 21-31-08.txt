@@ -154,4 +154,6 @@
 2017-04-13 21-57-08| SDL Mix error: music parameter was NULL
 2017-04-13 21-57-10| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Revelations Theme.ogg'
 2017-04-13 21-57-10| SDL Mix error: music parameter was NULL
-2017-04-13 21-59-05| 
+2017-04-13 21-59-05| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 21-59-46| <> Jump route calculated.
+2017-04-13 21-59-51| 

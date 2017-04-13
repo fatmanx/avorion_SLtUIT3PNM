@@ -208,4 +208,6 @@
 2017-04-13 21-59-05| Creating sector at (152:357)
 2017-04-13 21-59-05| scheduled save for sector (152:357), 0x2541e650, entities: 0
 2017-04-13 21-59-05| saving sector (152:357)
-2017-04-13 21-59-05| 
+2017-04-13 21-59-05| sector (152:357) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\152_357"
+2017-04-13 21-59-46| <> Jump route calculated.
+2017-04-13 21-59-51| 
