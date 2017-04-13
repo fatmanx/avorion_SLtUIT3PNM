@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="4" numWrecks="0" numAsteroids="515" numStations="5" influence="47.5849991" factionIndex="2001208">
+	<coordinates x="202" y="293"/>
+	<titles>
+		<title str="${good} Mine ${size}">
+			<arg key="size">S</arg>
+			<arg key="prefix">Lead /* prefix */</arg>
+			<arg key="good">Lead</arg>
+			<arg key="plural">Lead</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="good">Antigrav Unit</arg>
+			<arg key="plural">Antigrav Units</arg>
+			<arg key="prefix">Antigrav Unit /* prefix */</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="${good} Collector ${size}">
+			<arg key="prefix">Water /* prefix */</arg>
+			<arg key="plural">Water</arg>
+			<arg key="good">Water</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Resource Depot"/>
+		<title str="Turret Factory"/>
+	</titles>
+	<wormholes>
+		<coordinates x="194" y="290"/>
+		<coordinates x="206" y="285"/>
+		<coordinates x="208" y="296"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="4" faction="2001208"/>
+	</shipNumbers>
+</view>

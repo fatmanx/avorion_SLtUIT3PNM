@@ -174,4 +174,7 @@
 2017-04-13 18-55-53| <Gate Control> You paid 1476 credits passage fee.
 2017-04-13 18-55-54| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 18-55-54| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-13 18-57-23| 
+2017-04-13 18-57-23| <Gate Control> You paid 1689 credits passage fee.
+2017-04-13 18-57-40| <Scrapyard> Get a salvaging license now and try your luck with the wreckages!
+2017-04-13 18-57-42| <> You have no sector selected.
+2017-04-13 18-58-10| 
