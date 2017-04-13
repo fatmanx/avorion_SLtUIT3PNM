@@ -95,4 +95,6 @@
 2017-04-14 01-12-01| <> Jump route calculated.
 2017-04-14 01-12-05| <Server> Moving player fatmanone to sector (194:205).
 2017-04-14 01-12-27| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s39.xml"
-2017-04-14 01-13-57| 
+2017-04-14 01-13-57| <Server> Moving player fatmanone to sector (194:204).
+2017-04-14 01-14-32| <> You have no sector selected.
+2017-04-14 01-14-45| 
