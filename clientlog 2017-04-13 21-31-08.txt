@@ -249,4 +249,14 @@
 2017-04-13 22-08-54| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Gallente Theme.ogg'
 2017-04-13 22-08-54| SDL Mix error: music parameter was NULL
 2017-04-13 22-08-57| <> The crew of your ship 's3' was paid.
-2017-04-13 22-09-29| 
+2017-04-13 22-09-29|     PredefinedSpecs(0, glm::vec3(1.14745, 1.14745, 1.03496), Color(0xff8b7dd0), Color(0xff8b7dd0), Color(0xff7da2d0), 11, 4, 0.116724, 0.478822),
+2017-04-13 22-10-30| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Modern Thinking.ogg'
+2017-04-13 22-10-30| SDL Mix error: music parameter was NULL
+2017-04-13 22-10-31| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Inter-Spatial-Flexure.ogg'
+2017-04-13 22-10-31| SDL Mix error: music parameter was NULL
+2017-04-13 22-10-32| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - ...But Still We Go On.ogg'
+2017-04-13 22-10-32| SDL Mix error: music parameter was NULL
+2017-04-13 22-10-33| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Nouvelle Rouvenor Hero.ogg'
+2017-04-13 22-10-33| SDL Mix error: music parameter was NULL
+2017-04-13 22-10-34| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Fight Like You Live.ogg'
+2017-04-13 22-10-34| 
