@@ -128,4 +128,6 @@
 2017-04-13 21-43-31| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 21-43-31| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
 2017-04-13 21-44-37| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 3.ogg'
-2017-04-13 21-44-37| 
+2017-04-13 21-44-37| SDL Mix error: music parameter was NULL
+2017-04-13 21-45-47| <Gate Control> You paid 200 credits passage fee.
+2017-04-13 21-46-05| 
