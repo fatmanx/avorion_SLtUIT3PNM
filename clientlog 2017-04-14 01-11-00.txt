@@ -275,4 +275,5 @@
 2017-04-14 01-22-25| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s39.xml"
 2017-04-14 01-22-30| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Gallente Melody 7.ogg'
 2017-04-14 01-22-30| SDL Mix error: music parameter was NULL
-2017-04-14 01-22-56| 
+2017-04-14 01-22-56| <Bottan> We're taking damage, retreat, retreat!
+2017-04-14 01-27-01| 
