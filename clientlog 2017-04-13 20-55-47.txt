@@ -152,4 +152,5 @@
 2017-04-13 21-27-11| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Apocrypha Theme.ogg'
 2017-04-13 21-27-11| SDL Mix error: music parameter was NULL
 2017-04-13 21-27-12| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Rubicon Theme.ogg'
-2017-04-13 21-27-12| 
+2017-04-13 21-27-12| SDL Mix error: music parameter was NULL
+2017-04-13 21-28-58| 
