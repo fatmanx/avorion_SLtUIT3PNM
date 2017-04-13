@@ -366,4 +366,6 @@
 2017-04-14 02-41-32| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 2.ogg'
 2017-04-14 02-41-32| SDL Mix error: music parameter was NULL
 2017-04-14 02-42-03| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\tf12.xml"
-2017-04-14 02-42-12| 
+2017-04-14 02-42-12| <Server> There are lots and lots of subspace signals! Careful!
+2017-04-14 02-43-12| <Server> A large group of alien ships appeared!
+2017-04-14 02-43-49| 
