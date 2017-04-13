@@ -465,4 +465,19 @@
 2017-04-13 18-54-32| sector (188:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_280"
 2017-04-13 18-54-39| scheduled save for sector (193:281), 0xb2a8100, entities: 510
 2017-04-13 18-54-39| saving sector (193:281)
-2017-04-13 18-54-39| 
+2017-04-13 18-54-39| sector (193:281) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\193_281"
+2017-04-13 18-55-44| starting event alienattack
+2017-04-13 18-55-53| scheduled save for sector (193:281), 0xb2a8100, entities: 547
+2017-04-13 18-55-53| saving sector (193:281)
+2017-04-13 18-55-54| sector (193:281) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\193_281"
+2017-04-13 18-55-54| Player fatmanone moved to sector (193:281)from (190:279) server time taken for change: 264ms
+2017-04-13 18-55-54| Creating sector at (196:284)
+2017-04-13 18-55-54| Creating sector at (190:284)
+2017-04-13 18-55-54| scheduled save for sector (190:279), 0x4669fd00, entities: 1046
+2017-04-13 18-55-54| saving sector (190:279)
+2017-04-13 18-55-54| Generating new content for sector (196:284)
+2017-04-13 18-55-54| Generating new content for sector (190:284)
+2017-04-13 18-55-54| sector (190:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\190_279"
+2017-04-13 18-56-02| scheduled save for sector (190:284), 0x466a1dd0, entities: 876
+2017-04-13 18-56-02| saving sector (190:284)
+2017-04-13 18-56-02| 
