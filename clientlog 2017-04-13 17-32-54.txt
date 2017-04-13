@@ -94,4 +94,6 @@
 2017-04-13 17-33-19| Initiating connection with server ID 90108111980124168
 2017-04-13 17-33-20| Authentication successful!
 2017-04-13 17-33-28| <Server> Player fatmanone joined the galaxy
-2017-04-13 17-33-33| 
+2017-04-13 17-33-33| <> You have no sector selected.
+2017-04-13 17-34-19| Create canvas of size 3200 x 1800... ok
+2017-04-13 17-34-39| 
