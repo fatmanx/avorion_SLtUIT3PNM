@@ -279,4 +279,5 @@
 2017-04-14 01-27-01| Unlocked achievement BEAT_SMUGGLER
 2017-04-14 01-36-56| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Precious Ore.ogg'
 2017-04-14 01-36-56| SDL Mix error: music parameter was NULL
-2017-04-14 01-37-32| 
+2017-04-14 01-37-32| Unlocked achievement LUDICROUS_SPEED
+2017-04-14 01-39-22| 

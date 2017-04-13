@@ -147,4 +147,8 @@
 2017-04-14 01-31-09| Triggered saving of all server data.
 2017-04-14 01-31-09| scheduled save for sector (169:144), 0xb6cae60, entities: 79
 2017-04-14 01-31-09| saving sector (169:144)
-2017-04-14 01-31-09| 
+2017-04-14 01-31-09| sector (169:144) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_144"
+2017-04-14 01-39-21| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-14 01-39-23| scheduled save for sector (149:173), 0xb237b90, entities: 1061
+2017-04-14 01-39-23| saving sector (149:173)
+2017-04-14 01-39-23| 

@@ -3,27 +3,27 @@
 	<coordinates x="149" y="173"/>
 	<titles>
 		<title str="Shipyard"/>
-		<title str="Resource Depot"/>
-		<title str="Repair Dock"/>
-		<title str="Trading Post"/>
 		<title str="Equipment Dock"/>
+		<title str="Repair Dock"/>
+		<title str="Resource Depot"/>
+		<title str="Trading Post"/>
 		<title str="${good} Factory ${size}">
 			<arg key="prefix">Dairy /* prefix */</arg>
 			<arg key="size">S</arg>
 			<arg key="good">Dairy</arg>
 			<arg key="plural">Dairy</arg>
 		</title>
-		<title str="${good} Manufacturer ${size}">
-			<arg key="plural">Jewelry</arg>
-			<arg key="good">Jewelry</arg>
-			<arg key="prefix">Jewelry /* prefix */</arg>
-			<arg key="size">S</arg>
-		</title>
 		<title str="Gas Collector ${size}">
 			<arg key="good">Oxygen</arg>
 			<arg key="plural">Oxygen</arg>
 			<arg key="size">S</arg>
 			<arg key="prefix">Oxygen /* prefix */</arg>
+		</title>
+		<title str="${good} Manufacturer ${size}">
+			<arg key="plural">Jewelry</arg>
+			<arg key="good">Jewelry</arg>
+			<arg key="prefix">Jewelry /* prefix */</arg>
+			<arg key="size">S</arg>
 		</title>
 		<title str="Research Station"/>
 		<title str="Military Outpost"/>
