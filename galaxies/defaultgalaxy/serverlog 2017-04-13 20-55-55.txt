@@ -84,4 +84,20 @@
 2017-04-13 20-58-34| Player fatmanone moved to sector (171:344)from (172:342) server time taken for change: 109ms
 2017-04-13 20-58-34| scheduled save for sector (172:342), 0x102fadb0, entities: 484
 2017-04-13 20-58-34| saving sector (172:342)
-2017-04-13 20-58-34| 
+2017-04-13 20-58-34| sector (172:342) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\172_342"
+2017-04-13 21-02-17| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 21-02-17| Creating sector at (173:344)
+2017-04-13 21-02-17| Generating new content for sector (173:344)
+2017-04-13 21-02-19| scheduled save for sector (173:344), 0x22256430, entities: 2009
+2017-04-13 21-02-19| saving sector (173:344)
+2017-04-13 21-02-20| sector (173:344) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\173_344"
+2017-04-13 21-02-26| <> Jump route calculated.
+2017-04-13 21-02-28| <> Your hyperdrive still needs 17 seconds to recharge.
+2017-04-13 21-02-29| <> Your hyperdrive still needs 15 seconds to recharge.
+2017-04-13 21-02-46| scheduled save for sector (173:344), 0x22256430, entities: 2054
+2017-04-13 21-02-46| saving sector (173:344)
+2017-04-13 21-02-46| sector (173:344) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\173_344"
+2017-04-13 21-02-46| Player fatmanone moved to sector (173:344)from (171:344) server time taken for change: 466ms
+2017-04-13 21-02-47| scheduled save for sector (171:344), 0x15227e40, entities: 273
+2017-04-13 21-02-47| saving sector (171:344)
+2017-04-13 21-02-47| 

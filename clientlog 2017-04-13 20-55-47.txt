@@ -106,4 +106,8 @@
 2017-04-13 20-57-56| SDL Mix error: music parameter was NULL
 2017-04-13 20-58-15| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 20-58-24| <> Jump route calculated.
-2017-04-13 21-01-30| 
+2017-04-13 21-01-30| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
+2017-04-13 21-02-17| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 21-02-26| <> Jump route calculated.
+2017-04-13 21-02-28| <> Your hyperdrive still needs 17 seconds to recharge.
+2017-04-13 21-02-29| 
