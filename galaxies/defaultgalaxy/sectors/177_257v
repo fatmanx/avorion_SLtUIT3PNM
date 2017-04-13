@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="10" numWrecks="0" numAsteroids="1811" numStations="8" influence="66.6189957" factionIndex="2000587">
+<view numCrafts="13" numWrecks="0" numAsteroids="1811" numStations="8" influence="66.6189957" factionIndex="2000587">
 	<coordinates x="177" y="257"/>
 	<titles>
 		<title str="Resource Depot"/>
@@ -47,7 +47,7 @@
 		<coordinates x="185" y="253"/>
 	</wormholes>
 	<shipNumbers>
-		<ships n="9" faction="2000587"/>
-		<ships n="1" faction="2000875"/>
+		<ships n="12" faction="2000587"/>
+		<ships n="1" faction="2000870"/>
 	</shipNumbers>
 </view>

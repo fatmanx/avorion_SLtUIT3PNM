@@ -2,6 +2,7 @@
 <view numCrafts="12" numWrecks="0" numAsteroids="1799" numStations="5" influence="47.5849991" factionIndex="2000587">
 	<coordinates x="163" y="268"/>
 	<titles>
+		<title str="Resource Depot"/>
 		<title str="Ice Mine ${size}">
 			<arg key="plural">Water</arg>
 			<arg key="good">Water</arg>
@@ -14,7 +15,6 @@
 			<arg key="good">Gold</arg>
 			<arg key="size">S</arg>
 		</title>
-		<title str="Resource Depot"/>
 		<title str="Noble Metal Mine ${size}">
 			<arg key="plural">Silver</arg>
 			<arg key="size">S</arg>
@@ -29,8 +29,8 @@
 		</title>
 	</titles>
 	<wormholes>
-		<coordinates x="163" y="273"/>
 		<coordinates x="162" y="266"/>
+		<coordinates x="163" y="273"/>
 	</wormholes>
 	<shipNumbers>
 		<ships n="12" faction="2000587"/>
