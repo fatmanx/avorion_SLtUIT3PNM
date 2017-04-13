@@ -431,4 +431,13 @@
 2017-04-13 09-44-14| scheduled save for sector (280:278), 0xb059e10, entities: 63
 2017-04-13 09-44-14| saving sector (280:278)
 2017-04-13 09-44-14| sector (280:278) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\280_278"
-2017-04-13 09-47-55| 
+2017-04-13 09-47-55| starting event alienattack
+2017-04-13 09-50-01| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-50-01| Creating sector at (282:279)
+2017-04-13 09-50-01| Generating new content for sector (282:279)
+2017-04-13 09-50-07| scheduled save for sector (282:279), 0xb05b850, entities: 285
+2017-04-13 09-50-07| saving sector (282:279)
+2017-04-13 09-50-07| sector (282:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\282_279"
+2017-04-13 09-50-10| <> Jump route calculated.
+2017-04-13 09-50-29| <> Your ship doesn't support more of this turret type.
+2017-04-13 09-50-29| 
