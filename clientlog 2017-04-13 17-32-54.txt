@@ -167,4 +167,6 @@
 2017-04-13 18-48-13| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
 2017-04-13 18-48-13| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
 2017-04-13 18-50-10| <Server> You destroyed a civil ship. Relations to all witnessing factions worsened.
-2017-04-13 18-52-22| 
+2017-04-13 18-52-22| <The Pirates of Uucucmko> Thank you for taking care of those pirates. We transferred a reward to your account.
+2017-04-13 18-54-30| <Gate Control> You paid 927 credits passage fee.
+2017-04-13 18-55-12| 
