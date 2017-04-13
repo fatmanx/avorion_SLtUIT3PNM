@@ -424,4 +424,27 @@
 2017-04-13 22-26-46| scheduled save for sector (138:356), 0x274b8b70, entities: 1186
 2017-04-13 22-26-46| sector (153:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_355"
 2017-04-13 22-26-47| saving sector (138:356)
-2017-04-13 22-26-47| 
+2017-04-13 22-26-47| sector (138:356) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\138_356"
+2017-04-13 22-29-19| scheduled save for sector (155:211), 0x28096d10, entities: 843
+2017-04-13 22-29-20| saving sector (155:211)
+2017-04-13 22-29-20| sector (155:211) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\155_211"
+2017-04-13 22-29-20| Player fatmanone moved to sector (155:211)from (153:211) server time taken for change: 390ms
+2017-04-13 22-29-20| Creating sector at (162:213)
+2017-04-13 22-29-20| scheduled save for sector (153:211), 0xba17880, entities: 710
+2017-04-13 22-29-20| saving sector (153:211)
+2017-04-13 22-29-20| Generating new content for sector (162:213)
+2017-04-13 22-29-20| sector (153:211) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_211"
+2017-04-13 22-29-21| scheduled save for sector (143:354), 0xba16b60, entities: 367
+2017-04-13 22-29-21| saving sector (143:354)
+2017-04-13 22-29-21| FileSecurer error: Error removing backup file "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\143_354~": system:5; Access is denied
+2017-04-13 22-29-21| sector (143:354) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\143_354"
+2017-04-13 22-29-21| scheduled save for sector (146:345), 0x2541dfc0, entities: 2362
+2017-04-13 22-29-21| saving sector (146:345)
+2017-04-13 22-29-21| scheduled save for sector (146:347), 0x2541e650, entities: 800
+2017-04-13 22-29-21| sector (146:345) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_345"
+2017-04-13 22-29-21| saving sector (146:347)
+2017-04-13 22-29-21| sector (146:347) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\146_347"
+2017-04-13 22-29-26| scheduled save for sector (162:213), 0x3ac0f140, entities: 1186
+2017-04-13 22-29-26| saving sector (162:213)
+2017-04-13 22-29-26| sector (162:213) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\162_213"
+2017-04-13 22-29-31| 

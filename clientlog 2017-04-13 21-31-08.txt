@@ -296,4 +296,6 @@
 2017-04-13 22-26-18| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Gas Giant.ogg'
 2017-04-13 22-26-18| SDL Mix error: music parameter was NULL
 2017-04-13 22-26-19| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Object Almost Accomplished.ogg'
-2017-04-13 22-26-19| 
+2017-04-13 22-26-19| SDL Mix error: music parameter was NULL
+2017-04-13 22-29-19| <Gate Control> You paid 311 credits passage fee.
+2017-04-13 22-29-32| 
