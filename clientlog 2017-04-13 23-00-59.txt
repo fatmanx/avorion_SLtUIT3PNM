@@ -98,4 +98,10 @@
 2017-04-13 23-04-52| <Server> Moving player fatmanone to sector (177:420).
 2017-04-13 23-06-29| <Gate Control> You paid 123 credits passage fee.
 2017-04-13 23-06-29| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
-2017-04-13 23-06-29| 
+2017-04-13 23-06-29| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-13 23-06-59| <Unkown> Can anybody hear us? We have been ambushed by pirates! Our position is (167:408) Help!
+2017-04-13 23-06-59| <> You have received a distress signal by an unknown source.
+2017-04-13 23-07-31| <Gate Control> You paid 123 credits passage fee.
+2017-04-13 23-07-45| <> You have no sector selected.
+2017-04-13 23-07-46| <> You have no sector selected.
+2017-04-13 23-07-46| 
