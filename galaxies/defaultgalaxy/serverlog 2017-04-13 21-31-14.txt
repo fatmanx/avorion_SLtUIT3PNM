@@ -249,4 +249,10 @@
 2017-04-13 22-01-50| sector (163:347) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\163_347"
 2017-04-13 22-01-50| saving sector (159:347)
 2017-04-13 22-01-50| sector (159:347) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\159_347"
-2017-04-13 22-04-44| 
+2017-04-13 22-04-44| Warning, can't keep up, skipping 1 frames...
+2017-04-13 22-05-53| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 22-05-53| scheduled save for sector (153:355), 0x26e23180, entities: 1307
+2017-04-13 22-05-53| saving sector (153:355)
+2017-04-13 22-05-53| sector (153:355) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\153_355"
+2017-04-13 22-06-02| <> Jump route calculated.
+2017-04-13 22-06-06| 

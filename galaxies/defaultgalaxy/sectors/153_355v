@@ -2,6 +2,13 @@
 <view numCrafts="8" numWrecks="0" numAsteroids="966" numStations="4" influence="28.5510006" factionIndex="2001429">
 	<coordinates x="153" y="355"/>
 	<titles>
+		<title str="Gas Collector ${size}">
+			<arg key="prefix">Helium /* prefix */</arg>
+			<arg key="plural">Helium</arg>
+			<arg key="good">Helium</arg>
+			<arg key="size">S</arg>
+		</title>
+		<title str="Trading Post"/>
 		<title str="Solar Power Plant ${size}">
 			<arg key="prefix">Energy Cell /* prefix */</arg>
 			<arg key="plural">Energy Cells</arg>
@@ -14,13 +21,6 @@
 			<arg key="size">S</arg>
 			<arg key="good">Oxygen</arg>
 		</title>
-		<title str="Gas Collector ${size}">
-			<arg key="prefix">Helium /* prefix */</arg>
-			<arg key="plural">Helium</arg>
-			<arg key="good">Helium</arg>
-			<arg key="size">S</arg>
-		</title>
-		<title str="Trading Post"/>
 	</titles>
 	<wormholes>
 		<coordinates x="149" y="362"/>
