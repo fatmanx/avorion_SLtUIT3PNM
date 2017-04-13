@@ -243,4 +243,9 @@
 2017-04-13 22-05-53| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 22-06-02| <> Jump route calculated.
 2017-04-13 22-06-06| <> Your hyperdrive still needs 25 seconds to recharge.
-2017-04-13 22-06-38| 
+2017-04-13 22-06-38| <Mobile Merchant Kadook> Hello Everybody! Mobile Merchant Kadook here. I'll be here for the next 15 minutes. Come look at my merchandise!
+2017-04-13 22-08-53| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Everyday Zone.ogg'
+2017-04-13 22-08-53| SDL Mix error: music parameter was NULL
+2017-04-13 22-08-54| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Gallente Theme.ogg'
+2017-04-13 22-08-54| SDL Mix error: music parameter was NULL
+2017-04-13 22-08-57| 
