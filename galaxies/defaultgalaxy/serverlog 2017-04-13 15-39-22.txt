@@ -131,4 +131,29 @@
 2017-04-13 16-07-35| scheduled save for sector (107:118), 0x11606890, entities: 150
 2017-04-13 16-07-35| saving sector (107:118)
 2017-04-13 16-07-35| sector (107:118) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\107_118"
-2017-04-13 16-07-41| 
+2017-04-13 16-07-41| starting event alienattack
+2017-04-13 16-09-11| <> This sector is out of reach with this ship.
+2017-04-13 16-09-18| Creating sector at (192:204)
+2017-04-13 16-09-18| scheduled save for sector (192:204), 0x10646f60, entities: 0
+2017-04-13 16-09-18| saving sector (192:204)
+2017-04-13 16-09-18| sector (192:204) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\192_204"
+2017-04-13 16-09-18| scheduled save for sector (192:204), 0x10646f60, entities: 52
+2017-04-13 16-09-18| saving sector (192:204)
+2017-04-13 16-09-18| sector (192:204) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\192_204"
+2017-04-13 16-09-19| Player fatmanone moved to sector (192:204)from (107:117) server time taken for change: 117ms
+2017-04-13 16-09-19| scheduled save for sector (107:117), 0xbe9f600, entities: 0
+2017-04-13 16-09-19| saving sector (107:117)
+2017-04-13 16-09-19| sector (107:117) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\107_117"
+2017-04-13 16-09-22| Triggered saving of all server data.
+2017-04-13 16-09-23| scheduled save for sector (107:117), 0xbe9f600, entities: 0
+2017-04-13 16-09-23| saving sector (107:117)
+2017-04-13 16-09-23| sector (107:117) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\107_117"
+2017-04-13 16-09-23| scheduled save for sector (107:118), 0x11606890, entities: 150
+2017-04-13 16-09-23| saving sector (107:118)
+2017-04-13 16-09-23| sector (107:118) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\107_118"
+2017-04-13 16-09-23| scheduled save for sector (166:167), 0x4d00670, entities: 879
+2017-04-13 16-09-23| saving sector (166:167)
+2017-04-13 16-09-23| sector (166:167) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\166_167"
+2017-04-13 16-09-23| scheduled save for sector (192:204), 0x10646f60, entities: 52
+2017-04-13 16-09-23| saving sector (192:204)
+2017-04-13 16-09-23| 

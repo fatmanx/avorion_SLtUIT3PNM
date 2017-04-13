@@ -275,4 +275,22 @@
 2017-04-13 16-07-35| Create Entity Message discarded: wrong sector
 2017-04-13 16-07-35| Create Entity Message discarded: wrong sector
 2017-04-13 16-07-35| Create Entity Message discarded: wrong sector
-2017-04-13 16-07-42| 
+2017-04-13 16-07-42| <Server> Your sensors picked up a short burst of subspace signals.
+2017-04-13 16-09-11| <> This sector is out of reach with this ship.
+2017-04-13 16-09-18| <Server> Moving player fatmanone to sector (192:204).
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| Create Entity Message discarded: wrong sector
+2017-04-13 16-09-18| 
