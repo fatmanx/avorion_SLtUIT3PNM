@@ -336,4 +336,26 @@
 2017-04-13 18-03-00| sector (183:274) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_274"
 2017-04-13 18-03-05| scheduled save for sector (188:280), 0x1ed8fea0, entities: 1183
 2017-04-13 18-03-05| saving sector (188:280)
-2017-04-13 18-03-05| 
+2017-04-13 18-03-05| sector (188:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\188_280"
+2017-04-13 18-03-16| Triggered saving of all server data.
+2017-04-13 18-03-17| scheduled save for sector (174:271), 0x561eed80, entities: 1243
+2017-04-13 18-03-17| saving sector (174:271)
+2017-04-13 18-03-17| sector (174:271) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\174_271"
+2017-04-13 18-03-17| scheduled save for sector (177:275), 0x561ef410, entities: 529
+2017-04-13 18-03-17| saving sector (177:275)
+2017-04-13 18-03-17| sector (177:275) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_275"
+2017-04-13 18-03-17| scheduled save for sector (178:279), 0x561ee6f0, entities: 2573
+2017-04-13 18-03-17| saving sector (178:279)
+2017-04-13 18-03-17| sector (178:279) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\178_279"
+2017-04-13 18-03-17| scheduled save for sector (180:283), 0x1ed90530, entities: 568
+2017-04-13 18-03-17| saving sector (180:283)
+2017-04-13 18-03-17| sector (180:283) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\180_283"
+2017-04-13 18-03-18| scheduled save for sector (183:274), 0x1f2d2e80, entities: 1535
+2017-04-13 18-03-18| saving sector (183:274)
+2017-04-13 18-03-18| sector (183:274) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_274"
+2017-04-13 18-03-18| scheduled save for sector (183:280), 0x11f87c70, entities: 1052
+2017-04-13 18-03-18| saving sector (183:280)
+2017-04-13 18-03-18| sector (183:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_280"
+2017-04-13 18-03-18| scheduled save for sector (188:280), 0x1ed8fea0, entities: 1183
+2017-04-13 18-03-18| saving sector (188:280)
+2017-04-13 18-03-18| 
