@@ -379,4 +379,7 @@
 2017-04-14 02-48-17| SDL Mix error: music parameter was NULL
 2017-04-14 02-48-42| <> The crew of your ship 's3' was paid.
 2017-04-14 02-52-11| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Shifting the Balance of Power.ogg'
-2017-04-14 02-52-11| 
+2017-04-14 02-52-11| SDL Mix error: music parameter was NULL
+2017-04-14 02-53-43| <Server> Pirates are attacking the sector!
+2017-04-14 02-53-48| <fatmanone> TurretDropChanceFromBlock
+2017-04-14 02-53-54| 
