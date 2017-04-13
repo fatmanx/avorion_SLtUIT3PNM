@@ -103,4 +103,5 @@
 2017-04-13 15-47-50| <Smuggler> Deliver the goods to (107:134)
 2017-04-13 15-49-23| <Server> There are lots and lots of subspace signals! Careful!
 2017-04-13 15-50-24| <Server> A large group of alien ships appeared!
-2017-04-13 15-50-28| 
+2017-04-13 15-50-28| <Smuggler> Deliver the goods to (107:117)
+2017-04-13 15-51-06| 
