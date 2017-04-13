@@ -270,4 +270,5 @@
 2017-04-13 22-15-04| SDL Mix error: music parameter was NULL
 2017-04-13 22-16-41| <Server> More strange subspace signals, they're getting stronger.
 2017-04-13 22-17-41| <Server> A small group of alien ships appeared!
-2017-04-13 22-17-58| 
+2017-04-13 22-17-58| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
+2017-04-13 22-18-41| 
