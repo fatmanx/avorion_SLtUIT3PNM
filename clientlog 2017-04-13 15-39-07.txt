@@ -344,4 +344,7 @@
 2017-04-13 16-42-03| <Trading Post> You must be docked to the station to trade.
 2017-04-13 16-44-23| failed to load texture from file "data/textures/icons/neutron-accelerator.png"
 2017-04-13 16-44-59| <Trading Post> This station has no more Neutron Accelerators to sell.
-2017-04-13 16-46-07| 
+2017-04-13 16-46-07| <Gate Control> You paid 225 credits passage fee.
+2017-04-13 16-48-28| UDP closed
+2017-04-13 16-48-28| Client UDP: Connection closed
+2017-04-13 16-48-28| 
