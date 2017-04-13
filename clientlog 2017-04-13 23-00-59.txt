@@ -127,4 +127,7 @@
 2017-04-13 23-12-02| SDL Mix error: music parameter was NULL
 2017-04-13 23-14-34| <Gate Control> You paid 47 credits passage fee.
 2017-04-13 23-15-36| <Gate Control> You paid 73 credits passage fee.
-2017-04-13 23-15-44| 
+2017-04-13 23-15-44| <> You have no sector selected.
+2017-04-13 23-16-21| <> You have no sector selected.
+2017-04-13 23-16-25| <Gate Control> You paid 56 credits passage fee.
+2017-04-13 23-16-51| 
