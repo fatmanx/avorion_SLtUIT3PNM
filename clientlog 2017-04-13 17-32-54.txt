@@ -134,4 +134,8 @@
 2017-04-13 17-59-34| <> You don't have any of this turret.
 2017-04-13 18-00-57| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 18-01-01| Auto saving ship to "C:\Users\fatman\AppData\Roaming\Avorion\ships\s38.xml"
-2017-04-13 18-01-35| 
+2017-04-13 18-01-35| <> You don't have any of this turret.
+2017-04-13 18-02-24| <> Your ship doesn't support more of this turret type.
+2017-04-13 18-02-24| <> Your ship doesn't support more of this turret type.
+2017-04-13 18-02-25| <> Your ship doesn't support more of this turret type.
+2017-04-13 18-02-25| 

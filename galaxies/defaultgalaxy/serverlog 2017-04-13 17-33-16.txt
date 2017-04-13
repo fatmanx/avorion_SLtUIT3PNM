@@ -312,4 +312,28 @@
 2017-04-13 18-00-32| sector (170:264) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\170_264"
 2017-04-13 18-00-57| <> You cannot build this. The block overlaps too much with another block.
 2017-04-13 18-01-35| <> You don't have any of this turret.
-2017-04-13 18-01-42| 
+2017-04-13 18-01-42| starting event fakedistresssignal
+2017-04-13 18-02-24| <> Your ship doesn't support more of this turret type.
+2017-04-13 18-02-24| <> Your ship doesn't support more of this turret type.
+2017-04-13 18-02-25| <> Your ship doesn't support more of this turret type.
+2017-04-13 18-02-25| <> Your ship doesn't support more of this turret type.
+2017-04-13 18-02-55| scheduled save for sector (183:280), 0x11f87c70, entities: 1052
+2017-04-13 18-02-55| saving sector (183:280)
+2017-04-13 18-02-55| sector (183:280) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_280"
+2017-04-13 18-02-55| Player fatmanone moved to sector (183:280)from (177:275) server time taken for change: 285ms
+2017-04-13 18-02-55| Creating sector at (188:280)
+2017-04-13 18-02-55| Creating sector at (180:283)
+2017-04-13 18-02-55| scheduled save for sector (177:275), 0x561ef410, entities: 530
+2017-04-13 18-02-55| saving sector (177:275)
+2017-04-13 18-02-55| Generating new content for sector (188:280)
+2017-04-13 18-02-55| Generating new content for sector (180:283)
+2017-04-13 18-02-56| sector (177:275) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\177_275"
+2017-04-13 18-02-58| scheduled save for sector (180:283), 0x1ed90530, entities: 568
+2017-04-13 18-02-58| saving sector (180:283)
+2017-04-13 18-02-59| sector (180:283) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\180_283"
+2017-04-13 18-03-00| scheduled save for sector (183:274), 0x1f2d2e80, entities: 1535
+2017-04-13 18-03-00| saving sector (183:274)
+2017-04-13 18-03-00| sector (183:274) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\183_274"
+2017-04-13 18-03-05| scheduled save for sector (188:280), 0x1ed8fea0, entities: 1183
+2017-04-13 18-03-05| saving sector (188:280)
+2017-04-13 18-03-05| 

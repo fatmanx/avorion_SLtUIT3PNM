@@ -3,18 +3,6 @@
 	<coordinates x="183" y="274"/>
 	<titles>
 		<title str="${good} Factory ${size}">
-			<arg key="plural">Rubber</arg>
-			<arg key="good">Rubber</arg>
-			<arg key="size">S</arg>
-			<arg key="prefix">Rubber /* prefix */</arg>
-		</title>
-		<title str="${good} Collector ${size}">
-			<arg key="plural">Plankton</arg>
-			<arg key="size">S</arg>
-			<arg key="good">Plankton</arg>
-			<arg key="prefix">Plankton /* prefix */</arg>
-		</title>
-		<title str="${good} Factory ${size}">
 			<arg key="prefix">Steel Tube /* prefix */</arg>
 			<arg key="plural">Steel Tubes</arg>
 			<arg key="good">Steel Tube</arg>
@@ -25,6 +13,18 @@
 			<arg key="prefix">Display /* prefix */</arg>
 			<arg key="good">Display</arg>
 			<arg key="size">L</arg>
+		</title>
+		<title str="${good} Factory ${size}">
+			<arg key="plural">Rubber</arg>
+			<arg key="good">Rubber</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Rubber /* prefix */</arg>
+		</title>
+		<title str="${good} Collector ${size}">
+			<arg key="plural">Plankton</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Plankton</arg>
+			<arg key="prefix">Plankton /* prefix */</arg>
 		</title>
 		<title str="Trading Post"/>
 	</titles>
