@@ -2,21 +2,21 @@
 <view numCrafts="10" numWrecks="0" numAsteroids="0" numStations="9" influence="85.6529922" factionIndex="2000379">
 	<coordinates x="150" y="237"/>
 	<titles>
-		<title str="${good} Farm ${size}">
-			<arg key="prefix">Crystal /* prefix */</arg>
-			<arg key="plural">Crystals</arg>
-			<arg key="size">S</arg>
-			<arg key="good">Crystal</arg>
-		</title>
-		<title str="Repair Dock"/>
-		<title str="Resource Depot"/>
-		<title str="Equipment Dock"/>
 		<title str="Shipyard"/>
+		<title str="Resource Depot"/>
+		<title str="Repair Dock"/>
+		<title str="Equipment Dock"/>
 		<title str="${good} Factory ${size}">
 			<arg key="plural">Steel</arg>
 			<arg key="good">Steel</arg>
 			<arg key="size">M</arg>
 			<arg key="prefix">Steel /* prefix */</arg>
+		</title>
+		<title str="${good} Farm ${size}">
+			<arg key="prefix">Crystal /* prefix */</arg>
+			<arg key="plural">Crystals</arg>
+			<arg key="size">S</arg>
+			<arg key="good">Crystal</arg>
 		</title>
 		<title str="${good} Mine ${size}">
 			<arg key="plural">Copper</arg>

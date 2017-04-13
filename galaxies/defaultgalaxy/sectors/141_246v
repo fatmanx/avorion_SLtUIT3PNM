@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="5" numWrecks="0" numAsteroids="169" numStations="4" influence="28.5510006" factionIndex="2000379">
+	<coordinates x="141" y="246"/>
+	<titles>
+		<title str="Resource Depot"/>
+		<title str="Repair Dock"/>
+		<title str="Trading Post"/>
+		<title str="Trading Post"/>
+	</titles>
+	<wormholes>
+		<coordinates x="144" y="243"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="5" faction="2000379"/>
+	</shipNumbers>
+</view>

@@ -306,4 +306,25 @@
 2017-04-14 02-17-52| Player fatmanone moved to sector (132:235)from (168:300) server time taken for change: 76ms
 2017-04-14 02-17-52| scheduled save for sector (168:300), 0x2aff0650, entities: 1312
 2017-04-14 02-17-52| saving sector (168:300)
-2017-04-14 02-17-52| 
+2017-04-14 02-17-52| sector (168:300) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\168_300"
+2017-04-14 02-19-21| scheduled save for sector (144:243), 0x180cfe90, entities: 1190
+2017-04-14 02-19-21| saving sector (144:243)
+2017-04-14 02-19-21| sector (144:243) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\144_243"
+2017-04-14 02-19-21| scheduled save for sector (144:243), 0x180cfe90, entities: 1235
+2017-04-14 02-19-21| saving sector (144:243)
+2017-04-14 02-19-21| sector (144:243) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\144_243"
+2017-04-14 02-19-21| Player fatmanone moved to sector (144:243)from (132:235) server time taken for change: 394ms
+2017-04-14 02-19-21| Creating sector at (141:246)
+2017-04-14 02-19-21| scheduled save for sector (132:235), 0x3081a530, entities: 53
+2017-04-14 02-19-21| saving sector (132:235)
+2017-04-14 02-19-21| sector (132:235) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\132_235"
+2017-04-14 02-19-21| Generating new content for sector (141:246)
+2017-04-14 02-19-22| scheduled save for sector (147:244), 0x68828610, entities: 558
+2017-04-14 02-19-22| saving sector (147:244)
+2017-04-14 02-19-22| sector (147:244) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\147_244"
+2017-04-14 02-19-23| scheduled save for sector (150:237), 0x6d0a3f80, entities: 322
+2017-04-14 02-19-23| saving sector (150:237)
+2017-04-14 02-19-23| sector (150:237) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\150_237"
+2017-04-14 02-19-24| scheduled save for sector (141:246), 0x68828ca0, entities: 314
+2017-04-14 02-19-24| saving sector (141:246)
+2017-04-14 02-19-24| 

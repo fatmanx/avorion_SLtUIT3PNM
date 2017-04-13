@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="0" numWrecks="0" numAsteroids="0" numStations="0" influence="0" factionIndex="0">
+<view numCrafts="4" numWrecks="0" numAsteroids="0" numStations="0" influence="0" factionIndex="0">
 	<coordinates x="132" y="235"/>
 	<titles/>
 	<wormholes>
 		<coordinates x="168" y="300"/>
 	</wormholes>
-	<shipNumbers/>
+	<shipNumbers>
+		<ships n="4" faction="4"/>
+	</shipNumbers>
 </view>

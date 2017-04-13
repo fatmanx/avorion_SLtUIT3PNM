@@ -2,13 +2,13 @@
 <view numCrafts="8" numWrecks="0" numAsteroids="859" numStations="5" influence="47.5849991" factionIndex="2000379">
 	<coordinates x="144" y="243"/>
 	<titles>
+		<title str="Trading Post"/>
 		<title str="${good} Factory ${size}">
 			<arg key="plural">Books</arg>
 			<arg key="good">Book</arg>
 			<arg key="size">S</arg>
 			<arg key="prefix">Book /* prefix */</arg>
 		</title>
-		<title str="Turret Factory"/>
 		<title str="Gas Collector ${size}">
 			<arg key="prefix">Helium /* prefix */</arg>
 			<arg key="size">S</arg>
@@ -21,7 +21,7 @@
 			<arg key="prefix">Warhead /* prefix */</arg>
 			<arg key="plural">Warheads</arg>
 		</title>
-		<title str="Trading Post"/>
+		<title str="Turret Factory"/>
 	</titles>
 	<wormholes>
 		<coordinates x="147" y="244"/>
