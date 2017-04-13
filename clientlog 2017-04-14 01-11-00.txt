@@ -313,4 +313,5 @@
 2017-04-14 01-56-08| <> You have no sector selected.
 2017-04-14 01-56-16| <> You have no sector selected.
 2017-04-14 02-01-52| <Unkown> Mayday! CHRRK ... under attack CHRRK ... pirates ... CHRRK ... position (154:163) ... help!
-2017-04-14 02-01-52| 
+2017-04-14 02-01-52| <> You have received a distress signal by an unknown source.
+2017-04-14 02-07-21| 
