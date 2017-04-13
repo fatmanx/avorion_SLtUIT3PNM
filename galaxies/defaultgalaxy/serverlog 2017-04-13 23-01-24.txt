@@ -202,4 +202,7 @@
 2017-04-13 23-11-43| <> You have no sector selected.
 2017-04-13 23-12-31| scheduled save for sector (171:416), 0x283da2e0, entities: 827
 2017-04-13 23-12-31| saving sector (171:416)
-2017-04-13 23-12-31| 
+2017-04-13 23-12-31| sector (171:416) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\171_416"
+2017-04-13 23-13-06| scheduled save for sector (173:418), 0xbdff360, entities: 630
+2017-04-13 23-13-06| saving sector (173:418)
+2017-04-13 23-13-06| 
