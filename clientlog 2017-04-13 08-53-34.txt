@@ -135,4 +135,8 @@
 2017-04-13 09-27-30| <> Jump route calculated.
 2017-04-13 09-28-18| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 09-28-25| <> Jump route calculated.
-2017-04-13 09-28-39| 
+2017-04-13 09-28-39| <Server> More strange subspace signals, they're getting stronger.
+2017-04-13 09-29-48| <Server> A small group of alien ships appeared!
+2017-04-13 09-30-01| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 09-30-08| <> Jump route calculated.
+2017-04-13 09-30-45| 
