@@ -341,4 +341,7 @@
 2017-04-14 02-18-10| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Defenders of the Orphic World.ogg'
 2017-04-14 02-18-10| SDL Mix error: music parameter was NULL
 2017-04-14 02-18-42| <Server> A group of alien ships warped in!
-2017-04-14 02-19-20| 
+2017-04-14 02-19-20| <Server> Moving player fatmanone to sector (144:243).
+2017-04-14 02-21-59| <Gate Control> You paid 1523 credits passage fee.
+2017-04-14 02-22-00| <Server> You have entered a neutral zone. Player to player damage is disabled in this sector.
+2017-04-14 02-22-00| 
