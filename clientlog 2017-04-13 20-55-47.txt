@@ -105,4 +105,5 @@
 2017-04-13 20-57-56| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Crucible Theme.ogg'
 2017-04-13 20-57-56| SDL Mix error: music parameter was NULL
 2017-04-13 20-58-15| <> The Nav-Computer is calculating the jump route. Please stand by.
-2017-04-13 20-58-24| 
+2017-04-13 20-58-24| <> Jump route calculated.
+2017-04-13 21-01-30| 

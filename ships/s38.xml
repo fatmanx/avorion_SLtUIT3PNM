@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<auto_703937117205049358 accumulateHealth="true" convex="false">
-	<item parent="-1" index="0" maxDurability="1138438.25" currentDurability="1138438.25">
+<auto_7034413562430626830 accumulateHealth="true" convex="false">
+	<item parent="-1" index="0" maxDurability="1205628.75" currentDurability="1205628.75">
 		<block lowerX="-3" lowerY="-3.00000095" lowerZ="-3.00000095" upperX="3" upperY="3" upperZ="3" index="52" material="6" look="1" up="3" color="ffbc9f9f"/>
 	</item>
 	<item parent="0" index="1" maxDurability="155225.359" currentDurability="155225.359">
 		<block lowerX="-3" lowerY="-3.00000095" lowerZ="3" upperX="3" upperY="3" upperZ="9" index="6" material="6" look="1" up="3" color="ffbc9f9f"/>
 	</item>
-	<item parent="0" index="2" maxDurability="739088.562" currentDurability="739088.562">
+	<item parent="0" index="2" maxDurability="806279.062" currentDurability="806279.062">
 		<block lowerX="-3" lowerY="-3.00000095" lowerZ="-9" upperX="3" upperY="3" upperZ="-3" index="52" material="6" look="1" up="3" color="ffbc9f9f"/>
 	</item>
 	<item parent="18" index="68" maxDurability="125748.75" currentDurability="125748.75">
@@ -21,7 +21,7 @@
 	<item parent="69" index="71" maxDurability="191352.578" currentDurability="191352.578">
 		<block lowerX="14.9999962" lowerY="-3.00000095" lowerZ="-9" upperX="20.9999962" upperY="3" upperZ="-3" index="52" material="6" look="1" up="3" color="ffbc9f9f"/>
 	</item>
-	<item parent="197" index="258" maxDurability="45544.2773" currentDurability="45544.2773">
+	<item parent="197" index="258" maxDurability="112734.727" currentDurability="112734.727">
 		<block lowerX="-3" lowerY="-9.30000019" lowerZ="-43" upperX="3" upperY="-3" upperZ="-9" index="14" material="6" look="2" up="4" color="ffbc9f9f"/>
 	</item>
 	<item parent="68" index="70" maxDurability="76032.4219" currentDurability="76032.4219">
@@ -306,7 +306,7 @@
 	<item parent="95" index="313" maxDurability="24603.748" currentDurability="24603.748">
 		<block lowerX="-33" lowerY="-9" lowerZ="-15" upperX="-27" upperY="9" upperZ="-9" index="3" material="6" look="1" up="3" color="ffbc9f9f"/>
 	</item>
-	<item parent="2" index="197" maxDurability="443972.719" currentDurability="443972.719">
+	<item parent="2" index="197" maxDurability="511163.156" currentDurability="511163.156">
 		<block lowerX="-3" lowerY="-3.00000095" lowerZ="-43" upperX="3" upperY="3" upperZ="-9" index="51" material="6" look="1" up="3" color="ffbc9f9f"/>
 	</item>
 	<item parent="197" index="198" maxDurability="116799.469" currentDurability="116799.469">
@@ -408,7 +408,7 @@
 	<item parent="199" index="323" maxDurability="39229.3125" currentDurability="39229.3125">
 		<block lowerX="-17" lowerY="-9" lowerZ="-55" upperX="-3" upperY="-3" upperZ="-21" index="13" material="6" look="0" up="3" color="ffbc9f9f"/>
 	</item>
-	<item parent="258" index="324" maxDurability="16265.8125" currentDurability="16265.8125">
+	<item parent="258" index="324" maxDurability="49861.0391" currentDurability="49861.0391">
 		<block lowerX="3" lowerY="-9" lowerZ="-55" upperX="17" upperY="-3" upperZ="-21" index="13" material="6" look="1" up="3" color="ffbc9f9f"/>
 	</item>
 	<item parent="109" index="269" maxDurability="28294.3125" currentDurability="28294.3125">
@@ -459,4 +459,10 @@
 	<item parent="198" index="380" maxDurability="22963.5" currentDurability="22963.5">
 		<block lowerX="3" lowerY="-9" lowerZ="-61" upperX="17" upperY="-3" upperZ="-55" index="5" material="6" look="1" up="3" color="ffbc9f9f"/>
 	</item>
-</auto_703937117205049358>
+	<item parent="324" index="381" maxDurability="33595.2266" currentDurability="33595.2266">
+		<block lowerX="0.25" lowerY="-15.5" lowerZ="-62" upperX="16.75" upperY="-9" upperZ="-7" index="54" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+	<item parent="258" index="382" maxDurability="33595.2266" currentDurability="33595.2266">
+		<block lowerX="-16.75" lowerY="-15.5" lowerZ="-62" upperX="-0.25" upperY="-9" upperZ="-7" index="54" material="6" look="1" up="3" color="ffbc9f9f"/>
+	</item>
+</auto_7034413562430626830>
