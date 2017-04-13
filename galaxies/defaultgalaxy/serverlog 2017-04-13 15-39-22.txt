@@ -67,4 +67,19 @@
 2017-04-13 15-46-19| scheduled save for sector (286:285), 0x628d760, entities: 82
 2017-04-13 15-46-19| saving sector (286:285)
 2017-04-13 15-46-19| sector (286:285) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\286_285"
-2017-04-13 15-46-23| 
+2017-04-13 15-46-23| starting event alienattack
+2017-04-13 15-47-11| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 15-47-11| Creating sector at (166:167)
+2017-04-13 15-47-11| Generating new content for sector (166:167)
+2017-04-13 15-47-20| scheduled save for sector (166:167), 0x4d00670, entities: 812
+2017-04-13 15-47-21| saving sector (166:167)
+2017-04-13 15-47-21| sector (166:167) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\166_167"
+2017-04-13 15-47-21| scheduled save for sector (166:167), 0x4d00670, entities: 812
+2017-04-13 15-47-21| saving sector (166:167)
+2017-04-13 15-47-21| sector (166:167) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\166_167"
+2017-04-13 15-47-21| Player fatmanone moved to sector (166:167)from (170:170) server time taken for change: 415ms
+2017-04-13 15-47-21| scheduled save for sector (170:170), 0xc73c480, entities: 0
+2017-04-13 15-47-21| saving sector (170:170)
+2017-04-13 15-47-21| sector (170:170) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\170_170"
+2017-04-13 15-47-28| <> You have no sector selected.
+2017-04-13 15-47-28| 
