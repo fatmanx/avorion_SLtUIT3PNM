@@ -140,4 +140,5 @@
 2017-04-13 21-49-46| SDL Mix error: music parameter was NULL
 2017-04-13 21-49-47| SDL Mix error: Couldn't open 'data/music/background\Jón Hallur Haraldsson - Battle Rock 1.ogg'
 2017-04-13 21-49-47| SDL Mix error: music parameter was NULL
-2017-04-13 21-55-06| 
+2017-04-13 21-55-06| <> The Nav-Computer is calculating the jump route. Please stand by.
+2017-04-13 21-55-33| 

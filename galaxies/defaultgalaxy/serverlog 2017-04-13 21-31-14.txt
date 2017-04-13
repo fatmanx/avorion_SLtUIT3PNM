@@ -189,4 +189,5 @@
 2017-04-13 21-55-06| <> The Nav-Computer is calculating the jump route. Please stand by.
 2017-04-13 21-55-07| scheduled save for sector (169:351), 0x273d14f0, entities: 1411
 2017-04-13 21-55-07| saving sector (169:351)
-2017-04-13 21-55-07| 
+2017-04-13 21-55-07| sector (169:351) saved to "C:\Users\fatman\AppData\Roaming\Avorion\galaxies\defaultgalaxy\sectors\169_351"
+2017-04-13 21-55-33| 
