@@ -145,4 +145,5 @@
 2017-04-13 18-18-02| failed to load texture from file "data/textures/icons/ammunition-s.png"
 2017-04-13 18-18-11| <Server> Your sensors picked up a short burst of subspace signals.
 2017-04-13 18-18-32| failed to load texture from file "data/textures/icons/ammunition-s.png"
-2017-04-13 18-19-00| 
+2017-04-13 18-19-00| <The Pirates of Uucucmko> Thank you for taking care of those pirates. We transferred a reward to your account.
+2017-04-13 18-21-10| 
